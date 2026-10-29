@@ -1,6 +1,6 @@
 # Seedance Video Prompt Library — Category Index
 
-A collection of 930 cases, automatically grouped by primary subject. Categories are assigned using keywords from titles, summaries, and prompts. Review borderline cases when needed.
+A collection of 803 cases, automatically grouped by primary subject. Categories are assigned using keywords from titles, summaries, and prompts. Review borderline cases when needed.
 
 Each case includes its English title, video URL, aspect ratio, resolution, duration, Seedance model, original post URL, publication date, and a collapsible full prompt. HD is normalized to 720p and Full HD to 1080p. Seedance 2.5 resolution is capped at 1080p. Durations are floored to whole seconds using FFprobe metadata.
 
