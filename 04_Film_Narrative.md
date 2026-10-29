@@ -1,6 +1,6 @@
 # Film & Narrative — Seedance Prompt Cases
 
-34 cases. Select a video link to view the generated clip. Full prompts are expandable below each case.
+32 cases. Select a video link to view the generated clip. Full prompts are expandable below each case.
 
 ---
 
@@ -305,128 +305,6 @@ Use exactly 2 uploaded image assets.\nimage1 = 成年女主唯一且最高优先
 ```text
 SCENE 1 — 0–5 seconds: THE SHIPWRECK
 A massive wooden sailing ship struggles violently against towering ocean waves during a dark nighttime storm. Lightning flashes across the sky as rain pours down. A young sailor loses his balance, falls over the side of the ship, and disappears into the raging black water. Use a dramatic wide shot followed by a close-up of his terrified face as he sinks beneath the waves. SCENE 2 — 5–15 seconds: THE MERMAID APPEARS Deep beneath the stormy surface, the sailor slowly sinks into the dark ocean. Suddenly, a mysterious blue glow appears in the distance. A beautiful mermaid emerges from the darkness and rapidly swims toward him. She has long flowing wet burgundy-red hair, the same facial features and appearance as the provided reference image, an elegant shimmering blue-green iridescent tail, a detailed seashell-inspired top decorated with pearls, subtle bioluminescent details, and expressive eyes. Her hair and tail move naturally with the underwater currents. She reaches the unconscious sailor, gently grabs him, and pulls him toward the surface as magical particles and soft blue light surround them. SCENE 3 — 15–25 seconds: THE RESCUE The mermaid carries the unconscious sailor through crashing waves toward a quiet rocky shoreline. The storm begins to weaken as dawn approaches. She carefully places him on the wet beach and checks that he is breathing. As the first warm rays of sunrise break through the clouds, she looks back toward the ocean. Before anyone can see her, she slips quietly back into the water and disappears beneath the waves. SCENE 4 — 25–30 seconds: THE MYSTERIOUS SEASHELL The sailor suddenly wakes up on the beach, coughing and confused. He looks around but the mermaid is gone. Beside his hand lies a beautiful glowing seashell emitting a soft magical blue light. He picks it up and stares at it in disbelief. Cut to a final cinematic shot of the glowing seashell in his hand while the calm ocean stretches behind him. A faint silhouette of the mermaid can briefly be seen beneath the distant waves.
-```
-
-</details>
-
----
-
-## 9. The Surprise Visit: A Dialogue-Driven Romance Trailer
-
-▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/9c477566-5fcc-4fb1-b2af-32549c08f1fc/generate.mp4)**
-
-![The Surprise Visit: A Dialogue-Driven Romance Trailer](https://cdn.lipsync.video/lipsync/cdn/feature-case/9c477566-5fcc-4fb1-b2af-32549c08f1fc/cover.jpg)
-
-**16:9 · 4K · 63s · Seedance 2.0**
-
-[Original post](https://x.com/Caden_Flux/status/2079874069869289682) · 2026-07-22 18:19 (UTC+08:00)
-
-<details>
-<summary>Show full prompt</summary>
-
-```text
-Ultra-realistic cinematic romance film, Hollywood-quality cinematography, fast-paced yet emotionally grounded editing, warm golden-hour lighting transitioning into blue hour, realistic facial expressions, natural chemistry, subtle handheld movement mixed with smooth gimbal shots, shallow depth of field, cinematic lens flares, vibrant city atmosphere, soft ambient crowd sounds, realistic physics, 4K HDR, rich colors, seamless transitions, premium Netflix romance aesthetic.
-Characters:
-Caden: Young man with short dark hair, black jacket over a white T-shirt, dark jeans, white sneakers, brown backpack. Warm smile, expressive eyes, natural acting.
-Girlfriend: Young woman with long wavy brunette hair, cream oversized sweater, blue jeans, white sneakers, subtle makeup, bright smile, warm personality.
-0:00–0:08 | "The Message"
-Camera: Cinematic drone establishing shot sweeping across a lively downtown during golden hour. Cars move below, cafés buzz with life, people walk through crosswalks. The camera dives smoothly toward a park bench where Caden sits checking his phone.
-Cut to an extreme close-up of his phone vibrating.
-A text appears.
-"I'm here ❤️"
-Close-up of Caden's face.
-His tired expression instantly transforms into the biggest smile.
-He quietly laughs.
-Caden (softly)
-"She actually came..."
-Quick insert of him grabbing his backpack and standing up.
-Music begins building.
-0:08–0:18 | "Running Through the City"
-Camera: Low-angle tracking shot following Caden jogging through crowded sidewalks.
-Fast whip cuts.
-• Jumping over a puddle.
-• Passing street musicians.
-• Dodging tourists.
-• Running through a crosswalk as traffic waits.
-FPV shot races in front of him while he runs toward the camera.
-Close-up of him checking the location pin while smiling.
-Caden
-"Just don't leave... I'm almost there."
-Fast push-in on the café sign.
-0:18–0:30 | "Where Is She?"
-Camera slows dramatically.
-Steadicam follows him as he enters the cozy outdoor café.
-Ambient sounds replace the music.
-He looks left.
-Nothing.
-Looks right.
-Nothing.
-POV shots scanning every table.
-Couples laugh together.
-Friends drink coffee.
-But she's nowhere.
-Close-up.
-His smile slowly fades.
-He checks the text again.
-Still:
-"I'm here."
-Caden
-"...Seriously?"
-He scratches the back of his neck and sighs.
-0:30–0:42 | "The Surprise"
-Camera circles slowly around Caden as he stands confused.
-Everything feels quieter.
-Suddenly—
-Two soft hands gently cover his eyes from behind.
-Extreme close-up.
-He freezes.
-A familiar laugh.
-Girlfriend (teasing)
-"Looking for someone?"
-Without turning—
-A smile spreads across his face.
-Caden
-"I'd know that voice anywhere."
-She removes her hands.
-The camera swings around into a beautiful slow-motion reveal as he turns to face her.
-Warm sunlight catches her hair.
-They lock eyes.
-No dialogue.
-Just smiles.
-0:42–0:54 | "Together Again"
-Music lifts.
-Quick cinematic montage with seamless whip transitions.
-• They hug tightly.
-• They laugh while walking hand in hand.
-• Sharing fries at a food truck.
-• Feeding pigeons in the square.
-• Taking goofy selfies.
-• She steals his cap and runs away.
-Handheld chase shot.
-He catches her.
-Both laugh uncontrollably.
-Close-up of their hands naturally interlocking.
-0:54–1:00 | "Home"
-Golden hour fades into blue hour.
-Wide rooftop overlooking the glowing city skyline.
-The camera slowly pushes in from behind as they sit side by side.
-She rests her head on his shoulder.
-Wind gently moves her hair.
-A peaceful silence.
-She smiles without looking up.
-Girlfriend
-"Worth running across the whole city?"
-He chuckles.
-Looks at her.
-Caden
-"I'd run across the world."
-She smiles.
-They watch the city lights together.
-The camera slowly cranes upward, revealing the endless skyline as the music reaches its emotional peak.
-Fade to black.
-Final on-screen text:
-"Some places are beautiful.
-Some people make them unforgettable."
 ```
 
 </details>
@@ -1208,37 +1086,6 @@ Ultra-realistic visuals, cinematic documentary style, natural late-afternoon lig
 Would you be able to resist vibing to your favorite song in public? 
 
 #Seedance25 #WaveSpeedAI #AIVideo #CinematicAI #AIStorytelling #DailyLife #POV #Relatable #MusicLovers #GenerativeAI
-```
-
-</details>
-
----
-
-## 29. A Pet Owner's Day with Their Dog
-
-▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/522342db-a1a5-4a6b-b4b4-d7e29baddd0a/generate.mp4)**
-
-![A Pet Owner's Day with Their Dog](https://cdn.lipsync.video/lipsync/cdn/feature-case/522342db-a1a5-4a6b-b4b4-d7e29baddd0a/cover.jpg)
-
-**16:9 · 4K · 15s · Seedance**
-
-[Original post](https://x.com/AIwithZeeshi/status/2094663938491187561) · 2026-09-01 13:49 (UTC+08:00)
-
-<details>
-<summary>Show full prompt</summary>
-
-```text
-A Pet Owner’s Daily Routine
-
-A pet owner starts the morning by waking up and greeting their golden-brown dog with gentle affection. The routine continues with feeding the dog, taking it for a morning walk, working together from home, and ending the day with a fun game of fetch in the backyard during golden hour.
-
-Every scene follows realistic human and animal behavior with accurate physics, including gravity, inertia, momentum, friction, collisions, leash tension, realistic object weight, natural fur movement, cloth dynamics, and anatomically correct human and canine biomechanics.
-
-Ultra-realistic visuals, cinematic documentary style, natural lighting, realistic skin and fur, smooth camera movement, subtle handheld motion, realistic depth of field, natural focus pulls, physically accurate shadows, consistent character identity, detailed environments, natural colors, subtle film grain, and 4K cinematic quality.
-
-Could you keep up with this daily routine? 🐾
-
-#Seedance25 #WaveSpeedAI #AIVideo #CinematicAI #AIStorytelling #PetRoutine #DogLovers #PetOwner #DogLife #GenerativeAI
 ```
 
 </details>

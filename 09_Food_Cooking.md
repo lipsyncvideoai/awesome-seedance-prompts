@@ -1,39 +1,6 @@
 # Food & Cooking — Seedance Prompt Cases
 
-28 cases. Select a video link to view the generated clip. Full prompts are expandable below each case.
-
----
-
-## 1. Frozen Time and Rewind in a 1950s Diner
-
-▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/b0bd3250-4110-4352-9a9a-e4bb6e83e027/generate.mp4)**
-
-![Frozen Time and Rewind in a 1950s Diner](https://cdn.lipsync.video/lipsync/cdn/feature-case/b0bd3250-4110-4352-9a9a-e4bb6e83e027/cover.jpg)
-
-**16:9 · 720p · 30s · Seedance 2.5**
-
-[Original post](https://x.com/techhalla/status/2083389002552664385) · 2026-08-01 11:07 (UTC+08:00)
-
-<details>
-<summary>Show full prompt</summary>
-
-```text
-Photorealistic cinematic 1950s American diner, chrome stools, red vinyl, neon glow and checkerboard floor, shot with modern lived-in realism and soft natural window light. Subtle handheld texture, warm practicals, rich period detail, heavy film grain.
-
-0-4s: [Medium Wide] A striking young woman in her early 20s sits alone at the counter, calm and slightly amused, slowly sipping a tall thick milkshake through a straw. Behind her a young waitress in classic uniform approaches with a tray of eggs and bacon in one hand and a full glass coffee pot in the other. An older lady starts rising from a nearby booth.
-
-4-8s: [Dynamic Tracking] The older lady collides hard into the waitress. Tray, plate, eggs, bacon and coffee pot explode upward in chaotic slow motion. Coffee erupts into long liquid ribbons and perfect suspended droplets. Camera immediately begins a smooth continuous orbit around the impact. Time locks completely at the peak of the spill. Every face freezes in pure shock. Only the girl at the counter keeps moving, completely unfazed.
-
-8-17s: [Slow 360° Orbital] Camera glides in a full elegant orbit through the frozen diner. Coffee hangs in mid-air as glassy ribbons and spheres with perfect volume and surface tension. Bacon strips, eggs and the spinning tray float weightlessly. Patrons and waitress remain locked in startled expressions. The girl at the counter takes one slow, deliberate sip, eyes half-lidded, almost bored, while the entire frozen world (except her) begins an elegant reverse: every droplet, every piece of food and every person rewinds smoothly back to the exact starting positions.
-
-17-24s: [Medium Shot] Rewind lands perfectly. Waitress stands balanced again with tray and coffee pot. The girl lifts her eyes, raises two fingers in a small casual gesture and softly calls the waitress by name. The waitress turns toward her just before the older lady begins to stand, completely avoiding the collision. A tiny private smile crosses the girl’s face.
-
-24-30s: [Extreme Close-Up] Hard cut to her face as she takes one last slow sip. Soft knowing smile, eyes almost closed in quiet satisfaction, like she has done this a hundred times. Shallow depth of field, creamy bokeh of the neon diner behind her.
-
-Photorealistic, ultra-detailed fluid physics, perfect motion blur only on moving elements, stable characters, cinematic lighting, heavy natural film grain, no artifacts, movie-level temporal coherence, high rewatch value.
-```
-
-</details>
+24 cases. Select a video link to view the generated clip. Full prompts are expandable below each case.
 
 ---
 
@@ -259,82 +226,6 @@ The final shot reveals the completed fully rendered house from a three-quarter a
 Camera: Smooth cinematic movement beginning as a top-down blueprint, gradually tilting into an isometric angle and finishing with a slow cinematic orbit around the completed house. No abrupt cuts.
 
 Audio: Soft relaxing jazz with brushed drums, upright bass, warm piano, and mellow saxophone. Gentle construction ambience during the timelapse—wood assembling, subtle hammering, concrete settling, glass placement, light wind, birds near the end. No dialogue. No narration. No subtitles.
-```
-
-</details>
-
----
-
-## 9. Korean Barbecue Cooking Process
-
-▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/8ac87ab9-7ce7-4972-989a-a21d3fda92df/generate.mp4)**
-
-![Korean Barbecue Cooking Process](https://cdn.lipsync.video/lipsync/cdn/feature-case/8ac87ab9-7ce7-4972-989a-a21d3fda92df/cover.jpg)
-
-**16:9 · 1080p · 13s · Seedance 2.0**
-
-[Original post](https://x.com/Strength04_X/status/2070471862522695793) · 2026-06-26 19:38 (UTC+08:00)
-
-<details>
-<summary>Show full prompt</summary>
-
-```text
-CRITICAL INSTRUCTION: The reference image contains a 9-step chronological cooking storyboard for a Korean BBQ Platter. Animate the chef seamlessly through these exact 9 steps in order. Start at Step 1 (Slice marinated galbi beef ribs), flow into Step 2 (Heat stone grill pan with oil), then Step 3 (Grill galbi strips). Continue through Step 4 (Add pork belly to grill), Step 5 (Flip meats to caramelize), Step 6 (Arrange banchan side dishes), Step 7 (Build ssam lettuce wrap), Step 8 (Cut grilled meat with scissors), finishing on Step 9 (Full BBQ spread hero shot). Prioritize the strict sequence of actions.
-No music. No subtitle.
-Location: Traditional Korean BBQ restaurant with stone tabletop grill.
-15 seconds, 16:9, realistic, cinematic, smoky, appetizing, natural camera movement.
-```
-
-</details>
-
----
-
-## 10. Cute Bunny Chef Anime Cooking
-
-▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/ee4d60dd-e98e-4ee4-9101-5d1e3f9b4d7c/generate.mp4)**
-
-![Cute Bunny Chef Anime Cooking](https://cdn.lipsync.video/lipsync/cdn/feature-case/ee4d60dd-e98e-4ee4-9101-5d1e3f9b4d7c/cover.jpg)
-
-**16:9 · 4K · 15s · Seedance 2.0**
-
-[Original post](https://x.com/Jiade05/status/2080643134011412961) · 2026-07-24 21:15 (UTC+08:00)
-
-<details>
-<summary>Show full prompt</summary>
-
-```text
-Create a 15-second Ultra HD 4K anime cooking show POV video inspired exactly by the provided cute omelet recipe image.
-
-STYLE:
-Premium Japanese kawaii anime cooking commercial. Pastel pink/cream chibi kitchen, warm soft lighting, cozy magical breakfast mood, highly detailed food animation.
-
-POV:
-First-person chef perspective. Only show cute female hands and arms (no face, head, or body). Delicate hands with pastel pink nails and frilly chef sleeves. Pink checkered countertop, cinematic camera movement, macro food shots, shallow depth of field.
-
-RECIPE:
-Follow the reference omelet recipe:
-Crack 3 eggs, add 2 tbsp milk, salt and pepper, whisk fluffy. Melt butter in pan, pour eggs, add cheese, mushrooms, red tomatoes, and green herbs. Fold into a golden fluffy omelet and garnish with herbs.
-
-FOOD:
-Make it extremely delicious: soft airy egg texture, melted cheese stretch, glossy mushrooms, juicy tomatoes, fresh herbs, gentle steam, satisfying cooking sounds.
-
-BUNNY HELPER:
-Add a tiny fluffy white anime bunny chef wearing a mini chef hat and apron. Cute, clumsy, playful helper:
-tries carrying ingredients, drops a mushroom then fixes it, struggles with a spoon, helps sprinkle herbs, gives a tiny thumbs-up, happily hops beside the finished omelet. Cute mascot style, not realistic.
-
-SEQUENCE:
-0-5s: Female hands start cooking, crack eggs, bunny joins excitedly.
-5-10s: Whisk eggs, butter melts, omelet cooks with fillings and close-up sizzling shots.
-10-15s: Hands fold omelet, bunny celebrates, final hero shot of beautiful fluffy omelet with cozy sparkles.
-
-QUALITY:
-4K UHD 3840x2160, 24fps cinematic animation, smooth hand movement, premium anime rendering, crisp textures, beautiful lighting, cinematic depth of field.
-
-MOOD:
-Fluffy • Savory • Cute • Playful • Heartwarming • Cozy.
-
-NEGATIVE:
-No face, no full body, no realistic human, no scary bunny, no dark mood, no burnt food, no wrong ingredients, no extra fingers, no deformed hands, no distorted bunny, no text, no watermark, no blur.
 ```
 
 </details>
@@ -708,28 +599,6 @@ Show realistic tent fabric, flexible poles, stakes, natural wind, and believable
 As afternoon transitions into a soft evening, she turns off the stove, sits in a folding camping chair, takes a sip of her drink, and peacefully admires the surrounding Korean mountains and forest.
 Use smooth documentary-style camera movement, natural lighting, realistic human physics, authentic campsite ambience, cooking sounds, birds, insects, wind, and gravel footsteps. Maintain the same woman, outfit, SUV, tent, campsite, and equipment throughout.
 Negative Prompt: No CGI look, teleportation, floating objects, weightless equipment, distorted hands, extra fingers, robotic movement, instant tent setup, unrealistic fire or food physics, excessive wind, artificial lighting, changing characters, text, logos, or watermark.
-```
-
-</details>
-
----
-
-## 16. South Asian Woman Shops for Vegetables and Preps a Meal
-
-▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/967c56c9-89ff-49d4-9d9b-6fb3649efcc6/generate.mp4)**
-
-![South Asian Woman Shops for Vegetables and Preps a Meal](https://cdn.lipsync.video/lipsync/cdn/feature-case/967c56c9-89ff-49d4-9d9b-6fb3649efcc6/cover.jpg)
-
-**4:3 · 4K · 15s · Seedance**
-
-[Original post](https://x.com/CaliraVal/status/2100087681283924449) · 2026-09-16 13:01 (UTC+08:00)
-
-<details>
-<summary>Show full prompt</summary>
-
-```text
-Keep the same young South Asian woman, same face, hairstyle and clear stylish glasses throughout. 0–2 sec: She leaves her home wearing clear glasses and walks toward the local vegetable market. 2–5 sec: Quick cinematic shots of her entering the busy market, selecting fresh tomatoes, potatoes, onions, green chilies and coriander, then paying the vendor. 5–7 sec: She walks back home carrying a small vegetable bag. 7–9 sec: She enters her kitchen, places the vegetables on the counter and removes them from the bag. 9–11 sec: She washes the vegetables under running water. 11–15 sec: She puts the vegetables on a wooden cutting board and naturally cuts them with a kitchen knife. Fast but smooth transitions, realistic hand movements, authentic Pakistani environment, natural daylight, detailed vegetables, realistic physics, cinematic camera movement, photorealistic, 4K quality.
-#Flovaai #Flovacpp @Flovaai_Japan
 ```
 
 </details>

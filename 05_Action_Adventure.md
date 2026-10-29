@@ -1,6 +1,6 @@
 # Action & Adventure — Seedance Prompt Cases
 
-140 cases. Select a video link to view the generated clip. Full prompts are expandable below each case.
+115 cases. Select a video link to view the generated clip. Full prompts are expandable below each case.
 
 ---
 
@@ -311,63 +311,6 @@ Negative Prompt: Cartoon, anime, CGI appearance, plastic skin, blurry faces, dis
 
 ---
 
-## 9. Crimson-Powered Armored Hero Battles Masked Men on a Rainy Night
-
-▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/db29b445-d246-41fa-be9d-60f7141e3c84/generate.mp4)**
-
-![Crimson-Powered Armored Hero Battles Masked Men on a Rainy Night](https://cdn.lipsync.video/lipsync/cdn/feature-case/db29b445-d246-41fa-be9d-60f7141e3c84/cover.jpg)
-
-**16:9 · 1080p · 35s · Seedance 2.5**
-
-[Original post](https://x.com/Xaroon_x/status/2110248837432439129) · 2026-10-14 13:58 (UTC+08:00)
-
-<details>
-<summary>Show full prompt</summary>
-
-```text
-CRIMSON FLASHPOINT — 48 seconds, 16:9, 12 shots × 4 seconds. Photorealistic Hollywood superhero action film, ARRI ALEXA 65, anamorphic look, subtle film grain.
-
-LOCATION: Rain-soaked neon downtown intersection at night, glass skyscrapers, abstract cyan/magenta/amber signs, reflective wet asphalt, steam grates, parked cars, dark alley on the right. Heavy rain throughout; crimson is the dominant accent.
-
-HERO (@image1): Preserve identical face, hair, beard, skin tone, age, and build in every shot. Original outfit before transformation; afterward, matte-black articulated armor with glowing crimson seams across ribs, arms, legs, and spine, segmented chest plate with a faint red core, fingerless armored gloves. No helmet or cape; face fully visible.
-
-ENEMIES: Exactly three masked men in black tactical jackets, cargo pants, grey gloves, and matte-black full-face masks. Man 1 is tall and lean with a steel baton; Man 2 is broad with a crowbar; Man 3 has a medium build and baton. No dialogue.
-
-SHOT 01 (00–04): Extreme-wide low-angle skyline under storm clouds. A bright crimson streak cuts diagonally through the sky, illuminating rain and glass towers.
-
-SHOT 02 (04–08): Fast overhead tracking follows the falling streak toward street level. A faint human silhouette appears inside the light as crimson reflections sweep across the road.
-
-SHOT 03 (08–12): Hero lands in a one-knee, one-fist crouch in his original outfit. Water explodes outward; red energy threads crawl across his arms and torso.
-
-SHOT 04 (12–16): Smooth 360° orbit as crimson energy assembles the black armor panel by panel. The chest plate locks into place and red seams ignite.
-
-SHOT 05 (16–20): 85mm close-up. Rain beads on his face and armor; a red spark flickers in his eyes as he looks forward with controlled determination.
-
-SHOT 06 (20–24): Low side-tracking shot. Fully armored hero sprints down the wet street at superhuman speed, spraying water and leaving a thin crimson trail.
-
-SHOT 07 (24–28): Over-the-shoulder shot. Three masked men emerge from the right-side alley, spreading out with weapons ready. Hero skids to a defensive stop.
-
-SHOT 08 (28–32): Hero dashes forward as a crimson blur and strikes Man 1, launching him backward. Rain and water burst outward in slow motion.
-
-SHOT 09 (32–36): Man 2 swings his crowbar. Hero ducks, spins, and lands one strike, sending him sliding through a puddle toward a parked car.
-
-SHOT 10 (36–40): Man 3 lunges with his baton. Hero dodges inches away and delivers a powerful palm strike, blasting him backward through an explosive ring of water. Bright crimson flash at impact.
-
-SHOT 11 (40–44): Wide low-angle pull-back. Hero stands calmly between all three fallen attackers as rain pours over his armor and crimson seams gradually dim.
-
-SHOT 12 (44–48): Extreme close-up of the hero lifting his head with quiet confidence. A tiny red spark crosses his eyes before the image cuts to black.
-
-AUDIO: Original cinematic orchestral-synth score, heavy rain, electrical crackle, realistic impacts, water splashes, accelerating percussion, and a powerful musical peak at Shot 10. No dialogue.
-
-CONTINUITY: Maintain exact hero identity, armor design, enemy count, location layout, lighting, and screen direction across all shots. Realistic physics, consistent rain, natural motion blur, controlled speed ramps, clean cuts, and stable camera movement.
-
-NEGATIVE: Cartoon, artificial CGI appearance, plastic skin, face changes, inconsistent armor, extra characters, duplicate bodies, extra fingers, deformed hands, cape, helmet, yellow accents, lightning-bolt emblem, blood, gore, impossible physics, random camera movement, jitter, flicker, readable text, logos, or watermark.
-```
-
-</details>
-
----
-
 ## 10. Warrior in Black and White Battles Swordsmen in a Ruined Temple
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/df893dcf-c8be-427e-9f84-4b2b2e1884ed/generate.mp4)**
@@ -383,114 +326,6 @@ NEGATIVE: Cartoon, artificial CGI appearance, plastic skin, face changes, incons
 
 ```text
 A 15-second ultra-realistic cinematic martial arts battle inspired by classic Hong Kong action cinema. A fearless female warrior dressed in black and white faces deadly swordsmen inside a ruined ancient temple. Broken Buddha statues, shattered roof tiles, collapsed wooden beams, and dusty stone pillars create a dramatic battlefield. Golden sunlight cuts through the damaged roof, illuminating floating dust particles in a moody amber atmosphere. Lightning-fast punches, powerful spinning kicks, precise sword deflections, sweeping leg attacks, and breathtaking airborne qinggong maneuvers unfold in seamless, high-intensity choreography. Every impact releases clouds of white dust, clashing weapons spark, and enemies crash into ancient pillars and wooden altars. Dynamic handheld tracking shots, rapid lateral movements, dramatic orbital camera angles, realistic body mechanics, flowing robes, and authentic facial skin textures enhance the immersion. Vintage 35mm film grain, deep sepia shadows, warm golden highlights, natural side lighting, and rich cinematic contrast recreate the timeless aesthetic of classic martial arts films. The warrior finishes with a powerful spinning kick, shattering an altar before landing gracefully in a fearless fighting stance. Photorealistic, intense, immersive, ultra-detailed cinematic action with traditional percussion, realistic combat sound effects, and no dialogue or on-screen text.
-```
-
-</details>
-
----
-
-## 11. Roman Gladiator Turns the Tide to Win in the Arena
-
-▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/9e828269-28b5-42f6-801e-791f7bba185d/generate.mp4)**
-
-![Roman Gladiator Turns the Tide to Win in the Arena](https://cdn.lipsync.video/lipsync/cdn/feature-case/9e828269-28b5-42f6-801e-791f7bba185d/cover.jpg)
-
-**16:9 · 1080p · 38s · Seedance 2.5**
-
-[Original post](https://x.com/Xaroon_x/status/2108921521142141421) · 2026-10-10 22:04 (UTC+08:00)
-
-<details>
-<summary>Show full prompt</summary>
-
-```text
-ROMAN GLADIATOR: FIGHT FOR GLORY
-
-Duration: 30 seconds | Format: 16:9, 24 FPS | Style: Photorealistic Hollywood cinema, ARRI ALEXA LF, anamorphic lenses, realistic physics, natural skin texture, fine film grain.
-
-SCENE: Ancient Roman amphitheater at golden hour, packed with 50,000 cheering spectators. A king and queen watch from a shaded imperial box. Golden sunlight comes consistently from screen-left, illuminating dusty sand, bronze armor, and flying particles.
-
-CHARACTERS:
-
-- Main character (@image1): Preserve 100% the reference face, hairstyle, skin tone, and athletic build. Dark-red wool tunic, leather chest harness, bronze shoulder guard, bracers, greaves, sandals, gladius in right hand, round bronze shield on left arm.
-- ENEMY: One-and-a-half heads taller, heavily muscled, scarred torso, polished bronze helmet with crimson crest, iron arm guard, broad sword, rectangular wooden shield with faded red emblem.
-- KING & QUEEN: King with grey-streaked beard, laurel wreath, purple-and-gold toga. Queen with dark braided updo, ivory-and-gold stola, gold jewelry.
-
-TIMED MULTISHOT — SIX SHOTS, HARD CUTS ONLY AT 5, 10, 15, 20, AND 25 SECONDS.
-
-SHOT 1 | 0–5s | REAL-TIME: High crane descends into the arena. The king raises his hand, then signals the duel with a horn blast. The hero and enemy raise their shields and approach from opposite sides.
-
-SHOT 2 | 5–10s | 2× SPEED: Ground-level handheld orbit. Both warriors charge and clash swords, producing sparks. The hero parries, ducks, sidesteps, and counters. The enemy lands a powerful shield bash, forcing the hero backward.
-
-SHOT 3 | 10–15s | 40% SLOW MOTION: The enemy smashes the hero's shield, splintering it. The hero drops his gladius and falls onto the sand. The enemy steps over him and raises his sword for the finishing strike. Rack focus from the fallen weapon to the hero's determined face.
-
-SHOT 4 | 15–20s | REAL-TIME: The enemy swings downward. The hero catches his forearm, stopping the blade inches from his throat. He strikes the enemy's ribs with an elbow, headbutts the bronze visor, then punches him hard. The enemy staggers backward and drops his shield.
-
-SHOT 5 | 20–25s | 40% SLOW MOTION, CLIMAX: The hero retrieves his gladius, rises, and charges. He slides beneath the enemy's horizontal sword swing, slashes across his torso, and drives his shoulder into the enemy's chest. The giant flies backward three meters, his sword spinning away, then crashes onto the sand in a dramatic dust explosion.
-
-SHOT 6 | 25–30s | REAL-TIME: The exhausted, bloodied hero stands over the motionless enemy and raises his gladius toward the imperial box, roaring triumphantly. The king rises in approval, the queen smiles, and the camera cranes upward and pulls back to reveal the roaring amphitheater.
-
-CAMERA & PHYSICS: Distinct cinematic framing for every shot, controlled camera movement, realistic sword impacts, natural body weight, flying sparks, falling wood splinters, authentic sand displacement, consistent contact shadows, stable faces and anatomy.
-
-LIGHTING & COLOR: Low golden sun from screen-left, bronze highlights, ochre sand, deep blue shadows, crimson accents, purple royal toga, volumetric dust, cinematic HDR and filmic highlights.
-
-AUDIO: Continuous crowd roar, horn blast, metallic sword clashes, shield impacts, grunts, accelerating taiko percussion, dramatic strings and choir at the climax, triumphant brass ending.
-
-CONTINUITY LOCKS: @image1 remains identical in every shot. Maintain the same outfits, faces, weapons, lighting direction, and arena layout. Shield intact until 10s, broken afterward. Enemy's shield drops by 20s; he retains his helmet and sword until the climax, then lies motionless from 25–30s. Only two fighters on the arena floor. Every shot fills its full five seconds with one consistent playback speed.
-```
-
-</details>
-
----
-
-## 12. Black Sedan Chase and Gunfire at Sunset
-
-▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/fcae05bb-bd6c-45a4-8ad0-80fb3bfb1ec6/generate.mp4)**
-
-![Black Sedan Chase and Gunfire at Sunset](https://cdn.lipsync.video/lipsync/cdn/feature-case/fcae05bb-bd6c-45a4-8ad0-80fb3bfb1ec6/cover.jpg)
-
-**16:9 · 1080p · 30s · Seedance 2.5**
-
-[Original post](https://x.com/Xaroon_x/status/2107838928992489968) · 2026-10-07 22:22 (UTC+08:00)
-
-<details>
-<summary>Show full prompt</summary>
-
-```text
-*30 seconds | 16:9 | image1 = Main Character
-
-STYLE:** Hollywood blockbuster action. Photorealistic live-action, anamorphic ARRI ALEXA LF look, real stunt photography, natural motion blur, light film grain. Golden-hour sun from camera-left throughout. Slow motion only at the two crashes.
-
-**CHARACTERS:** Hero = exact character from @image1 (same face, hair, build, clothing in every shot). His car: black modern Mercedes sports sedan. Chasers: red sports coupe and matte-grey SUV. Black rifle on the passenger seat.
-
-**LOCATION:** Packed city road with buses, trucks and overpasses, opening onto a long highway at golden hour.
-
-**00:00–00:03** Low rear-quarter chase shot, 28mm, fast tracking. The Mercedes weaves at high speed through dense traffic, overtaking cars, buses and trucks. The red coupe and grey SUV are both clearly visible behind it, also overtaking through traffic. Hero faintly visible through the rear windshield.
-
-**00:03–00:05** Close-up, 85mm, handheld push-in. @image1 hero grips the wheel, jaw tense, eyes flick to the mirror.
-
-**00:05–00:08** Low front-quarter tracking, 28mm. The Mercedes slips through a gap between a bus and a box truck by inches, then whip pan.
-
-**00:08–00:11** Side-profile tracking, 35mm. The Mercedes launches off a raised ramp, goes airborne and lands in a shower of sparks, cones scattering.
-
-**00:11–00:14** SLOW MOTION, low rear three-quarter, 35mm, slow orbit. The hero swerves clear and the red coupe clips a truck, spins and rolls once. The whole crash stays fully in frame, clear and sharp, with glass and debris glittering in the sun. Rack focus from the Mercedes to the wreck.
-
-**00:14–00:16** Extreme close-up, 100mm macro. His eyes in the mirror, the grey SUV small in the reflection. Smash cut.
-
-**00:16–00:18** Wide crane-style rise, 24mm. The Mercedes bursts onto an open highway, the SUV closing in.
-
-**00:18–00:20** Interior insert, 35mm. He steers with his left hand and grabs the rifle from the passenger seat with his right.
-
-**00:20–00:23** Over-the-shoulder, 50mm Steadicam. He leans out of the window and aims at the SUV's front tire, with a single muzzle flash.
-
-**00:23–00:26** SLOW MOTION, low side angle, 35mm. The tire bursts and the SUV flips and rolls across the highway in sparks and dust, fully visible. Mercedes sharp in the foreground.
-
-**00:26–00:28** Close-up, 85mm, slow push-in. @image1 hero gives a slow, confident victory smile and a small nod.
-
-**00:28–00:30** High-angle drone rise, 24mm. The Mercedes speeds toward the sunset, smoke rising from the wreck far behind. Fade out.
-
-**AUDIO:** Realistic engines, tire squeal, wind and impacts. Dark hybrid orchestral score with bass pulse, cellos and percussion building to a triumphant finish. Near-silence during both slow-motion crashes.
-
-**NEGATIVE:** No cartoon look, no CGI look, no plastic skin, no distorted anatomy, no face different from @image1, no face drift, no wardrobe change, no duplicated cars, no teleporting vehicles, no hidden or cropped crash, no impossible physics, no jitter, no flickering, no deformed hands or rifle, no text, no watermark, no logos.
 ```
 
 </details>
@@ -607,167 +442,6 @@ Exactly 20.0 seconds in one unbroken take. The heroine stands holding her journa
 
 ---
 
-## 15. Silver-Haired Dual-Sword Warrior Assaults a Japanese Castle
-
-▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/28e908de-d7ce-447e-ba1e-a978f29f4709/generate.mp4)**
-
-![Silver-Haired Dual-Sword Warrior Assaults a Japanese Castle](https://cdn.lipsync.video/lipsync/cdn/feature-case/28e908de-d7ce-447e-ba1e-a978f29f4709/cover.jpg)
-
-**16:9 · 1080p · 30s · Seedance 2.5**
-
-[Original post](https://x.com/Chaemate_/status/2105958420088328486) · 2026-10-02 17:49 (UTC+08:00)
-
-<details>
-<summary>Show full prompt</summary>
-
-```text
-KAZEMIRU: THE JADE-WIND BLADE: ONE-TAKE CASTLE ASSAULT
-Duration: 30 seconds | Aspect Ratio: 16:9 | No music
-
-ONE-TAKE LOCK:
-This is ONE SINGLE UNBROKEN CONTINUOUS SHOT lasting the full 30 seconds.
-ZERO cuts. ZERO dissolves. ZERO fades. ZERO match-cuts. ZERO time jumps.
-ZERO scene resets. The camera never leaves the action and every location
-change happens physically inside the shot: the camera passes through torn
-doors, over railings and up the roof with Kazemiru. Time runs in real time.
-
-STYLE:
-Ultra-photorealistic live-action Japanese dark-action cinema with restrained
-subtle VFX. Impossible anime-inspired dual-sword choreography performed by
-real human bodies. Large-format cinema look, natural daylight, muted earthy
-color palette, soft realistic shadows, no oversaturated colors.
-
-@Image1 is KAZEMIRU. Preserve her exact face, silver-white ponytail, torn
-ivory kimono, charcoal split hakama, wind-swirl forearm tattoo and gold hoop
-earrings in every frame.
-@Image2 shows the five elite guards. @Image3 shows Captain Tetsugan.
-
-POSITIVE LOCKS (true for all 30 seconds):
-- Exactly ONE Kazemiru with exactly TWO real steel katanas, one in each
-  hand, both always visible and independently controlled.
-- Her face always matches @Image1.
-- Every enemy comes from @Image2 or @Image3 and stays visually consistent.
-- Her body physically crosses every distance, with no teleportation.
-- It is always daytime with bright natural light.
-
-PERSONALITY:
-Cold, calm, battle-hungry. Minimal expression, steady breathing, focused
-eyes. Her hunger shows through relentless speed and escalating ferocity,
-never through grinning or shouting.
-
-JADE-WIND EFFECT:
-Every fast movement leaves a thin, soft jade-green wind trace that follows
-her exact physical path and fades almost instantly: sword arcs leave fine
-blade trails, spins bend the air, footsteps kick tiny wakes, supersonic
-bursts add a brief compressed-air ripple. Always thin, subtle and realistic.
-No aura, no smoke, no glowing body, no effects moving on their own.
-
-CAMERA (one continuous handheld-style pursuit):
-Constant dutch angle of 25–35°. Wide field of view around 75° in the
-interior and courtyard, tightening to about 50° for the rooftop duel.
-Kazemiru moves first and the camera follows 0.1–0.3 seconds late: whip-pan,
-overshoot, correct, reacquire at the moment of contact. The camera flows
-through rear over-the-shoulder, low-angle pursuit, side tracking,
-ground-level chase and front three-quarter retreat, always in one connected
-movement. Never static, never perfectly smooth.
-
-══ 0:00–0:10: THE GRAND AUDIENCE HALL ══
-Setting: bright daylight through large shoji panels, gold folding screens,
-tall dark timber pillars, tatami sections, raised platform, armor displays,
-low lacquer tables, silk curtains.
-
-0:00–0:03: Rear over-the-shoulder, five guards closing in. Her fingers tighten
-on both hilts. BURST: a thin jade streak snaps across the hall and the silk
-curtains whip. The camera loses her, whip-pans, and finds her inside
-Guard 1's reach. Left blade parries, right blade slashes diagonally, a pivot,
-a reverse cut. He drops.
-
-0:03–0:06: Guards 2 and 3 converge. She ducks under a swing, plants a foot on
-a pillar and pushes off, dust bursting from the wood. Mid-air her left
-sword deflects Guard 2 and her right sword cuts down. She lands on the edge
-of a lacquer table, which slides back, and rebounds straight toward Guard 3.
-
-0:06–0:10: Aerial right slash, left reverse slash, dual cross-slash with two
-separate jade trails. She lands low and bursts across the floor. Guard 4's
-spear thrusts: she runs two steps up a wall, flips off, and cuts him down
-through a folding screen. Guard 5 charges: she catches his blade with one
-sword, vaults the railing above him, and finishes with a cross-slash as she
-lands behind him.
-
-══ 0:10–0:20: THE PALACE COURTYARD ══
-Transition inside the same shot: she does not pose. Both swords still in
-hand, she drives straight through the paper doors in one burst. The torn
-paper flutters past the lens as the camera follows her through the doorway
-onto the wooden veranda and out into a stone courtyard with lanterns, a koi
-pond, a red lacquer arched bridge and pine trees. Eight new guards: swordsmen
-below and archers on the roofs.
-
-0:10–0:13: A volley of arrows. She cuts two out of the air with a spinning
-double slash and a third grazes her sleeve. She sprints along the veranda,
-pivoting off each post, a jade ripple following her feet.
-
-0:13–0:16: She kicks off a stone lantern, which tips over, and leaps onto the
-bridge railing. Three swordsmen charge. She runs along the rail, slashes the
-first, flips over the second, and lands in the koi pond with a huge splash.
-In the water she parries two blades and cuts both guards. Droplets scatter
-across the lens.
-
-0:16–0:20: She bursts out of the pond and sprints up a pine trunk in three
-steps. The camera tilts up with her. She launches onto the roof among the
-archers: left sword disarms, right sword strikes, roof tiles scatter. Two
-archers fall.
-
-══ 0:20–0:30: THE ROOFTOP DUEL ══
-Transition inside the same shot: she keeps climbing over the roof ridge and
-the camera rises with her, tightening to a 50° field of view. The tiled
-castle rooftop opens up with wind in her ponytail and the town far below.
-Captain Tetsugan (@Image3) waits with his naginata, calm and unflinching.
-
-0:20–0:23: Tetsugan sweeps the naginata in a wide arc. Kazemiru ducks, slides
-down the sloping tiles, and crosses both swords to stop the blade. Sharp
-metal sound as his strength pushes her back a step. Her expression stays
-cold.
-
-0:23–0:27: Fast exchange: his thrust, her left parry, her right slash that cuts
-his armor cord. He spins the pole and sweeps for her feet: she jumps, kicks
-off the shaft, and flips over him. Mid-air she cuts both swords across his
-back armor. Tiles crack under their feet and a faint jade wake curves around
-her path. He staggers, strikes back, and she narrowly dodges as the blade
-cuts a roof beam.
-
-0:27–0:30: Supersonic burst along the ridge line, the jade streak slightly
-brighter but still thin. She slides under the naginata, and as she rises
-both swords slice through the shaft in a clean cross-cut. Tetsugan drops to
-one knee, defeated but alive. Kazemiru stands, both swords still in hand,
-and the last jade filaments disappear. She turns her cold eyes toward the
-courtyard far below, where dozens more guards pour in. The camera slowly
-pulls back and up to a wide shot of the whole castle. She lowers her body for
-the next burst. THE FIGHT CONTINUES.
-
-AUDIO:
-Sword resonance, compressed-air whooshes, metal clashes, footsteps on wood
-and tiles, arrows, water splashes, fluttering silk and paper, enemy shouts,
-wind over the rooftops. No dialogue, no music.
-
-HUMAN-FIRST LOCK:
-Kazemiru is always a real human: natural skin pores, real eyes, individual
-hair strands, believable anatomy and cloth physics. Only her choreography is
-anime-level impossible.
-
-NEGATIVE:
-cuts, edits, dissolves, fades, scene transitions, time jumps, multiple
-shots, single-sword fighting, missing or duplicate sword, duplicate
-Kazemiru, clones, teleportation, thick aura, smoke, glowing body, neon or
-oversaturated colors, detached VFX, random flips, decorative acrobatics,
-idle pose, static camera, perfectly smooth tracking, slow combat, floating,
-broken anatomy, CGI or plastic skin, anime rendering, blood, gore, subtitles,
-logos, watermark.
-```
-
-</details>
-
----
-
 ## 16. Policewoman Pursues a Flying-Car Fugitive Through Desert Canyons
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/e7c33d3c-3feb-4bd3-b4d2-31d949317d6c/generate.mp4)**
@@ -808,74 +482,6 @@ Negative prompt
 cartoon, anime, plastic skin, blurry, warped face, extra limbs, bad hands, morphing identity, text, watermark, deformed octopus, mushy tentacles, broken cars, sunshine, static camera, gore
 
 #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #Ai #Aivideo #visualart
-```
-
-</details>
-
----
-
-## 18. Muay Thai Fighter Battles Armed Thugs in Rainy Bangkok Chinatown
-
-▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/f38efcdf-77e2-403e-9377-691378af77e0/generate.mp4)**
-
-![Muay Thai Fighter Battles Armed Thugs in Rainy Bangkok Chinatown](https://cdn.lipsync.video/lipsync/cdn/feature-case/f38efcdf-77e2-403e-9377-691378af77e0/cover.jpg)
-
-**16:9 · 1080p · 30s · Seedance 2.5**
-
-[Original post](https://x.com/yourPlugAI/status/2112760259886407861) · 2026-10-21 12:17 (UTC+08:00)
-
-<details>
-<summary>Show full prompt</summary>
-
-```text
-Iron Elbows Of Yaowarat (ศอกเหล็กแห่งเยาวราช.) 🇹🇭⚡
-@PixVerse 
-
-Cornered in a cramped, neon-lit alleyway in Bangkok Chinatown, underdog fighter Kham relies on traditional Muay Boran and lethal street Muay Thai to defend himself against three armed syndicate enforcers.
-
-Through bone-shattering elbow strikes, mid-air double-knee pipe blocks, and a legendary Hanuman flying knee strike, Kham clears the alley in a non-stop 30-second martial arts gauntlet. 
-
-✨Generated by Seedance 2.5 on PixVerse AI 
-
-✨Grab the exact character sheets and FULL video prompt from the Pixverse Canvas link attached below
-
-#PixVerseCPP #PixVerseAI #Seedance25 
-
-Phase 1: 00:00 to 00:15 (Seedance 2.5)
-
-[ENGINE DIRECTIVE]
-Generate a continuous 15-second hyper-realistic live-action martial arts sequence using Seedance 2.5 at 60fps ultra-realism in 16:9 widescreen format. Maintain 100% strict visual consistency with provided asset sheets: "Kham" (Thai fighter in kard chuek hand wraps, prajied armbands, dark Muay Thai shorts) and "Syndicate Enforcers" (Somchai with steel pipe, Twins with short machetes). Setting strictly follows "Rain-Soaked Yaowarat Alleyway Night Market". Style: Visceral Ong-Bak Muay Boran action cinema, rapid 2-to-3 second beats, bone-crunching elbow leverage, wet neon reflections, high-velocity water splash physics.
-
-[AUDIO DIRECTIVE]
-• MUSIC: Driving fast-paced Thai percussion blended with heavy industrial synth bass and aggressive action risers.
-• SOUND DESIGN: Heavy tropical rain, machete wind swooshes, elbow-to-bone impact thuds, shattering wooden food carts, and steel pipe clangs.
-
-[TIMELINE BREAKDOWN]
-
-00:00 - 00:03 | NEON STANCE & MACHETE AMBUSH
-• VISUAL: Low-angle tracking shot panning up from neon-lit puddles to Kham's low Muay Boran stance.
-• ACTION: Heavy rain pours off Kham's cloth hand-wraps under a flickering red noodle sign. Somchai and the Twin Strikers step out from the shadows with steel pipe and machetes drawn.
-• SOUND: Heavy downpour, flickering neon buzz, steel pipe drag ON asphalt, fast drum pulse.
-
-00:03 - 00:06 | WRIST PARRY & COLLARBONE DOWNWARD ELBOW
-• VISUAL: Close-quarters dynamic camera tracking Kham's forearm parry.
-• ACTION: First Twin rushes with a diagonal machete slash. Kham steps inside the guard, parries the wrist with his cloth-wrapped forearm, and delivers a brutal horizontal downward elbow directly to the collarbone.
-• SOUND: Machete WHOOSH, forearm parry CLACK, bone-crunching elbow THUD.
-
-00:06 - 00:09 | PLUM CLINCH & UPWARD RIB KNEE
-• VISUAL: Low-angle impact camera tracking the water displacement.
-• ACTION: Second Twin lunges with a thrust. Kham duck-drifts under the blade, grabs the attacker's neck in a tight plum clinch, and drives a crushing upward knee strike to the ribs, sending neon-lit water blasting off their clothes.
-• SOUND: Water slide hiss, clinch leather friction, heavy knee impact CRUNCH, water spray explosion.
-
-00:09 - 00:12 | FOOD CART VAULT & DOUBLE-KNEE PIPE BLOCK
-• VISUAL: 0.8-second time-dilation tracking shot orbiting Kham's aerial vault.
-• ACTION: Somchai swings his heavy steel pipe. In hyper-slow motion, Kham vaults off an overturned wooden food cart, executing a mid-air double-knee block that catches the pipe between his shins.
-• SOUND: Time-dilation sub-bass DROP, heavy pipe WHOOSH, shin-on-pipe CLANG, wood splintering.
-
-00:12 - 00:15 | SPINNING BACK-ELBOW & CRATE SKID
-• VISUAL: Wide impact tracking camera capturing Somchai staggring into the background.
-• ACTION: Landing on wet asphalt, Kham uses his momentum to deliver a spinning back-elbow to Somchai's jaw, sending sparks and rainwater flying as the giant staggers back into plastic crates, setting up Phase 2.
-• SOUND: High-speed spin WHOOSH, jaw impact BOOM, plastic crates crashing, surging music riser.
 ```
 
 </details>
@@ -989,56 +595,6 @@ She remains in the foreground with both fists glowing intensely.
 
 ---
 
-## 22. Woman Battles Ten Masked Fighters in a Rain-Soaked Tea Garden
-
-▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/2256272a-1ede-444d-8bbe-85a5a86aafef/generate.mp4)**
-
-![Woman Battles Ten Masked Fighters in a Rain-Soaked Tea Garden](https://cdn.lipsync.video/lipsync/cdn/feature-case/2256272a-1ede-444d-8bbe-85a5a86aafef/cover.jpg)
-
-**16:9 · 1080p · 15s · Seedance 2.5**
-
-[Original post](https://x.com/Chaemate_/status/2113558308514922850) · 2026-10-23 17:09 (UTC+08:00)
-
-<details>
-<summary>Show full prompt</summary>
-
-```text
-16:9 widescreen, cinematic live-action, 15 seconds, high-momentum parkour fight in a continuous-feeling sequence. Hard cuts only between shots, no dissolves, morphs or transitions; motion and direction match across every cut. No dialogue; only natural footsteps, fabric, splashes and impact sounds.
-
-PROTAGONIST: @image 1 (facial identity, hair, rose-pink streaks, long side braid, plum shirt and cream cargo trousers locked to the reference throughout). Her movement is sharp, decisive and fluid. She dominates the entire fight and takes down ten masked attackers in a rapid chain.
-
-OPPONENTS: Ten masked "Ashen Guard" fighters in charcoal hooded rain coats and slate face wraps, armed with bamboo staffs and short batons. They close in from above, from the sides and from behind. Every one is hit cleanly and reacts visibly: knocked back, off-balance, or thrown into a wall, rack or railing before leaving frame. The next attacker steps in immediately.
-
-SETTING: An abandoned terraced tea plantation on a steep misty mountainside just after rain. Mossy stone terrace walls, narrow wet stone staircases, a shallow water-filled irrigation channel running down the slope, a collapsed wooden footbridge with a gap, rusted tea-drying racks, leaning bamboo scaffolding and a thin waterfall at the cliff edge. Low golden sun cuts in from the side through light haze. Palette: moss green, wet slate grey, warm amber, deep plum. Kicked-up water spray, mud flecks, torn tea leaves and mist react to every impact. Realistic natural lighting only.
-
-SHOT 1 (0-2.5s) Low-angle, ground level, FOV 35 degrees. She bursts up from the bottom of the stone terrace, launches off a step and drives a flying front kick into attacker 1's chest, throwing him back into a stone wall. She lands and slides sideways under attacker 2's staff swing, then snaps a rising elbow to his chin; he drops flat into the wet tea bushes.
-
-SHOT 2 (2.5-5s) Tracking from the side, FOV 40 degrees. She plants her foot on the mossy terrace wall, runs three steps up it and delivers a diagonal kick to attacker 3, who loses balance and tumbles down the staircase. Without pause she uses a leaning bamboo pole to spring into the air and drives a knee into attacker 4, who collapses onto the stones.
-
-SHOT 3 (5-7.5s) Camera glides close to the ground and sweeps upward, FOV 30 degrees. She sprints downhill in a low crouch under hanging bamboo and ropes, spins into a sweeping kick that sends attacker 5 crashing into a rusted tea rack. Hand-plant roll, then a flying kick into attacker 6, who skids backward into the edge of the terrace wall.
-
-SHOT 4 (7.5-10s) Camera orbits her, FOV 32 degrees. She slides on her knees through the shallow irrigation channel, throwing up a wide sheet of water, and pops up at the collapsed footbridge. She vaults the gap and twists mid-air to ram her shoulder into attacker 7, sending him to the terrace below. She lands, catches a bamboo pole thrown by attacker 8, plants it and pole-vaults, driving both feet into attackers 8 and 9, who fly in opposite directions.
-
-SHOT 5 (10-12.5s) Camera pushes forward as if chasing, then pulls back fast, FOV 38 degrees. She runs along the leaning bamboo scaffolding, then back-flips over attacker 10's sneak attack from behind. Mid-air she twists and lands a back kick between his shoulder blades, sending him rolling forward down the slope.
-
-SHOT 6 (12.5-15s) Camera drops to a low wide angle, FOV 30 degrees, then locks front-on at eye level. She lands and slides through a puddle in a low crouch, water spraying around her, then rises into a sharp ready stance. Her braid and the hem of her shirt are still swinging from the speed. The sequence ends sharply on this strong, still pose, final frame in crisp focus.
-
-CAMERA: Momentum-driven tracking that follows her center of gravity (jumps, wall-runs, pole vault, kicks) rather than sitting static. Reactive impact cinematography: a sharp small shake on every hit, the camera briefly following a thrown opponent, then snapping back to her. Natural motion blur on fast moves.
-
-PACING: Speed builds through the explosive moments. Her actions are clear and decisive; enemy reactions are fast and heavy. No slow motion, no pauses, no posed moments, no wasted movement.
-
-VISUAL QUALITY: Ultra-high definition, cinema grade, realistic skin, fabric and water physics, live-action photographic look.
-
-POSITIVE LOCKS: Pink streaks stay a soft rose tone, braid stays on her right shoulder, plum shirt and cream cargo trousers unchanged, boots and gloves unchanged, exactly ten attackers in charcoal coats and slate face wraps.
-
-CONSTRAINTS: At least ten enemies, all hit. No empty kicks; every strike connects. No repeated moves. No fantasy light effects, no neon colors, no neon glow, no cartoon or CGI-style look, no distorted limbs, no clipping or objects passing through each other, no stuttering motion, no extra people, no text or watermarks.
-#AIvideo #AIart #Seedance #AIFilmmaking #Parkour
-```
-
-</details>
-
----
-
 ## 23. Tea Phoenix Awakens a Woman’s Armor for Leaps Across a Neon City
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/c249d76d-a5c4-48cf-923f-55d4a602ab9b/generate.mp4)**
@@ -1101,27 +657,6 @@ Duration: 15 seconds. Aspect ratio: 16:9. Quality: Ultra-realistic cinematic 4K.
 
 ---
 
-## 25. Korean Campus Rooftop Sunset Scene
-
-▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/220c525f-f0ee-45b4-9501-36f5ed37b717/generate.mp4)**
-
-![Korean Campus Rooftop Sunset Scene](https://cdn.lipsync.video/lipsync/cdn/feature-case/220c525f-f0ee-45b4-9501-36f5ed37b717/cover.jpg)
-
-**16:9 · 720p · 30s · Seedance 2.5**
-
-[Original post](https://x.com/Aqsahere_/status/2091001743035564070) · 2026-08-22 11:17 (UTC+08:00)
-
-<details>
-<summary>Show full prompt</summary>
-
-```text
-photorealistic live-action Korean high-school rooftop scene at sunset. Use the provided references to preserve Seolran and Mujin’s exact faces, hairstyles, body proportions, school uniforms, and the real rooftop environment. Exactly two students are present. A strong sudden gust of wind hits the rooftop and scatters their loose homework papers across the concrete. Seolran and Mujin react naturally and immediately run in different directions trying to catch the flying pages. Papers blow realistically around their legs and across the rooftop, some sliding along the ground while others briefly lift into the air. They chase the pages with natural hurried movements, occasionally almost catching one before the wind pulls it away. Mujin manages to grab several pages and tries to hand them back to Seolran, but another gust sends one page directly toward her face. The paper gently lands against her face for a moment. She freezes in surprise, pulls it away, looks at Mujin, and they both burst into natural laughter. End with them standing together collecting the remaining papers while the warm sunset and distant mountains remain in the background. Use 7 distinct handheld camera shots: wide rooftop establishing shot, low angle following the papers, side tracking shot while they run, close-up of their hands grabbing papers, medium shot of them chasing in opposite directions, close-up when the paper hits Seolran’s face, and a final wide sunset shot of both laughing and gathering the homework. Make it feel like authentic Korean school-life footage rather than a commercial: realistic smartphone/cinema-camera texture, natural sunset lighting, believable wind physics, realistic paper movement, natural hair and uniform movement, subtle handheld camera shake, imperfect autofocus, natural facial expressions, realistic skin texture and breathing, spontaneous body movement and genuine laughter. No exaggerated comedy, no slow motion, no music, no subtitles, no logos, no watermarks, no CGI, no fantasy, no extra people, no distorted hands or anatomy.
-```
-
-</details>
-
----
-
 ## 26. Golden Warrior Battles Two Monsters in a Flooded Cathedral
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/3ffb3377-b444-4305-934f-af08f367305c/generate.mp4)**
@@ -1176,6 +711,8 @@ CONTINUITY: Physically grounded impacts, consistent damage, readable action, mot
 ```
 
 </details>
+
+---
 
 ---
 
@@ -1363,42 +900,6 @@ Negative prompt: cartoon, anime, low resolution, plastic fur, deformed face, ext
 
 ---
 
-## 33. Superpowered Schoolgirl Blocks Missiles and Destroys Helicopters
-
-▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/917ae852-b703-4629-9482-29ecbc115673/generate.mp4)**
-
-![Superpowered Schoolgirl Blocks Missiles and Destroys Helicopters](https://cdn.lipsync.video/lipsync/cdn/feature-case/917ae852-b703-4629-9482-29ecbc115673/cover.jpg)
-
-**3:2 · 1080p · 35s · Seedance 2.5**
-
-[Original post](https://x.com/AvelyrahnAI/status/2106235620771451322) · 2026-10-03 12:11 (UTC+08:00)
-
-<details>
-<summary>Show full prompt</summary>
-
-```text
-Cinematic action video sequence, Seedance 2.5 style,
-Scene 1: A young Asian schoolgirl with black hair and a backpack sprints down the middle of a wide empty city avenue flanked by skyscrapers while two military attack helicopters fly low overhead. 
-
-Scene 2: Close-up of a helicopter rocket pod firing smoke-trail missiles, cutting to the schoolgirl spinning around sharply as wind whips her hair.
-
-Scene 3: Slow-motion shot, her loafers glow with blue magical energy as she leaps high into the air over the street, avoiding missiles that trigger massive fiery explosions behind her.
-
-Scene 4: Tracking shot of the girl running forward as a barrage of guided missiles flies straight down the highway toward her.
-
-Scene 5: Close-up of her face with glowing green eyes; she thrusts her hand forward, projecting a powerful translucent green energy shield that halts the incoming missiles mid-air.
-
-Scene 6: She sends a shockwave of green energy forward, causing both attack helicopters to explode mid-air in massive balls of fire and crash onto the street.
-
-Scene 7: Medium shot of the girl standing confidently with glowing green eyes, making a finger-gun gesture saying "Boom", then turning around and walking calmly away down the empty street between skyscrapers.
-
-#Flovaai #Flovacpp
-```
-
-</details>
-
----
-
 ## 34. Warrior Becomes an Angel to Slay Demons in a Gothic Cathedral
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/13580b5f-356d-4a33-95b6-2563e0c4ad97/generate.mp4)**
@@ -1435,95 +936,6 @@ A dark gothic cathedral interior with stained glass windows and moonlight shinin
 
 ```text
 A hyper realistic cinematic action sequence set on wet stone cliffs in front of a massive, roaring tropical waterfall. A fierce female warrior in a dark teal and green combat outfit wields powerful water-bending abilities, summoning swirling rings of sharp ice shards and a spiraling water shield. She faces an aggressive male warrior in dark tactical armor with glowing blue elemental bracers who hurls blasts of lightning and energy. Dynamic camera movement, fast-paced martial arts choreography, splashing water, mist, flying debris, epic fantasy lighting, 8k resolution, photorealistic VFX.
-```
-
-</details>
-
----
-
-## 36. seedance-2-5-nova-pulse-zenith-88c08b3f5768
-
-▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/0d3f8bdb-b5bd-42b3-8f5a-6e89d46d2af7/generate.mp4)**
-
-![seedance-2-5-nova-pulse-zenith-88c08b3f5768](https://cdn.lipsync.video/lipsync/cdn/feature-case/0d3f8bdb-b5bd-42b3-8f5a-6e89d46d2af7/cover.jpg)
-
-**16:9 · 1080p · 30s · Seedance 2.5**
-
-[Original post](https://x.com/yourPlugAI/status/2113564718187037043) · 2026-10-23 17:34 (UTC+08:00)
-
-<details>
-<summary>Show full prompt</summary>
-
-```text
-Nova Pulse: Zenith (ノヴァ・パルス：頂上) ⚡🔴
-@PixVerse 
-
-High above a neon-glowing cyberpunk city under a massive crimson moon, 3D anime hero Ren unleashes high-speed Cyber-Kenjutsu against two mechanical Cyber-Gargoyles. Non-stop 30-second 3D anime gauntlet. 
-
-✨Generated with Seedance 2.5 on PixVerse AI featuring Arcane and Guilty Gear Strive-level 3D cell-shaded animation. 
-
-#PixVerseCPP #PixVerseAI #Seedance25
-
-✨Seedance 2.5 - 30s Master Video Prompt (character sheets attached below)
-
-[ENGINE DIRECTIVE]
-Generate a continuous 30-second hyper-kinetic 3D anime action sequence at 60fps in 16:9 widescreen format. Style: High-end Arcane and Guilty Gear Strive 3D cell-shaded anime animation, glossy textures, intense particle effects, high-frame-rate impact pauses. Maintain 100% strict visual consistency with provided asset sheets: "Ren" (White-haired anime hero in neon blue circuit coat with plasma greatsword) and "Cyber-Gargoyles" (Mechanical beast-warriors). Setting strictly follows "Shattered Anti-Gravity Floating Courtyard". Rapid 2-to-3 second action beats, zero-gravity combat physics, directional camera whip-pans.
-
-[AUDIO DIRECTIVE]
-• MUSIC: Fast-paced cyberpunk metal synth hybrid with heavy guitar riffs, intense electronic risers, and booming sub-bass impacts.
-• SOUND DESIGN: Humming plasma blade hum, laser cannon blasts, whipping energy chain sizzles, shattering stone impacts, and anti-gravity wind roars.
-
-[TIMELINE BREAKDOWN]
-
-00:00 - 00:03 | ZERO-G STANCE & CRIMSON MOON LOCK
-• VISUAL: Low-angle tracking camera panning up from floating stone debris to Ren's ready Kenjutsu stance.
-• ACTION: Ren stands on a hovering stone tile against the giant crimson moon, his Greatsword humming with cyan energy as two Cyber-Gargoyles hover menacingly above him.
-• SOUND: Plasma blade hum, atmospheric anti-gravity drone, mechanical growls, explosive synth intro.
-
-00:03 - 00:06 | AIR-STEPPING & PLASMA BLAST DEFLECTION
-• VISUAL: High-speed upward tracking camera following Ren's aerial movement.
-• ACTION: Cannon-beast fires three high-velocity energy projectiles. Ren air-steps upward through zero-g, deflecting all three shots with his Greatsword into floating rubble, causing explosive cyan particle bursts.
-• SOUND: Cannon FIRING blasts, metallic blade energy deflect CLANGS, explosive rubble SHATTER.
-
-00:06 - 00:09 | PLASMA-CHAIN TRAP & 360-DEGREE SPIN
-• VISUAL: Dynamic orbital tracking camera capturing the mid-air spin.
-• ACTION: Whip-beast snaps dual plasma-chain whips from above. Ren executes a 360-degree mid-air spin, wrapping the energy chains tightly around his Greatsword blade to halt the momentum cold.
-• SOUND: Whip crack SIZZLE, metallic chain binding CLACK, energy tension hum.
-
-00:09 - 00:12 | BOOT PARTICLE BURST & DIAGONAL ARMOR SLICE
-• VISUAL: 0.8-second time-dilation close-up on Ren's boots before launching into a fast tracking slash.
-• ACTION: In hyper-slow motion, Ren channels a blue particle burst into his boots, launching off the trapped chain to deliver a flying diagonal slash that severs the whip-beast's shoulder armor.
-• SOUND: Time-dilation sub-bass DROP, particle boot BURST, high-voltage plasma slash WHOOSH, armor severing CRUNCH.
-
-00:12 - 00:15 | CIRCULAR GRAVITY WAVE & DEBRIS FREEZE
-• VISUAL: Wide impact tracking camera capturing the expanding energy ripple.
-• ACTION: Ren lands on a hovering pillar and plants his sword, unleashing a circular cyan gravity wave that freezes surrounding floating debris in place.
-• SOUND: Sword floor plant THUD, massive gravity shockwave BOOM, crystalline debris freeze chime. 
-
-00:15 - 00:18 | OVERDRIVE IGNITION & BEAM CHARGE
-VISUAL: Close-up camera zooming into Ren's face as his coat circuits ignite.
-ACTION: Seamless transition: Cannon-beast charges its main red beam weapon. Ren closes his eyes for a split second as glowing neon blue circuit lines pulse wildly across his dark coat.
-SOUND: High-voltage beam charge WHINE, coat circuit power-up HUM, fast drum roll.
-
-00:18 - 00:21 | OVERDRIVE DASH & STAR-SHAPED ENERGY GRID
-VISUAL: High-speed multi-angle speed-ramped camera tracking rapid teleportations.
-ACTION: Ren executes an Overdrive Dash, blurring through six rapid directional teleport-slashes that slice through both opponents, leaving a glowing cyan star-shaped energy grid in mid-air.
-SOUND: Rapid teleport WHOOSH-WHOOSH-WHOOSH, high-frequency energy grid SLICE chimes.
-
-00:21 - 00:24 | 3D ANIME IMPACT PAUSE & BLADE SHEATH
-VISUAL: Time-dilation 3D anime impact pause as camera slowly orbits behind Ren.
-ACTION: Time freezes into a dramatic anime impact pause: Ren stands behind both enemies calmly sheathing his plasma blade, as glowing cyan slash-lines expand dangerously across the beasts' armor.
-SOUND: Sub-bass time-freeze DROP, metallic sword sheath CLICK, crackling energy tension.
-
-00:24 - 00:27 | MASSIVE SHOCKWAVE EXPLOSION & DEACTIVATION
-VISUAL: Wide dramatic tracking camera capturing the explosive collapse.
-ACTION: A massive cyan energy shockwave erupts, blasting both Cyber-Gargoyles backward onto a lower floating platform, completely disarmed and deactivated with smoking armor.
-SOUND: Explosive energy shockwave BOOM, heavy armor platform crash THUD, power-down whine.
-
-00:27 - 00:30 | BLADE FLICK & VICTORIOUS SKYLINE ORBIT
-VISUAL: Hero center-framed 360-degree orbital camera settling on Ren against the cyberpunk city.
-ACTION: Ren flicks his Greatsword downward, clearing the remaining plasma trail, as the floating debris gently settles and the camera orbits his victorious stance above the glowing neon metropolis below. CUT TO BLACK at 00:30.
-SOUND: Sword energy flick WHOOSH, settling debris rustle, quiet wind chime, total silence.
 ```
 
 </details>
@@ -2036,47 +1448,6 @@ Simple moments, beautiful memories.
 Created on seedance 2.0
 
  Create a natural, cinematic, ultra-realistic video featuring a beautiful young Korean woman walking through a peaceful traditional Korean village during warm golden-hour sunlight. She is wearing a simple cream-colored blouse with a soft pink long skirt and carrying a small shoulder bag, looking cute, natural, and cheerful. As she walks along the quiet village street, she notices a chicken walking nearby and becomes curious, gently following it down the narrow pathway. An elderly Korean man appears from behind and playfully tries to help her catch the chicken, creating a cute and funny village-life moment. The girl follows the chicken, smiles, bends down, and carefully tries to catch it while the elderly man helps her. The surroundings include traditional Korean houses, wooden fences, small gardens, flowers, green fields, and a peaceful countryside atmosphere. Keep the girl's face, hairstyle, body proportions, clothing, and overall appearance consistent throughout the entire video. Use natural human movements, realistic expressions, soft handheld camera motion, warm sunlight, authentic Korean village details, cinematic depth of field, realistic skin texture, and a wholesome everyday-life feeling. The video should feel like a naturally filmed Korean village moment rather than an artificial AI-generated scene, with smooth camera movement and highly realistic details.
-```
-
-</details>
-
----
-
-## 51. Fire Phoenix Versus Water Dragon
-
-▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/a9673310-e7fa-4b33-ae9d-b47136a6684a/generate.mp4)**
-
-![Fire Phoenix Versus Water Dragon](https://cdn.lipsync.video/lipsync/cdn/feature-case/a9673310-e7fa-4b33-ae9d-b47136a6684a/cover.jpg)
-
-**16:9 · 720p · 15s · Seedance 2.0**
-
-[Original post](https://x.com/noorlewisx/status/2095039305555263672) · 2026-09-02 14:41 (UTC+08:00)
-
-<details>
-<summary>Show full prompt</summary>
-
-```text
-15s cinematic photorealistic action video, 5 shots, 16:9. ARRI ALEXA 65, 35mm anamorphic, film grain, rich contrast, natural bokeh, volumetric god rays, realistic smoke, dust, sparks, fire, water, hair and cloth physics. No text, logos, UI or watermark.
-
-Environment: Abandoned ancient temple ruins, broken pillars, rubble, burning temple, heavy smoke, sparks, dramatic sunset. Keep architecture, damage, lighting and atmosphere consistent.
-
-Woman 1 – Fire: Short pink hair, red horns, deep red/gold ornate battle outfit, chains, black belt, tassels, platform boots. Lock face, body and outfit perfectly.
-
-Woman 2 – Water: Long navy-black hair with straight bangs, deep blue-silver flowing battle robe, transparent layers, decorative belt, silver ornaments, tassels and boots. Lock face, body and outfit perfectly.
-
-0–2.5s: Wide tracking circle. Fighters clash aggressively. Fire woman attacks with flame punches/kicks; water woman dodges and counters with water whips. Fire and water collide into steam explosions.
-
-2.5–6s: Tight tracking shot. Close-range brutal exchange. Fire elbow + knee; water blocks with a water shield and counters with a pressurized palm, sending her across rubble.
-
-6–9.5s: Low-angle tracking. Both charge and leap. Water woman launches spinning water spheres; fire woman breaks through with explosive flames and close-range attacks.
-
-9.5–12.5s: Medium-wide push-in. Water woman summons a massive serpentine water dragon. Fire woman releases a majestic flame phoenix. Both charge toward each other.
-
-12.5–15s: Epic wide pull-back/crane up. Dragon and phoenix collide, creating a huge explosion of steam, fire, water, light and debris. Shockwave, sparks and droplets fill the frame; energy slowly dissipates.
-
-Audio: Cinematic orchestral-electronic score, heavy percussion, rising strings, synths, impacts, whooshes, water, fire, steam, dragon roar and phoenix cry.
-
-Smooth cinematic camera only, no handheld shake or unnecessary cuts. Perfect character consistency and realistic elemental physics.
 ```
 
 </details>
@@ -2670,29 +2041,6 @@ Negative prompt: blurry, low quality, distorted proportions, extra limbs, deform
 
 ---
 
-## 63. Warm-Lit Interior Tour Beneath a Muraled Dome
-
-▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/b96b9fee-02ea-417a-a0f1-fbb83e6d02fa/generate.mp4)**
-
-![Warm-Lit Interior Tour Beneath a Muraled Dome](https://cdn.lipsync.video/lipsync/cdn/feature-case/b96b9fee-02ea-417a-a0f1-fbb83e6d02fa/cover.jpg)
-
-**16:9 · 720p · 7s · Seedance**
-
-[Original post](https://x.com/nijokestu/status/2098459803777413432) · 2026-09-12 01:12 (UTC+08:00)
-
-<details>
-<summary>Show full prompt</summary>
-
-```text
-Use the visual style of @ reference image to generate @ gray-model video. Strictly preserve the gray-model video’s architecture, furniture positions, object count, framing, perspective, and camera movement. Only apply the realistic materials, dome murals, and warm interior lighting from the reference image. Keep every object stationary. Do not add people, furniture, doors, windows, or exhibits. Do not change the architecture or camera path. Avoid cuts, shaking, warping, flickering, or layout changes. Review every generated shot and regenerate only shots with clear problems. Combine the approved shots into one 15-second video and export the first frame of each shot. Deliver the editable Blender project, gray-model videos, three generated shots, final video, prompts, and first-frame screenshots.
-
-The level of detail and camera movement here is wild. 👀
-```
-
-</details>
-
----
-
 ## 64. Black-Robed Swordsman Sweeps Through Shadow Beasts
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/c3d5045f-fb7e-4104-a65d-8b7c633ccb42/generate.mp4)**
@@ -2713,32 +2061,6 @@ Cinematic dark fantasy wuxia action scene, low angle dynamic tracking shot. A ma
 #visualstorytelling #flovaai
 #aicreater
 #seedance25
-```
-
-</details>
-
----
-
-## 65. Urban Police Chase and Explosive Getaway
-
-▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/ac572558-1960-4497-bd33-e3eb014808c3/generate.mp4)**
-
-![Urban Police Chase and Explosive Getaway](https://cdn.lipsync.video/lipsync/cdn/feature-case/ac572558-1960-4497-bd33-e3eb014808c3/cover.jpg)
-
-**16:9 · 720p · 6s · Seedance**
-
-[Original post](https://x.com/Aria_Nawi/status/2098461817555374451) · 2026-09-12 01:20 (UTC+08:00)
-
-<details>
-<summary>Show full prompt</summary>
-
-```text
-Police chase. Explosion. A cinematic 3D world built with GPT-6 Astra.
-
-Made by @PixVerse. Available on PixVerse and in ChatGPT via the PixVerse Plugin.
-
-Prompt ↓
-Create an original GTA-inspired cartoon car chase using this workflow: Design: Define one main driver, one getaway car, one pursuing car, and one urban environment. Keep their designs consistent. Plan three 4-second shots: rear tracking pursuit, side tracking through a sharp turn, and a wide exit shot. Build in Blender: Create clean gray models and functional character and vehicle rigs. No textures or UV unwrapping are required. Animate and test: Animate the driver, steering, wheel rotation, vehicles, and cameras. Maintain coherent travel direction and vehicle order. Fix clipping, floating wheels, sliding tires, broken poses, and hands losing contact with the steering wheel. Render in Blender: Render frames 1–288 at 1280×720, 24 fps. Assemble actual Blender-rendered frames into a complete 12-second gray-model master. Export each shot separately and render matching gray stills as shape and composition references. Finish with PixVerse Plugin: Use Seedance 2.5 at 720p, processing each shot separately. Use the Blender clips as motion references and the gray stills as shape references. Define a consistent cartoon color palette in the generation prompt. Preserve camera movement, action timing, character and vehicle designs, and vehicle count. Review and deliver: Inspect both complete videos for visual defects and continuity. Repair Blender issues and regenerate only failed Seedance shots, with at most two retries per shot. Deliver the editable .blend, the native 720p Blender gray-model video, the separately labeled 720p Seedance version, and a brief assessment of remaining limitations.
 ```
 
 </details>
@@ -2957,128 +2279,6 @@ CUT.
 AUDIO
 
 Keep authentic gym ambience throughout: distant footsteps, machines, soft conversations, rope impacts, sneaker squeaks, CHASE's breathing and slight room echo. No polished voice recording. Her dialogue should sound naturally captured through a consumer camcorder microphone.
-```
-
-</details>
-
----
-
-## 68. Neon Coastal City Gunfight and Police Chase Livestream
-
-▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/1e3aa4ee-c811-4392-b794-1054bbf504db/generate.mp4)**
-
-![Neon Coastal City Gunfight and Police Chase Livestream](https://cdn.lipsync.video/lipsync/cdn/feature-case/1e3aa4ee-c811-4392-b794-1054bbf504db/cover.jpg)
-
-**16:9 · 1080p · 45s · Seedance**
-
-[Original post](https://x.com/QAiStudio/status/2099363620325048805) · 2026-09-14 13:04 (UTC+08:00)
-
-<details>
-<summary>Show full prompt</summary>
-
-```text
-GTA 6 Simulation
-
-Made with Seedance 2.5 on @Flovaai @Flovaai_Japan 
-
-prompt 
-Photorealistic fictional open-world coastal crime-action gameplay livestream, 16:9, one continuous 45-second take split into a 30-second opening plus a seamless 15-second continuation. Fixed full-screen game HUD throughout: bottom-right square pink-blue neon facecam of HANEUL only, matching the supplied reference image exactly; fixed HUD, English-only scrolling live chat on the left, Korean streamer speech only with no subtitles, third-person chase camera, no cuts, no transitions, no scene changes, no duplicate characters.
-
-0–8s: Player drives a dark muscle car through a neon coastal city at dusk toward a GPS destination; HANEUL is calm and focused in facecam, with engine, city ambience, faint radio, and keyboard/mouse sounds.
-
-8–15s: At a warehouse, exactly two dark-red-jacket gang enemies emerge from cover, draw pistols, and ambush the player. The player dives behind a car, is visibly grazed, health drops, and wanted level rises to two stars. HANEUL reacts in shocked Korean.
-
-15–24s: Intense reckless firefight. Player uses one compact SMG; enemies use pistols only. A flanking enemy shatters a nearby car window, bullets dent the car and pop a tire, ammo falls from 38/120 toward 24/120, wanted level reaches three stars, and distant police cruisers appear only in the background.
-
-24–30s: Player fires five deliberate SMG shots with visible sequential hit reactions; both enemies fall only after being hit. Ammo drops exactly from 24/120 to 14/120. HANEUL remains wide-eyed and tense; police sirens close in.
-
-30–38s: With both enemies down, the player limps into the damaged muscle car with a shredded tire. Two police cruisers pursue in the background as the car lurches forward on its rim. Health remains critically low and flashing red; wanted level stays at three stars.
-
-38–45s: Player scrapes through a narrow alley, knocks off both mirrors, and reaches a side street where traffic briefly blocks the police. The wanted level remains flashing at three stars, police lights remain visible in the rearview, and the ending stays unresolved.
-
-Strict rules: HANEUL appears only in the bottom-right fixed facecam; exactly one player and two gang enemies; no extra armed characters; no full-screen facecam; no subtitles; English-only HUD/chat text; no weapon swaps; no gore; no victory, clean escape, black screen, or end card.
-#flovacpp #flovaai
-```
-
-</details>
-
----
-
-## 69. Schoolgirl Fights Back Against Pranking Upperclassmen
-
-▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/56eda5c4-5573-4480-8b87-65c3256fbeec/generate.mp4)**
-
-![Schoolgirl Fights Back Against Pranking Upperclassmen](https://cdn.lipsync.video/lipsync/cdn/feature-case/56eda5c4-5573-4480-8b87-65c3256fbeec/cover.jpg)
-
-**16:9 · 8K · 15s · Seedance**
-
-[Original post](https://x.com/Chaemate_/status/2100489249665740964) · 2026-09-17 15:37 (UTC+08:00)
-
-<details>
-<summary>Show full prompt</summary>
-
-```text
-SCENE CONTEXT
-An old wooden Japanese school corridor during festival-prep week. Yuki stands on a low wooden stepladder, tying paper crane streamers along an overhead beam. Three upperclassmen — led by Ren — approach from the corridor's far end and shove the ladder to startle her.
-
-ACTIVE REFERENCES
-@yuki: 17-year-old Japanese high school girl, black hair to shoulder blades, navy seifuku uniform, red neck tie, calm composed expression. 100% matches the reference.
-@ren: 18-year-old Japanese upperclassman, short messy black hair, loosened uniform blazer, smug expression. 100% matches the reference. Two additional upperclassmen share his uniform and build, faces unremarkable and non-distinct.
-
-LOCATION MAP
-Foreground: worn wooden floorboards, paper crane streamers hanging overhead. Midground: Yuki on the stepladder, corridor stretching back toward sliding shoji-style windows. Background: soft-focus students passing at the far end of the hall. Warm light spills in from the windows on camera-left; camera holds on the shadow side.
-
-FIRST FRAME / BLOCKING
-Yuki stands mid-step on the ladder, one hand raised tying a streamer, weight balanced, facing the beam — not the camera. Ren and the two upperclassmen enter frame from the right background, walking casually.
-
-FORMAT MODE
-Timed multishot. Hard cuts only at the stated seconds; the camera does not cut on its own between them.
-
-OPTICS
-0:00–0:04 — 63° wide observational FOV. 0:04–0:09 — 47° neutral FOV, tightening to 29° on close reactions. 0:09–0:15 — 47° neutral FOV. No drift mid-segment.
-
-CAMERA
-0:00–0:02: Static low 63° wide shot from floor height, holding Yuki on the ladder mid-corridor.
-0:02–0:04: Sharp handheld push-in as the ladder tips, camera drops slightly with her fall.
-0:04–0:06: Rapid tracking shot alongside her cartwheel, whip-pan into a 29° close-up on her face as she lands.
-0:06–0:09: 360-degree combat orbit around the group as she trades blows with two attackers.
-0:09–0:12: Static 47° medium shot, holding the throw and final takedown.
-0:12–0:15: Slow 47° push-in on Yuki's face as she finishes tying the streamer.
-
-ACTION
-0:00–0:02 — Yuki calmly loops a paper crane streamer around a nail on the beam, humming lightly, unaware of the group approaching.
-0:02–0:04 — Ren kicks the base of the stepladder. It skids and tips sideways under real weight and momentum. Yuki loses footing but stays composed — she pushes off the falling ladder into a controlled aerial cartwheel, hair trailing with the rotation, and lands the rotation directly into a spinning back kick that catches the nearest attacker in the shoulder, pushing him back two steps. Slow-motion only through the cartwheel and kick transition, then snap to real-time on impact.
-0:04–0:06 — She lands lightly, weight absorbed through bent knees. A second attacker lunges; Yuki sidesteps by centimeters, pivots, and drives a palm-block into his forearm, redirecting his momentum past her.
-0:06–0:09 — Ren and the remaining attacker close in from both sides. Yuki ducks one swing, catches the other attacker's arm, and executes a hip throw that drops him to the floorboards with a controlled, realistic fall. She rotates to block Ren's incoming punch with a forearm cross-block.
-0:09–0:12 — Yuki catches Ren's wrist mid-swing, steps into him, and uses his own momentum to sweep his leg out, dropping him to sit hard on the floor, winded but unharmed. All three attackers are down, sitting or kneeling, defeated without gore.
-0:12–0:15 — Yuki exhales, straightens her uniform collar, and picks the fallen streamer up off the floor. She climbs back onto the ladder and resumes tying it to the beam as if nothing happened, glancing once over her shoulder at Ren with a small knowing smile. She says: "Do try to help next time, senpai."
-
-PERFORMANCE
-Yuki's expression stays unhurried throughout — no panic, no strain, breath steady even mid-fight. Micro-details: a small controlled inhale before the cartwheel, a relaxed jaw during the throw, genuine amusement (not mockery) in the closing smile.
-
-PHYSICS
-Full gravity and inertia: the ladder skids and tips before she leaves it, her landings absorb through the knees, thrown attackers hit the floor with real contact weight and a puff of dust from the boards. No floating, no weightless movement.
-
-LIGHTING
-Warm natural window light from camera-left at a low afternoon angle, soft haze in the corridor air. Camera stays on the shadow side throughout for contrast. White balance 4500K.
-
-COLOR GRADE
-Warm wood tones and cream uniform whites as the dominant palette, deep navy from the uniforms as the secondary, and the red of Yuki's neck tie as the only accent color. No cool or saturated artificial lighting anywhere in the scene — grade stays warm and naturalistic.
-
-WARDROBE
-Yuki's seifuku and Ren's blazer stay clean, no tears or damage — this is a schoolyard scuffle, not a brawl. Fabric moves naturally with each motion.
-
-AUDIO
-Footsteps on wood, fabric rustle, controlled impact thuds, one soft laugh from Yuki before her line. No music.
-
-STYLE
-Ultra-photorealistic live-action, naturalistic Japanese school setting, realistic hair and fabric physics, natural skin texture, physically accurate contact shadows, subtle motion blur on fast moves, 8K detail, shallow depth of field.
-
-OUTPUT SETTINGS
-16:9. Real-time throughout except the controlled slow-motion window specified in the 0:02–0:04 beat, which snaps back to real-time on impact.
-
-POSITIVE LOCKS
-@yuki keeps the same face, hairstyle, uniform, and tie throughout. @ren and the two other upperclassmen keep consistent uniforms and builds across every cut. The stepladder remains a stepladder — no prop transformation. No teleportation between beats; every position change follows visible, continuous motion. No blood, no visible injury, no exaggerated magic effects.
 ```
 
 </details>
@@ -3969,27 +3169,6 @@ Cinematic high-action sequence set on an icy school rooftop at night. A cool ani
 
 ---
 
-## 85. Post-Apocalyptic Desert Buggy Air Battle
-
-▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/d9ef4a10-e0f5-43e8-bdae-b1063866a6cc/generate.mp4)**
-
-![Post-Apocalyptic Desert Buggy Air Battle](https://cdn.lipsync.video/lipsync/cdn/feature-case/d9ef4a10-e0f5-43e8-bdae-b1063866a6cc/cover.jpg)
-
-**16:9 · 8K · 30s · Seedance**
-
-[Original post](https://x.com/Zyrellix/status/2092438692820295703) · 2026-08-26 10:27 (UTC+08:00)
-
-<details>
-<summary>Show full prompt</summary>
-
-```text
-Cinematic 3D render, post-apocalyptic action sequence. A heavily modified dune buggy with flaming rocket boosters speeds along a metallic futuristic pipeline track through a desert canyon during golden hour. A leather-clad warrior swings a spiked flail attached to a heavy chain, smashing an enemy combat helicopter mid-air into fiery explosions. A gunner on the buggy fires a massive rotary flamethrower minigun, turning another enemy drone aircraft into a massive fireball. The buggy leaps off a ramp over huge fiery explosions and dynamic missile strikes, landing smoothly on the reflective glass pipeline track and racing toward a giant ruined cooling tower in the distant wasteland. Cinematic lighting, photorealistic physics, slow-motion action shots, sparks, dynamic camera pans, hyper-detailed textures, volumetric smoke, cinematic color grading, 8k resolution, photorealistic CGI action film style.
-```
-
-</details>
-
----
-
 ## 86. Helicopter Extraction from a Skyscraper Rooftop
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/24d40320-1bf5-454e-9a7c-ef48138982a7/generate.mp4)**
@@ -4069,94 +3248,6 @@ NEGATIVE: CGI, anime, cartoon, game graphics, glow, beams, duplicate katana, dup
 
 ```text
 Cinematic dynamic action scene full length shot of a fierce female Korean martial artist with long, dark blue hair. She is wearing a modern black sports top, white Taekwondo pants, a black belt, and is barefoot She performs powerful high-energy Taekwondo roundhouse and spin kicks against multiple male opponents inside a dimly lit gritty industrial warehouse Cinematic volumetric lighting with dust motes floating in the air, high impact fight choreography, dramatic energy shockwaves and dust explosion effects upon impact, camera panning dynamically, 8k resolution photorealistic hyper detailed action movie sequence.
-```
-
-</details>
-
----
-
-## 89. Hypersonic Sonido: A Space Warrior Rises
-
-▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/a8a9d238-d495-4c13-8933-85f1dea54a51/generate.mp4)**
-
-![Hypersonic Sonido: A Space Warrior Rises](https://cdn.lipsync.video/lipsync/cdn/feature-case/a8a9d238-d495-4c13-8933-85f1dea54a51/cover.jpg)
-
-**16:9 · 8K · 15s · Seedance**
-
-[Original post](https://x.com/Xaroon_x/status/2096602048556900579) · 2026-09-06 22:10 (UTC+08:00)
-
-<details>
-<summary>Show full prompt</summary>
-
-```text
-@[Image1](image-0442b9e3-3e54-49fa-95ab-1dd25868733f) HYPERSONIC SONÍDO — SPACE-SPLITTING KATANA
-
-15 SECONDS | 16:9 | SEEDANCE 2.5
-
-STYLE
-
-Ultra-photorealistic live-action AAA Hollywood samurai action, cinematic fantasy realism, ARRI Alexa 65, anamorphic lens, 8K HDR, PBR materials, realistic human anatomy, physically detailed environment, dramatic volumetric lighting, high-contrast cinematic grading. Extreme hypersonic energy with controlled visual clarity. No anime/game-CGI appearance.
-
-CHARACTER LOCK
-
-Use image1 as the ONLY character reference. STRICT FACE LOCK: preserve exact facial structure, eyes, nose, jawline, skin tone, hairstyle, body proportions and clothing design throughout. Identity never changes. ONE character, ONE katana only. Katana remains physically connected to the character and saya stays at the hip until drawn. No transformation, duplication or weapon morphing.
-
-ACTION PHYSICS
-
-Supernatural Sonído-level movement: near-instant acceleration, air-stepping, gravity-direction changes and explosive directional changes. Every physical interaction must have visible cause-and-effect: foot impact → compression → shockwave → debris; blade contact → spatial distortion → delayed rift. Use 3–5 dense, solid glowing afterimages at major direction changes; afterimages briefly hold human form, then fracture into spatial glass shards. Environment reacts dynamically to speed.
-
-CAMERA
-
-One continuous cinematic take, no hard cuts. Camera movement is motivated by the action: aggressive whip-pans, low tracking, orbital pursuit, barrel-roll and rapid push/pull. Extreme angles but smooth and readable. Keep the character's face and katana blade sharp whenever visible. Background and peripheral movement become directional streaks. Dynamic FOV: wide during acceleration, tighter during impact. Controlled camera shake only on major impacts.
-
-SPEED RAMP
-
-Use precise ramping rather than constant slow motion.
-
-ULTRA FAST: 1000% during traversal and directional movement.
-
-IMPACT MOMENT: 5–10% for only 0.1s at critical blade/foot contact.
-
-Immediately return to 1000% acceleration.
-
-No unnecessary slow motion. Speed changes must visibly enhance the perception of distance, acceleration and impact.
-
-15-SECOND ACTION
-
-0–3s — SONÍDO BURST
-
-Character holds completely still for 0.1s. Instant acceleration creates a circular dust-pressure explosion. Vanishes and reappears above Enemy 1, stomping downward. 0.1s impact slow-motion reveals compressed air and a radial shockwave. Immediately launches to Enemy 2, delivers one ultra-fast katana slash, then rebounds from Enemy 3's shoulder. Solid afterimages remain at each transition. Camera performs an extreme but smooth whip-pan.
-
-3–6s — AIR STEPPING
-
-Character launches upward, then steps on empty air. Each airborne step visibly compresses the atmosphere into circular distortion ripples. Changes gravity direction mid-air without losing momentum. Dives downward, strikes an enemy's raised blade, rebounds upward, rotates 360° and performs a rapid multi-target slash through four enemies. Camera barrel-rolls with the rotation while maintaining readable subject orientation.
-
-6–9s — AFTERIMAGE SWARM
-
-Character accelerates around the enemy group in a hypersonic circular path. Five solid afterimages materialize around the real character. Six attack positions converge simultaneously from different directions. Every katana strike creates a delayed cyan-white spatial rift that remains suspended for a moment before sealing. 0.1s slow-motion at simultaneous impact, then immediate explosive acceleration. Enemies disintegrate into light particles and spatial shards, never blood.
-```
-
-</details>
-
----
-
-## 90. Ice and Fire Battle in a Rainy Container Alley
-
-▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/056a2960-cb04-40ed-9034-7dd8f1dd4e28/generate.mp4)**
-
-![Ice and Fire Battle in a Rainy Container Alley](https://cdn.lipsync.video/lipsync/cdn/feature-case/056a2960-cb04-40ed-9034-7dd8f1dd4e28/cover.jpg)
-
-**16:9 · 4K · 30s · Seedance**
-
-[Original post](https://x.com/AvelyrahnAI/status/2104427974955053532) · 2026-09-28 12:28 (UTC+08:00)
-
-<details>
-<summary>Show full prompt</summary>
-
-```text
-Epic action movie sequence, dark rainy night in a narrow alleyway lined with stacked cargo containers, a fierce female fighter in a sleek black suit battling waves of aggressive opponents, high-impact combat with fiery explosions and freezing frost punches, cinematic lighting, dramatic smoke, fast-paced choreography, hyper-realistic, 4k
-
-#Flovaai #Flovacpp
 ```
 
 </details>
@@ -4469,27 +3560,6 @@ No text, no subtitles, no logos, no watermark, no distorted faces, no extra fing
 
 ---
 
-## 100. Magic Duel from Movie Theater to Ancient Ruins
-
-▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/cb37c742-3d29-43d3-a36a-db1c58c03067/generate.mp4)**
-
-![Magic Duel from Movie Theater to Ancient Ruins](https://cdn.lipsync.video/lipsync/cdn/feature-case/cb37c742-3d29-43d3-a36a-db1c58c03067/cover.jpg)
-
-**16:9 · 4K · 38s · Seedance**
-
-[Original post](https://x.com/AvelyrahnAI/status/2105158267437548020) · 2026-09-30 12:50 (UTC+08:00)
-
-<details>
-<summary>Show full prompt</summary>
-
-```text
-Cinematic 4K action sequence in a dark movie theater. A young Asian woman with long black hair and a green long-sleeve top is eating popcorn, watching a sci-fi blockbuster on screen. Suddenly, a robotic cyborg villain with glowing red eyes leaps out of the movie screen into the theater. The environment instantly shatters and transitions into an epic ancient ruin courtyard with stone columns under a stormy sky. Dynamic camera movement tracking intense hand-to-hand combat between the woman wielding swirling green magical energy and the metallic cyborg casting purple spell circles. High-budget Hollywood blockbuster aesthetics, dramatic lighting, particle effects, slow-motion impacts, and hyper-realistic textures.
-```
-
-</details>
-
----
-
 ## 101. Girl's Fiery Awakening in a University Night Fight
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/5033b5b7-3203-4045-8033-600931b43d95/generate.mp4)**
@@ -4605,29 +3675,6 @@ Bai Jin streaks at high speed into the stone courtyard but holds off on attackin
 
 ```text
 Create a 30-second cinematic, ultra-realistic wuxia-style video set at night in an ancient Chinese village, with traditional wooden buildings, a stone-paved street, a small arched bridge, misty mountains in the background, and many glowing red lanterns hanging along the street. A beautiful young woman in an elegant flowing red traditional Chinese Hanfu walks calmly toward the camera, with long dark hair styled traditionally and a serious, confident expression. As she moves closer, the camera slowly pushes in and follows her naturally, capturing the lantern light, fabric movement, atmospheric mist, and realistic footsteps. Around the middle of the scene, she suddenly stops and confidently draws a glowing red magical sword, holding it horizontally in front of her while her expression becomes focused and powerful. The camera moves into a dramatic close-up of her face and sword, showing realistic skin texture, detailed hair, glowing reflections, and cinematic depth of field. Several mysterious black-clothed attackers appear around her, rushing toward her from different directions, creating a tense martial-arts atmosphere. She swiftly turns and performs powerful choreographed sword movements, blocking and striking the attackers with fast but believable movements while the glowing sword leaves subtle red light trails. The attackers are knocked down onto the stone street around her, while she remains standing confidently in the center with her sword raised, surrounded by red lanterns and light mist. End with a wide cinematic shot slowly pulling back to reveal the woman standing alone among the fallen attackers, ancient village buildings and mountains behind her, maintaining consistent character appearance, realistic motion, cinematic lighting, detailed textures, dramatic atmosphere, smooth camera movement, 16:9 aspect ratio, 30 seconds, no text, no watermark.
-```
-
-</details>
-
----
-
-## 104. Warrior and Cyber Beast Charge Through the Apocalypse
-
-▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/549af985-3335-4c08-b8ba-71298c10ad06/generate.mp4)**
-
-![Warrior and Cyber Beast Charge Through the Apocalypse](https://cdn.lipsync.video/lipsync/cdn/feature-case/549af985-3335-4c08-b8ba-71298c10ad06/cover.jpg)
-
-**16:9 · 4K · 15s · Seedance**
-
-[Original post](https://x.com/AvelyrahnAI/status/2104086835081416893) · 2026-09-27 13:52 (UTC+08:00)
-
-<details>
-<summary>Show full prompt</summary>
-
-```text
-Cinematic 4K shot, a fierce female warrior with long hair and tactical leather gear falling from the sky alongside a hairless Sphynx cat onto a cracked, ruined concrete rooftop in an apocalyptic city with a massive tornado spinning in the background. The warrior lands on one knee, summons glowing golden energy in her palm, and strikes the ground. Intricate sci-fi nano-armor plates instantly snap and wrap around her arms and body, glowing with bright orange energy lines. The small Sphynx cat suddenly transforms into a massive, terrifying horned cybernetic beast. The armored female warrior and the monstrous beast stand side-by-side, charging forward into battle amid smoke, dust, and dramatic cinematic lighting. High-speed dynamic camera tracking, photorealistic, action-packed sci-fi blockbuster style.
-
-#Flovaai #Flovacpp
 ```
 
 </details>
@@ -5270,72 +4317,6 @@ Created a 15-second cinematic fantasy battle scene in a ruined ancient city at s
 
 ---
 
-## 117. Flaming Spear Hero Battles the Stone Colossi
-
-▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/07f98d57-a232-4b78-9dab-943f61aa31ab/generate.mp4)**
-
-![Flaming Spear Hero Battles the Stone Colossi](https://cdn.lipsync.video/lipsync/cdn/feature-case/07f98d57-a232-4b78-9dab-943f61aa31ab/cover.jpg)
-
-**16:9 · 1080p · 15s · Seedance**
-
-[Original post](https://x.com/Xaroon_x/status/2100595334833422793) · 2026-09-17 22:38 (UTC+08:00)
-
-<details>
-<summary>Show full prompt</summary>
-
-```text
-15s cinematic fantasy action. REFERENCE IMAGE 1 is the EXACT STORYBOARD. Follow its 20 frames, timing, shot order, camera angles, poses, actions, composition and transitions exactly. REFERENCE IMAGE 2 is ONLY the male character identity. Replace the female warrior in Image 1 with the exact male from Image 2. Preserve his face, wavy dark hair, full beard, skin tone, body proportions and black outfit. Keep the flaming spear, ruined fortress, cracked stone floor, fog and grey-blue cinematic lighting.
-
-00:00–00:00.6 F1: Hero jumps from above with flaming spear.
-00:00.6–00:01.2 F2: Hero lands in deep crouch, dust bursts.
-00:01.2–00:01.8 F3: Hero stands as stone golems appear.
-00:01.8–00:02.4 F4: Golems surround him; spear ready.
-00:02.4–00:03.0 F5: Hero makes first powerful spear swing.
-00:03.0–00:03.6 F6: Spear hits golem; sparks and rocks explode.
-00:03.6–00:04.2 F7: Hero spins, flaming trail, hits multiple golems.
-00:04.2–00:05.0 F8: Another golem falls among debris.
-00:05.0–00:05.8 F9: Hero pauses and sees larger threat.
-00:05.8–00:06.6 F10: Massive stone golem rises through fog.
-00:06.6–00:07.4 F11: Giant close-up, blue-white eyes glowing.
-00:07.4–00:08.2 F12: Hero faces giant, spear diagonal.
-00:08.2–00:09.0 F13: Giant steps toward hero.
-00:09.0–00:09.8 F14: Hero charges with spear raised.
-00:09.8–00:10.6 F15: Spear hits giant; huge orange explosion.
-00:10.6–00:11.4 F16: Giant staggers; rocks fly.
-00:11.4–00:12.2 F17: Giant collapses; dust spreads.
-00:12.2–00:13.0 F18: Hero stands in dust with burning spear.
-00:13.0–00:14.0 F19: ENORMOUS stone face emerges behind ruins; blue eyes ignite.
-00:14.0–00:15.0 F20: Final wide shot; hero faces colossal face.
-
-PRIORITY: Image 1 controls the complete video sequence and choreography. Image 2 controls ONLY male identity. Maintain exact identity, costume, weapon, environment, scale, lighting and geography. No female, extra heroes, modern objects, cartoon style, text, subtitles or watermark.
-```
-
-</details>
-
----
-
-## 118. Pink Jet Tractor Races Supercars on a Tokyo Expressway
-
-▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/0dc8d25f-95bc-46d4-837b-7a6b232850e8/generate.mp4)**
-
-![Pink Jet Tractor Races Supercars on a Tokyo Expressway](https://cdn.lipsync.video/lipsync/cdn/feature-case/0dc8d25f-95bc-46d4-837b-7a6b232850e8/cover.jpg)
-
-**16:9 · 8K · 30s · Seedance**
-
-[Original post](https://x.com/laviniavelle/status/2100806296949903511) · 2026-09-18 12:37 (UTC+08:00)
-
-<details>
-<summary>Show full prompt</summary>
-
-```text
-A high octane cinematic action sequence on an urban highway in Tokyo photorealistic 8k resolution, highly detailed motion blur  An East Asian woman wearing a white tank top floral pink trousers, and sunglasses on her head driving a custom bright pink tractor fitted with a huge jet engine turbine mounted on the back  The sports cars a black modern supercar a red Ferrari SF90 and a silver Lamborghini) race dynamically on the highway The woman presses a bright red booster button on the dashboard engaging the rear jet engine which ignites with intense flames, smoke and an enormous burst of speed leaving high-end supercars behind on the multi-lane expressway A busy Japanese city highway with elevated overpasses skyscrapers city traffic and realistic dynamic motion blur along the road  Fast paced camera cuts tracking shots, close-up details of the jet engine ignition front tracking shot of the pink tractor speeding ahead of exotic supercars dynamic lighting dramatic color grading.
-#Flovaai #Flovaccp @Flovaai_Japan
-```
-
-</details>
-
----
-
 ## 119. Street Woman Transforms into a Mech to Battle a Giant Demon
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/6008b5b6-3cdd-48fb-a9e2-97512ebf76f6/generate.mp4)**
@@ -5645,39 +4626,6 @@ A cinematic sci-fi action scene set on a skyscraper rooftop overlooking a glowin
 
 ```text
 A fierce female secret agent with white hair styled in a bun, wearing a grey maid uniform and a white face mask, runs at full speed down a luxurious dark marble corridor with warm vertical LED strip lighting and floor-to-ceiling glass windows overlooking a moonlit ocean at night, tightly clutching an antique wooden box. Two burly bodyguards in black suits chase her. She leaps into the air and delivers a powerful flying side-kick into the chest of the lead guard, sending him crashing backward. She lands gracefully, turns sharply, kneels to place the wooden box on the floor, and stands up. In a dramatic motion, she pulls off her white face mask and flings it away, tearing off her maid uniform jacket to reveal a sleek white athletic crop top and shorts. She engages in high-speed martial arts combat, leaping into mid-air splits, dodging sword strikes, and executing dynamic counter-attacks against multiple armed opponents in a flurry of motion.
-```
-
-</details>
-
----
-
-## 128. Absurd Package Chase That Ends in a Successful Delivery
-
-▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/90841a9a-277d-42fb-a334-ac56b9176f27/generate.mp4)**
-
-![Absurd Package Chase That Ends in a Successful Delivery](https://cdn.lipsync.video/lipsync/cdn/feature-case/90841a9a-277d-42fb-a334-ac56b9176f27/cover.jpg)
-
-**16:9 · 1080p · 30s · Seedance**
-
-[Original post](https://x.com/AIwithSynthia/status/2098615400141619289) · 2026-09-12 11:31 (UTC+08:00)
-
-<details>
-<summary>Show full prompt</summary>
-
-```text
-GTA-style chaos, but the mission makes absolutely no sense. 😂
-
-Created with Seedance 2.5 on @itsPolloAI 
-
-Create a 30-second realistic AAA third-person open-world game sequence in a lively local Japanese neighborhood. Use the uploaded image as the exact character reference: a young Korean woman in her early 20s with long black hair, pastel-lavender top, white cargo pants and sneakers. Keep her appearance consistent.
-
-She notices a delivery cyclist carrying a cardboard package, grabs the package, and runs. The cyclist chases her through the streets. She hides behind a parked kei truck, sneaks out, then accidentally crashes into another delivery worker, sending boxes everywhere. She ignores a “RETURN PACKAGE” prompt and runs again. She crosses a pedestrian bridge, briefly leaves the package beside a bench, grabs it when the cyclist arrives, and continues escaping.
-
-She eventually reaches the address printed on the package and realizes she has accidentally delivered it to the correct recipient. The recipient happily takes it while the exhausted cyclist arrives and looks completely confused. She gives him an innocent smile and walks away.
-
-Use authentic third-person gameplay graphics, realistic 3D characters, detailed village/neighborhood environment, believable physics and NPC reactions. Include a GTA-style HUD with minimap, health/stamina bars, controller prompts, mission objectives, alert markers and notifications such as “PACKAGE STOLEN,” “THEY FOUND YOU,” “BAD DECISION,” “DELIVERY COMPLETE,” “MISSION COMPLETE,” and “CHAOS +150.”
-
-No anime, cartoon, cel-shading, mobile-game graphics, cinematic movie shots, distorted characters, inconsistent objects, gore or unrealistic physics.
 ```
 
 </details>
@@ -6027,51 +4975,6 @@ Hydro Step高速突进 → Water Guard硬接攻击 → Face Water Cannon正面�
 
 ---
 
-## 131. Purple-Energy Hero Rooftop Battle
-
-▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/dd79361d-4479-448c-881d-7ef7e6531d1d/generate.mp4)**
-
-![Purple-Energy Hero Rooftop Battle](https://cdn.lipsync.video/lipsync/cdn/feature-case/dd79361d-4479-448c-881d-7ef7e6531d1d/cover.jpg)
-
-**4:3 · 1080p · 15s · Seedance**
-
-[Original post](https://x.com/Xaroon_x/status/2100507474792948117) · 2026-09-17 16:49 (UTC+08:00)
-
-<details>
-<summary>Show full prompt</summary>
-
-```text
-CONCEPT
-Cinematic live-action rooftop superhero fight featuring the EXACT male hero from Reference Image 1. Faithfully recreate the reference video's action, pacing, camera language, environment, and movement.
-
-SETTING
-Bright daytime urban rooftop with concrete walls, stairs, wires, palm trees, buildings, dust, and hard sunlight. Preserve realistic physics.
-
-CAMERA
-Dynamic cinematic action: wide angles, rapid reframing, low angles, close tracking, handheld movement.
-
-CAMERAMAN MOTION
-Start with fast lateral tracking and purple energy. Track and rotate during wall-running. End wider for the aerial impact.
-
-SUBJECT — REFERENCE IMAGE 1 IDENTITY LOCK
-The hero MUST be the EXACT male character from Reference Image 1. Preserve face, eyes, nose, lips, jawline, skin, hairstyle, hairline, body proportions, physique, age appearance. Do not replace or morph him. He wears a fitted blue-and-white martial-arts outfit. Opponents are adult males in dark tactical clothing. Purple energy surrounds attacks.
-
-ACTION TIMELINE
-0–3s HOOK: Fast rooftop tracking with purple energy. Reveal the exact Reference Image 1 hero rushing toward attackers, then wall-running.
-3–7s BUILD UP: Hero runs horizontally along the wall, transitions into combat, and strikes attackers with purple energy.
-7–10s PAYOFF: Hero performs a powerful aerial move and descends with force. The rooftop cracks on impact, sending dust and debris outward. End as dust settles.
-
-AUDIO
-Action: wind, whooshes, impacts, energy, footsteps, concrete breaks, debris crashes. Build intensity to the final impact. Maintain consistent character scale, anatomy lighting, impact timing, and camera direction throughout the sequence.
-
-NEGATIVE PROMPT
-No identity drift, different face, female hero, morphing, face swap, hairstyle/body changes, costume redesign, duplicates, extra limbs, teleportation, impossible physics, random cuts, new locations/events, cartoon/anime style, plastic skin, uncontrolled purple glow. Preserve live-action realism and Reference Image 1 fidelity.
-```
-
-</details>
-
----
-
 ## 132. Girl Turns a Playful Dog Chase into Street Cardio
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/e878ce81-eaec-4d1b-a11f-ac517645c9fa/generate.mp4)**
@@ -6114,27 +5017,6 @@ She reaches a safe spot, bends over briefly to catch her breath, then looks at t
 CAMERA & REALISM
 
 Amateur one-handed iPhone recording. Natural handheld shake, imperfect framing, slight tilt, occasional autofocus shifts, automatic exposure changes, realistic motion blur, natural smartphone colors, subtle digital sharpening and compression. Environmental details remain visible. No cinematic look.
-```
-
-</details>
-
----
-
-## 133. Armored Female Warrior Battles a Multi-Armed Alien Cyborg
-
-▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/90cfcef8-3492-4092-92a2-6b96d8c52466/generate.mp4)**
-
-![Armored Female Warrior Battles a Multi-Armed Alien Cyborg](https://cdn.lipsync.video/lipsync/cdn/feature-case/90cfcef8-3492-4092-92a2-6b96d8c52466/cover.jpg)
-
-**16:9 · 8K · 34s · Seedance**
-
-[Original post](https://x.com/AvelyrahnAI/status/2092500591331385840) · 2026-08-26 14:33 (UTC+08:00)
-
-<details>
-<summary>Show full prompt</summary>
-
-```text
-Cinematic 8K sci-fi action sequence, an athletic female warrior in advanced tactical military armor with sleek metallic-green plating and shoulder-mounted twin heavy cannons stands on a high-rise rooftop overlooking a sprawling city skyline under an overcast sky. Seamless hard-hitting martial arts combat inside a luxury high-rise penthouse against a fierce, multi-armed white and black alien cyborg monster with glowing blue optical sensors. Dynamic camera tracking, motion blur, visceral punch impacts, breaking glass, realistic lighting, high-end Hollywood blockbuster cinematography, photorealistic texture detail.
 ```
 
 </details>
@@ -6269,62 +5151,6 @@ Timeline (30 sec):
 Audio:
 Ice cream truck jingle fading, footsteps, distant birds, faint traffic. Her dialogue as noted above. No added music.
 Goal: A nostalgic, joyful summer chase moment playful, warm, believable.
-```
-
-</details>
-
----
-
-## 136. Thirty-Second Live US News Helicopter Coverage
-
-▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/bee9e5dd-d3d4-48ab-842b-9c44c59b3bcc/generate.mp4)**
-
-![Thirty-Second Live US News Helicopter Coverage](https://cdn.lipsync.video/lipsync/cdn/feature-case/bee9e5dd-d3d4-48ab-842b-9c44c59b3bcc/cover.jpg)
-
-**16:9 · 720p · 30s · Seedance**
-
-[Original post](https://x.com/AIwithSynthia/status/2095804336328872106) · 2026-09-04 17:21 (UTC+08:00)
-
-<details>
-<summary>Show full prompt</summary>
-
-```text
-Created with Seedance 2.5 on Rezona Lab 
-
-@rezona_ai 
-
-Prompt 👇
-
-Generate a continuous 30-second raw live USA television news helicopter coverage of the ongoing aftermath of a stolen police helicopter incident. Core subject is the same overweight elderly woman in a floral bathrobe, now confidently piloting the stolen police helicopter across the city, who discovers the aircraft is somehow armed with rockets and begins using them with GTA-videogame-player logic — firing at absurd non-human targets while police pursue helplessly below. Style is unpolished live TV news helicopter footage only: continuous single high-altitude shot with aggressive tracking, natural organic shake, realistic physics with comedic timing, bright daylight, no cinematic grading, no slow motion, no film look. Tone is unintentionally hilarious live news chaos — the humor comes from a grandma treating a police helicopter like a video game, with spectacular but harmless property destruction. Nobody is ever injured on screen.
-
-阶段一
-开始时：Distant high news-helicopter view tracking the stolen police helicopter flying unsteadily but confidently over city rooftops. The elderly woman in the floral bathrobe is visible in the pilot seat, bathrobe sleeve resting out the window. A dozen police cars stream along the streets far below, sirens flashing, uselessly following her shadow.
-主要事件：She experimentally flips switches in the cockpit — the helicopter's landing lights flash, then the PA siren whoops once, then suddenly a rocket fires accidentally with a bright plume, streaking away and blowing up an empty billboard advertising a retirement home. The billboard collapses in a shower of debris onto an empty parking lot.
-结束时：Smoke rising from the destroyed billboard, the helicopter wobbling from the recoil, police cars below screeching to a stop in disbelief.
-
-阶段二
-承接上一阶段：Same continuous distant helicopter tracking shot, same woman, same stolen police helicopter over the city.
-主要事件：Realizing what the button does, she leans into it with visible delight. She banks the helicopter in a wide clumsy arc and deliberately fires two rockets at a row of porta-potties staged in an empty construction site — they erupt in a geyser of blue liquid and debris, raining harmlessly over empty dirt. Construction workers far off to the side throw their helmets down and run in circles.
-结束时：Blue mist settling over the empty construction site, the helicopter completing its wobbly arc, police below rerouting frantically.
-
-阶段三
-承接上一阶段：Continuous same high-angle news helicopter framing, identities and aircraft unchanged.
-主要事件：Police deploy a spike-strip truck and a drone to intercept. She out-flies the drone by accident — her erratic piloting is impossible to predict — and the drone crashes into a fountain. She then fires a rocket at an abandoned condemned parking garage scheduled for demolition (a huge "DEMOLITION SITE — KEEP CLEAR" banner visible); the garage pancakes down in a perfect controlled-style collapse, dust billowing outward, accidentally doing the demolition crew's job. The demolition crew, watching from their safe distance, slow-clap.
-结束时：Dust cloud rolling across the empty demolition zone, the demolition foreman checking his clipboard confused, the helicopter hovering proudly above.
-
-阶段四
-承接上一阶段：Identical continuous helicopter shot, no cut, same aircraft and pilot.
-主要事件：A police negotiation helicopter rises to hover at a careful distance, an officer with a megaphone pleading. She responds by firing her last rocket straight up into the sky like a celebration firework — it detonates high above in a harmless starburst, showering sparks like a fireworks show. The negotiation helicopter backs away slowly, the megaphone officer lowering his megaphone in defeat. Below, an entire intersection of stopped drivers exits their cars to film with phones.
-主要事件结束时：The firework starburst fading in the sky, crowds filming from below, the police helicopter retreating, her helicopter doing a small proud wiggle.
-
-阶段五
-承接上一阶段：Same continuous distant high-altitude news helicopter tracking, same identity and aircraft.
-主要事件：Out of rockets, she shrugs visibly through the cockpit glass, pats the helicopter's dashboard like a loyal horse, and flies toward the setting sun over the harbor at full speed. Police boats join the chase in the water below, spraying wakes, equally hopeless. Her floral bathrobe sleeve gives one final wave out the window — the signature taunt.
-结束时：The stolen helicopter shrinking into the golden horizon over the water, a fleet of useless police boats and cars gridlocked below, the news helicopter holding its distant tracking shot as the escape completes.
-
-保持一致：Maintain the exact same overweight elderly woman in the same floral bathrobe, the same stolen marked police helicopter, continuous single distant high-altitude helicopter camera with natural live-news shake and aggressive tracking, the same bright daylight shifting toward golden hour in the final stage, realistic aircraft and explosion physics with comedic timing (humor from absurd contrast and GTA-player logic, not cartoon physics), and zero cuts for the entire 30 seconds. All rocket targets are explicitly empty, abandoned, or inanimate — no people are ever near the explosions and nobody is injured. No cinematic camera work, no slow motion, no dramatic color grade.
-
-Audio: heavy continuous helicopter rotor from both aircraft, rocket launch whooshes and echoing booms, debris clatter, the PA siren whoop, distant police sirens below, the drone buzzing then splashing into the fountain, the garage collapse rumble, the firework detonation crackle, faint crowd cheering and phone-camera chatter from street level, boat engines in the harbor, wind. No music. No subtitles. No voice-over.
 ```
 
 </details>
