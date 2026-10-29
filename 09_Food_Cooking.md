@@ -8,6 +8,8 @@
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/b0bd3250-4110-4352-9a9a-e4bb6e83e027/generate.mp4)**
 
+![Frozen Time and Rewind in a 1950s Diner](https://cdn.lipsync.video/lipsync/cdn/feature-case/b0bd3250-4110-4352-9a9a-e4bb6e83e027/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance 2.5**
 
 [Original post](https://x.com/techhalla/status/2083389002552664385) · 2026-08-01 11:07 (UTC+08:00)
@@ -39,6 +41,8 @@ Photorealistic, ultra-detailed fluid physics, perfect motion blur only on moving
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/31694bb5-4e0f-40d7-9135-7da7dd96e55d/generate.mp4)**
 
+![A Ketchup Mix-Up at an Italian Restaurant](https://cdn.lipsync.video/lipsync/cdn/feature-case/31694bb5-4e0f-40d7-9135-7da7dd96e55d/cover.jpg)
+
 **16:9 · 720p · 15s · Seedance 2.5**
 
 [Original post](https://x.com/Elvorya/status/2106974836887318797) · 2026-10-05 13:08 (UTC+08:00)
@@ -62,6 +66,8 @@ Style: polished cinematic 3D animation, expressive facial animation, charming fa
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/e6d9fa3e-6c8b-456d-8324-f1906928941a/generate.mp4)**
 
+![Apocalypse Survivor and the Infected Dog](https://cdn.lipsync.video/lipsync/cdn/feature-case/e6d9fa3e-6c8b-456d-8324-f1906928941a/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance 2.5**
 
 [Original post](https://x.com/AIwithkhan/status/2095351192054595892) · 2026-09-03 11:20 (UTC+08:00)
@@ -80,6 +86,8 @@ Multi-shot sequence with hard cuts between shots. Keep the same characters and v
 ## 4. Seedance 2.5 Late-Night Kitchen Phone Footage
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/7a65b2b4-5673-45e1-8e5b-82f263b1c564/generate.mp4)**
+
+![Seedance 2.5 Late-Night Kitchen Phone Footage](https://cdn.lipsync.video/lipsync/cdn/feature-case/7a65b2b4-5673-45e1-8e5b-82f263b1c564/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance 2.5**
 
@@ -137,6 +145,8 @@ STRICTLY AVOID: cinematic color grading, beauty filters, artificial skin smoothi
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/e88dde90-3e0e-4914-91fe-e792eeab0e02/generate.mp4)**
 
+![90s Diner Time Freeze Effect](https://cdn.lipsync.video/lipsync/cdn/feature-case/e88dde90-3e0e-4914-91fe-e792eeab0e02/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance 2.5**
 
 [Original post](https://x.com/techhalla/status/2085200942060691807) · 2026-08-06 11:07 (UTC+08:00)
@@ -170,6 +180,8 @@ Photorealistic, ultra-detailed fluid and object physics, perfect volume and surf
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/f3e6409a-f68d-4afc-ad2f-433c2ba69156/generate.mp4)**
 
+![Preparing Garlic Stir-Fried Greens in a Rustic Kitchen](https://cdn.lipsync.video/lipsync/cdn/feature-case/f3e6409a-f68d-4afc-ad2f-433c2ba69156/cover.jpg)
+
 **9:16 · 720p · 17s · Seedance 2.5**
 
 [Original post](https://x.com/aynellex/status/2105869869216342141) · 2026-10-02 11:57 (UTC+08:00)
@@ -199,6 +211,8 @@ Ultra-photorealistic cinematic live-action food commercial, authentic Asian home
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/92a0976b-c77a-49fe-96d5-58b937976e16/generate.mp4)**
 
+![Tokyo Street Food Phone Vlog](https://cdn.lipsync.video/lipsync/cdn/feature-case/92a0976b-c77a-49fe-96d5-58b937976e16/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance 2.5**
 
 [Original post](https://x.com/saniaspeaks_/status/2088605003112235033) · 2026-08-15 20:33 (UTC+08:00)
@@ -217,6 +231,8 @@ Ultra-realistic smartphone food vlog set in a charming neighborhood in Tokyo, Ja
 ## 8. Blueprint-to-House Timelapse Transformation
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/202bc533-e585-4948-b048-e0648eec86e3/generate.mp4)**
+
+![Blueprint-to-House Timelapse Transformation](https://cdn.lipsync.video/lipsync/cdn/feature-case/202bc533-e585-4948-b048-e0648eec86e3/cover.jpg)
 
 **16:9 · 720p · 13s · Seedance 2.0**
 
@@ -253,6 +269,8 @@ Audio: Soft relaxing jazz with brushed drums, upright bass, warm piano, and mell
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/8ac87ab9-7ce7-4972-989a-a21d3fda92df/generate.mp4)**
 
+![Korean Barbecue Cooking Process](https://cdn.lipsync.video/lipsync/cdn/feature-case/8ac87ab9-7ce7-4972-989a-a21d3fda92df/cover.jpg)
+
 **16:9 · 1080p · 13s · Seedance 2.0**
 
 [Original post](https://x.com/Strength04_X/status/2070471862522695793) · 2026-06-26 19:38 (UTC+08:00)
@@ -274,6 +292,8 @@ Location: Traditional Korean BBQ restaurant with stone tabletop grill.
 ## 10. Cute Bunny Chef Anime Cooking
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/ee4d60dd-e98e-4ee4-9101-5d1e3f9b4d7c/generate.mp4)**
+
+![Cute Bunny Chef Anime Cooking](https://cdn.lipsync.video/lipsync/cdn/feature-case/ee4d60dd-e98e-4ee4-9101-5d1e3f9b4d7c/cover.jpg)
 
 **16:9 · 4K · 15s · Seedance 2.0**
 
@@ -324,6 +344,8 @@ No face, no full body, no realistic human, no scary bunny, no dark mood, no burn
 ## 11. Katsudon in a Sunlit Japanese Kitchen
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/11490522-b3f0-4cbe-ae7f-c94529f8187c/generate.mp4)**
+
+![Katsudon in a Sunlit Japanese Kitchen](https://cdn.lipsync.video/lipsync/cdn/feature-case/11490522-b3f0-4cbe-ae7f-c94529f8187c/cover.jpg)
 
 **16:9 · 1080p · 30s · Seedance**
 
@@ -398,6 +420,8 @@ No storyboard, reference image, sketch, panels, borders, numbers, arrows, annota
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/180ad359-8650-41fd-b6c8-dc033ea3027d/generate.mp4)**
 
+![Mother Takes Boy's Seat for Crepes](https://cdn.lipsync.video/lipsync/cdn/feature-case/180ad359-8650-41fd-b6c8-dc033ea3027d/cover.jpg)
+
 **16:9 · 4K · 20s · Seedance, GPT Image**
 
 [Original post](https://x.com/Just_sharon7/status/2091529113425297759) · 2026-08-23 22:12 (UTC+08:00)
@@ -434,6 +458,8 @@ Warm, wholesome mother-son atmosphere, natural movements, soft kitchen lighting,
 ## 13. The Tiny Frog Chef at a Moonlit Pond Restaurant
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/76bbb699-c6b1-4979-b046-bdd5ef3696c4/generate.mp4)**
+
+![The Tiny Frog Chef at a Moonlit Pond Restaurant](https://cdn.lipsync.video/lipsync/cdn/feature-case/76bbb699-c6b1-4979-b046-bdd5ef3696c4/cover.jpg)
 
 **16:9 · 4K · 30s · Seedance, Kling**
 
@@ -646,6 +672,8 @@ No text, no subtitles, no logos, no watermark.
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/f623d9c3-ab12-4f2d-a381-f7b8ea3e3804/generate.mp4)**
 
+![Seedance Ghibli-Style Comfort Cooking Animation](https://cdn.lipsync.video/lipsync/cdn/feature-case/f623d9c3-ab12-4f2d-a381-f7b8ea3e3804/cover.jpg)
+
 **16:9 · 720p · 11s · Seedance, Kling**
 
 [Original post](https://x.com/AiwithLariab/status/2088848553863233935) · 2026-08-16 12:41 (UTC+08:00)
@@ -664,6 +692,8 @@ A cozy Studio Ghibli-inspired cinematic cooking animation showing a delicious gr
 ## 15. Summer Camping in the Korean Mountains
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/8d5beece-3131-4907-bfdc-2a1308754160/generate.mp4)**
+
+![Summer Camping in the Korean Mountains](https://cdn.lipsync.video/lipsync/cdn/feature-case/8d5beece-3131-4907-bfdc-2a1308754160/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance**
 
@@ -688,6 +718,8 @@ Negative Prompt: No CGI look, teleportation, floating objects, weightless equipm
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/967c56c9-89ff-49d4-9d9b-6fb3649efcc6/generate.mp4)**
 
+![South Asian Woman Shops for Vegetables and Preps a Meal](https://cdn.lipsync.video/lipsync/cdn/feature-case/967c56c9-89ff-49d4-9d9b-6fb3649efcc6/cover.jpg)
+
 **4:3 · 4K · 15s · Seedance**
 
 [Original post](https://x.com/CaliraVal/status/2100087681283924449) · 2026-09-16 13:01 (UTC+08:00)
@@ -707,6 +739,8 @@ Keep the same young South Asian woman, same face, hairstyle and clear stylish gl
 ## 17. Restaurant Chef’s Flaming Wok Performance
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/6a92f715-1db3-4537-9c6c-8098507997c1/generate.mp4)**
+
+![Restaurant Chef’s Flaming Wok Performance](https://cdn.lipsync.video/lipsync/cdn/feature-case/6a92f715-1db3-4537-9c6c-8098507997c1/cover.jpg)
 
 **16:9 · 720p · 15s · Seedance**
 
@@ -732,6 +766,8 @@ Create a 15-second cinematic 3D animated cooking sequence inside a professional 
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/2eb231e7-57c5-4793-a266-a0b9533f6e11/generate.mp4)**
 
+![Rainy Window, Coffee and Vinyl: A Quiet Afternoon](https://cdn.lipsync.video/lipsync/cdn/feature-case/2eb231e7-57c5-4793-a266-a0b9533f6e11/cover.jpg)
+
 **16:9 · 720p · 10s · Seedance**
 
 [Original post](https://x.com/Lianaalane/status/2096105365419209139) · 2026-09-05 13:17 (UTC+08:00)
@@ -750,6 +786,8 @@ A beautiful young East Asian woman with long straight black hair, wearing a soft
 ## 19. Summer Night at a Rural County Fair
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/ca276339-aca4-43b7-bed0-4e23c0ccb1d8/generate.mp4)**
+
+![Summer Night at a Rural County Fair](https://cdn.lipsync.video/lipsync/cdn/feature-case/ca276339-aca4-43b7-bed0-4e23c0ccb1d8/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance**
 
@@ -775,6 +813,8 @@ Use only natural fairground audio and live music with short, synchronized Americ
 ## 20. Tiny Woman in a Tabletop Dessert World
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/b7db6636-6942-42b8-951d-324c0e4f9a23/generate.mp4)**
+
+![Tiny Woman in a Tabletop Dessert World](https://cdn.lipsync.video/lipsync/cdn/feature-case/b7db6636-6942-42b8-951d-324c0e4f9a23/cover.jpg)
 
 **16:9 · 1080p · 30s · Seedance, GPT Image**
 
@@ -818,6 +858,8 @@ Cheerful 1960s adventure television music, playful brass and strings. At 26 seco
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/265e230f-d716-41c6-a20e-0ef455373125/generate.mp4)**
 
+![Photoreal Korean Countryside Village Vlog](https://cdn.lipsync.video/lipsync/cdn/feature-case/265e230f-d716-41c6-a20e-0ef455373125/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/aiwithaly/status/2095733454461907437) · 2026-09-04 12:39 (UTC+08:00)
@@ -846,6 +888,8 @@ No CGI, no artificial faces, no beauty filters, no robotic acting, no staged pos
 ## 22. First Taste of Korean BBQ at a Summer Night Market
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/d13f3d77-e079-4a77-a028-67e492dfda9c/generate.mp4)**
+
+![First Taste of Korean BBQ at a Summer Night Market](https://cdn.lipsync.video/lipsync/cdn/feature-case/d13f3d77-e079-4a77-a028-67e492dfda9c/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance**
 
@@ -886,6 +930,8 @@ Priority: Every action must follow naturally from the previous one, with realist
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/264242fe-ff1d-444a-bec1-fc054209d588/generate.mp4)**
 
+![Making Crispy Korean-Style Glazed Chicken](https://cdn.lipsync.video/lipsync/cdn/feature-case/264242fe-ff1d-444a-bec1-fc054209d588/cover.jpg)
+
 **16:9 · 478p · 30s · Seedance**
 
 [Original post](https://x.com/aynellex/status/2105532781258571918) · 2026-10-01 13:38 (UTC+08:00)
@@ -912,6 +958,8 @@ Ultra-photorealistic cinematic live-action food commercial, realistic human hand
 ## 24. Baking a Chocolate Cake in a Sunlit Kitchen
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/3927ce57-773b-442e-b13b-1b33db07369b/generate.mp4)**
+
+![Baking a Chocolate Cake in a Sunlit Kitchen](https://cdn.lipsync.video/lipsync/cdn/feature-case/3927ce57-773b-442e-b13b-1b33db07369b/cover.jpg)
 
 **9:16 · 8K · 15s · Seedance, Kling**
 
@@ -949,6 +997,8 @@ Warm, inviting, cozy cooking atmosphere, smooth camera movements, professional f
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/9fc7bb37-dd76-48c9-b147-332d49740563/generate.mp4)**
 
+![Inclined-Track Ball Experiment in a University Physics Class](https://cdn.lipsync.video/lipsync/cdn/feature-case/9fc7bb37-dd76-48c9-b147-332d49740563/cover.jpg)
+
 **16:9 · 478p · 30s · Seedance**
 
 [Original post](https://x.com/aiwithaayat/status/2102331859657253174) · 2026-09-22 17:39 (UTC+08:00)
@@ -967,6 +1017,8 @@ Create a cinematic, realistic educational video set inside a modern university p
 ## 26. A Red Toy Mouse Gives a Girl and an Infected Cat New Life
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/3ea888a8-8e0a-4503-989a-7860a07f78e5/generate.mp4)**
+
+![A Red Toy Mouse Gives a Girl and an Infected Cat New Life](https://cdn.lipsync.video/lipsync/cdn/feature-case/3ea888a8-8e0a-4503-989a-7860a07f78e5/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance**
 
@@ -1013,6 +1065,8 @@ Ultra-realistic, photorealistic live-action, natural human and animal movement, 
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/dc57949c-9a78-4873-b4d9-925418f29ee6/generate.mp4)**
 
+![Anime Food Video: Grilled Skewers and Pomegranate](https://cdn.lipsync.video/lipsync/cdn/feature-case/dc57949c-9a78-4873-b4d9-925418f29ee6/cover.jpg)
+
 **16:9 · 720p · 10s · Seedance, Kling**
 
 [Original post](https://x.com/aiwithlumi/status/2095496077764100446) · 2026-09-03 20:56 (UTC+08:00)
@@ -1031,6 +1085,8 @@ Create a short anime-style food video showing the step-by-step preparation of gr
 ## 28. An Evening With Her Favorite Friends
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/45071fed-3bd9-4c4b-9bac-ac9fd4ea9a38/generate.mp4)**
+
+![An Evening With Her Favorite Friends](https://cdn.lipsync.video/lipsync/cdn/feature-case/45071fed-3bd9-4c4b-9bac-ac9fd4ea9a38/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance**
 

@@ -8,6 +8,8 @@
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/03eddbf6-a52c-4598-b6db-5ef5833bf3bb/generate.mp4)**
 
+![Toddler Copies Dad’s Shaving, Foam Beard Makes Parents Laugh](https://cdn.lipsync.video/lipsync/cdn/feature-case/03eddbf6-a52c-4598-b6db-5ef5833bf3bb/cover.jpg)
+
 **9:16 · 720p · 21s · Seedance 2.5**
 
 [Original post](https://x.com/Zarnab_with_Ai/status/2106560621932384657) · 2026-10-04 09:42 (UTC+08:00)
@@ -43,6 +45,8 @@ Keep the characters consistent throughout the entire video. Preserve the toddler
 ## 2. Braided Swordswoman Breaks Out of the Letterbox Frame
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/636b4db0-f44b-4b55-a694-93591a5380e8/generate.mp4)**
+
+![Braided Swordswoman Breaks Out of the Letterbox Frame](https://cdn.lipsync.video/lipsync/cdn/feature-case/636b4db0-f44b-4b55-a694-93591a5380e8/cover.jpg)
 
 **16:9 · 1080p · 30s · Seedance 2.5**
 
@@ -107,6 +111,8 @@ Fast real-time movement throughout, including the opening wipe. No slow motion, 
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/7d7dfe4a-c1bd-48dd-bcd5-e8646c7ae858/generate.mp4)**
 
+![Woman Splashes Attacker with Coffee and Bins Him in Seoul Subway](https://cdn.lipsync.video/lipsync/cdn/feature-case/7d7dfe4a-c1bd-48dd-bcd5-e8646c7ae858/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance 2.5**
 
 [Original post](https://x.com/AIwithkhan/status/2113841913065615450) · 2026-10-24 11:56 (UTC+08:00)
@@ -143,6 +149,8 @@ VISUAL REQUIREMENTS: Maintain consistent faces, hairstyles, outfits, and locatio
 ## 4. A Stern Toddler Doctor and Her Nervous Adult Patient
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/3de83f59-bd59-43be-b580-1427b43aac55/generate.mp4)**
+
+![A Stern Toddler Doctor and Her Nervous Adult Patient](https://cdn.lipsync.video/lipsync/cdn/feature-case/3de83f59-bd59-43be-b580-1427b43aac55/cover.jpg)
 
 **9:16 · 1080p · 30s · Seedance 2.5**
 
@@ -181,6 +189,8 @@ Format: Vertical 9:16, 24 FPS, approximately 30 seconds, high-quality cinematic 
 ## 5. Woman in a Red Dress Carries Groceries to a Mountaintop Cloud Home
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/317e41b3-99c3-462e-a7b1-c209c5a7e24c/generate.mp4)**
+
+![Woman in a Red Dress Carries Groceries to a Mountaintop Cloud Home](https://cdn.lipsync.video/lipsync/cdn/feature-case/317e41b3-99c3-462e-a7b1-c209c5a7e24c/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance 2.5**
 
@@ -257,6 +267,8 @@ Important: Keep the woman's identity perfectly consistent across every shot. No 
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/cff4254e-d6a8-46d2-b3a9-2ad365d726f5/generate.mp4)**
 
+![Baby Copies Mom’s Morning Yoga and Ends with a Warm Hug](https://cdn.lipsync.video/lipsync/cdn/feature-case/cff4254e-d6a8-46d2-b3a9-2ad365d726f5/cover.jpg)
+
 **16:9 · 720p · 20s · Seedance 2.5**
 
 [Original post](https://x.com/Zarnab_with_Ai/status/2106347953711661482) · 2026-10-03 19:37 (UTC+08:00)
@@ -302,6 +314,8 @@ Important: Maintain identical character appearances, clothing, facial features, 
 ## 7. A Little Girl Learns Fruits and Their English Names at Preschool
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/5c661444-be38-4ec5-afe4-fc01c04131e2/generate.mp4)**
+
+![A Little Girl Learns Fruits and Their English Names at Preschool](https://cdn.lipsync.video/lipsync/cdn/feature-case/5c661444-be38-4ec5-afe4-fc01c04131e2/cover.jpg)
 
 **9:16 · 720p · 20s · Seedance 2.5**
 
@@ -364,6 +378,8 @@ No scary elements, no distorted faces, no extra fingers, and no character change
 ## 8. An Elderly Woman’s Red Scarf and First Love Beneath a Maple Tree
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/cc50afcd-9439-460c-ad7f-eae7609f1f96/generate.mp4)**
+
+![An Elderly Woman’s Red Scarf and First Love Beneath a Maple Tree](https://cdn.lipsync.video/lipsync/cdn/feature-case/cc50afcd-9439-460c-ad7f-eae7609f1f96/cover.jpg)
 
 **16:9 · 1080p · 20s · Seedance 2.5**
 
@@ -614,6 +630,8 @@ FINAL OUTPUT
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/b45adede-0a41-43f6-aeb4-8a6f1a37953f/generate.mp4)**
 
+![Eight Cute Animals and Their English Names in a Storybook Meadow](https://cdn.lipsync.video/lipsync/cdn/feature-case/b45adede-0a41-43f6-aeb4-8a6f1a37953f/cover.jpg)
+
 **9:16 · 720p · 50s · Seedance 2.5**
 
 [Original post](https://x.com/Zarnab_with_Ai/status/2107293811714191628) · 2026-10-06 10:16 (UTC+08:00)
@@ -691,6 +709,8 @@ Overall feeling: cheerful, wholesome, educational, playful, colorful preschool a
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/d3f41567-56a1-4afb-9ef5-fa3d08bbe271/generate.mp4)**
 
+![Toddler Teaching Body Parts in English in a Colorful Classroom](https://cdn.lipsync.video/lipsync/cdn/feature-case/d3f41567-56a1-4afb-9ef5-fa3d08bbe271/cover.jpg)
+
 **9:16 · 720p · 58s · Seedance 2.5**
 
 [Original post](https://x.com/Zarnab_with_Ai/status/2107066879038857330) · 2026-10-05 19:14 (UTC+08:00)
@@ -751,6 +771,8 @@ Format: 9:16 vertical, high resolution, smooth animation, clean composition, no 
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/470d9e26-3d8a-4018-9cbc-21e931a44fee/generate.mp4)**
 
+![Baby and Dog Make a Kitchen Mess as Dad Slips on a Banana Peel](https://cdn.lipsync.video/lipsync/cdn/feature-case/470d9e26-3d8a-4018-9cbc-21e931a44fee/cover.jpg)
+
 **9:16 · 1080p · 60s · Seedance 2.5**
 
 [Original post](https://x.com/Zarnab_with_Ai/status/2110558398492348605) · 2026-10-15 10:28 (UTC+08:00)
@@ -772,6 +794,8 @@ Create an ultra-realistic, cinematic 3D animated family comedy featuring an ador
 ## 12. Dad Questions a Cheeky Toddler About Eating Sugar at Kindergarten
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/f4063189-62bc-4cac-9d12-3d49a14b428f/generate.mp4)**
+
+![Dad Questions a Cheeky Toddler About Eating Sugar at Kindergarten](https://cdn.lipsync.video/lipsync/cdn/feature-case/f4063189-62bc-4cac-9d12-3d49a14b428f/cover.jpg)
 
 **9:16 · 1080p · 10s · Seedance 2.5**
 
@@ -846,6 +870,8 @@ Ultra-detailed 3D animation, 9:16 vertical format, 4K quality, smooth motion, ci
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/dc87feb3-725c-49f1-b3db-0bed22fae7f9/generate.mp4)**
 
+![A Husky Meets Two Rabbits in Snowy Mountains at Sunset](https://cdn.lipsync.video/lipsync/cdn/feature-case/dc87feb3-725c-49f1-b3db-0bed22fae7f9/cover.jpg)
+
 **16:9 · 720p · 81s · Seedance 2.5**
 
 [Original post](https://x.com/RizwanAly07/status/2110654938472952253) · 2026-10-15 16:52 (UTC+08:00)
@@ -905,6 +931,8 @@ Maintain consistent animal appearances throughout the entire video.
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/99074286-f9c6-4fe2-98a5-b80523cd5984/generate.mp4)**
 
+![A Toddler’s Grooming Grumpiness and Mirror Pride](https://cdn.lipsync.video/lipsync/cdn/feature-case/99074286-f9c6-4fe2-98a5-b80523cd5984/cover.jpg)
+
 **9:16 · 720p · 30s · Seedance 2.5**
 
 [Original post](https://x.com/Elvorya/status/2109822507826266502) · 2026-10-13 09:44 (UTC+08:00)
@@ -943,6 +971,8 @@ Negative prompt:No text, subtitles, logos, watermarks, extra fingers, distorted 
 ## 15. Toddler Feeds Dad Cash as Mom Joins a Playful Toy Money Scheme
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/bb69b0c5-b0ea-472c-a0c5-d45e3a18dcdd/generate.mp4)**
+
+![Toddler Feeds Dad Cash as Mom Joins a Playful Toy Money Scheme](https://cdn.lipsync.video/lipsync/cdn/feature-case/bb69b0c5-b0ea-472c-a0c5-d45e3a18dcdd/cover.jpg)
 
 **16:9 · 1080p · 22s · Seedance 2.5**
 
@@ -984,6 +1014,8 @@ Format: 16:9, 4K quality, 24 fps, approximately 22 seconds, family-friendly come
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/1f6e8d0c-c35a-4e6d-9c7b-fcf4d90d2460/generate.mp4)**
 
+![Six Adorable Baby Birds Represent the Days of the Week](https://cdn.lipsync.video/lipsync/cdn/feature-case/1f6e8d0c-c35a-4e6d-9c7b-fcf4d90d2460/cover.jpg)
+
 **9:16 · 720p · 10s · Seedance 2.5**
 
 [Original post](https://x.com/Zarnab_with_Ai/status/2107426089652117759) · 2026-10-06 19:01 (UTC+08:00)
@@ -1005,6 +1037,8 @@ Create a cute 3D animated weekly video featuring adorable fluffy baby birds, one
 ## 17. Baby Daughter Shares a Drawing and Gets a Hug from Her Busy Dad
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/afb5e70f-f544-425c-9327-0f0432e56fdd/generate.mp4)**
+
+![Baby Daughter Shares a Drawing and Gets a Hug from Her Busy Dad](https://cdn.lipsync.video/lipsync/cdn/feature-case/afb5e70f-f544-425c-9327-0f0432e56fdd/cover.jpg)
 
 **9:16 · 720p · 20s · Seedance 2.5**
 
@@ -1039,6 +1073,8 @@ Vertical 9:16 composition, cinematic framing, consistent character appearance th
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/775b436c-2227-4b16-9509-27a650398663/generate.mp4)**
 
+![Emotionally Expressive Japanese-Dialogue Animation](https://cdn.lipsync.video/lipsync/cdn/feature-case/775b436c-2227-4b16-9509-27a650398663/cover.jpg)
+
 **16:9 · 360p · 15s · Seedance 2.5**
 
 [Original post](https://x.com/sakisuta_/status/2088559545174175836) · 2026-08-15 17:32 (UTC+08:00)
@@ -1057,6 +1093,8 @@ Vertical 9:16 composition, cinematic framing, consistent character appearance th
 ## 19. A Miniature Woman’s Adventure Through a Giant Supermarket
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/f7a696f1-bce2-4a11-a895-6b609fcddaa5/generate.mp4)**
+
+![A Miniature Woman’s Adventure Through a Giant Supermarket](https://cdn.lipsync.video/lipsync/cdn/feature-case/f7a696f1-bce2-4a11-a895-6b609fcddaa5/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance 2.5**
 
@@ -1084,6 +1122,8 @@ NEGATIVE: Cartoon, anime, toy-like appearance, plastic skin, duplicated characte
 ## 20. Little Girls Skateboard to the School Bus
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/736bcfa1-f2f8-4f1f-ab0d-79298efd6f99/generate.mp4)**
+
+![Little Girls Skateboard to the School Bus](https://cdn.lipsync.video/lipsync/cdn/feature-case/736bcfa1-f2f8-4f1f-ab0d-79298efd6f99/cover.jpg)
 
 **9:16 · 480p · 30s · Seedance 2.5**
 
@@ -1124,6 +1164,8 @@ Important: Maintain the same character identity, clothing, hairstyle, backpack, 
 ## 21. A Little Girl’s Purple Glitter Nails and Remote Control Troubles
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/42da4435-5ee8-4127-9295-a85ec95656f2/generate.mp4)**
+
+![A Little Girl’s Purple Glitter Nails and Remote Control Troubles](https://cdn.lipsync.video/lipsync/cdn/feature-case/42da4435-5ee8-4127-9295-a85ec95656f2/cover.jpg)
 
 **9:16 · 720p · 26s · Seedance 2.5**
 
@@ -1177,6 +1219,8 @@ Important Requirements: Maintain the same toddler's face, hairstyle, clothing, p
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/26f5c3b2-26f8-4aac-88d0-cc04eeda71b3/generate.mp4)**
 
+![Baby Gets Vaccinated and Laughs as Dad Cries in Fear](https://cdn.lipsync.video/lipsync/cdn/feature-case/26f5c3b2-26f8-4aac-88d0-cc04eeda71b3/cover.jpg)
+
 **9:16 · 484p · 10s · Seedance 2.5**
 
 [Original post](https://x.com/Zarnab_with_Ai/status/2111280639295275309) · 2026-10-17 10:18 (UTC+08:00)
@@ -1213,6 +1257,8 @@ Important: Maintain consistent character appearances, natural body movements, ac
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/e2167ca2-ae87-49c9-aec3-9db68a390a44/generate.mp4)**
 
+![A Hijab-Wearing Girl’s Moonlit Lantern Walk with a Duckling and Rabbit](https://cdn.lipsync.video/lipsync/cdn/feature-case/e2167ca2-ae87-49c9-aec3-9db68a390a44/cover.jpg)
+
 **16:9 · 1080p · 30s · Seedance 2.5**
 
 [Original post](https://x.com/Zyrellix/status/2106604455151980846) · 2026-10-04 12:36 (UTC+08:00)
@@ -1233,6 +1279,8 @@ A magical 3D animated fairy-tale scene featuring a young girl wearing a black hi
 ## 24. A Toddler’s Flour-Bag Mischief Makes a Kitchen Mess
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/7f964b2d-9f7c-4404-a869-cb3093864c1c/generate.mp4)**
+
+![A Toddler’s Flour-Bag Mischief Makes a Kitchen Mess](https://cdn.lipsync.video/lipsync/cdn/feature-case/7f964b2d-9f7c-4404-a869-cb3093864c1c/cover.jpg)
 
 **9:16 · 720p · 15s · Seedance 2.5**
 
@@ -1255,6 +1303,8 @@ Create a 15-second vertical 3D animated cinematic comedy video. A young mother i
 ## 25. Babies and Animals Sail Watermelon Boats on a Fantasy Fruit River
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/ed210345-4c7f-40d9-84e5-9a9dc58ebfe7/generate.mp4)**
+
+![Babies and Animals Sail Watermelon Boats on a Fantasy Fruit River](https://cdn.lipsync.video/lipsync/cdn/feature-case/ed210345-4c7f-40d9-84e5-9a9dc58ebfe7/cover.jpg)
 
 **9:16 · 1080p · 17s · Seedance 2.5**
 
@@ -1302,6 +1352,8 @@ Audio: Gentle flowing water, soft splashes, cheerful baby giggles, cute animal s
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/907d423b-82cd-469e-8060-c5955a897620/generate.mp4)**
 
+![A Duckling’s Forest River Journey with Animal Friends](https://cdn.lipsync.video/lipsync/cdn/feature-case/907d423b-82cd-469e-8060-c5955a897620/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance 2.5**
 
 [Original post](https://x.com/Zyrellix/status/2108047742425600244) · 2026-10-08 12:12 (UTC+08:00)
@@ -1323,6 +1375,8 @@ The duckling stands alone at a calm pond, then jumps in with a splash, wings out
 ## 27. Toddler Bounces on Colorful Balls amid Paint Splashes
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/6007945c-7353-4fc1-8c48-4c31c7d05b19/generate.mp4)**
+
+![Toddler Bounces on Colorful Balls amid Paint Splashes](https://cdn.lipsync.video/lipsync/cdn/feature-case/6007945c-7353-4fc1-8c48-4c31c7d05b19/cover.jpg)
 
 **9:16 · 720p · 18s · Seedance 2.5**
 
@@ -1366,6 +1420,8 @@ Output: 9:16 vertical video, 1080 × 1920 resolution, approximately 18–20 seco
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/5f54e1e7-4688-4fbc-abcc-d90c3debdb53/generate.mp4)**
 
+![Toddler Hugs a Giant Teddy at the Mall and Gets Help After a Fall](https://cdn.lipsync.video/lipsync/cdn/feature-case/5f54e1e7-4688-4fbc-abcc-d90c3debdb53/cover.jpg)
+
 **9:16 · 1080p · 30s · Seedance 2.5**
 
 [Original post](https://x.com/Zarnab_with_Ai/status/2112502546770297161) · 2026-10-20 19:13 (UTC+08:00)
@@ -1404,6 +1460,8 @@ Consistency Rules: Keep all characters visually consistent throughout the video.
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/2d90ab7b-6122-43a7-843a-1040a1f6ce4f/generate.mp4)**
 
+![Baby Conjures Kittens with a Hammer, Startling a Bunny in a Courtyard](https://cdn.lipsync.video/lipsync/cdn/feature-case/2d90ab7b-6122-43a7-843a-1040a1f6ce4f/cover.jpg)
+
 **16:9 · 1080p · 30s · Seedance 2.5**
 
 [Original post](https://x.com/laviniavelle/status/2110585994445770795) · 2026-10-15 12:18 (UTC+08:00)
@@ -1424,6 +1482,8 @@ Consistency Rules: Keep all characters visually consistent throughout the video.
 ## 30. Toon-Noir Neon Alley Brawl: Rabbit vs. Mobster Duo
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/c99d0824-38a6-4ca3-9e34-fc91bebb8bb6/generate.mp4)**
+
+![Toon-Noir Neon Alley Brawl: Rabbit vs. Mobster Duo](https://cdn.lipsync.video/lipsync/cdn/feature-case/c99d0824-38a6-4ca3-9e34-fc91bebb8bb6/cover.jpg)
 
 **16:9 · 1080p · 30s · Seedance 2.5**
 
@@ -1489,6 +1549,8 @@ Generate a continuous 15-second hand-drawn 2D retro action-cartoon sequence at 6
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/950a497d-a703-4072-8eab-ea224e59edea/generate.mp4)**
 
+![A Miniature Woman’s Adventure in a Giant Laundry Room](https://cdn.lipsync.video/lipsync/cdn/feature-case/950a497d-a703-4072-8eab-ea224e59edea/cover.jpg)
+
 **16:9 · 1080p · 30s · Seedance 2.5**
 
 [Original post](https://x.com/AIwithkhan/status/2108180243244818861) · 2026-10-08 20:58 (UTC+08:00)
@@ -1524,6 +1586,8 @@ NEGATIVE: Cartoon, anime, toy-like appearance, animation, plastic-looking miniat
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/d79f805e-b78f-47c6-af1a-fe746100170c/generate.mp4)**
 
+![Bamboo Toy Car Transformation Vlog](https://cdn.lipsync.video/lipsync/cdn/feature-case/d79f805e-b78f-47c6-af1a-fe746100170c/cover.jpg)
+
 **9:16 · 720p · 30s · Seedance 2.5**
 
 [Original post](https://x.com/john87445528/status/2084644638724395138) · 2026-08-04 22:16 (UTC+08:00)
@@ -1545,6 +1609,8 @@ HO2iXF9a4AAZsco
 ## 33. Seedance 2.5 Shibuya K-Pop Dance With Beat-Synced Subs
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/e8fecd79-a5ce-4db0-b237-05b8ae8c7e85/generate.mp4)**
+
+![Seedance 2.5 Shibuya K-Pop Dance With Beat-Synced Subs](https://cdn.lipsync.video/lipsync/cdn/feature-case/e8fecd79-a5ce-4db0-b237-05b8ae8c7e85/cover.jpg)
 
 **4:3 · 720p · 30s · Seedance 2.5**
 
@@ -1610,6 +1676,8 @@ FINAL OUTPUT
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/3b23c8dc-24c7-45bd-80e9-cd5b127f4cfb/generate.mp4)**
 
+![Cinematic Matcha Tea Ceremony](https://cdn.lipsync.video/lipsync/cdn/feature-case/3b23c8dc-24c7-45bd-80e9-cd5b127f4cfb/cover.jpg)
+
 **1:1 · 1080p · 15s · Seedance 2.5**
 
 [Original post](https://x.com/itsphotogptai/status/2089672910520910279) · 2026-08-18 19:17 (UTC+08:00)
@@ -1651,6 +1719,8 @@ P15: High OTS CU, locked:
 ## 35. Seedance 2.5 Spider Anti-Hero Character Select UI Animation
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/698162d7-69cd-48a0-a9b7-1413707d06d7/generate.mp4)**
+
+![Seedance 2.5 Spider Anti-Hero Character Select UI Animation](https://cdn.lipsync.video/lipsync/cdn/feature-case/698162d7-69cd-48a0-a9b7-1413707d06d7/cover.jpg)
 
 **16:9 · 1080p · 20s · Seedance 2.5**
 
@@ -1737,6 +1807,8 @@ avoid: "Jitter, bent or distorted limbs, temporal flicker, identity drift betwee
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/19ba2a5e-212c-4e9f-83a2-2dd0ac4fb820/generate.mp4)**
 
+![Ghibli-Style Forest Cooking Animation](https://cdn.lipsync.video/lipsync/cdn/feature-case/19ba2a5e-212c-4e9f-83a2-2dd0ac4fb820/cover.jpg)
+
 **16:9 · 1080p · 9s · Seedance 2.5**
 
 [Original post](https://x.com/AIReelofficial/status/2079531584869548309) · 2026-07-21 19:39 (UTC+08:00)
@@ -1755,6 +1827,8 @@ Early morning; sunlight filters through the forest canopy, casting a glow over t
 ## 37. Hand-Drawn 2D Japanese Bakery Animation
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/df1b210a-ba8a-46fd-9dd1-0ef1474db244/generate.mp4)**
+
+![Hand-Drawn 2D Japanese Bakery Animation](https://cdn.lipsync.video/lipsync/cdn/feature-case/df1b210a-ba8a-46fd-9dd1-0ef1474db244/cover.jpg)
 
 **16:9 · 720p · 75s · Seedance 2.0**
 
@@ -1819,6 +1893,8 @@ Early morning; sunlight filters through the forest canopy, casting a glow over t
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/5fb1310a-17ee-4ff6-a1eb-179351d1c317/generate.mp4)**
 
+![Erling Haaland Claymation Gardening](https://cdn.lipsync.video/lipsync/cdn/feature-case/5fb1310a-17ee-4ff6-a1eb-179351d1c317/cover.jpg)
+
 **16:9 · 720p · 15s · Seedance 2.0**
 
 [Original post](https://x.com/noorwithwifi/status/2079818537137475762) · 2026-07-22 14:39 (UTC+08:00)
@@ -1837,6 +1913,8 @@ Create a 3D claymation-style animation of a cute caricature of Erling Haaland we
 ## 39. French Croissant-Making Process
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/7065f988-210a-4784-95b2-99962a5a7572/generate.mp4)**
+
+![French Croissant-Making Process](https://cdn.lipsync.video/lipsync/cdn/feature-case/7065f988-210a-4784-95b2-99962a5a7572/cover.jpg)
 
 **16:9 · 1080p · 11s · Seedance 2.0, Veo, Kling**
 
@@ -1920,6 +1998,8 @@ Goal: A mouth-watering 12-second croissant journey from butter block to flaky te
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/3cc0e019-f40f-47e1-9bf2-7e1c8357efea/generate.mp4)**
 
+![Apartment Arrival Storyboard Animation](https://cdn.lipsync.video/lipsync/cdn/feature-case/3cc0e019-f40f-47e1-9bf2-7e1c8357efea/cover.jpg)
+
 **16:9 · 720p · 15s · Seedance 2.0**
 
 [Original post](https://x.com/Just_sharon7/status/2083912532692001128) · 2026-08-02 21:47 (UTC+08:00)
@@ -1938,6 +2018,8 @@ Use the storyboard grid Image1 as the exact visual reference for character desig
 ## 41. A Melancholic Woman Lying Among Scattered Sheet Music
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/adbb07b0-d5c4-4827-bfc6-1870b788f589/generate.mp4)**
+
+![A Melancholic Woman Lying Among Scattered Sheet Music](https://cdn.lipsync.video/lipsync/cdn/feature-case/adbb07b0-d5c4-4827-bfc6-1870b788f589/cover.jpg)
 
 **16:9 · 1080p · 14s · Seedance 2.0**
 
@@ -1969,6 +2051,8 @@ Critical requirement: Create a true five-shot cinematic beauty film, not a singl
 ## 42. Mixed-Reality Home Vlog Animation
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/41e2dcf4-e7f8-4d0d-afe2-554447609684/generate.mp4)**
+
+![Mixed-Reality Home Vlog Animation](https://cdn.lipsync.video/lipsync/cdn/feature-case/41e2dcf4-e7f8-4d0d-afe2-554447609684/cover.jpg)
 
 **9:16 · 8K · 12s · Seedance 2.0**
 
@@ -2020,6 +2104,8 @@ Critical requirement: Create a true five-shot cinematic beauty film, not a singl
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/439276c3-2f0c-48c0-bb47-5d79ecb36716/generate.mp4)**
 
+![UGC Meat Ad with Animated Effects](https://cdn.lipsync.video/lipsync/cdn/feature-case/439276c3-2f0c-48c0-bb47-5d79ecb36716/cover.jpg)
+
 **16:9 · 4K · 12s · Seedance 2.0**
 
 [Original post](https://x.com/RuzainaMeer/status/2079141591449739775) · 2026-07-20 17:49 (UTC+08:00)
@@ -2039,6 +2125,8 @@ A highly realistic 12-second vertical UGC-style commercial filmed on a smartphon
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/854adbe4-008f-4c31-b665-e498a911a9ff/generate.mp4)**
 
+![Mountain Dew Spark Doodle Ad](https://cdn.lipsync.video/lipsync/cdn/feature-case/854adbe4-008f-4c31-b665-e498a911a9ff/cover.jpg)
+
 **16:9 · 4K · 29s · Seedance 2.0**
 
 [Original post](https://x.com/Caden_Flux/status/2093959770579554517) · 2026-08-30 15:11 (UTC+08:00)
@@ -2057,6 +2145,8 @@ MOUNTAIN DEW SPARK — “TOO MUCH SPARK” Duration: 15 seconds Aspect Ratio: 1
 ## 45. Animated Forest Picnic Scene
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/e9d2da69-89cc-4af1-a1d3-42082b21c28d/generate.mp4)**
+
+![Animated Forest Picnic Scene](https://cdn.lipsync.video/lipsync/cdn/feature-case/e9d2da69-89cc-4af1-a1d3-42082b21c28d/cover.jpg)
 
 **16:9 · 4K · 11s · Seedance 2.0**
 
@@ -2084,6 +2174,8 @@ MOUNTAIN DEW SPARK — “TOO MUCH SPARK” Duration: 15 seconds Aspect Ratio: 1
 ## 46. Animated Pirate Action Sequence
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/4ea4bd39-de6a-479d-a627-f04a57ce88fc/generate.mp4)**
+
+![Animated Pirate Action Sequence](https://cdn.lipsync.video/lipsync/cdn/feature-case/4ea4bd39-de6a-479d-a627-f04a57ce88fc/cover.jpg)
 
 **16:9 · 720p · 15s · Seedance 2.0**
 
@@ -2130,6 +2222,8 @@ Overall: premium stylized 2D/cel-shaded animated quality throughout, bold consis
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/a3508755-943c-44b7-baa1-3f34639a1b1e/generate.mp4)**
 
+![Architectural Space Renovation Time-Lapse](https://cdn.lipsync.video/lipsync/cdn/feature-case/a3508755-943c-44b7-baa1-3f34639a1b1e/cover.jpg)
+
 **16:9 · 8K · 15s · Seedance 2.0**
 
 [Original post](https://x.com/Naiknelofar788/status/2081371164728041980) · 2026-07-26 21:28 (UTC+08:00)
@@ -2172,6 +2266,8 @@ People, workers, text, logos, watermarks, camera movement, zoom, panning, rotati
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/9403d2e4-10e8-4810-a6ae-813cc17d3a62/generate.mp4)**
 
+![Ghibli-Style Starbucks Ad](https://cdn.lipsync.video/lipsync/cdn/feature-case/9403d2e4-10e8-4810-a6ae-813cc17d3a62/cover.jpg)
+
 **1:1 · 720p · 31s · Seedance 2.0**
 
 [Original post](https://x.com/noorwithwifi/status/2080914390782779861) · 2026-07-25 15:13 (UTC+08:00)
@@ -2190,6 +2286,8 @@ Create a 35-second anime/Ghibli-inspired 2D commercial for Starbucks Bottled Cof
 ## 49. 3D Baking Animation Sequence
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/6d0f7c4a-770f-4727-81db-fbe9ccd6cd6a/generate.mp4)**
+
+![3D Baking Animation Sequence](https://cdn.lipsync.video/lipsync/cdn/feature-case/6d0f7c4a-770f-4727-81db-fbe9ccd6cd6a/cover.jpg)
 
 **16:9 · 4K · 10s · Seedance 2.0**
 
@@ -2232,6 +2330,8 @@ Important: Treat the uploaded storyboard only as a reference. Never animate the 
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/161aefd0-fdc7-4659-8c2e-a85dca7805c5/generate.mp4)**
 
+![Claymation Cat World Transformation](https://cdn.lipsync.video/lipsync/cdn/feature-case/161aefd0-fdc7-4659-8c2e-a85dca7805c5/cover.jpg)
+
 **16:9 · 720p · 15s · Seedance 2.0**
 
 [Original post](https://x.com/noorwithwifi/status/2078535850745626926) · 2026-07-19 01:42 (UTC+08:00)
@@ -2250,6 +2350,8 @@ Create a whimsical, cinematic claymation-style animation of a playful black-and-
 ## 51. Glitch Art Multi-Dimensional Face Transformation
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/d629b7eb-fa99-4bdf-94da-7ef4bde76393/generate.mp4)**
+
+![Glitch Art Multi-Dimensional Face Transformation](https://cdn.lipsync.video/lipsync/cdn/feature-case/d629b7eb-fa99-4bdf-94da-7ef4bde76393/cover.jpg)
 
 **16:9 · 720p · 10s · Seedance 2.0**
 
@@ -2270,6 +2372,8 @@ Create a whimsical, cinematic claymation-style animation of a playful black-and-
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/144c07e0-04e3-4075-9fa5-a21de0ddc84c/generate.mp4)**
 
+![Chaotic Morning Animated Short](https://cdn.lipsync.video/lipsync/cdn/feature-case/144c07e0-04e3-4075-9fa5-a21de0ddc84c/cover.jpg)
+
 **16:9 · 720p · 15s · Seedance 2.0**
 
 [Original post](https://x.com/noorwithwifi/status/2080354151750668360) · 2026-07-24 02:07 (UTC+08:00)
@@ -2288,6 +2392,8 @@ Create a humorous animated short showing a chaotic morning where a man oversleep
 ## 53. Studio Ghibli-Style Croissant Bakery
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/8b61f688-469e-4ae5-99c9-cbf48615f1f5/generate.mp4)**
+
+![Studio Ghibli-Style Croissant Bakery](https://cdn.lipsync.video/lipsync/cdn/feature-case/8b61f688-469e-4ae5-99c9-cbf48615f1f5/cover.jpg)
 
 **16:9 · 1080p · 15s · Seedance 2.0**
 
@@ -2308,6 +2414,8 @@ Anime visual reference sheet, Studio Ghibli art style, clean cream white backgro
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/d264a744-14db-4c31-b693-7c4842a6d710/generate.mp4)**
 
+![Anime Floral Bookmark ASMR](https://cdn.lipsync.video/lipsync/cdn/feature-case/d264a744-14db-4c31-b693-7c4842a6d710/cover.jpg)
+
 **16:9 · 720p · 15s · Seedance 2.0**
 
 [Original post](https://x.com/noorwithwifi/status/2076415711375970372) · 2026-07-13 05:17 (UTC+08:00)
@@ -2326,6 +2434,8 @@ ASMR anime scene of hands creating a pressed-flower bookmark on a warm wooden de
 ## 55. Blackboard Stick-Figure Karate Duel
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/730672a3-229a-4d54-9052-bdc01d979a07/generate.mp4)**
+
+![Blackboard Stick-Figure Karate Duel](https://cdn.lipsync.video/lipsync/cdn/feature-case/730672a3-229a-4d54-9052-bdc01d979a07/cover.jpg)
 
 **16:9 · 720p · 15s · Seedance 2.0**
 
@@ -2346,6 +2456,8 @@ ASMR anime scene of hands creating a pressed-flower bookmark on a warm wooden de
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/69d04ee8-69f8-4f5a-818c-a172c4eff064/generate.mp4)**
 
+![Stop-Motion Animation: Wolf Pack Attack Sequence](https://cdn.lipsync.video/lipsync/cdn/feature-case/69d04ee8-69f8-4f5a-818c-a172c4eff064/cover.jpg)
+
 **21:9 · 720p · 15s · Seedance 2.0**
 
 [Original post](https://x.com/eyishazyer/status/2078437832604123625) · 2026-07-18 19:12 (UTC+08:00)
@@ -2364,6 +2476,8 @@ Style: STOP-MOTION ANIMATION — stepped, frame-by-frame motion brought to a HAN
 ## 57. Island Miniature Model Harbor City Montage
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/c17f1f53-4596-4583-8a7a-2d79e5598a14/generate.mp4)**
+
+![Island Miniature Model Harbor City Montage](https://cdn.lipsync.video/lipsync/cdn/feature-case/c17f1f53-4596-4583-8a7a-2d79e5598a14/cover.jpg)
 
 **1:1 · 720p · 15s · Seedance 2.0**
 
@@ -2406,6 +2520,8 @@ BGMあり、効果音あり。BGMは明るく爽快で、少し冒険感のあ�
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/73a3c5ea-61a3-462d-a9e7-b2dbe7ed250a/generate.mp4)**
 
+![Hand-Drawn Stop Motion: Blizzard Scene](https://cdn.lipsync.video/lipsync/cdn/feature-case/73a3c5ea-61a3-462d-a9e7-b2dbe7ed250a/cover.jpg)
+
 **21:9 · 720p · 15s · Seedance 2.0**
 
 [Original post](https://x.com/piotrbinkowski/status/2078515110855753844) · 2026-07-19 00:19 (UTC+08:00)
@@ -2424,6 +2540,8 @@ Style: STOP-MOTION ANIMATION — stepped, frame-by-frame motion brought to a HAN
 ## 59. Clay-Style Pirate Duck Adventure
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/160995dc-d3d3-4c41-bb15-96a9d6cbf145/generate.mp4)**
+
+![Clay-Style Pirate Duck Adventure](https://cdn.lipsync.video/lipsync/cdn/feature-case/160995dc-d3d3-4c41-bb15-96a9d6cbf145/cover.jpg)
 
 **16:9 · 720p · 15s · Seedance 2.0**
 
@@ -2446,6 +2564,8 @@ Bathroom fantasy world with bubbles, towels as cliffs and warm light reflecting 
 ## 60. Stop-Motion Playing Card Art Short
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/61d76bda-2827-4b56-9357-d1af3c92315a/generate.mp4)**
+
+![Stop-Motion Playing Card Art Short](https://cdn.lipsync.video/lipsync/cdn/feature-case/61d76bda-2827-4b56-9357-d1af3c92315a/cover.jpg)
 
 **1:1 · 720p · 8s · Seedance 2.0**
 
@@ -2481,6 +2601,8 @@ Avoid: moving camera, zooming, human hands, floating cards, cards flying away, m
 ## 61. Japanese Anime-Style Mapo Tofu Cooking Process
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/f843ddc9-a988-4d79-bfb4-2364d8a9cdc4/generate.mp4)**
+
+![Japanese Anime-Style Mapo Tofu Cooking Process](https://cdn.lipsync.video/lipsync/cdn/feature-case/f843ddc9-a988-4d79-bfb4-2364d8a9cdc4/cover.jpg)
 
 **16:9 · 496p · 15s · Seedance 2.0**
 
@@ -2524,6 +2646,8 @@ Avoid: moving camera, zooming, human hands, floating cards, cards flying away, m
 ## 62. Stop-Motion Oil Painting Animation
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/64134ad2-b2fd-48e1-967d-bdd1d51ec077/generate.mp4)**
+
+![Stop-Motion Oil Painting Animation](https://cdn.lipsync.video/lipsync/cdn/feature-case/64134ad2-b2fd-48e1-967d-bdd1d51ec077/cover.jpg)
 
 **21:9 · 720p · 15s · Seedance 2.0**
 
@@ -2571,6 +2695,8 @@ Constraints: stop-motion stepped cadence on twos at 12fps with painterly boil, f
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/8ea13faa-4b5f-4d4e-9b6a-31fdfd97d999/generate.mp4)**
 
+![Stop-Motion Animation: Stacked Potato Chips](https://cdn.lipsync.video/lipsync/cdn/feature-case/8ea13faa-4b5f-4d4e-9b6a-31fdfd97d999/cover.jpg)
+
 **9:16 · 720p · 10s · Seedance 2.0**
 
 [Original post](https://x.com/abs_uiux/status/2074744763505324502) · 2026-07-08 14:37 (UTC+08:00)
@@ -2590,6 +2716,8 @@ Stop-Motion Chip Stacking — Chips stack themselves into the logo shape or bran
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/87da80b7-54ad-45a8-9467-9977ffd82f0a/generate.mp4)**
 
+![2D Sticker Capybara Kitchen Prank](https://cdn.lipsync.video/lipsync/cdn/feature-case/87da80b7-54ad-45a8-9467-9977ffd82f0a/cover.jpg)
+
 **9:16 · 8K · 10s · Seedance 2.0**
 
 [Original post](https://x.com/Soranlan/status/2081386564525953050) · 2026-07-26 22:30 (UTC+08:00)
@@ -2608,6 +2736,8 @@ Stop-Motion Chip Stacking — Chips stack themselves into the logo shape or bran
 ## 65. Nighttime Anime-Style Graffiti Tunnel Scene
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/343e1701-256a-4c22-8363-23f62cdb7d1e/generate.mp4)**
+
+![Nighttime Anime-Style Graffiti Tunnel Scene](https://cdn.lipsync.video/lipsync/cdn/feature-case/343e1701-256a-4c22-8363-23f62cdb7d1e/cover.jpg)
 
 **1:1 · 1080p · 14s · Seedance 2.0**
 
@@ -2641,6 +2771,8 @@ Cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, Unreal
 ## 66. Cinematic Anime Magic-Sword Battle
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/2adef4ff-b3a0-49c2-a1c0-4275e06af012/generate.mp4)**
+
+![Cinematic Anime Magic-Sword Battle](https://cdn.lipsync.video/lipsync/cdn/feature-case/2adef4ff-b3a0-49c2-a1c0-4275e06af012/cover.jpg)
 
 **16:9 · 496p · 8s · Seedance 2.0**
 
@@ -2712,6 +2844,8 @@ Aの攻撃色とBの防御色が別々に立ち上がり、中心の狭い白熱
 ## 67. YAML Cinematic Parkour Sequence
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/b897df5c-d2b8-4444-b332-16fca4aff3a1/generate.mp4)**
+
+![YAML Cinematic Parkour Sequence](https://cdn.lipsync.video/lipsync/cdn/feature-case/b897df5c-d2b8-4444-b332-16fca4aff3a1/cover.jpg)
 
 **16:9 · 720p · 15s · Seedance 2.0**
 
@@ -2871,6 +3005,8 @@ output_rules:
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/5e069f26-49d2-4d2c-b273-f3814c10a277/generate.mp4)**
 
+![Vox-Style Historical Collage Animation](https://cdn.lipsync.video/lipsync/cdn/feature-case/5e069f26-49d2-4d2c-b273-f3814c10a277/cover.jpg)
+
 **9:16 · 720p · 45s · Seedance 2.0**
 
 [Original post](https://x.com/MrLarus/status/2076610529615831169) · 2026-07-13 18:11 (UTC+08:00)
@@ -2908,6 +3044,8 @@ output_rules:
 ## 69. Japanese Anime-Style Pork-Wrapped Asparagus Cooking Video
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/c6b65e6e-25eb-4c58-b9d5-80dcfa5b6cd0/generate.mp4)**
+
+![Japanese Anime-Style Pork-Wrapped Asparagus Cooking Video](https://cdn.lipsync.video/lipsync/cdn/feature-case/c6b65e6e-25eb-4c58-b9d5-80dcfa5b6cd0/cover.jpg)
 
 **16:9 · 720p · 15s · Seedance 2.0**
 
@@ -2997,6 +3135,8 @@ NO UI ELEMENTS. NO SPEECH BUBBLES.
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/602a66fc-2eb9-45df-bee7-29d6fde5b508/generate.mp4)**
 
+![Tactile Papercut-Style Product Showcase](https://cdn.lipsync.video/lipsync/cdn/feature-case/602a66fc-2eb9-45df-bee7-29d6fde5b508/cover.jpg)
+
 **16:9 · 720p · 6s · Seedance 2.0**
 
 [Original post](https://x.com/thesocialalpha_/status/2073075642996777159) · 2026-07-04 00:05 (UTC+08:00)
@@ -3025,6 +3165,8 @@ Constraints: no new text, no misspellings, no duplicated labels, no warped produ
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/ce8282fe-74fc-4d1b-b987-29b7109a9c0c/generate.mp4)**
 
+![Anime DJ Girl Club Performance](https://cdn.lipsync.video/lipsync/cdn/feature-case/ce8282fe-74fc-4d1b-b987-29b7109a9c0c/cover.jpg)
+
 **3:4 · 720p · 10s · Seedance 2.0**
 
 [Original post](https://x.com/Yuupapa_free/status/2080550617043587535) · 2026-07-24 15:08 (UTC+08:00)
@@ -3043,6 +3185,8 @@ anime style、10秒、one-take、カットなし。少女を主役として同�
 ## 72. Pixar-Style Milkshake Storyboard Animation
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/2e02fe81-728f-49ea-a6ab-5755453c40a6/generate.mp4)**
+
+![Pixar-Style Milkshake Storyboard Animation](https://cdn.lipsync.video/lipsync/cdn/feature-case/2e02fe81-728f-49ea-a6ab-5755453c40a6/cover.jpg)
 
 **16:9 · 720p · 15s · Seedance 2.0**
 
@@ -3063,6 +3207,8 @@ Create a crisp, clean infographic storyboard poster for THE MILKSHAKE MAKER. Wid
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/668a6f4a-5156-42d3-be86-fffb7d940d9e/generate.mp4)**
 
+![1990s Disney-Style Forest Animation](https://cdn.lipsync.video/lipsync/cdn/feature-case/668a6f4a-5156-42d3-be86-fffb7d940d9e/cover.jpg)
+
 **16:9 · 496p · 15s · Seedance 2.0**
 
 [Original post](https://x.com/samaote/status/2080638821557731785) · 2026-07-24 20:58 (UTC+08:00)
@@ -3081,6 +3227,8 @@ Classic 1990s Disney-style hand-drawn animation, colorful forest, expressive ani
 ## 74. Toddler Opens Doors to Learn Letters and Words
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/90e87edd-9651-42c3-96eb-69068f9ecb18/generate.mp4)**
+
+![Toddler Opens Doors to Learn Letters and Words](https://cdn.lipsync.video/lipsync/cdn/feature-case/90e87edd-9651-42c3-96eb-69068f9ecb18/cover.jpg)
 
 **9:16 · 720p · 41s · Seedance**
 
@@ -3152,6 +3300,8 @@ Smooth toddler walking and reaching movements, natural hand interaction with eve
 ## 75. Heroic Showdown on a Speeding Train
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/04dacbff-d3d7-4edc-9bde-9ae53d3ef3c0/generate.mp4)**
+
+![Heroic Showdown on a Speeding Train](https://cdn.lipsync.video/lipsync/cdn/feature-case/04dacbff-d3d7-4edc-9bde-9ae53d3ef3c0/cover.jpg)
 
 **16:9 · 1080p · 61s · Seedance**
 
@@ -3418,6 +3568,8 @@ Pack 2/2 in comments 💥
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/37694326-254f-468a-9188-8adf137c040b/generate.mp4)**
 
+![Seedance 2.5 Dance Clip Real Enough to Fool You](https://cdn.lipsync.video/lipsync/cdn/feature-case/37694326-254f-468a-9188-8adf137c040b/cover.jpg)
+
 **9:16 · 720p · 10s · Seedance**
 
 [Original post](https://x.com/johnAGI168/status/2095025524586193105) · 2026-09-02 13:46 (UTC+08:00)
@@ -3565,6 +3717,8 @@ Negative:
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/829a2427-8be9-4387-8f84-4efbbede2f31/generate.mp4)**
 
+![Playful Rabbit Couple Kissing and Cuddling on a Sofa](https://cdn.lipsync.video/lipsync/cdn/feature-case/829a2427-8be9-4387-8f84-4efbbede2f31/cover.jpg)
+
 **9:16 · 4K · 22s · Seedance**
 
 [Original post](https://x.com/Zarnab_with_Ai/status/2099683790717325390) · 2026-09-15 10:16 (UTC+08:00)
@@ -3591,6 +3745,8 @@ Warm golden lighting, cozy home interior, soft cushions, wooden furniture, plant
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/5f5298a8-351a-440c-80c0-85eded8534c4/generate.mp4)**
 
+![Seedance Two-Character 2D Anime: Little Kite](https://cdn.lipsync.video/lipsync/cdn/feature-case/5f5298a8-351a-440c-80c0-85eded8534c4/cover.jpg)
+
 **2:3 · 720p · 15s · Seedance**
 
 [Original post](https://x.com/Lianaalane/status/2089563357074559014) · 2026-08-18 12:01 (UTC+08:00)
@@ -3609,6 +3765,8 @@ Create a cute cinematic 14-second 2D anime-style video featuring two completely 
 ## 79. Woman in Lime Blazer Stands Calm Amid a Chaotic Crowd
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/1639a709-16d1-4543-8b42-570547ecf42f/generate.mp4)**
+
+![Woman in Lime Blazer Stands Calm Amid a Chaotic Crowd](https://cdn.lipsync.video/lipsync/cdn/feature-case/1639a709-16d1-4543-8b42-570547ecf42f/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance**
 
@@ -3904,6 +4062,8 @@ NO EXTRA VERSION OF <image_1>.
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/843e3ed8-60d8-48fa-9a96-8222a44f781d/generate.mp4)**
 
+![A Tiny Bird Emerging from Mud in a Glass Jar](https://cdn.lipsync.video/lipsync/cdn/feature-case/843e3ed8-60d8-48fa-9a96-8222a44f781d/cover.jpg)
+
 **9:16 · 4K · 10s · Seedance**
 
 [Original post](https://x.com/Yesandyou_/status/2090075447195480403) · 2026-08-19 21:56 (UTC+08:00)
@@ -3980,6 +4140,8 @@ Photorealistic cinematic fantasy, highly detailed wet mud, realistic glass, phys
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/3b8933a2-aa31-48c0-b404-726ae274665f/generate.mp4)**
 
+![Twenty-One-Second Vertical Stop-Motion Nature Figure](https://cdn.lipsync.video/lipsync/cdn/feature-case/3b8933a2-aa31-48c0-b404-726ae274665f/cover.jpg)
+
 **9:16 · 720p · 21s · Seedance**
 
 [Original post](https://x.com/arsalannazir07/status/2096791786807275583) · 2026-09-07 10:44 (UTC+08:00)
@@ -4015,6 +4177,8 @@ Negative prompt: cartoon, plastic-looking stones, exaggerated facial features, s
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/284bc541-7861-4176-bf7e-2b4f8f85285f/generate.mp4)**
 
+![Seedance Two-Character 3D Cartoon: Little Butterfly](https://cdn.lipsync.video/lipsync/cdn/feature-case/284bc541-7861-4176-bf7e-2b4f8f85285f/cover.jpg)
+
 **16:9 · 720p · 14s · Seedance**
 
 [Original post](https://x.com/ayzalnooor24521/status/2089559741718548578) · 2026-08-18 11:47 (UTC+08:00)
@@ -4033,6 +4197,8 @@ Create a cute cinematic 14-second 3D cartoon using the two reference characters,
 ## 83. Rivals Clash on a Street Basketball Court
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/3a21d4d5-5ac8-4b02-8625-3456f61adf79/generate.mp4)**
+
+![Rivals Clash on a Street Basketball Court](https://cdn.lipsync.video/lipsync/cdn/feature-case/3a21d4d5-5ac8-4b02-8625-3456f61adf79/cover.jpg)
 
 **16:9 · 1080p · 65s · Seedance**
 
@@ -4315,6 +4481,8 @@ Pack 2 in comments ✨
 ## 84. Nano Banana + Seedance 2.5 High School First Love Film
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/e6f53451-102f-43cd-b9c8-b7a5a76ee03f/generate.mp4)**
+
+![Nano Banana + Seedance 2.5 High School First Love Film](https://cdn.lipsync.video/lipsync/cdn/feature-case/e6f53451-102f-43cd-b9c8-b7a5a76ee03f/cover.jpg)
 
 **16:9 · 720p · 60s · Seedance, Nano Banana**
 
@@ -4697,6 +4865,8 @@ The final result should look like a polished 60-second scene from a premium cine
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/b0813b87-e10f-45e2-b472-8f80afdd798e/generate.mp4)**
 
+![Zombie Attack in a Japanese Classroom](https://cdn.lipsync.video/lipsync/cdn/feature-case/b0813b87-e10f-45e2-b472-8f80afdd798e/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/AIwithkhan/status/2100575957451153626) · 2026-09-17 21:21 (UTC+08:00)
@@ -4717,6 +4887,8 @@ Photorealistic live-action, practical-effects horror, realistic Japanese classro
 ## 86. A Pajama-Clad Family Comedy Sparked by a Girl's Backpack
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/1fa8b618-dae6-4c3e-9c1b-726b20ae4a6c/generate.mp4)**
+
+![A Pajama-Clad Family Comedy Sparked by a Girl's Backpack](https://cdn.lipsync.video/lipsync/cdn/feature-case/1fa8b618-dae6-4c3e-9c1b-726b20ae4a6c/cover.jpg)
 
 **9:16 · 4K · 20s · Seedance**
 
@@ -4756,6 +4928,8 @@ Keep the characters' identities, clothing, hairstyle, proportions, and facial fe
 ## 87. Schoolgirl Steals a Diamond Necklace and Escapes by Train
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/15606c05-0424-455f-845c-cb94f24a3ed1/generate.mp4)**
+
+![Schoolgirl Steals a Diamond Necklace and Escapes by Train](https://cdn.lipsync.video/lipsync/cdn/feature-case/15606c05-0424-455f-845c-cb94f24a3ed1/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance**
 
@@ -4869,6 +5043,8 @@ ABSOLUTE LOCKS: Exactly one hard cut at 27s. First 27 seconds completely continu
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/0216c1a4-d0da-47ce-bd7b-5cc31c3af63c/generate.mp4)**
 
+![Toddler Helps a Rabbit Find Three Fruits](https://cdn.lipsync.video/lipsync/cdn/feature-case/0216c1a4-d0da-47ce-bd7b-5cc31c3af63c/cover.jpg)
+
 **9:16 · 720p · 15s · Seedance**
 
 [Original post](https://x.com/abs_uiux/status/2105238474387234897) · 2026-09-30 18:09 (UTC+08:00)
@@ -4969,6 +5145,8 @@ No character morphing, extra fingers, duplicated objects, inconsistent clothing,
 ## 89. Magic Pen Street Transport Vlog, 2D Over Live Action
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/9dd0b2a6-49c1-44b0-95d0-75ce5bad3f9b/generate.mp4)**
+
+![Magic Pen Street Transport Vlog, 2D Over Live Action](https://cdn.lipsync.video/lipsync/cdn/feature-case/9dd0b2a6-49c1-44b0-95d0-75ce5bad3f9b/cover.jpg)
 
 **9:16 · 8K · 15s · Seedance**
 
@@ -5076,6 +5254,8 @@ SFX: Sharp throwing whoosh + spreading watercolor-ink bloom + felt-tip marker sq
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/54e83230-544d-412f-92ca-d3f36d7272f0/generate.mp4)**
 
+![Adorable Bunnies Kiss and Hug on a Cozy Sofa](https://cdn.lipsync.video/lipsync/cdn/feature-case/54e83230-544d-412f-92ca-d3f36d7272f0/cover.jpg)
+
 **9:16 · 720p · 20s · Seedance**
 
 [Original post](https://x.com/Zarnab_with_Ai/status/2098728793703899603) · 2026-09-12 19:01 (UTC+08:00)
@@ -5130,6 +5310,8 @@ Photorealistic fur detail combined with stylized 3D animation, cinematic composi
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/6111d44d-37b6-485e-826d-004a84762c78/generate.mp4)**
 
+![GPT Image 2 + Seedance Live Action Meets 2D Animation](https://cdn.lipsync.video/lipsync/cdn/feature-case/6111d44d-37b6-485e-826d-004a84762c78/cover.jpg)
+
 **4:3 · 720p · 15s · Seedance, GPT Image**
 
 [Original post](https://x.com/Sairah_0/status/2089556355384512991) · 2026-08-18 11:33 (UTC+08:00)
@@ -5163,6 +5345,8 @@ Overall Effect: The video should feel as though the blue pencil is literally dra
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/dd6278ab-a3f5-454e-975f-e1d5063936b0/generate.mp4)**
 
+![Fight in an Old Pakistani Train Compartment](https://cdn.lipsync.video/lipsync/cdn/feature-case/dd6278ab-a3f5-454e-975f-e1d5063936b0/cover.jpg)
+
 **16:9 · 4K · 20s · Seedance**
 
 [Original post](https://x.com/Zoyavelle/status/2104802751435911223) · 2026-09-29 13:17 (UTC+08:00)
@@ -5188,6 +5372,8 @@ Quality: 4K cinematic realism
 ## 93. POV: The Turkish Ice Cream Guy Had Other Plans
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/4c645b60-8e41-48fb-83c8-124e0e63b6d5/generate.mp4)**
+
+![POV: The Turkish Ice Cream Guy Had Other Plans](https://cdn.lipsync.video/lipsync/cdn/feature-case/4c645b60-8e41-48fb-83c8-124e0e63b6d5/cover.jpg)
 
 **16:9 · 720p · 15s · Seedance**
 
@@ -5259,6 +5445,8 @@ Keep the Mickey Mouse ears headband clearly visible and consistent throughout th
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/b23c7bfb-adfd-4086-9220-119ec0cb4791/generate.mp4)**
 
+![Pastel Rainbow Hair Transformation in a Neon Retro Salon](https://cdn.lipsync.video/lipsync/cdn/feature-case/b23c7bfb-adfd-4086-9220-119ec0cb4791/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/AIwithJessica/status/2093127123687108856) · 2026-08-28 08:02 (UTC+08:00)
@@ -5314,6 +5502,8 @@ Premium modern retro-anime animation, expressive close-up facial animation, real
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/ffeed51b-c26b-4ce0-b0de-cb213d13d2f5/generate.mp4)**
 
+![The Tiny Chef’s Pancake Adventure](https://cdn.lipsync.video/lipsync/cdn/feature-case/ffeed51b-c26b-4ce0-b0de-cb213d13d2f5/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/AIwithSynthia/status/2105129836750786993) · 2026-09-30 10:57 (UTC+08:00)
@@ -5358,6 +5548,8 @@ Audio: Playful kitchen ambience, whisking, batter splashes, pancake flip, tiny f
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/62797b6c-1b3a-4428-99ec-df2bf217fe8b/generate.mp4)**
 
+![Playful Cream Bunny Winking Under a Blue Sky](https://cdn.lipsync.video/lipsync/cdn/feature-case/62797b6c-1b3a-4428-99ec-df2bf217fe8b/cover.jpg)
+
 **9:16 · 720p · 10s · Seedance**
 
 [Original post](https://x.com/Zarnab_with_Ai/status/2099809558894112907) · 2026-09-15 18:36 (UTC+08:00)
@@ -5399,6 +5591,8 @@ Avoid text, subtitles, logos, watermarks, distorted facial features, extra limbs
 ## 97. Shy Hamster Offers a Rose
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/bf8ea369-3725-4234-8251-70d27b1b7b3c/generate.mp4)**
+
+![Shy Hamster Offers a Rose](https://cdn.lipsync.video/lipsync/cdn/feature-case/bf8ea369-3725-4234-8251-70d27b1b7b3c/cover.jpg)
 
 **9:16 · 720p · 12s · Seedance**
 
@@ -5444,6 +5638,8 @@ No text, no subtitles, no watermark, no extra characters, no distorted anatomy, 
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/bf601b30-604e-4817-a5ee-c88f891b108e/generate.mp4)**
 
+![Bicycle Courier Racing Through the City](https://cdn.lipsync.video/lipsync/cdn/feature-case/bf601b30-604e-4817-a5ee-c88f891b108e/cover.jpg)
+
 **16:9 · 720p · 15s · Seedance**
 
 [Original post](https://x.com/Elvorya/status/2102622012351131832) · 2026-09-23 12:52 (UTC+08:00)
@@ -5471,6 +5667,8 @@ Negative prompt: no subtitles, no text, no logos, no watermark, no distorted fac
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/86683b9d-00a6-4fc7-beb1-17956a9cb2d3/generate.mp4)**
 
+![Miniature Workers Weave “Smiling” from Red Rope](https://cdn.lipsync.video/lipsync/cdn/feature-case/86683b9d-00a6-4fc7-beb1-17956a9cb2d3/cover.jpg)
+
 **16:9 · 720p · 10s · Seedance**
 
 [Original post](https://x.com/AIwithkhan/status/2100069812152197146) · 2026-09-16 11:50 (UTC+08:00)
@@ -5489,6 +5687,8 @@ Using the reference image as the exact final frame, create a 10-second stop-moti
 ## 100. Kids and Gecko in a Living Room Chase
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/2c3e5053-50aa-4a80-ae32-62cfa7b74079/generate.mp4)**
+
+![Kids and Gecko in a Living Room Chase](https://cdn.lipsync.video/lipsync/cdn/feature-case/2c3e5053-50aa-4a80-ae32-62cfa7b74079/cover.jpg)
 
 **9:16 · 4K · 65s · Seedance**
 
@@ -5566,6 +5766,8 @@ Ultra-detailed 3D animation, cinematic rendering, 4K, high-quality global illumi
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/7c4a44e5-6a91-49c5-82be-31d17b1b4f6e/generate.mp4)**
 
+![Husband Mistakes a Laundry Request for a Romantic Invitation](https://cdn.lipsync.video/lipsync/cdn/feature-case/7c4a44e5-6a91-49c5-82be-31d17b1b4f6e/cover.jpg)
+
 **16:9 · 720p · 15s · Seedance**
 
 [Original post](https://x.com/im_shahid7/status/2091754978348339299) · 2026-08-24 13:10 (UTC+08:00)
@@ -5590,6 +5792,8 @@ Comedy style: exaggerated facial expressions, fast misunderstanding setup, drama
 ## 102. Rio Street Chase Over a Misplaced Package
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/30d532ca-7d26-449b-b1af-2235fade4e3d/generate.mp4)**
+
+![Rio Street Chase Over a Misplaced Package](https://cdn.lipsync.video/lipsync/cdn/feature-case/30d532ca-7d26-449b-b1af-2235fade4e3d/cover.jpg)
 
 **16:9 · 1080p · 30s · Seedance**
 
@@ -5825,6 +6029,8 @@ The final result should feel like a completely authentic 30-second gameplay clip
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/5df78a8d-4489-40e9-9bf3-1800fc381e89/generate.mp4)**
 
+![Beaver and Gorilla’s Fruit-Fueled Feud](https://cdn.lipsync.video/lipsync/cdn/feature-case/5df78a8d-4489-40e9-9bf3-1800fc381e89/cover.jpg)
+
 **16:9 · 720p · 53s · Seedance**
 
 [Original post](https://x.com/Zarnab_with_Ai/status/2105256819623129130) · 2026-09-30 19:21 (UTC+08:00)
@@ -5879,6 +6085,8 @@ Use cinematic establishing shots, extreme close-ups, medium shots, tracking shot
 ## 104. Female Surgeon's Hospital Rescue Mission
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/10af7b45-c8aa-4683-b92f-005df4b4cfe2/generate.mp4)**
+
+![Female Surgeon's Hospital Rescue Mission](https://cdn.lipsync.video/lipsync/cdn/feature-case/10af7b45-c8aa-4683-b92f-005df4b4cfe2/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance**
 
@@ -5946,6 +6154,8 @@ AUDIO: Hospital ambience, footsteps, monitor beeps, equipment sounds, emergency 
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/ae71c549-8aea-409b-8dba-2eb42eb9fa52/generate.mp4)**
 
+![A Boy and Baby Dragon’s Tropical Adventure](https://cdn.lipsync.video/lipsync/cdn/feature-case/ae71c549-8aea-409b-8dba-2eb42eb9fa52/cover.jpg)
+
 **16:9 · 4K · 149s · Seedance**
 
 [Original post](https://x.com/aaassa120/status/2098468425421259070) · 2026-09-12 01:47 (UTC+08:00)
@@ -5971,6 +6181,8 @@ Style: premium cinematic 3D animation, adorable expressive characters, Disney/Pi
 ## 106. Father and Daughter’s Warm Embrace by a Golden Window
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/e162bcde-845f-4678-b546-91f144e42ea8/generate.mp4)**
+
+![Father and Daughter’s Warm Embrace by a Golden Window](https://cdn.lipsync.video/lipsync/cdn/feature-case/e162bcde-845f-4678-b546-91f144e42ea8/cover.jpg)
 
 **9:16 · 4K · 15s · Seedance**
 
@@ -6005,6 +6217,8 @@ No text, no subtitles, no watermark, no distorted hands, no extra fingers, no du
 ## 107. Red Curly High Bun Pops Loose
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/06c0d876-85b8-4c42-8cf9-5b671b880cc6/generate.mp4)**
+
+![Red Curly High Bun Pops Loose](https://cdn.lipsync.video/lipsync/cdn/feature-case/06c0d876-85b8-4c42-8cf9-5b671b880cc6/cover.jpg)
 
 **16:9 · 720p · 15s · Seedance**
 
@@ -6070,6 +6284,8 @@ No text, subtitles, logos, watermark, extra characters, or changes to her appear
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/8e53d6ea-0337-4d12-922c-cda479e830d5/generate.mp4)**
 
+![Theft and Escape at a Rural Japanese Station](https://cdn.lipsync.video/lipsync/cdn/feature-case/8e53d6ea-0337-4d12-922c-cda479e830d5/cover.jpg)
+
 **16:9 · 1080p · 30s · Seedance**
 
 [Original post](https://x.com/AIwithkhan/status/2099464101525393596) · 2026-09-14 19:43 (UTC+08:00)
@@ -6101,6 +6317,8 @@ Negative: anime, cartoon, animation, illustration, mobile-game graphics, CGI loo
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/e4d2a9b2-443c-4889-8dc6-e616bad6b8d8/generate.mp4)**
 
+![A Mysterious Smile in a Frozen Crowd](https://cdn.lipsync.video/lipsync/cdn/feature-case/e4d2a9b2-443c-4889-8dc6-e616bad6b8d8/cover.jpg)
+
 **16:9 · 1440p · 23s · Seedance**
 
 [Original post](https://x.com/AIwithSynthia/status/2100414408069669001) · 2026-09-17 10:39 (UTC+08:00)
@@ -6121,6 +6339,8 @@ The woman remains standing perfectly still at the center of the frozen crowd, ca
 ## 110. Tiny Chef’s Giant Popcorn Adventure
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/222c10c7-2631-4685-97ce-ae1758fd6438/generate.mp4)**
+
+![Tiny Chef’s Giant Popcorn Adventure](https://cdn.lipsync.video/lipsync/cdn/feature-case/222c10c7-2631-4685-97ce-ae1758fd6438/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance**
 
@@ -6169,6 +6389,8 @@ Audio: Kernel rattles, spoon clinks, popcorn popping, tiny footsteps, bowl vibra
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/fbc046fd-05ed-4c27-9c10-a5689e6ad700/generate.mp4)**
 
+![Infected Figures Outside the Silent Science Lab](https://cdn.lipsync.video/lipsync/cdn/feature-case/fbc046fd-05ed-4c27-9c10-a5689e6ad700/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/ElsaSofia__AI/status/2100903709492613245) · 2026-09-18 19:04 (UTC+08:00)
@@ -6201,6 +6423,8 @@ Photorealistic live-action horror, authentic Japanese high-school science labora
 ## 112. Pixar-Style Pirate Chef ASMR Comedy Short: Seedance 2.5 Second-by-Second Storyboard Prompt
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/bdfa9243-0569-4306-b7ac-6812234efc99/generate.mp4)**
+
+![Pixar-Style Pirate Chef ASMR Comedy Short: Seedance 2.5 Second-by-Second Storyboard Prompt](https://cdn.lipsync.video/lipsync/cdn/feature-case/bdfa9243-0569-4306-b7ac-6812234efc99/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance**
 
@@ -6253,6 +6477,8 @@ No dialogue, no subtitles, no text. Maintain strong character consistency, natur
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/8cbb55aa-de40-4e3f-8f9c-00d304faf751/generate.mp4)**
 
+![An Unresolved Shadow After an Exorcism in a Korean House](https://cdn.lipsync.video/lipsync/cdn/feature-case/8cbb55aa-de40-4e3f-8f9c-00d304faf751/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/AIwithSynthia/status/2099836457430974932) · 2026-09-15 20:23 (UTC+08:00)
@@ -6275,6 +6501,8 @@ End with a wide aftermath shot showing scattered salt, burnt talismans, melted c
 ## 114. Otter Friends' Summer in the Watermelon Field
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/df65f390-c38f-4b89-8697-f3d650d620c8/generate.mp4)**
+
+![Otter Friends' Summer in the Watermelon Field](https://cdn.lipsync.video/lipsync/cdn/feature-case/df65f390-c38f-4b89-8697-f3d650d620c8/cover.jpg)
 
 **9:16 · 720p · 68s · Seedance, Kling**
 
@@ -6322,6 +6550,8 @@ Quality: ultra-high-definition, polished cinematic animation, highly detailed, s
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/f0a38197-e0bf-44de-a350-56307aac0198/generate.mp4)**
 
+![Mini Doodle Girl's Desktop Skateboarding Adventure](https://cdn.lipsync.video/lipsync/cdn/feature-case/f0a38197-e0bf-44de-a350-56307aac0198/cover.jpg)
+
 **16:9 · 1080p · 30s · Seedance**
 
 [Original post](https://x.com/harboriis/status/2104106520808157221) · 2026-09-27 15:11 (UTC+08:00)
@@ -6360,6 +6590,8 @@ Visual: Close-up as she launches into the air, does a 360 spin with her board, a
 ## 116. Mother Hen Protects Her Chicks from a Grain-Stealing Hawk
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/c6fb8e92-d7c0-42ad-aa1a-13df85e3e09e/generate.mp4)**
+
+![Mother Hen Protects Her Chicks from a Grain-Stealing Hawk](https://cdn.lipsync.video/lipsync/cdn/feature-case/c6fb8e92-d7c0-42ad-aa1a-13df85e3e09e/cover.jpg)
 
 **9:16 · 720p · 28s · Seedance**
 
@@ -6413,6 +6645,8 @@ End with the hen standing sadly but protectively beside her little chicks in the
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/beebd30f-ca37-49d2-8273-b5b303f396ea/generate.mp4)**
 
+![The Blue-Scarf Duckling’s Sweet Day in the Peach Orchard](https://cdn.lipsync.video/lipsync/cdn/feature-case/beebd30f-ca37-49d2-8273-b5b303f396ea/cover.jpg)
+
 **9:16 · 720p · 30s · Seedance, Kling**
 
 [Original post](https://x.com/Zarnab_with_Ai/status/2104397688511103374) · 2026-09-28 10:28 (UTC+08:00)
@@ -6462,6 +6696,8 @@ Maintain the exact same duckling appearance, yellow fluffy feathers, large expre
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/c9ebbd37-d7ea-4d17-925f-0e5f3b8b8fcb/generate.mp4)**
 
+![Baby Crawls Out of the Bedroom to Kiss Dad](https://cdn.lipsync.video/lipsync/cdn/feature-case/c9ebbd37-d7ea-4d17-925f-0e5f3b8b8fcb/cover.jpg)
+
 **9:16 · 720p · 19s · Seedance**
 
 [Original post](https://x.com/Zarnab_with_Ai/status/2103436558422638792) · 2026-09-25 18:48 (UTC+08:00)
@@ -6509,6 +6745,8 @@ Maintain consistent character identity throughout the entire video. Keep the bab
 ## 119. Garden Chicks Go from Quarreling to Reconciliation
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/131e32af-06c1-4b38-a5fa-6d576af0ee43/generate.mp4)**
+
+![Garden Chicks Go from Quarreling to Reconciliation](https://cdn.lipsync.video/lipsync/cdn/feature-case/131e32af-06c1-4b38-a5fa-6d576af0ee43/cover.jpg)
 
 **9:16 · 4K · 9s · Seedance**
 
@@ -6559,6 +6797,8 @@ Ultra-detailed, cinematic, smooth motion, physically believable animation, reali
 ## 120. Seedance 3D Animated Comedy: After Mom Cut the WiFi
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/1e1c1342-c58d-487c-81bb-59546709b3f9/generate.mp4)**
+
+![Seedance 3D Animated Comedy: After Mom Cut the WiFi](https://cdn.lipsync.video/lipsync/cdn/feature-case/1e1c1342-c58d-487c-81bb-59546709b3f9/cover.jpg)
 
 **16:9 · 368p · 40s · Seedance**
 
@@ -6705,6 +6945,8 @@ AUDIO: playful comedic background music, realistic household ambience, exaggerat
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/f24fb166-344b-47d3-9115-d2aa6243a0d6/generate.mp4)**
 
+![Duckling and Blue Elephant’s Sunset Adventure](https://cdn.lipsync.video/lipsync/cdn/feature-case/f24fb166-344b-47d3-9115-d2aa6243a0d6/cover.jpg)
+
 **9:16 · 4K · 24s · Seedance, Kling**
 
 [Original post](https://x.com/Zarnab_with_Ai/status/2103672061613019181) · 2026-09-26 10:24 (UTC+08:00)
@@ -6735,6 +6977,8 @@ Style: high-quality cinematic 3D animation, adorable character design, soft real
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/302d2039-55a9-4254-9113-22461371ad11/generate.mp4)**
 
+![Finger-Snap Journey Between Anime and Reality on a Tokyo Platform](https://cdn.lipsync.video/lipsync/cdn/feature-case/302d2039-55a9-4254-9113-22461371ad11/cover.jpg)
+
 **9:16 · 8K · 15s · Seedance**
 
 [Original post](https://x.com/Zyrellix/status/2096961937770697155) · 2026-09-07 22:01 (UTC+08:00)
@@ -6753,6 +6997,8 @@ A stylish young woman wearing a bright green bomber jacket, a colorful striped c
 ## 123. Japanese High School Classroom Key Mission
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/e57c1cf1-6859-47bc-af0d-68e342ccfa01/generate.mp4)**
+
+![Japanese High School Classroom Key Mission](https://cdn.lipsync.video/lipsync/cdn/feature-case/e57c1cf1-6859-47bc-af0d-68e342ccfa01/cover.jpg)
 
 **16:9 · 4K · 30s · Seedance**
 
@@ -6850,6 +7096,8 @@ No teleporting, supernatural abilities, impossible shortcuts, parkour, combat, d
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/de1fb074-f0b4-460e-a727-d114d02ac2c8/generate.mp4)**
 
+![Mother and Toddler Embrace in a Sunlit Bedroom](https://cdn.lipsync.video/lipsync/cdn/feature-case/de1fb074-f0b4-460e-a727-d114d02ac2c8/cover.jpg)
+
 **9:16 · 4K · 44s · Seedance**
 
 [Original post](https://x.com/Zarnab_with_Ai/status/2104162259065086147) · 2026-09-27 18:52 (UTC+08:00)
@@ -6871,6 +7119,8 @@ Create a heartwarming cinematic 3D animated video of a young mother and her ador
 ## 125. Baby Otter Shares Ice Cream with a New Blue Friend
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/1e646935-e9bb-4c65-bdc2-392a02dd8810/generate.mp4)**
+
+![Baby Otter Shares Ice Cream with a New Blue Friend](https://cdn.lipsync.video/lipsync/cdn/feature-case/1e646935-e9bb-4c65-bdc2-392a02dd8810/cover.jpg)
 
 **16:9 · 720p · 43s · Seedance, Kling**
 
@@ -6918,6 +7168,8 @@ No text, no subtitles, no watermark, no logos, no distorted anatomy, no extra ch
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/2f0578eb-47a5-4de0-957f-392e6df9c2c2/generate.mp4)**
 
+![Fluffy White Baby Animal Holding a Tulip in a Cherry Blossom Garden](https://cdn.lipsync.video/lipsync/cdn/feature-case/2f0578eb-47a5-4de0-957f-392e6df9c2c2/cover.jpg)
+
 **9:16 · 720p · 10s · Seedance**
 
 [Original post](https://x.com/Zarnab_with_Ai/status/2102218121881014697) · 2026-09-22 10:07 (UTC+08:00)
@@ -6947,6 +7199,8 @@ Vertical 9:16 composition, centered character, close-to-medium shot, cinematic l
 ## 127. Baby Penguin Flies into a Loving Family Cuddle
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/348eb8f0-eb29-43ef-8f41-e0d19951f154/generate.mp4)**
+
+![Baby Penguin Flies into a Loving Family Cuddle](https://cdn.lipsync.video/lipsync/cdn/feature-case/348eb8f0-eb29-43ef-8f41-e0d19951f154/cover.jpg)
 
 **9:16 · 4K · 29s · Seedance, Kling**
 
@@ -6996,6 +7250,8 @@ Keep the exact same baby penguin character throughout the entire video. Preserve
 ## 128. Sandwich Chase Sends Desktop Icons Flying
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/e948069c-b2d4-4c3c-a826-8e74bab1cf28/generate.mp4)**
+
+![Sandwich Chase Sends Desktop Icons Flying](https://cdn.lipsync.video/lipsync/cdn/feature-case/e948069c-b2d4-4c3c-a826-8e74bab1cf28/cover.jpg)
 
 **16:9 · 720p · 10s · Seedance**
 
@@ -7060,6 +7316,8 @@ Desktop fully restored, all icons back in their original positions, characters o
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/9d883abb-9a5a-40dd-96f5-6767df31e814/generate.mp4)**
 
+![Little Beaver Eating Blue Fruit by the River Meets a Crocodile](https://cdn.lipsync.video/lipsync/cdn/feature-case/9d883abb-9a5a-40dd-96f5-6767df31e814/cover.jpg)
+
 **9:16 · 4K · 56s · Seedance**
 
 [Original post](https://x.com/Zarnab_with_Ai/status/2101851352666452327) · 2026-09-21 09:49 (UTC+08:00)
@@ -7081,6 +7339,8 @@ Prompt 👇
 ## 130. Korean Schoolgirl Draws Attention While Serving Lunch
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/23b0ff2c-4c21-4ff1-9ade-db999f3248b7/generate.mp4)**
+
+![Korean Schoolgirl Draws Attention While Serving Lunch](https://cdn.lipsync.video/lipsync/cdn/feature-case/23b0ff2c-4c21-4ff1-9ade-db999f3248b7/cover.jpg)
 
 **16:9 · 4K · 22s · Seedance**
 
@@ -7121,6 +7381,8 @@ No text, no subtitles, no watermark, no logos, no distorted faces, no extra fing
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/359d037a-e454-4b7c-a8aa-fbafef514ccc/generate.mp4)**
 
+![Adventurer Escapes the Ruins Beneath a Mountain Village](https://cdn.lipsync.video/lipsync/cdn/feature-case/359d037a-e454-4b7c-a8aa-fbafef514ccc/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/AIwithSynthia/status/2101516770255270041) · 2026-09-20 11:40 (UTC+08:00)
@@ -7151,6 +7413,8 @@ Photorealistic Korea UE5-quality gameplay, realistic destruction and water physi
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/ed25c098-ea49-4254-9555-e210b564df4b/generate.mp4)**
 
+![Whimsical 3D Animated Short: A Tiny Sea Turtle](https://cdn.lipsync.video/lipsync/cdn/feature-case/ed25c098-ea49-4254-9555-e210b564df4b/cover.jpg)
+
 **9:16 · 4K · 30s · Seedance, Kling**
 
 [Original post](https://x.com/Zarnab_with_Ai/status/2095823249968148533) · 2026-09-04 18:36 (UTC+08:00)
@@ -7178,6 +7442,8 @@ End with a wide cinematic shot of the tiny turtle sitting beside the tall stack 
 ## 133. Sixty-Second 3D Fantasy Short in a Magical Forest
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/eab94c5e-41e1-42af-b060-c4ba29a4ee1b/generate.mp4)**
+
+![Sixty-Second 3D Fantasy Short in a Magical Forest](https://cdn.lipsync.video/lipsync/cdn/feature-case/eab94c5e-41e1-42af-b060-c4ba29a4ee1b/cover.jpg)
 
 **9:16 · 4K · 58s · Seedance**
 
@@ -7222,6 +7488,8 @@ Visual style: high-end cinematic 3D animation, ultra-detailed fluffy characters,
 ## 134. Yellow Supercar Racing Through the Dubai Skyline
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/730edda8-1584-41b3-8eb0-7694147f150b/generate.mp4)**
+
+![Yellow Supercar Racing Through the Dubai Skyline](https://cdn.lipsync.video/lipsync/cdn/feature-case/730edda8-1584-41b3-8eb0-7694147f150b/cover.jpg)
 
 **16:9 · 1080p · 30s · Seedance, GPT Image, Kling**
 
@@ -7306,6 +7574,8 @@ animation_style: "Shot 1 plays out as one continuous real-time aerial move; shot
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/885b80bc-562b-4755-8b12-6e6651e292bf/generate.mp4)**
 
+![One-Take Breakout on a Shrine Bridge in the Storm Void](https://cdn.lipsync.video/lipsync/cdn/feature-case/885b80bc-562b-4755-8b12-6e6651e292bf/cover.jpg)
+
 **16:9 · 1080p · 30s · Seedance**
 
 [Original post](https://x.com/aimikoda/status/2089388854180512094) · 2026-08-18 00:28 (UTC+08:00)
@@ -7356,6 +7626,8 @@ C2、C5、C6、C8、C10是五个彼此独立的剃刀爪兽，每只都有六条
 ## 136. Stop-Motion Clay Miniature Nutella Cafe
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/98af498d-5c2a-459c-b5db-37aa356299ac/generate.mp4)**
+
+![Stop-Motion Clay Miniature Nutella Cafe](https://cdn.lipsync.video/lipsync/cdn/feature-case/98af498d-5c2a-459c-b5db-37aa356299ac/cover.jpg)
 
 **9:16 · 4K · 10s · Seedance**
 

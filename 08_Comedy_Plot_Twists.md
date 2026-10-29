@@ -8,6 +8,8 @@
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/7d2e32ae-bea5-4b7b-acbb-a52f4d98f28c/generate.mp4)**
 
+![Man Rushes from Shower in a Towel to Find His Delivery](https://cdn.lipsync.video/lipsync/cdn/feature-case/7d2e32ae-bea5-4b7b-acbb-a52f4d98f28c/cover.jpg)
+
 **16:9 · 720p · 15s · Seedance 2.5**
 
 [Original post](https://x.com/AIwithZeeshi/status/2107317166995546481) · 2026-10-06 11:48 (UTC+08:00)
@@ -34,6 +36,8 @@ Photorealistic cinematic comedy, realistic water behavior, natural human movemen
 ## 2. Roller Coaster Wig Mishap: A Second Take on Frozen Time
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/aeb023c8-ef54-4cdb-a12d-e305bcc5024b/generate.mp4)**
+
+![Roller Coaster Wig Mishap: A Second Take on Frozen Time](https://cdn.lipsync.video/lipsync/cdn/feature-case/aeb023c8-ef54-4cdb-a12d-e305bcc5024b/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance 2.5**
 
@@ -68,6 +72,8 @@ Photorealistic, ultra-detailed wind and hair physics, perfect motion blur only o
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/5cf9f16e-e409-4abf-bf04-c2ccc35808e4/generate.mp4)**
 
+![Baby Doctor Examines a Soldier in an Army Tent](https://cdn.lipsync.video/lipsync/cdn/feature-case/5cf9f16e-e409-4abf-bf04-c2ccc35808e4/cover.jpg)
+
 **9:16 · 720p · 20s · Seedance 2.5**
 
 [Original post](https://x.com/aiwithaayat/status/2113854017420108258) · 2026-10-24 12:44 (UTC+08:00)
@@ -86,6 +92,8 @@ Create a 20-second vertical 9:16 ultra-realistic funny baby doctor video, filmed
 ## 4. Pet Baby Dragon Steals Dinner and Sparks Courtyard Chaos
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/3758ce98-707c-494e-8012-3fd66e1eb667/generate.mp4)**
+
+![Pet Baby Dragon Steals Dinner and Sparks Courtyard Chaos](https://cdn.lipsync.video/lipsync/cdn/feature-case/3758ce98-707c-494e-8012-3fd66e1eb667/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance 2.5**
 
@@ -146,6 +154,8 @@ AUDIO: Gentle fantasy folk music with strings and flute, sudden comedic music st
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/230217a6-9dc5-4f55-9c52-345181aef74d/generate.mp4)**
 
+![Blonde Woman Performs Comic Martial Arts in a Police Training Room](https://cdn.lipsync.video/lipsync/cdn/feature-case/230217a6-9dc5-4f55-9c52-345181aef74d/cover.jpg)
+
 **1:1 · 480p · 17s · Seedance 2.5**
 
 [Original post](https://x.com/sipteaandcoffee/status/2107512973292138801) · 2026-10-07 00:47 (UTC+08:00)
@@ -170,6 +180,8 @@ Create a realistic 17-second funny action video inside a police training room. A
 ## 6. A Woman’s Slapstick Revenge on a Bully in a Seoul Mall
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/ba456df0-c14e-4996-b89a-7827830b6e0e/generate.mp4)**
+
+![A Woman’s Slapstick Revenge on a Bully in a Seoul Mall](https://cdn.lipsync.video/lipsync/cdn/feature-case/ba456df0-c14e-4996-b89a-7827830b6e0e/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance 2.5**
 
@@ -201,6 +213,8 @@ Maintain identical faces, hairstyles, outfits, and location throughout. Include 
 ## 7. A Modern Man Tidies Up a Medieval Coronation
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/3dc0cee6-08e2-4f4c-95ee-160ac9f04403/generate.mp4)**
+
+![A Modern Man Tidies Up a Medieval Coronation](https://cdn.lipsync.video/lipsync/cdn/feature-case/3dc0cee6-08e2-4f4c-95ee-160ac9f04403/cover.jpg)
 
 **16:9 · 720p · 20s · Seedance 2.5**
 
@@ -336,6 +350,8 @@ FINAL CREATIVE DIRECTION: Make it look like a genuine, high-budget medieval fant
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/136a381f-32c2-42d3-997d-f8fc79ffd13f/generate.mp4)**
 
+![SONORA Headphones Website UI/UX Motion Video](https://cdn.lipsync.video/lipsync/cdn/feature-case/136a381f-32c2-42d3-997d-f8fc79ffd13f/cover.jpg)
+
 **16:9 · 1080p · 15s · Seedance 2.5**
 
 [Original post](https://x.com/aiwarts?gc=doc3-ui-motion-sonora)
@@ -354,6 +370,8 @@ FINAL CREATIVE DIRECTION: Make it look like a genuine, high-budget medieval fant
 ## 9. Surreal Hotel Pool Scale Illusion
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/ce9f704f-03dc-4e4a-85d3-e58863343059/generate.mp4)**
+
+![Surreal Hotel Pool Scale Illusion](https://cdn.lipsync.video/lipsync/cdn/feature-case/ce9f704f-03dc-4e4a-85d3-e58863343059/cover.jpg)
 
 **16:9 · 720p · 15s · Seedance 2.0**
 
@@ -395,6 +413,8 @@ Keep the scale relationship very clear: giant woman, tiny man, normal-size backg
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/5f7de86f-a959-4643-8798-bda9aea2724e/generate.mp4)**
 
+![Cats Chasing via Red Mini Motorcycle](https://cdn.lipsync.video/lipsync/cdn/feature-case/5f7de86f-a959-4643-8798-bda9aea2724e/cover.jpg)
+
 **16:9 · 1080p · 15s · Seedance 2.0**
 
 [Original post](https://x.com/Just_sharon7/status/2084901309988425731) · 2026-08-05 15:16 (UTC+08:00)
@@ -413,6 +433,8 @@ A highly realistic cinematic shot filmed from inside a moving car looking out th
 ## 11. A Girl Plays Basketball with a Giant White Dog Mascot
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/8639f8e9-5673-4844-b947-f7feedca6aa4/generate.mp4)**
+
+![A Girl Plays Basketball with a Giant White Dog Mascot](https://cdn.lipsync.video/lipsync/cdn/feature-case/8639f8e9-5673-4844-b947-f7feedca6aa4/cover.jpg)
 
 **16:9 · 4K · 20s · Seedance 2.0**
 
@@ -439,6 +461,8 @@ A beautiful Korean girl with long dark hair, wearing a fitted black sleeveless t
 ## 12. Retro Japanese POV Vlog
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/9514b977-210c-40db-a492-9f5569c84b77/generate.mp4)**
+
+![Retro Japanese POV Vlog](https://cdn.lipsync.video/lipsync/cdn/feature-case/9514b977-210c-40db-a492-9f5569c84b77/cover.jpg)
 
 **16:9 · 720p · 15s · Seedance 2.0**
 
@@ -491,6 +515,8 @@ Cozy, wholesome, funny, spontaneous, highly realistic, authentic camcorder diary
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/a22407bc-ff66-4b3c-bdc5-8ebb06599964/generate.mp4)**
 
+![Stock Market Crash News Livestream](https://cdn.lipsync.video/lipsync/cdn/feature-case/a22407bc-ff66-4b3c-bdc5-8ebb06599964/cover.jpg)
+
 **9:16 · 720p · 15s · Seedance 2.0**
 
 [Original post](https://x.com/Strength04_X/status/2080895772531581198) · 2026-07-25 13:59 (UTC+08:00)
@@ -529,6 +555,8 @@ BROADCAST REALISM: Genuine tension, traders ignoring camera, real-time number ch
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/d2223f88-7892-4922-b2a1-69205069cfbd/generate.mp4)**
 
+![Stylized 3D Animation: Old Man and Pigeon](https://cdn.lipsync.video/lipsync/cdn/feature-case/d2223f88-7892-4922-b2a1-69205069cfbd/cover.jpg)
+
 **9:16 · 720p · 20s · Seedance 2.0**
 
 [Original post](https://x.com/AIwithJames/status/2087756963258278211) · 2026-08-13 12:23 (UTC+08:00)
@@ -547,6 +575,8 @@ BROADCAST REALISM: Genuine tension, traders ignoring camera, real-time number ch
 ## 15. Water Walking Xianxia Fraud
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/8a9e456e-ff7b-4a52-8bd3-6e55d8776d56/generate.mp4)**
+
+![Water Walking Xianxia Fraud](https://cdn.lipsync.video/lipsync/cdn/feature-case/8a9e456e-ff7b-4a52-8bd3-6e55d8776d56/cover.jpg)
 
 **16:9 · 720p · 10s · Seedance 2.0**
 
@@ -567,6 +597,8 @@ BROADCAST REALISM: Genuine tension, traders ignoring camera, real-time number ch
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/3e85db55-ee02-491f-8503-9929b0cf024e/generate.mp4)**
 
+![Stop-Motion Animation of Odysseus and the Cyclops](https://cdn.lipsync.video/lipsync/cdn/feature-case/3e85db55-ee02-491f-8503-9929b0cf024e/cover.jpg)
+
 **16:9 · 720p · 15s · Seedance 2.0**
 
 [Original post](https://x.com/miilesus/status/2080744222571848176) · 2026-07-25 03:57 (UTC+08:00)
@@ -586,6 +618,8 @@ Create a 3D claymation style animation of a cute caricature of Odysseus, wearing
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/e42dc048-ee54-414c-baba-6ec6c1b5002e/generate.mp4)**
 
+![Ultra-Soothing ASMR Vlog](https://cdn.lipsync.video/lipsync/cdn/feature-case/e42dc048-ee54-414c-baba-6ec6c1b5002e/cover.jpg)
+
 **16:9 · 720p · 15s · Seedance 2.0**
 
 [Original post](https://x.com/sebatheepan/status/2080942778293313949) · 2026-07-25 17:06 (UTC+08:00)
@@ -604,6 +638,8 @@ CAMERA / LOOK: Propped Mini DV camera on a wooden deck ledge, surrounded by risi
 ## 18. Grandma Shops the Morning Market with a Tanuki and Sparrow
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/bd0ba586-7844-4e10-8ff9-99082872a2b4/generate.mp4)**
+
+![Grandma Shops the Morning Market with a Tanuki and Sparrow](https://cdn.lipsync.video/lipsync/cdn/feature-case/bd0ba586-7844-4e10-8ff9-99082872a2b4/cover.jpg)
 
 **16:9 · 4K · 50s · Seedance**
 
@@ -637,6 +673,8 @@ Photorealistic AAA cinematic short, GTA-style urban energy: saturated colors, pu
 ## 19. K-Pop Idol’s Playful Core Workout
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/0d5a8f61-79de-4fc8-9403-958739cfb375/generate.mp4)**
+
+![K-Pop Idol’s Playful Core Workout](https://cdn.lipsync.video/lipsync/cdn/feature-case/0d5a8f61-79de-4fc8-9403-958739cfb375/cover.jpg)
 
 **16:9 · 1080p · 15s · Seedance**
 
@@ -686,6 +724,8 @@ A gym mat area in the evening — mirror wall nearby, water bottle on the floor,
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/5c960066-85f1-49a7-ad22-e0f26ca0ea99/generate.mp4)**
 
+![A Wizard's Ten-Second Escape Plan: Become a Duck](https://cdn.lipsync.video/lipsync/cdn/feature-case/5c960066-85f1-49a7-ad22-e0f26ca0ea99/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/AIwithNatalia/status/2089170554725265625) · 2026-08-17 10:00 (UTC+08:00)
@@ -732,6 +772,8 @@ End text:
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/78272b95-629e-488e-aba9-b6fb61bdaba2/generate.mp4)**
 
+![Cinematic VFX Shot of a Backpack Bursting into Flames](https://cdn.lipsync.video/lipsync/cdn/feature-case/78272b95-629e-488e-aba9-b6fb61bdaba2/cover.jpg)
+
 **9:16 · 4K · 19s · Seedance**
 
 [Original post](https://x.com/AIwithMinal/status/2105518415201083496) · 2026-10-01 12:41 (UTC+08:00)
@@ -751,6 +793,8 @@ Create a cinematic, ultra-realistic 9:16 school classroom scene. A young male st
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/1dde0c12-e966-40a2-8ec7-3220a158d40e/generate.mp4)**
 
+![Schoolgirl Walking Toward the Camera in a Chaotic Classroom](https://cdn.lipsync.video/lipsync/cdn/feature-case/1dde0c12-e966-40a2-8ec7-3220a158d40e/cover.jpg)
+
 **9:16 · 720p · 15s · Seedance**
 
 [Original post](https://x.com/Aiwithmaha/status/2100787710424416603) · 2026-09-18 11:23 (UTC+08:00)
@@ -769,6 +813,8 @@ Create a cinematic, ultra-realistic 9:16 school classroom scene. A young male st
 ## 23. Blonde Woman Scores a Spectacular Goal in High Heels
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/159317a6-0d50-46e9-97f3-586fe8c76ba5/generate.mp4)**
+
+![Blonde Woman Scores a Spectacular Goal in High Heels](https://cdn.lipsync.video/lipsync/cdn/feature-case/159317a6-0d50-46e9-97f3-586fe8c76ba5/cover.jpg)
 
 **16:9 · 1080p · 14s · Seedance**
 
@@ -817,6 +863,8 @@ Audio: natural park ambience, distant voices, ball impact, footsteps
 ## 24. Ultra-Real Personal Home Video of a Korean Woman
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/f24001c6-7a3f-451a-8100-60bbf1ba35ec/generate.mp4)**
+
+![Ultra-Real Personal Home Video of a Korean Woman](https://cdn.lipsync.video/lipsync/cdn/feature-case/f24001c6-7a3f-451a-8100-60bbf1ba35ec/cover.jpg)
 
 **16:9 · 1080p · 30s · Seedance**
 
@@ -931,6 +979,8 @@ No exaggerated slapstick beyond real physical missteps. No professional dance sk
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/257bf0e3-6023-4d37-9c02-61b348f3244a/generate.mp4)**
 
+![Dog Steals the Spotlight in a Mirror Selfie](https://cdn.lipsync.video/lipsync/cdn/feature-case/257bf0e3-6023-4d37-9c02-61b348f3244a/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/Strength04_X/status/2097616213371478242) · 2026-09-09 17:20 (UTC+08:00)
@@ -956,6 +1006,8 @@ REFERENCE & SUBJECT CONSISTENCY Use "@<image1" as the exact visual reference for
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/edd4333b-c012-4a0e-9c25-888158ffdc26/generate.mp4)**
 
+![Gray Cat Triggers a Chaotic Kitchen Mishap](https://cdn.lipsync.video/lipsync/cdn/feature-case/edd4333b-c012-4a0e-9c25-888158ffdc26/cover.jpg)
+
 **16:9 · 720p · 15s · Seedance**
 
 [Original post](https://x.com/Lianaalane/status/2104431076089414068) · 2026-09-28 12:40 (UTC+08:00)
@@ -974,6 +1026,8 @@ Created a video, a cinematic cartoon-style kitchen story featuring a curly red-h
 ## 27. A Sleepy Teen's Mismatched-Shoe School Morning
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/2865d226-7209-4ad4-bd01-b154d40292f8/generate.mp4)**
+
+![A Sleepy Teen's Mismatched-Shoe School Morning](https://cdn.lipsync.video/lipsync/cdn/feature-case/2865d226-7209-4ad4-bd01-b154d40292f8/cover.jpg)
 
 **16:9 · 4K · 30s · Seedance**
 
@@ -1095,6 +1149,8 @@ The final result should look like a professionally filmed, relatable family come
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/a31de057-9e56-4d46-b20a-15eb8c58de81/generate.mp4)**
 
+![Crow Hugs a Gray Cat Before They Walk Away Together](https://cdn.lipsync.video/lipsync/cdn/feature-case/a31de057-9e56-4d46-b20a-15eb8c58de81/cover.jpg)
+
 **16:9 · 1080p · 15s · Seedance**
 
 [Original post](https://x.com/soulful__ai/status/2103056454395855115) · 2026-09-24 17:38 (UTC+08:00)
@@ -1166,6 +1222,8 @@ Single continuous shot, no cuts or transitions
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/f1092d8e-2024-4067-96df-7aafb5dd96a2/generate.mp4)**
 
+![Korean Woman Melts Down During a Spicy Food Challenge](https://cdn.lipsync.video/lipsync/cdn/feature-case/f1092d8e-2024-4067-96df-7aafb5dd96a2/cover.jpg)
+
 **16:9 · 1080p · 30s · Seedance**
 
 [Original post](https://x.com/oggii_0/status/2094267751477232053) · 2026-08-31 11:35 (UTC+08:00)
@@ -1231,6 +1289,8 @@ No exaggerated acting beyond real spice reactions. No fake toughing-it-out — t
 ## 30. Over-Water Human Wall Crab Squat Challenge
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/a11787b1-035f-41a0-b898-99ec4f3f1201/generate.mp4)**
+
+![Over-Water Human Wall Crab Squat Challenge](https://cdn.lipsync.video/lipsync/cdn/feature-case/a11787b1-035f-41a0-b898-99ec4f3f1201/cover.jpg)
 
 **16:9 · 4K · 15s · Seedance**
 
@@ -1429,6 +1489,8 @@ SEEDANCE 2.5｜水上人形墙挑战
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/21a54851-47a4-4a14-9e3e-3f1b2926484a/generate.mp4)**
 
+![A Farewell Kiss at a Joseon Gate](https://cdn.lipsync.video/lipsync/cdn/feature-case/21a54851-47a4-4a14-9e3e-3f1b2926484a/cover.jpg)
+
 **16:9 · 1080p · 35s · Seedance**
 
 [Original post](https://x.com/abulu8/status/2105362930640605330) · 2026-10-01 02:23 (UTC+08:00)
@@ -1501,6 +1563,8 @@ NO English/Chinese dialogue placeholders. NO modern props/phones/zippers. NO PRO
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/c73a5198-e3a6-49bc-8b78-5ce2aad675ec/generate.mp4)**
 
+![Runaway Bride Escapes in a Red Vintage Car](https://cdn.lipsync.video/lipsync/cdn/feature-case/c73a5198-e3a6-49bc-8b78-5ce2aad675ec/cover.jpg)
+
 **16:9 · 720p · 15s · Seedance**
 
 [Original post](https://x.com/Caden_Flux/status/2105228156085137501) · 2026-09-30 17:28 (UTC+08:00)
@@ -1539,6 +1603,8 @@ Important: No slow motion, no sad mood, no dramatic romance, no dialogue, no tex
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/93ad31a6-095b-4b9f-8d99-4168af4e6e99/generate.mp4)**
 
+![Found Footage of an Outbreak on a Night Train](https://cdn.lipsync.video/lipsync/cdn/feature-case/93ad31a6-095b-4b9f-8d99-4168af4e6e99/cover.jpg)
+
 **16:9 · 1080p · 30s · Seedance**
 
 [Original post](https://x.com/doctorwasif/status/2098639106712784933) · 2026-09-12 13:05 (UTC+08:00)
@@ -1567,6 +1633,8 @@ Important: No slow motion, no sad mood, no dramatic romance, no dialogue, no tex
 ## 34. Street Comedy: Found Money Gets Spent on the Spot
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/231675d9-f0d0-4590-8dd1-6ae79d9f503c/generate.mp4)**
+
+![Street Comedy: Found Money Gets Spent on the Spot](https://cdn.lipsync.video/lipsync/cdn/feature-case/231675d9-f0d0-4590-8dd1-6ae79d9f503c/cover.jpg)
 
 **9:16 · 720p · 15s · Seedance**
 
@@ -1655,6 +1723,8 @@ hf_20260702_115248_424b92a4-ca6f-401a-baa3-709ae4b60581hf_20260702_115…
 ## 35. Seedance 2.5 Thirty-Second Story From Two Stitched Prompts
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/6bdc92ef-7ea5-4606-8987-8850ff4719bd/generate.mp4)**
+
+![Seedance 2.5 Thirty-Second Story From Two Stitched Prompts](https://cdn.lipsync.video/lipsync/cdn/feature-case/6bdc92ef-7ea5-4606-8987-8850ff4719bd/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance**
 
@@ -1752,6 +1822,8 @@ Important: preserve the man’s identity from the reference. Keep him visible fo
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/90acbe03-3dd0-4264-8d7d-0710d5cda766/generate.mp4)**
 
+![Bathrobe Granny Lifts a Giant Steel Coil Back onto a Truck](https://cdn.lipsync.video/lipsync/cdn/feature-case/90acbe03-3dd0-4264-8d7d-0710d5cda766/cover.jpg)
+
 **16:9 · 1080p · 30s · Seedance**
 
 [Original post](https://x.com/Ciri_ai/status/2096959231434063990) · 2026-09-07 21:50 (UTC+08:00)
@@ -1786,6 +1858,8 @@ Audio: cabin interior of the filming car — engine idle, faint radio murmur, a 
 ## 37. Aesthetic Café Vlog Goes Wrong in Autumn Seoul
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/f27ab171-e9df-4ed0-a5ff-74cce5ef4607/generate.mp4)**
+
+![Aesthetic Café Vlog Goes Wrong in Autumn Seoul](https://cdn.lipsync.video/lipsync/cdn/feature-case/f27ab171-e9df-4ed0-a5ff-74cce5ef4607/cover.jpg)
 
 **16:9 · 1080p · 30s · Seedance**
 
@@ -1853,6 +1927,8 @@ No posed perfection sustained for more than a few seconds before something goes 
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/91164beb-3709-4c3a-a930-49e2cc9cac44/generate.mp4)**
 
+![Brave Rooster Rescues Three Chicks from a Raging River](https://cdn.lipsync.video/lipsync/cdn/feature-case/91164beb-3709-4c3a-a930-49e2cc9cac44/cover.jpg)
+
 **9:16 · 4K · 30s · Seedance**
 
 [Original post](https://x.com/Zarnab_with_Ai/status/2097272507518587145) · 2026-09-08 18:35 (UTC+08:00)
@@ -1887,6 +1963,8 @@ Style: photorealistic cinematic fantasy, high-end animated movie quality, realis
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/6981c960-159d-4a52-a7fd-8e83211204d0/generate.mp4)**
 
+![Woman Facing Flying Debris in an Earthquake-Ravaged City](https://cdn.lipsync.video/lipsync/cdn/feature-case/6981c960-159d-4a52-a7fd-8e83211204d0/cover.jpg)
+
 **16:9 · 8K · 20s · Seedance**
 
 [Original post](https://x.com/AIwithMinal/status/2094297733175902349) · 2026-08-31 13:34 (UTC+08:00)
@@ -1905,6 +1983,8 @@ Ultra-realistic cinematic disaster scene in a modern city, a brave young woman i
 ## 40. Dreamy Riverside Picnic Gone Wrong
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/aab620df-85e0-4e1c-b6da-e8acb41278d4/generate.mp4)**
+
+![Dreamy Riverside Picnic Gone Wrong](https://cdn.lipsync.video/lipsync/cdn/feature-case/aab620df-85e0-4e1c-b6da-e8acb41278d4/cover.jpg)
 
 **16:9 · 1080p · 30s · Seedance**
 
@@ -2019,6 +2099,8 @@ No posed perfection sustained for more than a few seconds before nature ruins it
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/e8d94862-1e59-41ec-904d-e949440d9357/generate.mp4)**
 
+![Santa’s Fitness Transformation into a Muscular Hunk](https://cdn.lipsync.video/lipsync/cdn/feature-case/e8d94862-1e59-41ec-904d-e949440d9357/cover.jpg)
+
 **16:9 · 720p · 36s · Seedance**
 
 [Original post](https://x.com/mrdejie/status/2094622082474852770) · 2026-09-01 11:03 (UTC+08:00)
@@ -2061,6 +2143,8 @@ Photorealistic 36-second Santa diet-to-reveal video at the North Pole. Cozy Chri
 ## 42. Goofy Rubber-Face Transformations on a Night Street
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/7f36d80f-9f90-4c7b-bb1a-699f9984a368/generate.mp4)**
+
+![Goofy Rubber-Face Transformations on a Night Street](https://cdn.lipsync.video/lipsync/cdn/feature-case/7f36d80f-9f90-4c7b-bb1a-699f9984a368/cover.jpg)
 
 **9:16 · 4K · 10s · Seedance**
 

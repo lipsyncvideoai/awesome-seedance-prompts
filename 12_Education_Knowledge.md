@@ -8,6 +8,8 @@
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/ad763505-651e-40bd-b877-731e06f8e9d0/generate.mp4)**
 
+![Seedance 2.5 Maldives Cycling Documentary in One Long Take](https://cdn.lipsync.video/lipsync/cdn/feature-case/ad763505-651e-40bd-b877-731e06f8e9d0/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance 2.5**
 
 [Original post](https://x.com/techhalla/status/2088099038839316601) · 2026-08-14 11:03 (UTC+08:00)

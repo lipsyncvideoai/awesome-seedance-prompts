@@ -8,6 +8,8 @@
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/ece66083-25a8-4742-ba66-9709800f0ef6/generate.mp4)**
 
+![A Woman Turns Zombie and Hunts Survivors in a Parking Garage](https://cdn.lipsync.video/lipsync/cdn/feature-case/ece66083-25a8-4742-ba66-9709800f0ef6/cover.jpg)
+
 **16:9 · 1080p · 30s · Seedance 2.5**
 
 [Original post](https://x.com/AIwithSynthia/status/2113840061104206005) · 2026-10-24 11:48 (UTC+08:00)
@@ -40,6 +42,8 @@ STYLE: Photorealistic Korean horror, creepy laughter, milky-white eyes, realisti
 ## 2. Zombie Outbreak on a Train
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/3a4804b5-6fc6-4e5b-a4ee-f38f5593a3bf/generate.mp4)**
+
+![Zombie Outbreak on a Train](https://cdn.lipsync.video/lipsync/cdn/feature-case/3a4804b5-6fc6-4e5b-a4ee-f38f5593a3bf/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance 2.5**
 
@@ -101,6 +105,8 @@ Shot 22 (27.5–30s): Survivors huddle against the far wall, breathing hard and 
 ## 3. Zombies Erupt at a Night Concert as a Guitarist Saves His Bandmates
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/b70f6135-12e8-4f5d-94a3-32a453247cab/generate.mp4)**
+
+![Zombies Erupt at a Night Concert as a Guitarist Saves His Bandmates](https://cdn.lipsync.video/lipsync/cdn/feature-case/b70f6135-12e8-4f5d-94a3-32a453247cab/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance 2.5**
 
@@ -173,6 +179,8 @@ Cinematic horror-action short film set at an outdoor music concert at night, ope
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/6b0eda1b-a81f-4c8b-bbdf-dad316340c86/generate.mp4)**
 
+![Woman Clutches Puppy on a Train as Zombies Overrun the City](https://cdn.lipsync.video/lipsync/cdn/feature-case/6b0eda1b-a81f-4c8b-bbdf-dad316340c86/cover.jpg)
+
 **16:9 · 1080p · 30s · Seedance 2.5**
 
 [Original post](https://x.com/john_my07/status/2110365712560902198) · 2026-10-14 21:42 (UTC+08:00)
@@ -202,6 +210,8 @@ Keep both the girl and puppy visible while giving the outside chaos equal visual
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/be401978-43a8-403b-a07c-e0d3a661845a/generate.mp4)**
 
+![A Woman Escapes a Zombie Reflection in a Nighttime Elevator](https://cdn.lipsync.video/lipsync/cdn/feature-case/be401978-43a8-403b-a07c-e0d3a661845a/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance 2.5**
 
 [Original post](https://x.com/AIwithSynthia/status/2105862212422074725) · 2026-10-02 11:27 (UTC+08:00)
@@ -224,6 +234,8 @@ Negative prompt: Cartoon, anime, stylized CGI, exaggerated gore, distorted anato
 ## 6. Post-Apocalyptic Korean Rooftop Horror
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/6af8d047-86cc-4e1e-8437-cc3bf463b112/generate.mp4)**
+
+![Post-Apocalyptic Korean Rooftop Horror](https://cdn.lipsync.video/lipsync/cdn/feature-case/6af8d047-86cc-4e1e-8437-cc3bf463b112/cover.jpg)
 
 **16:9 · 720p · 15s · Seedance 2.0**
 
@@ -255,6 +267,8 @@ Negative prompt: Cartoon, anime, stylized CGI, exaggerated gore, distorted anato
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/7f63847a-f198-436e-a43a-cd0b2238ccab/generate.mp4)**
 
+![Dark Surreal Mirror-Reflection Horror Short](https://cdn.lipsync.video/lipsync/cdn/feature-case/7f63847a-f198-436e-a43a-cd0b2238ccab/cover.jpg)
+
 **16:9 · 4K · 12s · Seedance 2.0**
 
 [Original post](https://x.com/Nexustechai1/status/2081527386508611807) · 2026-07-27 07:49 (UTC+08:00)
@@ -278,6 +292,8 @@ Cinematic texture, film grain, anamorphic lens flare, shallow depth of field. Li
 ## 8. Security Guard and Survivors in a Mall Zombie Outbreak
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/be7d7406-051f-40b8-a53e-f1925810041d/generate.mp4)**
+
+![Security Guard and Survivors in a Mall Zombie Outbreak](https://cdn.lipsync.video/lipsync/cdn/feature-case/be7d7406-051f-40b8-a53e-f1925810041d/cover.jpg)
 
 **16:9 · 720p · 24s · Seedance**
 
@@ -326,6 +342,8 @@ The group reaches temporary safety behind the storefront. The guard slowly looks
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/193ea2c9-634b-4763-9910-2f154aab84a7/generate.mp4)**
 
+![Infection Terror Aboard a Night Sleeper Train](https://cdn.lipsync.video/lipsync/cdn/feature-case/193ea2c9-634b-4763-9910-2f154aab84a7/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/AIwithSynthia/status/2100803982197502368) · 2026-09-18 12:27 (UTC+08:00)
@@ -348,6 +366,8 @@ End with survivors huddled together beneath flashing red emergency lights, prote
 ## 10. Parasite Outbreak in a High-Security Laboratory
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/738c430b-cc71-48c1-8b97-ea82c258133f/generate.mp4)**
+
+![Parasite Outbreak in a High-Security Laboratory](https://cdn.lipsync.video/lipsync/cdn/feature-case/738c430b-cc71-48c1-8b97-ea82c258133f/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance**
 
@@ -375,6 +395,8 @@ Visual and audio direction: Ultra-realistic sci-fi zombie horror with detailed n
 ## 11. Zombie Infection Outbreak in a Train Carriage
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/8fcbc2b2-1efc-4f32-a7fa-974e9f746f7c/generate.mp4)**
+
+![Zombie Infection Outbreak in a Train Carriage](https://cdn.lipsync.video/lipsync/cdn/feature-case/8fcbc2b2-1efc-4f32-a7fa-974e9f746f7c/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance**
 
@@ -423,6 +445,8 @@ Visual and audio direction: Ultra-realistic sci-fi zombie horror with detailed n
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/bcf9310c-a88e-462f-abe8-95aba5667745/generate.mp4)**
 
+![Escape from the Infected at a Japanese High School](https://cdn.lipsync.video/lipsync/cdn/feature-case/bcf9310c-a88e-462f-abe8-95aba5667745/cover.jpg)
+
 **9:16 · 1080p · 29s · Seedance**
 
 [Original post](https://x.com/SadiaMalik182/status/2102278921161208273) · 2026-09-22 14:08 (UTC+08:00)
@@ -464,6 +488,8 @@ Photorealistic live-action Japanese horror-thriller, realistic Japanese high-sch
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/79fba567-9cb0-47e9-863e-dca2c8c9117f/generate.mp4)**
 
+![Two Infected Women Hunt Victims in a Dim Public Washroom](https://cdn.lipsync.video/lipsync/cdn/feature-case/79fba567-9cb0-47e9-863e-dca2c8c9117f/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/AIwithSynthia/status/2103091393145282775) · 2026-09-24 19:57 (UTC+08:00)
@@ -490,6 +516,8 @@ Style: photorealistic Korean zombie horror, claustrophobic tiled washroom, wet s
 ## 14. Twisted Transformation in a Late-Night Pharmacy
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/e7b45483-1e24-4c08-b326-f3cc8554b7fc/generate.mp4)**
+
+![Twisted Transformation in a Late-Night Pharmacy](https://cdn.lipsync.video/lipsync/cdn/feature-case/e7b45483-1e24-4c08-b326-f3cc8554b7fc/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance**
 
@@ -536,6 +564,8 @@ A single medicine box slowly falls from a shelf. Cut to black.
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/060b2fd0-19f8-4c5b-b76e-e628adebb077/generate.mp4)**
 
+![Woman Flees Through an Underground Passage at Night](https://cdn.lipsync.video/lipsync/cdn/feature-case/060b2fd0-19f8-4c5b-b76e-e628adebb077/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/Lianaalane/status/2100886741972640200) · 2026-09-18 17:56 (UTC+08:00)
@@ -554,6 +584,8 @@ Created a video, 30 seconds, in a dark cinematic thriller style, featuring a you
 ## 16. Zombie Chase Turns into an Embrace in a Golden Field
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/4b8f9c16-6c75-45cf-8fa4-1a70b5e6275e/generate.mp4)**
+
+![Zombie Chase Turns into an Embrace in a Golden Field](https://cdn.lipsync.video/lipsync/cdn/feature-case/4b8f9c16-6c75-45cf-8fa4-1a70b5e6275e/cover.jpg)
 
 **9:16 · 1080p · 17s · Seedance**
 

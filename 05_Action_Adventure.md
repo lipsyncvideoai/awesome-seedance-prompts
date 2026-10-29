@@ -8,6 +8,8 @@
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/3e41107b-6095-4708-96b8-40fe0cbb3aa6/generate.mp4)**
 
+![Woman in Green Summons a Fiery Tree Guardian Against Demons](https://cdn.lipsync.video/lipsync/cdn/feature-case/3e41107b-6095-4708-96b8-40fe0cbb3aa6/cover.jpg)
+
 **16:9 · 720p · 29s · Seedance 2.5**
 
 [Original post](https://x.com/itsSaira_1/status/2107685928647160275) · 2026-10-07 12:14 (UTC+08:00)
@@ -28,6 +30,8 @@ Cinematic dark fantasy battle, 16:9, photoreal, shallow depth of field, anamorph
 ## 2. A Nun Becomes an Angel and Slays Demons in a Ruined Cathedral
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/424852a1-c2b7-4c05-9628-d2923b7c1750/generate.mp4)**
+
+![A Nun Becomes an Angel and Slays Demons in a Ruined Cathedral](https://cdn.lipsync.video/lipsync/cdn/feature-case/424852a1-c2b7-4c05-9628-d2923b7c1750/cover.jpg)
 
 **16:9 · 720p · 29s · Seedance 2.5**
 
@@ -52,6 +56,8 @@ blurry, low quality, distorted, deformed, bad anatomy, extra limbs, poorly drawn
 ## 3. Devil Woman and Monsters in Halloween Night Mayhem
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/c9d7560d-30e5-40d2-9bc1-e9d15f5c2fc9/generate.mp4)**
+
+![Devil Woman and Monsters in Halloween Night Mayhem](https://cdn.lipsync.video/lipsync/cdn/feature-case/c9d7560d-30e5-40d2-9bc1-e9d15f5c2fc9/cover.jpg)
 
 **9:16 · 1080p · 15s · Seedance 2.5**
 
@@ -87,6 +93,8 @@ Crowd goes insane, camera shaking. Shot 11 (12.2-14s): Camera drops to the floor
 ## 4. A Tiny Woman’s Bathroom Survival Escape
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/4a0e7ad6-2497-4e77-adff-8150347e325f/generate.mp4)**
+
+![A Tiny Woman’s Bathroom Survival Escape](https://cdn.lipsync.video/lipsync/cdn/feature-case/4a0e7ad6-2497-4e77-adff-8150347e325f/cover.jpg)
 
 **16:9 · 1080p · 30s · Seedance 2.5**
 
@@ -145,6 +153,8 @@ Use synchronized, exaggerated but realistic sound effects: shower valve click, t
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/fad6c027-56ba-41c5-adee-ee9745d3a9c1/generate.mp4)**
 
+![Nun Becomes a Green-Glowing Angel to Battle Cathedral Demons](https://cdn.lipsync.video/lipsync/cdn/feature-case/fad6c027-56ba-41c5-adee-ee9745d3a9c1/cover.jpg)
+
 **16:9 · 720p · 29s · Seedance 2.5**
 
 [Original post](https://x.com/itsSaira_1/status/2108049177259462719) · 2026-10-08 12:17 (UTC+08:00)
@@ -184,6 +194,8 @@ Negative prompt: cartoon, anime, low quality, blurry, face change, different per
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/5f1e0b46-b034-4a15-868b-d9b1529b5367/generate.mp4)**
 
+![Lightning Warrior and Spatial Rupture on an Abandoned Battlefield](https://cdn.lipsync.video/lipsync/cdn/feature-case/5f1e0b46-b034-4a15-868b-d9b1529b5367/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance 2.5**
 
 [Original post](https://x.com/itxabdullaa/status/2106702315239686628) · 2026-10-04 19:05 (UTC+08:00)
@@ -221,6 +233,8 @@ STYLE: Extremely fast, agile, physically grounded combat. Dense semi-transparent
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/0e69b938-5533-46ae-beab-c36b484342cf/generate.mp4)**
 
+![Woman Outmaneuvers Three Thugs Outside a Convenience Store at Night](https://cdn.lipsync.video/lipsync/cdn/feature-case/0e69b938-5533-46ae-beab-c36b484342cf/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance 2.5**
 
 [Original post](https://x.com/aiwithaly/status/2106981702677451248) · 2026-10-05 13:35 (UTC+08:00)
@@ -257,6 +271,8 @@ Negative prompt: supernatural strength, flying bodies, wire-fu, invisible force,
 ## 8. Mint-Robed Swordswoman Fights Assassins in a Rainy Bamboo Forest
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/72012069-6af7-443b-b46b-73413424a458/generate.mp4)**
+
+![Mint-Robed Swordswoman Fights Assassins in a Rainy Bamboo Forest](https://cdn.lipsync.video/lipsync/cdn/feature-case/72012069-6af7-443b-b46b-73413424a458/cover.jpg)
 
 **16:9 · 1080p · 19s · Seedance 2.5**
 
@@ -298,6 +314,8 @@ Negative Prompt: Cartoon, anime, CGI appearance, plastic skin, blurry faces, dis
 ## 9. Crimson-Powered Armored Hero Battles Masked Men on a Rainy Night
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/db29b445-d246-41fa-be9d-60f7141e3c84/generate.mp4)**
+
+![Crimson-Powered Armored Hero Battles Masked Men on a Rainy Night](https://cdn.lipsync.video/lipsync/cdn/feature-case/db29b445-d246-41fa-be9d-60f7141e3c84/cover.jpg)
 
 **16:9 · 1080p · 35s · Seedance 2.5**
 
@@ -354,6 +372,8 @@ NEGATIVE: Cartoon, artificial CGI appearance, plastic skin, face changes, incons
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/df893dcf-c8be-427e-9f84-4b2b2e1884ed/generate.mp4)**
 
+![Warrior in Black and White Battles Swordsmen in a Ruined Temple](https://cdn.lipsync.video/lipsync/cdn/feature-case/df893dcf-c8be-427e-9f84-4b2b2e1884ed/cover.jpg)
+
 **16:9 · 720p · 15s · Seedance 2.5**
 
 [Original post](https://x.com/aiwithaly/status/2112055308701053088) · 2026-10-19 13:36 (UTC+08:00)
@@ -372,6 +392,8 @@ A 15-second ultra-realistic cinematic martial arts battle inspired by classic Ho
 ## 11. Roman Gladiator Turns the Tide to Win in the Arena
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/9e828269-28b5-42f6-801e-791f7bba185d/generate.mp4)**
+
+![Roman Gladiator Turns the Tide to Win in the Arena](https://cdn.lipsync.video/lipsync/cdn/feature-case/9e828269-28b5-42f6-801e-791f7bba185d/cover.jpg)
 
 **16:9 · 1080p · 38s · Seedance 2.5**
 
@@ -423,6 +445,8 @@ CONTINUITY LOCKS: @image1 remains identical in every shot. Maintain the same out
 ## 12. Black Sedan Chase and Gunfire at Sunset
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/fcae05bb-bd6c-45a4-8ad0-80fb3bfb1ec6/generate.mp4)**
+
+![Black Sedan Chase and Gunfire at Sunset](https://cdn.lipsync.video/lipsync/cdn/feature-case/fcae05bb-bd6c-45a4-8ad0-80fb3bfb1ec6/cover.jpg)
 
 **16:9 · 1080p · 30s · Seedance 2.5**
 
@@ -477,6 +501,8 @@ STYLE:** Hollywood blockbuster action. Photorealistic live-action, anamorphic AR
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/ca6c0894-5b9e-4a17-9675-3621114e68ec/generate.mp4)**
 
+![Cinematic Wet Market Flood Escape](https://cdn.lipsync.video/lipsync/cdn/feature-case/ca6c0894-5b9e-4a17-9675-3621114e68ec/cover.jpg)
+
 **16:9 · 1080p · 43s · Seedance 2.5**
 
 [Original post](https://x.com/AiwithElisia/status/2091036019076272229) · 2026-08-22 13:33 (UTC+08:00)
@@ -511,6 +537,8 @@ Photorealistic, ultra-detailed, cinematic Hollywood-style action scene, realisti
 ## 14. Bullied Schoolgirl Fights Back with Wind in a Shrine Courtyard
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/ceee3d48-c02d-4e8e-97f4-1ab734d2477c/generate.mp4)**
+
+![Bullied Schoolgirl Fights Back with Wind in a Shrine Courtyard](https://cdn.lipsync.video/lipsync/cdn/feature-case/ceee3d48-c02d-4e8e-97f4-1ab734d2477c/cover.jpg)
 
 **16:9 · 1080p · 20s · Seedance 2.5**
 
@@ -582,6 +610,8 @@ Exactly 20.0 seconds in one unbroken take. The heroine stands holding her journa
 ## 15. Silver-Haired Dual-Sword Warrior Assaults a Japanese Castle
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/28e908de-d7ce-447e-ba1e-a978f29f4709/generate.mp4)**
+
+![Silver-Haired Dual-Sword Warrior Assaults a Japanese Castle](https://cdn.lipsync.video/lipsync/cdn/feature-case/28e908de-d7ce-447e-ba1e-a978f29f4709/cover.jpg)
 
 **16:9 · 1080p · 30s · Seedance 2.5**
 
@@ -742,6 +772,8 @@ logos, watermark.
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/e7c33d3c-3feb-4bd3-b4d2-31d949317d6c/generate.mp4)**
 
+![Policewoman Pursues a Flying-Car Fugitive Through Desert Canyons](https://cdn.lipsync.video/lipsync/cdn/feature-case/e7c33d3c-3feb-4bd3-b4d2-31d949317d6c/cover.jpg)
+
 **16:9 · 1080p · 30s · Seedance 2.5**
 
 [Original post](https://x.com/aiwithaly/status/2112391782164287977) · 2026-10-20 11:53 (UTC+08:00)
@@ -760,6 +792,8 @@ A 30-second ultra-realistic Hollywood-style sci-fi action sequence set above a v
 ## 17. Young Woman Battles a Giant Octopus in Manhattan with Pink Lightning
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/d8934f71-53bd-4af4-8713-c82d76f5d5cd/generate.mp4)**
+
+![Young Woman Battles a Giant Octopus in Manhattan with Pink Lightning](https://cdn.lipsync.video/lipsync/cdn/feature-case/d8934f71-53bd-4af4-8713-c82d76f5d5cd/cover.jpg)
 
 **16:9 · 720p · 47s · Seedance 2.5**
 
@@ -783,6 +817,8 @@ cartoon, anime, plastic skin, blurry, warped face, extra limbs, bad hands, morph
 ## 18. Muay Thai Fighter Battles Armed Thugs in Rainy Bangkok Chinatown
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/f38efcdf-77e2-403e-9377-691378af77e0/generate.mp4)**
+
+![Muay Thai Fighter Battles Armed Thugs in Rainy Bangkok Chinatown](https://cdn.lipsync.video/lipsync/cdn/feature-case/f38efcdf-77e2-403e-9377-691378af77e0/cover.jpg)
 
 **16:9 · 1080p · 30s · Seedance 2.5**
 
@@ -850,6 +886,8 @@ Generate a continuous 15-second hyper-realistic live-action martial arts sequenc
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/89a05dbc-b912-4774-aa3d-0c75a97143b1/generate.mp4)**
 
+![Comeback Knockout in an Octagon Showdown](https://cdn.lipsync.video/lipsync/cdn/feature-case/89a05dbc-b912-4774-aa3d-0c75a97143b1/cover.jpg)
+
 **16:9 · 480p · 30s · Seedance 2.5**
 
 [Original post](https://x.com/Xaroon_x/status/2107412153577935128) · 2026-10-06 18:06 (UTC+08:00)
@@ -895,6 +933,8 @@ QUALITY: Realistic physics, anatomy, sweat, skin texture, cinematic motion blur 
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/14f02b6f-18d6-4b28-b26d-b9593f5c3617/generate.mp4)**
 
+![Woman in a Purple Dress Wields Fire on a Ruined Battlefield](https://cdn.lipsync.video/lipsync/cdn/feature-case/14f02b6f-18d6-4b28-b26d-b9593f5c3617/cover.jpg)
+
 **16:9 · 478p · 30s · Seedance 2.5**
 
 [Original post](https://x.com/Zyrellix/status/2108498562199753052) · 2026-10-09 18:03 (UTC+08:00)
@@ -913,6 +953,8 @@ Cinematic fantasy fight, East Asian woman, long black hair with blunt bangs, gol
 ## 21. Pigtail Girl Awakens Purple Power Against Bullies
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/f1346988-bb16-41a7-8127-b880f641a5a6/generate.mp4)**
+
+![Pigtail Girl Awakens Purple Power Against Bullies](https://cdn.lipsync.video/lipsync/cdn/feature-case/f1346988-bb16-41a7-8127-b880f641a5a6/cover.jpg)
 
 **16:9 · 480p · 30s · Seedance 2.5**
 
@@ -950,6 +992,8 @@ She remains in the foreground with both fists glowing intensely.
 ## 22. Woman Battles Ten Masked Fighters in a Rain-Soaked Tea Garden
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/2256272a-1ede-444d-8bbe-85a5a86aafef/generate.mp4)**
+
+![Woman Battles Ten Masked Fighters in a Rain-Soaked Tea Garden](https://cdn.lipsync.video/lipsync/cdn/feature-case/2256272a-1ede-444d-8bbe-85a5a86aafef/cover.jpg)
 
 **16:9 · 1080p · 15s · Seedance 2.5**
 
@@ -999,6 +1043,8 @@ CONSTRAINTS: At least ten enemies, all hit. No empty kicks; every strike connect
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/c249d76d-a5c4-48cf-923f-55d4a602ab9b/generate.mp4)**
 
+![Tea Phoenix Awakens a Woman’s Armor for Leaps Across a Neon City](https://cdn.lipsync.video/lipsync/cdn/feature-case/c249d76d-a5c4-48cf-923f-55d4a602ab9b/cover.jpg)
+
 **16:9 · 1080p · 30s · Seedance 2.5**
 
 [Original post](https://x.com/laviniavelle/status/2107709472944906671) · 2026-10-07 13:47 (UTC+08:00)
@@ -1017,6 +1063,8 @@ Cinematic 8K video sequence, 30 seconds An elegant East Asian woman in a dark na
 ## 24. Woman in Black Battles a Horde in a White Stone Quarry
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/28512119-cbdb-4458-8ffd-95b29d8a93ca/generate.mp4)**
+
+![Woman in Black Battles a Horde in a White Stone Quarry](https://cdn.lipsync.video/lipsync/cdn/feature-case/28512119-cbdb-4458-8ffd-95b29d8a93ca/cover.jpg)
 
 **16:9 · 1080p · 15s · Seedance 2.5**
 
@@ -1057,6 +1105,8 @@ Duration: 15 seconds. Aspect ratio: 16:9. Quality: Ultra-realistic cinematic 4K.
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/220c525f-f0ee-45b4-9501-36f5ed37b717/generate.mp4)**
 
+![Korean Campus Rooftop Sunset Scene](https://cdn.lipsync.video/lipsync/cdn/feature-case/220c525f-f0ee-45b4-9501-36f5ed37b717/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance 2.5**
 
 [Original post](https://x.com/Aqsahere_/status/2091001743035564070) · 2026-08-22 11:17 (UTC+08:00)
@@ -1075,6 +1125,8 @@ photorealistic live-action Korean high-school rooftop scene at sunset. Use the p
 ## 26. Golden Warrior Battles Two Monsters in a Flooded Cathedral
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/3ffb3377-b444-4305-934f-af08f367305c/generate.mp4)**
+
+![Golden Warrior Battles Two Monsters in a Flooded Cathedral](https://cdn.lipsync.video/lipsync/cdn/feature-case/3ffb3377-b444-4305-934f-af08f367305c/cover.jpg)
 
 **16:9 · 1080p · 30s · Seedance 2.5**
 
@@ -1131,6 +1183,8 @@ CONTINUITY: Physically grounded impacts, consistent damage, readable action, mot
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/60ef6d2f-e2a0-4474-8148-e8197f40cfc1/generate.mp4)**
 
+![Sports Car, Motorcycle, Tank and Fighter Jet Transform into Mecha](https://cdn.lipsync.video/lipsync/cdn/feature-case/60ef6d2f-e2a0-4474-8148-e8197f40cfc1/cover.jpg)
+
 **16:9 · 1080p · 30s · Seedance 2.5**
 
 [Original post](https://x.com/laviniavelle/status/2108404878590857384) · 2026-10-09 11:51 (UTC+08:00)
@@ -1150,6 +1204,8 @@ A silver sports car driving down a city highway smoothly transforms into a giant
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/445f15d0-c79f-4454-adc3-dbebb0270efc/generate.mp4)**
 
+![A Martial Arts Duel Outside a Convenience Store on a Sunny Day](https://cdn.lipsync.video/lipsync/cdn/feature-case/445f15d0-c79f-4454-adc3-dbebb0270efc/cover.jpg)
+
 **9:16 · 1080p · 23s · Seedance 2.5**
 
 [Original post](https://x.com/Zoyavelle/status/2109502196824084591) · 2026-10-12 12:31 (UTC+08:00)
@@ -1168,6 +1224,8 @@ Create an ultra-realistic cinematic martial arts fight scene outside a modern Mi
 ## 29. Pink-Clad Warrior Wields Golden Energy in an Ancient Temple
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/0988df6c-3e14-4384-b6d5-b6d77acdd9f4/generate.mp4)**
+
+![Pink-Clad Warrior Wields Golden Energy in an Ancient Temple](https://cdn.lipsync.video/lipsync/cdn/feature-case/0988df6c-3e14-4384-b6d5-b6d77acdd9f4/cover.jpg)
 
 **16:9 · 720p · 15s · Seedance 2.5**
 
@@ -1198,6 +1256,8 @@ Maintain consistent facial identity, hairstyle, outfit, body proportions, and te
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/76dc2cbd-d80b-4476-b4d4-3c1117a707a6/generate.mp4)**
 
+![Woman Fights Back Against a Man Blocking Her on a Neon-Lit Street](https://cdn.lipsync.video/lipsync/cdn/feature-case/76dc2cbd-d80b-4476-b4d4-3c1117a707a6/cover.jpg)
+
 **9:16 · 720p · 10s · Seedance 2.5**
 
 [Original post](https://x.com/codewithhajra/status/2110290053670814031) · 2026-10-14 16:42 (UTC+08:00)
@@ -1226,6 +1286,8 @@ Visual style: Photorealistic live-action, beautiful natural facial details, real
 ## 31. Meteor-Borne Armored Warrior Battles Robots as Another Meteor Looms
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/fe41ae7b-9530-4881-a769-a8466bc40973/generate.mp4)**
+
+![Meteor-Borne Armored Warrior Battles Robots as Another Meteor Looms](https://cdn.lipsync.video/lipsync/cdn/feature-case/fe41ae7b-9530-4881-a769-a8466bc40973/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance 2.5**
 
@@ -1280,6 +1342,8 @@ End on his face as blue light from the approaching meteor reflects across his ar
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/6fc7bc35-fc6c-40d8-9cbb-86713ea27da7/generate.mp4)**
 
+![Samurai Cat Battles Ninjas in a Moonlit Bamboo Forest](https://cdn.lipsync.video/lipsync/cdn/feature-case/6fc7bc35-fc6c-40d8-9cbb-86713ea27da7/cover.jpg)
+
 **16:9 · 1080p · 15s · Seedance 2.5**
 
 [Original post](https://x.com/Elvorya/status/2106237323046486362) · 2026-10-03 12:18 (UTC+08:00)
@@ -1302,6 +1366,8 @@ Negative prompt: cartoon, anime, low resolution, plastic fur, deformed face, ext
 ## 33. Superpowered Schoolgirl Blocks Missiles and Destroys Helicopters
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/917ae852-b703-4629-9482-29ecbc115673/generate.mp4)**
+
+![Superpowered Schoolgirl Blocks Missiles and Destroys Helicopters](https://cdn.lipsync.video/lipsync/cdn/feature-case/917ae852-b703-4629-9482-29ecbc115673/cover.jpg)
 
 **3:2 · 1080p · 35s · Seedance 2.5**
 
@@ -1337,6 +1403,8 @@ Scene 7: Medium shot of the girl standing confidently with glowing green eyes, m
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/13580b5f-356d-4a33-95b6-2563e0c4ad97/generate.mp4)**
 
+![Warrior Becomes an Angel to Slay Demons in a Gothic Cathedral](https://cdn.lipsync.video/lipsync/cdn/feature-case/13580b5f-356d-4a33-95b6-2563e0c4ad97/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance 2.5**
 
 [Original post](https://x.com/laviniavelle/status/2110227233294139529) · 2026-10-14 12:32 (UTC+08:00)
@@ -1356,6 +1424,8 @@ A dark gothic cathedral interior with stained glass windows and moonlight shinin
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/6bf0736f-3923-4dc5-882e-25e855fd5a51/generate.mp4)**
 
+![Water Warrior Woman Duels Lightning Warrior on Waterfall Cliffs](https://cdn.lipsync.video/lipsync/cdn/feature-case/6bf0736f-3923-4dc5-882e-25e855fd5a51/cover.jpg)
+
 **16:9 · 1080p · 50s · Seedance 2.5**
 
 [Original post](https://x.com/AvelyrahnAI/status/2109502116712820840) · 2026-10-12 12:31 (UTC+08:00)
@@ -1374,6 +1444,8 @@ A hyper realistic cinematic action sequence set on wet stone cliffs in front of 
 ## 36. seedance-2-5-nova-pulse-zenith-88c08b3f5768
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/0d3f8bdb-b5bd-42b3-8f5a-6e89d46d2af7/generate.mp4)**
+
+![seedance-2-5-nova-pulse-zenith-88c08b3f5768](https://cdn.lipsync.video/lipsync/cdn/feature-case/0d3f8bdb-b5bd-42b3-8f5a-6e89d46d2af7/cover.jpg)
 
 **16:9 · 1080p · 30s · Seedance 2.5**
 
@@ -1462,6 +1534,8 @@ SOUND: Sword energy flick WHOOSH, settling debris rustle, quiet wind chime, tota
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/caf08a0a-bb4c-48f7-af14-fa5f3bb844e9/generate.mp4)**
 
+![Hardcore Cartel Hideout Action Scene](https://cdn.lipsync.video/lipsync/cdn/feature-case/caf08a0a-bb4c-48f7-af14-fa5f3bb844e9/cover.jpg)
+
 **16:9 · 480p · 30s · Seedance 2.5**
 
 [Original post](https://x.com/The_Kremlinn/status/2095083714120229230) · 2026-09-02 17:37 (UTC+08:00)
@@ -1501,6 +1575,8 @@ RULES: References are appearance only, do not recreate. Keep the hero's face and
 ## 38. Seedance 2.5 Storm Harbor Disaster Movie Sequence
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/1619e285-0d6c-4f8a-855c-d2eec237bbc9/generate.mp4)**
+
+![Seedance 2.5 Storm Harbor Disaster Movie Sequence](https://cdn.lipsync.video/lipsync/cdn/feature-case/1619e285-0d6c-4f8a-855c-d2eec237bbc9/cover.jpg)
 
 **16:9 · 1080p · 30s · Seedance 2.5**
 
@@ -1547,6 +1623,8 @@ Sound design: heavy rainfall, thunder, distant explosions, sirens, screaming cro
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/c40168c6-c541-4b3f-a175-b3946ce04608/generate.mp4)**
 
+![Sword-Riding Immortal Cultivator Battles Qiongqi: A 3D CG Xianxia VFX Combat Scene (Seedance 2.5)](https://cdn.lipsync.video/lipsync/cdn/feature-case/c40168c6-c541-4b3f-a175-b3946ce04608/cover.jpg)
+
 **16:9 · 606p · 15s · Seedance 2.5**
 
 [Original post](https://mp.weixin.qq.com/s?__biz=MzkwMzE4NjU5NA==&mid=2247519871&idx=1&sn=6c800d0dfcb8afb69c418751cdfd0d3b&gc=scene-3dcg-battle) · 2026-08-21 09:30 (UTC+08:00)
@@ -1566,6 +1644,8 @@ Sound design: heavy rainfall, thunder, distant explosions, sirens, screaming cro
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/84414165-80d0-492c-a3da-177631749540/generate.mp4)**
 
+![Transform into Spider-Man: Generate a Long-Take Superhero Transformation from a Solo Photo](https://cdn.lipsync.video/lipsync/cdn/feature-case/84414165-80d0-492c-a3da-177631749540/cover.jpg)
+
 **16:9 · 720p · 19s · Seedance 2.5**
 
 [Original post](https://x.com/aiwarts?gc=doc2-spiderman-transform)
@@ -1584,6 +1664,8 @@ Sound design: heavy rainfall, thunder, distant explosions, sirens, screaming cro
 ## 41. Meilin-Element Kung Fu Performance
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/0c71eb16-912c-4b02-b652-a22b4a66e9eb/generate.mp4)**
+
+![Meilin-Element Kung Fu Performance](https://cdn.lipsync.video/lipsync/cdn/feature-case/0c71eb16-912c-4b02-b652-a22b4a66e9eb/cover.jpg)
 
 **16:9 · 1440p · 16s · Seedance 2.0, Veo, Kling**
 
@@ -1713,6 +1795,8 @@ flow: bound during rooted stances and precise strikes, free during aerial motion
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/74288710-436f-428e-a577-e9fd81911ef5/generate.mp4)**
 
+![Wuxia Temple Warrior: A Golden Energy Dance](https://cdn.lipsync.video/lipsync/cdn/feature-case/74288710-436f-428e-a577-e9fd81911ef5/cover.jpg)
+
 **16:9 · 720p · 15s · Seedance 2.0**
 
 [Original post](https://x.com/Inshrah_ali_/status/2082761095538790899) · 2026-07-30 17:31 (UTC+08:00)
@@ -1732,6 +1816,8 @@ Inside an enormous ancient temple with towering stone pillars, cracked marble fl
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/38486487-1263-4fac-a422-cfa328b64b51/generate.mp4)**
 
+![Silver-Haired Warrior Charges with a Flaming Spear](https://cdn.lipsync.video/lipsync/cdn/feature-case/38486487-1263-4fac-a422-cfa328b64b51/cover.jpg)
+
 **16:9 · 540p · 15s · Seedance 2.0**
 
 [Original post](https://x.com/Aiwithmaha/status/2109137173224337478) · 2026-10-11 12:21 (UTC+08:00)
@@ -1750,6 +1836,8 @@ Created a 15-second ultra-realistic cinematic fantasy action video featuring a p
 ## 44. A Black-Haired Woman Escapes a War-Torn City with a Rifle
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/86c5e1c0-7521-467a-aa7c-dce9669d218c/generate.mp4)**
+
+![A Black-Haired Woman Escapes a War-Torn City with a Rifle](https://cdn.lipsync.video/lipsync/cdn/feature-case/86c5e1c0-7521-467a-aa7c-dce9669d218c/cover.jpg)
 
 **9:16 · 540p · 28s · Seedance 2.0**
 
@@ -1779,6 +1867,8 @@ Avoid cartoon effects, distorted anatomy, extra fingers, flickering, unwanted te
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/d3c6c338-e11a-4493-ac21-778d9c502103/generate.mp4)**
 
+![Red-Hooded Young Man Evades a Giant Monster in a Misty Ancient Forest](https://cdn.lipsync.video/lipsync/cdn/feature-case/d3c6c338-e11a-4493-ac21-778d9c502103/cover.jpg)
+
 **16:9 · 540p · 15s · Seedance 2.0**
 
 [Original post](https://x.com/Aiwithmaha/status/2107309003781087381) · 2026-10-06 11:16 (UTC+08:00)
@@ -1797,6 +1887,8 @@ Create a 15-second cinematic photorealistic action sequence set in a dark, misty
 ## 46. Orange Tiger Warrior Battles Amid Burning City Ruins
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/5ef3f50f-c04b-4b44-8692-65c605190c75/generate.mp4)**
+
+![Orange Tiger Warrior Battles Amid Burning City Ruins](https://cdn.lipsync.video/lipsync/cdn/feature-case/5ef3f50f-c04b-4b44-8692-65c605190c75/cover.jpg)
 
 **16:9 · 720p · 14s · Seedance 2.0**
 
@@ -1817,6 +1909,8 @@ Create a cinematic 14.6-second action scene featuring a powerful anthropomorphic
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/3322b2c2-0cb4-4ade-a857-9e0d961119d3/generate.mp4)**
 
+![A Dragon Chases a Woman Through a Container Port at Dusk](https://cdn.lipsync.video/lipsync/cdn/feature-case/3322b2c2-0cb4-4ade-a857-9e0d961119d3/cover.jpg)
+
 **16:9 · 4K · 45s · Seedance 2.0**
 
 [Original post](https://x.com/Aiwithmaha/status/2108380075796418791) · 2026-10-09 10:12 (UTC+08:00)
@@ -1836,6 +1930,8 @@ Create a 45-second ultra-realistic cinematic action video set in a large shippin
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/350535de-632b-466e-a0e1-7ad0dd56648b/generate.mp4)**
 
+![Martial Arts Action Set Piece in a Jewelry Boutique](https://cdn.lipsync.video/lipsync/cdn/feature-case/350535de-632b-466e-a0e1-7ad0dd56648b/cover.jpg)
+
 **16:9 · 4K · 10s · Seedance 2.0**
 
 [Original post](https://x.com/mimu_ai1/status/2091215411341930633) · 2026-08-23 01:26 (UTC+08:00)
@@ -1854,6 +1950,8 @@ A dynamic, cinematic action sequence inside a luxury jewelry boutique at night. 
 ## 49. Kitten Knight Pilots a Giant Mecha Against a Dragon
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/3911ba53-f814-451c-8c98-3a58dc151bb2/generate.mp4)**
+
+![Kitten Knight Pilots a Giant Mecha Against a Dragon](https://cdn.lipsync.video/lipsync/cdn/feature-case/3911ba53-f814-451c-8c98-3a58dc151bb2/cover.jpg)
 
 **16:9 · 4K · 30s · Seedance 2.0**
 
@@ -1922,6 +2020,8 @@ Ultra-detailed, photorealistic, cinematic 4K look, realistic textures, natural l
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/fa37571f-63ea-4cbd-aa9c-ee77af724143/generate.mp4)**
 
+![A Young Woman and an Elderly Man Chase a Chicken in a Korean Village](https://cdn.lipsync.video/lipsync/cdn/feature-case/fa37571f-63ea-4cbd-aa9c-ee77af724143/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance 2.0**
 
 [Original post](https://x.com/Lianaalane/status/2107326795750281669) · 2026-10-06 12:27 (UTC+08:00)
@@ -1945,6 +2045,8 @@ Created on seedance 2.0
 ## 51. Fire Phoenix Versus Water Dragon
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/a9673310-e7fa-4b33-ae9d-b47136a6684a/generate.mp4)**
+
+![Fire Phoenix Versus Water Dragon](https://cdn.lipsync.video/lipsync/cdn/feature-case/a9673310-e7fa-4b33-ae9d-b47136a6684a/cover.jpg)
 
 **16:9 · 720p · 15s · Seedance 2.0**
 
@@ -1985,6 +2087,8 @@ Smooth cinematic camera only, no handheld shake or unnecessary cuts. Perfect cha
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/dbfcffda-68a3-4208-85a8-8d3766c82404/generate.mp4)**
 
+![Battle of the Frozen Planet Fortress](https://cdn.lipsync.video/lipsync/cdn/feature-case/dbfcffda-68a3-4208-85a8-8d3766c82404/cover.jpg)
+
 **16:9 · 720p · 15s · Seedance 2.0**
 
 [Original post](https://x.com/CharaspowerAI/status/2080669361237303417) · 2026-07-24 23:00 (UTC+08:00)
@@ -2003,6 +2107,8 @@ A massive human fortress built into the cliffs of a frozen planet faces a final 
 ## 53. Mythic Warrior Cinematic VFX Showcase
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/5a4797d3-ca0d-48ef-8deb-c58829051d0f/generate.mp4)**
+
+![Mythic Warrior Cinematic VFX Showcase](https://cdn.lipsync.video/lipsync/cdn/feature-case/5a4797d3-ca0d-48ef-8deb-c58829051d0f/cover.jpg)
 
 **9:16 · 720p · 15s · Seedance 2.0**
 
@@ -2023,6 +2129,8 @@ Create an epic cinematic 3D animation/VFX camera showcase featuring a golden Gar
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/3514a5ab-255b-4c55-b6e7-e6a9fbb8dabd/generate.mp4)**
 
+![Martial Arts Alley Fight Scene](https://cdn.lipsync.video/lipsync/cdn/feature-case/3514a5ab-255b-4c55-b6e7-e6a9fbb8dabd/cover.jpg)
+
 **9:16 · 720p · 15s · Seedance 2.0**
 
 [Original post](https://x.com/KeorUnreal/status/2081477878349246776) · 2026-07-27 04:32 (UTC+08:00)
@@ -2041,6 +2149,8 @@ Cinematic Korean action sequence in a narrow sunlit urban alleyway lined with br
 ## 55. Cinematic Night Chase Shot
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/99e43942-af8b-4ecb-915a-3ccd5e3f1c05/generate.mp4)**
+
+![Cinematic Night Chase Shot](https://cdn.lipsync.video/lipsync/cdn/feature-case/99e43942-af8b-4ecb-915a-3ccd5e3f1c05/cover.jpg)
 
 **16:9 · 720p · 15s · Seedance 2.0**
 
@@ -2061,6 +2171,8 @@ Open on an extreme close up of his face reflected in a rain covered bus stop gla
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/4d20e7a5-5945-4528-8002-c8ec6989f7ad/generate.mp4)**
 
+![Cinematic Futuristic Anime Sword Duel](https://cdn.lipsync.video/lipsync/cdn/feature-case/4d20e7a5-5945-4528-8002-c8ec6989f7ad/cover.jpg)
+
 **16:9 · 496p · 8s · Seedance 2.0**
 
 [Original post](https://x.com/haruuraeadss/status/2081317622927577411) · 2026-07-26 17:56 (UTC+08:00)
@@ -2080,6 +2192,8 @@ Open on an extreme close up of his face reflected in a rain covered bus stop gla
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/d506716d-8b75-4220-a0f4-da544ec3b499/generate.mp4)**
 
+![Legendary Knight Fortress Battle](https://cdn.lipsync.video/lipsync/cdn/feature-case/d506716d-8b75-4220-a0f4-da544ec3b499/cover.jpg)
+
 **16:9 · 720p · 15s · Seedance 2.0**
 
 [Original post](https://x.com/CharaspowerAI/status/2080306973220725206) · 2026-07-23 23:00 (UTC+08:00)
@@ -2098,6 +2212,8 @@ A legendary female knight with long platinum hair, striking green eyes, athletic
 ## 58. Rooftop Chase Action Phrase
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/51ec7b2a-48a9-4f06-a5d5-7e6c98e2443d/generate.mp4)**
+
+![Rooftop Chase Action Phrase](https://cdn.lipsync.video/lipsync/cdn/feature-case/51ec7b2a-48a9-4f06-a5d5-7e6c98e2443d/cover.jpg)
 
 **16:9 · 720p · 49s · Seedance 2.0**
 
@@ -2163,6 +2279,8 @@ P09: Final victory shot. She accelerates toward the glowing skyline on the empty
 ## 59. Gladiator Arena Duel Action
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/414923ac-29e5-4ba7-ae95-95c8de0d3107/generate.mp4)**
+
+![Gladiator Arena Duel Action](https://cdn.lipsync.video/lipsync/cdn/feature-case/414923ac-29e5-4ba7-ae95-95c8de0d3107/cover.jpg)
 
 **16:9 · 1080p · 28s · Seedance 2.0**
 
@@ -2397,6 +2515,8 @@ Katana stays in her grip in all six cuts. Both pistols stay seated in the thigh 
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/15e53486-e4f8-4358-bc8c-eb49d6dc7ee0/generate.mp4)**
 
+![Red-Scarf Agent's Showdown in a Dark Classroom](https://cdn.lipsync.video/lipsync/cdn/feature-case/15e53486-e4f8-4358-bc8c-eb49d6dc7ee0/cover.jpg)
+
 **16:9 · 1080p · 61s · Seedance**
 
 [Original post](https://x.com/Noor_ul_ain43/status/2104793144743108833) · 2026-09-29 12:39 (UTC+08:00)
@@ -2469,6 +2589,8 @@ IMPORTANT CONSISTENCY INSTRUCTIONS
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/ace855a3-1f33-4715-9013-ecf1cc49d6fc/generate.mp4)**
 
+![Blonde Student Unleashes Superpowers in a High School Hallway](https://cdn.lipsync.video/lipsync/cdn/feature-case/ace855a3-1f33-4715-9013-ecf1cc49d6fc/cover.jpg)
+
 **16:9 · 4K · 30s · Seedance**
 
 [Original post](https://x.com/AiwithElisia/status/2092119695201837059) · 2026-08-25 13:19 (UTC+08:00)
@@ -2507,6 +2629,8 @@ No text, no subtitles, no logos, no watermark, no distorted faces, no extra fing
 ## 62. Futuristic Highway Chase with Motorcycles and Supercar
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/7789512b-bc29-456a-bd8d-cfb8b3c024bf/generate.mp4)**
+
+![Futuristic Highway Chase with Motorcycles and Supercar](https://cdn.lipsync.video/lipsync/cdn/feature-case/7789512b-bc29-456a-bd8d-cfb8b3c024bf/cover.jpg)
 
 **16:9 · 4K · 59s · Seedance**
 
@@ -2550,6 +2674,8 @@ Negative prompt: blurry, low quality, distorted proportions, extra limbs, deform
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/b96b9fee-02ea-417a-a0f1-fbb83e6d02fa/generate.mp4)**
 
+![Warm-Lit Interior Tour Beneath a Muraled Dome](https://cdn.lipsync.video/lipsync/cdn/feature-case/b96b9fee-02ea-417a-a0f1-fbb83e6d02fa/cover.jpg)
+
 **16:9 · 720p · 7s · Seedance**
 
 [Original post](https://x.com/nijokestu/status/2098459803777413432) · 2026-09-12 01:12 (UTC+08:00)
@@ -2570,6 +2696,8 @@ The level of detail and camera movement here is wild. 👀
 ## 64. Black-Robed Swordsman Sweeps Through Shadow Beasts
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/c3d5045f-fb7e-4104-a65d-8b7c633ccb42/generate.mp4)**
+
+![Black-Robed Swordsman Sweeps Through Shadow Beasts](https://cdn.lipsync.video/lipsync/cdn/feature-case/c3d5045f-fb7e-4104-a65d-8b7c633ccb42/cover.jpg)
 
 **16:9 · 8K · 15s · Seedance**
 
@@ -2595,6 +2723,8 @@ Cinematic dark fantasy wuxia action scene, low angle dynamic tracking shot. A ma
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/ac572558-1960-4497-bd33-e3eb014808c3/generate.mp4)**
 
+![Urban Police Chase and Explosive Getaway](https://cdn.lipsync.video/lipsync/cdn/feature-case/ac572558-1960-4497-bd33-e3eb014808c3/cover.jpg)
+
 **16:9 · 720p · 6s · Seedance**
 
 [Original post](https://x.com/Aria_Nawi/status/2098461817555374451) · 2026-09-12 01:20 (UTC+08:00)
@@ -2618,6 +2748,8 @@ Create an original GTA-inspired cartoon car chase using this workflow: Design: D
 ## 66. Waterbending Ambush at a Jungle Temple
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/3d9454f8-9c5f-40dd-a601-85d6f03255cc/generate.mp4)**
+
+![Waterbending Ambush at a Jungle Temple](https://cdn.lipsync.video/lipsync/cdn/feature-case/3d9454f8-9c5f-40dd-a601-85d6f03255cc/cover.jpg)
 
 **16:9 · 720p · 10s · Seedance**
 
@@ -2697,6 +2829,8 @@ NO MUSIC.
 ## 67. Pink-Haired Girl’s Nighttime Functional Workout Challenge
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/dca4c583-e9ec-467f-ae6b-a9e2296ec41a/generate.mp4)**
+
+![Pink-Haired Girl’s Nighttime Functional Workout Challenge](https://cdn.lipsync.video/lipsync/cdn/feature-case/dca4c583-e9ec-467f-ae6b-a9e2296ec41a/cover.jpg)
 
 **16:9 · 720p · 15s · Seedance**
 
@@ -2833,6 +2967,8 @@ Keep authentic gym ambience throughout: distant footsteps, machines, soft conver
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/1e3aa4ee-c811-4392-b794-1054bbf504db/generate.mp4)**
 
+![Neon Coastal City Gunfight and Police Chase Livestream](https://cdn.lipsync.video/lipsync/cdn/feature-case/1e3aa4ee-c811-4392-b794-1054bbf504db/cover.jpg)
+
 **16:9 · 1080p · 45s · Seedance**
 
 [Original post](https://x.com/QAiStudio/status/2099363620325048805) · 2026-09-14 13:04 (UTC+08:00)
@@ -2871,6 +3007,8 @@ Strict rules: HANEUL appears only in the bottom-right fixed facecam; exactly one
 ## 69. Schoolgirl Fights Back Against Pranking Upperclassmen
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/56eda5c4-5573-4480-8b87-65c3256fbeec/generate.mp4)**
+
+![Schoolgirl Fights Back Against Pranking Upperclassmen](https://cdn.lipsync.video/lipsync/cdn/feature-case/56eda5c4-5573-4480-8b87-65c3256fbeec/cover.jpg)
 
 **16:9 · 8K · 15s · Seedance**
 
@@ -2951,6 +3089,8 @@ POSITIVE LOCKS
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/7c298436-dd73-49ef-ae02-9d781228c8dc/generate.mp4)**
 
+![GPT Image 2 + Seedance From the Deep: One Jet, One Shot](https://cdn.lipsync.video/lipsync/cdn/feature-case/7c298436-dd73-49ef-ae02-9d781228c8dc/cover.jpg)
+
 **16:9 · 720p · 15s · Seedance, GPT Image**
 
 [Original post](https://x.com/Weeleey6/status/2089244905960821226) · 2026-08-17 14:56 (UTC+08:00)
@@ -2988,6 +3128,8 @@ RULES: References are appearance only, do not recreate. The monster is a stylize
 ## 71. Seedance: Yoriichi vs. the Hundred Demons
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/cbe2b010-da78-453f-858f-b36d0f451a63/generate.mp4)**
+
+![Seedance: Yoriichi vs. the Hundred Demons](https://cdn.lipsync.video/lipsync/cdn/feature-case/cbe2b010-da78-453f-858f-b36d0f451a63/cover.jpg)
 
 **16:9 · 4K · 30s · Seedance**
 
@@ -3320,6 +3462,8 @@ No background music.
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/a2f867b6-15a9-4d20-a2d0-390fb40f0510/generate.mp4)**
 
+![Static-Awakened Girl Fights Back in a School Gym](https://cdn.lipsync.video/lipsync/cdn/feature-case/a2f867b6-15a9-4d20-a2d0-390fb40f0510/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/doctorwasif/status/2091388398153994395) · 2026-08-23 12:53 (UTC+08:00)
@@ -3362,6 +3506,8 @@ CAMERA: close, kinetic handheld pursuit, tracking, low angles, OTS/facial insert
 ## 73. Seedance 2.5 Self vs Self: Sharon Fights Sharon
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/d6c8f271-4d9b-4ee4-a00a-4c177eecfb56/generate.mp4)**
+
+![Seedance 2.5 Self vs Self: Sharon Fights Sharon](https://cdn.lipsync.video/lipsync/cdn/feature-case/d6c8f271-4d9b-4ee4-a00a-4c177eecfb56/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance**
 
@@ -3451,6 +3597,8 @@ Teleportation, clones, duplicates, extra/missing limbs, malformed anatomy, broke
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/7af8b6a8-8d29-4ccc-9d6c-0823c177cf89/generate.mp4)**
 
+![Fight on a Rain-Slicked Subway Platform](https://cdn.lipsync.video/lipsync/cdn/feature-case/7af8b6a8-8d29-4ccc-9d6c-0823c177cf89/cover.jpg)
+
 **3:2 · 720p · 10s · Seedance**
 
 [Original post](https://x.com/Elvorya/status/2104450675656835476) · 2026-09-28 13:58 (UTC+08:00)
@@ -3477,6 +3625,8 @@ Negative prompt: distorted faces, changing faces, character morphing, extra limb
 ## 75. Survival Run Through a Collapsing Kuala Lumpur
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/3a4068f9-97a3-42d9-b220-d5e2b5043788/generate.mp4)**
+
+![Survival Run Through a Collapsing Kuala Lumpur](https://cdn.lipsync.video/lipsync/cdn/feature-case/3a4068f9-97a3-42d9-b220-d5e2b5043788/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance**
 
@@ -3554,6 +3704,8 @@ Low tracking, front pursuit, side tracking, shoulder-mounted chase, whip-pans an
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/a393f700-7268-48fd-935a-f6410e70e5f3/generate.mp4)**
 
+![Female Martial Artist in a Korean Courtyard](https://cdn.lipsync.video/lipsync/cdn/feature-case/a393f700-7268-48fd-935a-f6410e70e5f3/cover.jpg)
+
 **9:16 · 8K · 30s · Seedance**
 
 [Original post](https://x.com/AIwithMinal/status/2100444829880914240) · 2026-09-17 12:40 (UTC+08:00)
@@ -3572,6 +3724,8 @@ Ultra-realistic cinematic scene of a fierce young woman standing confidently in 
 ## 77. Two Women Clash in an Industrial Lot at Golden Hour
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/a37d5ef1-50d1-4db5-8b83-dc3bc97c3e26/generate.mp4)**
+
+![Two Women Clash in an Industrial Lot at Golden Hour](https://cdn.lipsync.video/lipsync/cdn/feature-case/a37d5ef1-50d1-4db5-8b83-dc3bc97c3e26/cover.jpg)
 
 **9:16 · 4K · 15s · Seedance**
 
@@ -3598,6 +3752,8 @@ Negative prompt: animation, cartoon, anime, CGI appearance, unrealistic physics,
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/d4aa174e-a732-4202-8c86-08bc4f6bd56e/generate.mp4)**
 
+![Pink-Haired Blindfolded Woman Leaps into a Neon City](https://cdn.lipsync.video/lipsync/cdn/feature-case/d4aa174e-a732-4202-8c86-08bc4f6bd56e/cover.jpg)
+
 **9:16 · 8K · 18s · Seedance**
 
 [Original post](https://x.com/laviniavelle/status/2092793943599755621) · 2026-08-27 09:58 (UTC+08:00)
@@ -3616,6 +3772,8 @@ A cinematic 3D anime action sequence featuring a blindfolded woman with long pas
 ## 79. POV Cliff Jump into a Turquoise Volcanic Canyon Spring
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/f6570cde-0898-4906-bcbf-838b20626fc4/generate.mp4)**
+
+![POV Cliff Jump into a Turquoise Volcanic Canyon Spring](https://cdn.lipsync.video/lipsync/cdn/feature-case/f6570cde-0898-4906-bcbf-838b20626fc4/cover.jpg)
 
 **9:16 · 1080p · 22s · Seedance**
 
@@ -3685,6 +3843,8 @@ Extra slow motion beyond the takeoff, hovering or floating mid-air, smooth cinem
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/fd45d35a-bc4e-4706-bca5-8bc6e302a5b9/generate.mp4)**
 
+![Blue-Haired Girl Battles a Dual-Dagger Rival](https://cdn.lipsync.video/lipsync/cdn/feature-case/fd45d35a-bc4e-4706-bca5-8bc6e302a5b9/cover.jpg)
+
 **16:9 · 8K · 30s · Seedance**
 
 [Original post](https://x.com/AvelyrahnAI/status/2093540453261946900) · 2026-08-29 11:25 (UTC+08:00)
@@ -3703,6 +3863,8 @@ Cinematic action sequence, dynamic tracking shot in a modern glass-and-concrete 
 ## 81. Subway Station Hand-to-Hand Combat
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/395f1e91-7177-4675-a56a-19a8ff2e3f7e/generate.mp4)**
+
+![Subway Station Hand-to-Hand Combat](https://cdn.lipsync.video/lipsync/cdn/feature-case/395f1e91-7177-4675-a56a-19a8ff2e3f7e/cover.jpg)
 
 **16:9 · 8K · 20s · Seedance**
 
@@ -3723,6 +3885,8 @@ A dynamic, cinematic action scene set inside a underground subway station. A you
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/8f998179-8081-4a2f-9b70-28471bf780f1/generate.mp4)**
 
+![Warrior and Dragon Battle in the Stormy Sky](https://cdn.lipsync.video/lipsync/cdn/feature-case/8f998179-8081-4a2f-9b70-28471bf780f1/cover.jpg)
+
 **16:9 · 4K · 15s · Seedance**
 
 [Original post](https://x.com/Aiwithmaha/status/2100417339716141116) · 2026-09-17 10:51 (UTC+08:00)
@@ -3741,6 +3905,8 @@ Create a 15-second cinematic fantasy battle video matching the reference: 0–1s
 ## 83. Spy Showdown in an Industrial Factory
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/4a6c9486-e832-4801-968e-2e767d762914/generate.mp4)**
+
+![Spy Showdown in an Industrial Factory](https://cdn.lipsync.video/lipsync/cdn/feature-case/4a6c9486-e832-4801-968e-2e767d762914/cover.jpg)
 
 **9:16 · 4K · 15s · Seedance**
 
@@ -3786,6 +3952,8 @@ FINAL: 15 seconds, 9:16, 24fps, 4K, photorealistic Hollywood action, cinematic r
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/3245edd0-fc1d-4093-b54c-247e51fb7653/generate.mp4)**
 
+![Ice Magic Rooftop Battle at Night](https://cdn.lipsync.video/lipsync/cdn/feature-case/3245edd0-fc1d-4093-b54c-247e51fb7653/cover.jpg)
+
 **16:9 · 8K · 29s · Seedance**
 
 [Original post](https://x.com/laviniavelle/status/2096437174942204277) · 2026-09-06 11:15 (UTC+08:00)
@@ -3804,6 +3972,8 @@ Cinematic high-action sequence set on an icy school rooftop at night. A cool ani
 ## 85. Post-Apocalyptic Desert Buggy Air Battle
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/d9ef4a10-e0f5-43e8-bdae-b1063866a6cc/generate.mp4)**
+
+![Post-Apocalyptic Desert Buggy Air Battle](https://cdn.lipsync.video/lipsync/cdn/feature-case/d9ef4a10-e0f5-43e8-bdae-b1063866a6cc/cover.jpg)
 
 **16:9 · 8K · 30s · Seedance**
 
@@ -3824,6 +3994,8 @@ Cinematic 3D render, post-apocalyptic action sequence. A heavily modified dune b
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/24d40320-1bf5-454e-9a7c-ef48138982a7/generate.mp4)**
 
+![Helicopter Extraction from a Skyscraper Rooftop](https://cdn.lipsync.video/lipsync/cdn/feature-case/24d40320-1bf5-454e-9a7c-ef48138982a7/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/nawalsehar/status/2092119664482750814) · 2026-08-25 13:19 (UTC+08:00)
@@ -3842,6 +4014,8 @@ Create a 30-second 16:9 ultra-photorealistic cinematic action scene. A Western w
 ## 87. White-Clad Shinobi Slashes Through a Celestial Smoke Dragon
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/bb7f6a8c-ef08-44ca-b23b-169ccdc9ef22/generate.mp4)**
+
+![White-Clad Shinobi Slashes Through a Celestial Smoke Dragon](https://cdn.lipsync.video/lipsync/cdn/feature-case/bb7f6a8c-ef08-44ca-b23b-169ccdc9ef22/cover.jpg)
 
 **16:9 · 720p · 10s · Seedance**
 
@@ -3884,6 +4058,8 @@ NEGATIVE: CGI, anime, cartoon, game graphics, glow, beams, duplicate katana, dup
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/c2e9316d-76ff-4a4f-b737-ee36db6ee5d8/generate.mp4)**
 
+![Full-Length Taekwondo Action Scene With a Korean Fighter](https://cdn.lipsync.video/lipsync/cdn/feature-case/c2e9316d-76ff-4a4f-b737-ee36db6ee5d8/cover.jpg)
+
 **16:9 · 8K · 30s · Seedance**
 
 [Original post](https://x.com/laviniavelle/status/2095029809264926872) · 2026-09-02 14:03 (UTC+08:00)
@@ -3902,6 +4078,8 @@ Cinematic dynamic action scene full length shot of a fierce female Korean martia
 ## 89. Hypersonic Sonido: A Space Warrior Rises
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/a8a9d238-d495-4c13-8933-85f1dea54a51/generate.mp4)**
+
+![Hypersonic Sonido: A Space Warrior Rises](https://cdn.lipsync.video/lipsync/cdn/feature-case/a8a9d238-d495-4c13-8933-85f1dea54a51/cover.jpg)
 
 **16:9 · 8K · 15s · Seedance**
 
@@ -3966,6 +4144,8 @@ Character accelerates around the enemy group in a hypersonic circular path. Five
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/056a2960-cb04-40ed-9034-7dd8f1dd4e28/generate.mp4)**
 
+![Ice and Fire Battle in a Rainy Container Alley](https://cdn.lipsync.video/lipsync/cdn/feature-case/056a2960-cb04-40ed-9034-7dd8f1dd4e28/cover.jpg)
+
 **16:9 · 4K · 30s · Seedance**
 
 [Original post](https://x.com/AvelyrahnAI/status/2104427974955053532) · 2026-09-28 12:28 (UTC+08:00)
@@ -3986,6 +4166,8 @@ Epic action movie sequence, dark rainy night in a narrow alleyway lined with sta
 ## 91. Close-Quarters Fight in an Urban Apartment
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/a23cb9af-f9e3-4a22-a9b4-3b568fb2e0cd/generate.mp4)**
+
+![Close-Quarters Fight in an Urban Apartment](https://cdn.lipsync.video/lipsync/cdn/feature-case/a23cb9af-f9e3-4a22-a9b4-3b568fb2e0cd/cover.jpg)
 
 **16:9 · 720p · 13s · Seedance**
 
@@ -4017,6 +4199,8 @@ Ultra-realistic human movement, authentic fight choreography, detailed facial ex
 ## 92. Red-Eyed Girl's Super-Speed Hostage Rescue
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/fac0da64-664f-4d04-a851-8355c32828cc/generate.mp4)**
+
+![Red-Eyed Girl's Super-Speed Hostage Rescue](https://cdn.lipsync.video/lipsync/cdn/feature-case/fac0da64-664f-4d04-a851-8355c32828cc/cover.jpg)
 
 **16:9 · 4K · 31s · Seedance, Runway**
 
@@ -4064,6 +4248,8 @@ Cartoon, 3d render, animation, anime, painting, illustration, low quality, low r
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/a77094ad-09c0-4af6-8b28-f189ee3a1aa5/generate.mp4)**
 
+![Struggle and Chase on a Rainy City Street](https://cdn.lipsync.video/lipsync/cdn/feature-case/a77094ad-09c0-4af6-8b28-f189ee3a1aa5/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/Lianaalane/status/2100088243492385019) · 2026-09-16 13:03 (UTC+08:00)
@@ -4082,6 +4268,8 @@ Create a 30-second cinematic, ultra-realistic live-action video set on a rainy c
 ## 94. A Male and Female Swordfighter Clash in a Temple
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/9c93b349-a411-4ea4-80b0-6f3ccdd2c197/generate.mp4)**
+
+![A Male and Female Swordfighter Clash in a Temple](https://cdn.lipsync.video/lipsync/cdn/feature-case/9c93b349-a411-4ea4-80b0-6f3ccdd2c197/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance**
 
@@ -4146,6 +4334,8 @@ Never redesign faces. Never change costumes. Never replace the temple. Never int
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/da04b5a2-726c-4437-a2f7-02e0c156b0fc/generate.mp4)**
 
+![Escape Under a Loading Door in the Rain](https://cdn.lipsync.video/lipsync/cdn/feature-case/da04b5a2-726c-4437-a2f7-02e0c156b0fc/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/nawalsehar/status/2100082784018821414) · 2026-09-16 12:42 (UTC+08:00)
@@ -4171,6 +4361,8 @@ No CGI, animation, superhero abilities, impossible parkour, teleportation, weigh
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/acaafbbe-7ab6-40ee-914a-055b2fd25ae5/generate.mp4)**
 
+![Mechanical-Winged Heroine Battles a Giant Monster](https://cdn.lipsync.video/lipsync/cdn/feature-case/acaafbbe-7ab6-40ee-914a-055b2fd25ae5/cover.jpg)
+
 **16:9 · 540p · 31s · Seedance**
 
 [Original post](https://x.com/Aiwithmaha/status/2104390191352103147) · 2026-09-28 09:58 (UTC+08:00)
@@ -4189,6 +4381,8 @@ Create a 31-second ultra-realistic cinematic action sequence set in a destroyed 
 ## 97. Schoolgirl Awakens Superpowers to Fight Back Against Bullies
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/96e199e7-1f61-411f-b16c-517c77a7ee96/generate.mp4)**
+
+![Schoolgirl Awakens Superpowers to Fight Back Against Bullies](https://cdn.lipsync.video/lipsync/cdn/feature-case/96e199e7-1f61-411f-b16c-517c77a7ee96/cover.jpg)
 
 **16:9 · 8K · 30s · Seedance**
 
@@ -4209,6 +4403,8 @@ High-octane action sequence set in a sunny school parking lot between modern par
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/23f9e1a2-d212-4dcc-8122-b249312e10a5/generate.mp4)**
 
+![Nine-Tailed Fox Girl Battles Mercenaries in a Warehouse](https://cdn.lipsync.video/lipsync/cdn/feature-case/23f9e1a2-d212-4dcc-8122-b249312e10a5/cover.jpg)
+
 **16:9 · 8K · 30s · Seedance**
 
 [Original post](https://x.com/laviniavelle/status/2094609588142379101) · 2026-09-01 10:13 (UTC+08:00)
@@ -4227,6 +4423,8 @@ Live-action anime-style hybrid fox girl Kitsune Gumiho warrior with long blonde 
 ## 99. AI Slop Gets a Superhero Origin Story
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/523b775a-ecc9-452c-85c4-7906f303a82a/generate.mp4)**
+
+![AI Slop Gets a Superhero Origin Story](https://cdn.lipsync.video/lipsync/cdn/feature-case/523b775a-ecc9-452c-85c4-7906f303a82a/cover.jpg)
 
 **16:9 · 4K · 30s · Seedance**
 
@@ -4275,6 +4473,8 @@ No text, no subtitles, no logos, no watermark, no distorted faces, no extra fing
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/cb37c742-3d29-43d3-a36a-db1c58c03067/generate.mp4)**
 
+![Magic Duel from Movie Theater to Ancient Ruins](https://cdn.lipsync.video/lipsync/cdn/feature-case/cb37c742-3d29-43d3-a36a-db1c58c03067/cover.jpg)
+
 **16:9 · 4K · 38s · Seedance**
 
 [Original post](https://x.com/AvelyrahnAI/status/2105158267437548020) · 2026-09-30 12:50 (UTC+08:00)
@@ -4293,6 +4493,8 @@ Cinematic 4K action sequence in a dark movie theater. A young Asian woman with l
 ## 101. Girl's Fiery Awakening in a University Night Fight
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/5033b5b7-3203-4045-8033-600931b43d95/generate.mp4)**
+
+![Girl's Fiery Awakening in a University Night Fight](https://cdn.lipsync.video/lipsync/cdn/feature-case/5033b5b7-3203-4045-8033-600931b43d95/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance**
 
@@ -4355,6 +4557,8 @@ Location sound only. Grass and dirt scraping, fabric rustling. Sharp impact soun
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/b1cfb2c9-1c2d-4cff-bd4f-54b58a1d25f8/generate.mp4)**
 
+![Seedance 2.5 Animation Capability Stress Test](https://cdn.lipsync.video/lipsync/cdn/feature-case/b1cfb2c9-1c2d-4cff-bd4f-54b58a1d25f8/cover.jpg)
+
 **16:9 · 360p · 15s · Seedance**
 
 [Original post](https://x.com/im_shahid7/status/2089582697815683568) · 2026-08-18 13:18 (UTC+08:00)
@@ -4390,6 +4594,8 @@ Bai Jin streaks at high speed into the stone courtyard but holds off on attackin
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/0a9dc549-157d-4da3-9982-990fbe7dbb1c/generate.mp4)**
 
+![Red-Clad Swordswoman Battles in an Ancient Village](https://cdn.lipsync.video/lipsync/cdn/feature-case/0a9dc549-157d-4da3-9982-990fbe7dbb1c/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/Aiwithmaha/status/2105162931847807476) · 2026-09-30 13:08 (UTC+08:00)
@@ -4408,6 +4614,8 @@ Create a 30-second cinematic, ultra-realistic wuxia-style video set at night in 
 ## 104. Warrior and Cyber Beast Charge Through the Apocalypse
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/549af985-3335-4c08-b8ba-71298c10ad06/generate.mp4)**
+
+![Warrior and Cyber Beast Charge Through the Apocalypse](https://cdn.lipsync.video/lipsync/cdn/feature-case/549af985-3335-4c08-b8ba-71298c10ad06/cover.jpg)
 
 **16:9 · 4K · 15s · Seedance**
 
@@ -4429,6 +4637,8 @@ Cinematic 4K shot, a fierce female warrior with long hair and tactical leather g
 ## 105. Seedance 2.5 Hyperreal Underground Facility Action Scene
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/0b2a2ed4-be58-4d08-9b93-ed8d66cb5181/generate.mp4)**
+
+![Seedance 2.5 Hyperreal Underground Facility Action Scene](https://cdn.lipsync.video/lipsync/cdn/feature-case/0b2a2ed4-be58-4d08-9b93-ed8d66cb5181/cover.jpg)
 
 **16:9 · 4K · 25s · Seedance**
 
@@ -4460,6 +4670,8 @@ No text, no subtitles, no watermark, no distorted faces, no extra fingers, no du
 ## 106. Summer Water-Gun Chase in a Korean Village
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/1c3a5c9d-6539-4215-9fe8-131a55e7dc4d/generate.mp4)**
+
+![Summer Water-Gun Chase in a Korean Village](https://cdn.lipsync.video/lipsync/cdn/feature-case/1c3a5c9d-6539-4215-9fe8-131a55e7dc4d/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance**
 
@@ -4494,6 +4706,8 @@ No CGI, animation, fantasy water, impossible physics, dangerous behavior, distor
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/786cfe75-45c2-48c8-9d23-7bef6f43b047/generate.mp4)**
 
+![Red-Eyed Sorceress Shatters a Castle with a Colossal Boulder](https://cdn.lipsync.video/lipsync/cdn/feature-case/786cfe75-45c2-48c8-9d23-7bef6f43b047/cover.jpg)
+
 **21:9 · 8K · 30s · Seedance**
 
 [Original post](https://x.com/laviniavelle/status/2094262382478737792) · 2026-08-31 11:13 (UTC+08:00)
@@ -4514,6 +4728,8 @@ Cinematic dark fantasy action sequence, dynamic low-angle wide shots and extreme
 ## 108. Armored Soldier Battles Drones in a Ruined Factory
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/ad66201c-535e-4eb4-ae9c-cafaa528a488/generate.mp4)**
+
+![Armored Soldier Battles Drones in a Ruined Factory](https://cdn.lipsync.video/lipsync/cdn/feature-case/ad66201c-535e-4eb4-ae9c-cafaa528a488/cover.jpg)
 
 **16:9 · 720p · 15s · Seedance**
 
@@ -4546,6 +4762,8 @@ Negative prompt: face change, different character, armor change, cartoon, anime,
 ## 109. Late Employee's Office Sneak Ends in CCTV Detection
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/e7849cfb-bcc3-45c5-8525-f5b6f8f0cde2/generate.mp4)**
+
+![Late Employee's Office Sneak Ends in CCTV Detection](https://cdn.lipsync.video/lipsync/cdn/feature-case/e7849cfb-bcc3-45c5-8525-f5b6f8f0cde2/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance**
 
@@ -4599,6 +4817,8 @@ Real footsteps, shoe friction, breathing, bag movement, glass reflections, radio
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/c2927306-c65b-4f5c-a41f-37da5562eb11/generate.mp4)**
 
+![Radiant Archangel Warrior in Moonlit Ruins](https://cdn.lipsync.video/lipsync/cdn/feature-case/c2927306-c65b-4f5c-a41f-37da5562eb11/cover.jpg)
+
 **16:9 · 8K · 25s · Seedance, Midjourney**
 
 [Original post](https://x.com/AiwithSaif7/status/2098623698773196856) · 2026-09-12 12:04 (UTC+08:00)
@@ -4620,6 +4840,8 @@ Cinematic dark fantasy video. A young woman in a blood-stained white dress swall
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/83e88caa-d74b-40ef-9343-0785fa4f102e/generate.mp4)**
 
+![Green-Robed Swordswoman Battles Guards in an Ancient Inn](https://cdn.lipsync.video/lipsync/cdn/feature-case/83e88caa-d74b-40ef-9343-0785fa4f102e/cover.jpg)
+
 **9:16 · 8K · 12s · Seedance**
 
 [Original post](https://x.com/laviniavelle/status/2098987614581997681) · 2026-09-13 12:10 (UTC+08:00)
@@ -4638,6 +4860,8 @@ Cinematic 8k hyper-realistic action sequence dark atmospheric ancient East Asian
 ## 112. Woman Faces Three Attackers in a Nighttime Subway Station
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/b0c40a87-18fd-493c-b1f1-d784d0dc8f0c/generate.mp4)**
+
+![Woman Faces Three Attackers in a Nighttime Subway Station](https://cdn.lipsync.video/lipsync/cdn/feature-case/b0c40a87-18fd-493c-b1f1-d784d0dc8f0c/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance**
 
@@ -4665,6 +4889,8 @@ No CGI look, animation, superhero abilities, wire-fu, flying bodies, weapons, go
 ## 113. Duel of Two Warriors in a Snowbound Ancient Temple
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/df36be23-125b-432f-97bf-59af093b87e4/generate.mp4)**
+
+![Duel of Two Warriors in a Snowbound Ancient Temple](https://cdn.lipsync.video/lipsync/cdn/feature-case/df36be23-125b-432f-97bf-59af093b87e4/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance**
 
@@ -4871,6 +5097,8 @@ Every footprint remains visible.
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/ea68c05a-2aff-4186-8760-67e77f00c6c0/generate.mp4)**
 
+![Combat Medic Rescues Wounded Soldiers on Okinawa](https://cdn.lipsync.video/lipsync/cdn/feature-case/ea68c05a-2aff-4186-8760-67e77f00c6c0/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/Diplomeme/status/2100458083831234699) · 2026-09-17 13:33 (UTC+08:00)
@@ -4975,6 +5203,8 @@ The footage should feel like an extraordinarily realistic 1945 battlefield docum
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/52ade85a-6c2f-4e19-8731-acc1e1594862/generate.mp4)**
 
+![Flying Evolution from Stone Tool to Cosmic Energy](https://cdn.lipsync.video/lipsync/cdn/feature-case/52ade85a-6c2f-4e19-8731-acc1e1594862/cover.jpg)
+
 **16:9 · 720p · 31s · Seedance**
 
 [Original post](https://x.com/itsSaira_1/status/2099728570625188123) · 2026-09-15 13:14 (UTC+08:00)
@@ -5023,6 +5253,8 @@ NEGATIVE: new/different object, replacement, sudden cut/morph, background or lig
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/a248ee8f-06bd-4cc8-a1d8-d4aa69d2ee9f/generate.mp4)**
 
+![Water and Fire Warriors Clash in Sunset Ruins](https://cdn.lipsync.video/lipsync/cdn/feature-case/a248ee8f-06bd-4cc8-a1d8-d4aa69d2ee9f/cover.jpg)
+
 **16:9 · 720p · 15s · Seedance**
 
 [Original post](https://x.com/Aiwithmaha/status/2104754431434887271) · 2026-09-29 10:05 (UTC+08:00)
@@ -5041,6 +5273,8 @@ Created a 15-second cinematic fantasy battle scene in a ruined ancient city at s
 ## 117. Flaming Spear Hero Battles the Stone Colossi
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/07f98d57-a232-4b78-9dab-943f61aa31ab/generate.mp4)**
+
+![Flaming Spear Hero Battles the Stone Colossi](https://cdn.lipsync.video/lipsync/cdn/feature-case/07f98d57-a232-4b78-9dab-943f61aa31ab/cover.jpg)
 
 **16:9 · 1080p · 15s · Seedance**
 
@@ -5084,6 +5318,8 @@ PRIORITY: Image 1 controls the complete video sequence and choreography. Image 2
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/0dc8d25f-95bc-46d4-837b-7a6b232850e8/generate.mp4)**
 
+![Pink Jet Tractor Races Supercars on a Tokyo Expressway](https://cdn.lipsync.video/lipsync/cdn/feature-case/0dc8d25f-95bc-46d4-837b-7a6b232850e8/cover.jpg)
+
 **16:9 · 8K · 30s · Seedance**
 
 [Original post](https://x.com/laviniavelle/status/2100806296949903511) · 2026-09-18 12:37 (UTC+08:00)
@@ -5103,6 +5339,8 @@ A high octane cinematic action sequence on an urban highway in Tokyo photorealis
 ## 119. Street Woman Transforms into a Mech to Battle a Giant Demon
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/6008b5b6-3cdd-48fb-a9e2-97512ebf76f6/generate.mp4)**
+
+![Street Woman Transforms into a Mech to Battle a Giant Demon](https://cdn.lipsync.video/lipsync/cdn/feature-case/6008b5b6-3cdd-48fb-a9e2-97512ebf76f6/cover.jpg)
 
 **16:9 · 8K · 30s · Seedance**
 
@@ -5130,6 +5368,8 @@ Aesthetics: High-end blockbuster movie style, photorealistic textures, dramatic 
 ## 120. Crimson Gunslinger Charges Through the Battlefield
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/f4cd5fc9-4837-45ae-b8ae-c9968c380bb3/generate.mp4)**
+
+![Crimson Gunslinger Charges Through the Battlefield](https://cdn.lipsync.video/lipsync/cdn/feature-case/f4cd5fc9-4837-45ae-b8ae-c9968c380bb3/cover.jpg)
 
 **16:9 · 720p · 20s · Seedance**
 
@@ -5180,6 +5420,8 @@ cartoon, anime, game graphics, glossy CGI, plastic skin, AI faces, weapon swappi
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/52e887bb-21a4-454f-b323-923d870a2671/generate.mp4)**
 
+![Night Market Pursuit and Narrow-Alley Escape](https://cdn.lipsync.video/lipsync/cdn/feature-case/52e887bb-21a4-454f-b323-923d870a2671/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/aiwithaly/status/2100462425308901480) · 2026-09-17 13:50 (UTC+08:00)
@@ -5204,6 +5446,8 @@ No CGI, animation, superhero movement, impossible parkour, teleportation, unreal
 ## 122. Silver-Haired Swordsman Commands a Desert Storm
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/6c00ef07-e0e6-4e88-b81a-20b7956cd1bc/generate.mp4)**
+
+![Silver-Haired Swordsman Commands a Desert Storm](https://cdn.lipsync.video/lipsync/cdn/feature-case/6c00ef07-e0e6-4e88-b81a-20b7956cd1bc/cover.jpg)
 
 **16:9 · 720p · 17s · Seedance**
 
@@ -5256,6 +5500,8 @@ Fast but controlled cinematic camera movement, low-angle tracking shots, overhea
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/e0cdb2f4-d2cc-4f47-a25f-72745686f5dd/generate.mp4)**
 
+![Teen Girl Awakens Superpowers in a High School Hallway](https://cdn.lipsync.video/lipsync/cdn/feature-case/e0cdb2f4-d2cc-4f47-a25f-72745686f5dd/cover.jpg)
+
 **16:9 · 720p · 24s · Seedance**
 
 [Original post](https://x.com/itsSaira_1/status/2102994561144434785) · 2026-09-24 13:32 (UTC+08:00)
@@ -5295,6 +5541,8 @@ Style: realistic teen superhero drama, natural skin texture, motion blur on ener
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/391ca7de-fd79-4e27-9192-264787e3b0d5/generate.mp4)**
 
+![Streamer Broadcasts a Vault Heist and Police Chase](https://cdn.lipsync.video/lipsync/cdn/feature-case/391ca7de-fd79-4e27-9192-264787e3b0d5/cover.jpg)
+
 **16:9 · 1080p · 30s · Seedance**
 
 [Original post](https://x.com/doctorwasif/status/2101176910244139187) · 2026-09-19 13:09 (UTC+08:00)
@@ -5332,6 +5580,8 @@ Absolute: exactly 1 HANEUL, 1 player, 2 guards; no duplicates; no weapon switchi
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/d263be5d-dae9-490f-ae1f-adf1fa474d68/generate.mp4)**
 
+![Dual-Blade Duel in a Holographic Arena](https://cdn.lipsync.video/lipsync/cdn/feature-case/d263be5d-dae9-490f-ae1f-adf1fa474d68/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/Zyrellix/status/2099736869437313431) · 2026-09-15 13:47 (UTC+08:00)
@@ -5363,6 +5613,8 @@ Cinematic high-end 3D anime action, 30 seconds, 24fps, ultra sharp, no watermark
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/b390392a-ed96-462d-bae0-dc129115ea2d/generate.mp4)**
 
+![Two Heroes Seal a Temporal Rift Above a Neon City](https://cdn.lipsync.video/lipsync/cdn/feature-case/b390392a-ed96-462d-bae0-dc129115ea2d/cover.jpg)
+
 **16:9 · 8K · 30s · Seedance**
 
 [Original post](https://x.com/Zyrellix/status/2095067315608158324) · 2026-09-02 16:32 (UTC+08:00)
@@ -5382,6 +5634,8 @@ A cinematic sci-fi action scene set on a skyscraper rooftop overlooking a glowin
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/c1bd462f-8b57-4db8-a42d-2fb9611eb005/generate.mp4)**
 
+![White-Haired Agent Battles Pursuers at Night](https://cdn.lipsync.video/lipsync/cdn/feature-case/c1bd462f-8b57-4db8-a42d-2fb9611eb005/cover.jpg)
+
 **16:9 · 720p · 22s · Seedance**
 
 [Original post](https://x.com/AvelyrahnAI/status/2093190933256733095) · 2026-08-28 12:16 (UTC+08:00)
@@ -5400,6 +5654,8 @@ A fierce female secret agent with white hair styled in a bun, wearing a grey mai
 ## 128. Absurd Package Chase That Ends in a Successful Delivery
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/90841a9a-277d-42fb-a334-ac56b9176f27/generate.mp4)**
+
+![Absurd Package Chase That Ends in a Successful Delivery](https://cdn.lipsync.video/lipsync/cdn/feature-case/90841a9a-277d-42fb-a334-ac56b9176f27/cover.jpg)
 
 **16:9 · 1080p · 30s · Seedance**
 
@@ -5431,6 +5687,8 @@ No anime, cartoon, cel-shading, mobile-game graphics, cinematic movie shots, dis
 ## 129. Lavender-Haired Girl’s Supernatural Gym Showdown
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/028c6473-58c8-4867-9c95-e7939f6d61d8/generate.mp4)**
+
+![Lavender-Haired Girl’s Supernatural Gym Showdown](https://cdn.lipsync.video/lipsync/cdn/feature-case/028c6473-58c8-4867-9c95-e7939f6d61d8/cover.jpg)
 
 **16:9 · 720p · 28s · Seedance**
 
@@ -5476,6 +5734,8 @@ No subtitles, no text, no logos, no watermark.
 ## 130. Nighttime Gymnasium Water Battle
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/570d81ab-3073-46c1-b4c2-3087942c0c72/generate.mp4)**
+
+![Nighttime Gymnasium Water Battle](https://cdn.lipsync.video/lipsync/cdn/feature-case/570d81ab-3073-46c1-b4c2-3087942c0c72/cover.jpg)
 
 **16:9 · 4K · 28s · Seedance**
 
@@ -5771,6 +6031,8 @@ Hydro Step高速突进 → Water Guard硬接攻击 → Face Water Cannon正面�
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/dd79361d-4479-448c-881d-7ef7e6531d1d/generate.mp4)**
 
+![Purple-Energy Hero Rooftop Battle](https://cdn.lipsync.video/lipsync/cdn/feature-case/dd79361d-4479-448c-881d-7ef7e6531d1d/cover.jpg)
+
 **4:3 · 1080p · 15s · Seedance**
 
 [Original post](https://x.com/Xaroon_x/status/2100507474792948117) · 2026-09-17 16:49 (UTC+08:00)
@@ -5813,6 +6075,8 @@ No identity drift, different face, female hero, morphing, face swap, hairstyle/b
 ## 132. Girl Turns a Playful Dog Chase into Street Cardio
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/e878ce81-eaec-4d1b-a11f-ac517645c9fa/generate.mp4)**
+
+![Girl Turns a Playful Dog Chase into Street Cardio](https://cdn.lipsync.video/lipsync/cdn/feature-case/e878ce81-eaec-4d1b-a11f-ac517645c9fa/cover.jpg)
 
 **16:9 · 480p · 15s · Seedance**
 
@@ -5860,6 +6124,8 @@ Amateur one-handed iPhone recording. Natural handheld shake, imperfect framing, 
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/90cfcef8-3492-4092-92a2-6b96d8c52466/generate.mp4)**
 
+![Armored Female Warrior Battles a Multi-Armed Alien Cyborg](https://cdn.lipsync.video/lipsync/cdn/feature-case/90cfcef8-3492-4092-92a2-6b96d8c52466/cover.jpg)
+
 **16:9 · 8K · 34s · Seedance**
 
 [Original post](https://x.com/AvelyrahnAI/status/2092500591331385840) · 2026-08-26 14:33 (UTC+08:00)
@@ -5878,6 +6144,8 @@ Cinematic 8K sci-fi action sequence, an athletic female warrior in advanced tact
 ## 134. Xianxia Sword Duel Above a Misty Bamboo Forest
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/38f6ddb1-9c43-4634-a025-bbb98bb16ca1/generate.mp4)**
+
+![Xianxia Sword Duel Above a Misty Bamboo Forest](https://cdn.lipsync.video/lipsync/cdn/feature-case/38f6ddb1-9c43-4634-a025-bbb98bb16ca1/cover.jpg)
 
 **16:9 · 360p · 15s · Seedance**
 
@@ -5971,6 +6239,8 @@ Her falling foot accepts weight on an invisible point. She compresses and drives
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/6c8b1d2b-eec5-4f64-88a9-00bf45fde47d/generate.mp4)**
 
+![A Summer Dash After the Ice Cream Truck](https://cdn.lipsync.video/lipsync/cdn/feature-case/6c8b1d2b-eec5-4f64-88a9-00bf45fde47d/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/Strength04_X/status/2094344709565296640) · 2026-08-31 16:41 (UTC+08:00)
@@ -6008,6 +6278,8 @@ Goal: A nostalgic, joyful summer chase moment playful, warm, believable.
 ## 136. Thirty-Second Live US News Helicopter Coverage
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/bee9e5dd-d3d4-48ab-842b-9c44c59b3bcc/generate.mp4)**
+
+![Thirty-Second Live US News Helicopter Coverage](https://cdn.lipsync.video/lipsync/cdn/feature-case/bee9e5dd-d3d4-48ab-842b-9c44c59b3bcc/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance**
 
@@ -6063,6 +6335,8 @@ Audio: heavy continuous helicopter rotor from both aircraft, rocket launch whoos
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/2c854fd1-5688-4435-b6b0-d4aba1b70a77/generate.mp4)**
 
+![Silver-Haired Rider's Neon Highway Escape](https://cdn.lipsync.video/lipsync/cdn/feature-case/2c854fd1-5688-4435-b6b0-d4aba1b70a77/cover.jpg)
+
 **9:16 · 8K · 30s · Seedance**
 
 [Original post](https://x.com/Zyrellix/status/2093340253755232681) · 2026-08-28 22:09 (UTC+08:00)
@@ -6081,6 +6355,8 @@ High-octane 3D animated cinematic action scene. A young female protagonist with 
 ## 138. Seedance 2.5 Hyperreal Selfie From a Reference
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/83e54968-2225-4e57-a7de-e800ea8d34f6/generate.mp4)**
+
+![Seedance 2.5 Hyperreal Selfie From a Reference](https://cdn.lipsync.video/lipsync/cdn/feature-case/83e54968-2225-4e57-a7de-e800ea8d34f6/cover.jpg)
 
 **1:1 · 8K · 15s · Seedance**
 
@@ -6126,6 +6402,8 @@ Reference image locked for character identity.
 ## 139. A Girl’s Continuous Adventure Through Shifting Worlds
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/7fb85627-a077-4f53-9839-1625ab144531/generate.mp4)**
+
+![A Girl’s Continuous Adventure Through Shifting Worlds](https://cdn.lipsync.video/lipsync/cdn/feature-case/7fb85627-a077-4f53-9839-1625ab144531/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance**
 
@@ -6184,6 +6462,8 @@ Tone: exhilarating, mysterious, playful, cinematic, photoreal, large-scale, drea
 ## 140. Red-Sailed Ship Warriors Battle a Whirlpool Giant
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/e930ab68-bcfc-405d-bfef-fbffcfbee7a0/generate.mp4)**
+
+![Red-Sailed Ship Warriors Battle a Whirlpool Giant](https://cdn.lipsync.video/lipsync/cdn/feature-case/e930ab68-bcfc-405d-bfef-fbffcfbee7a0/cover.jpg)
 
 **16:9 · 720p · 20s · Seedance**
 

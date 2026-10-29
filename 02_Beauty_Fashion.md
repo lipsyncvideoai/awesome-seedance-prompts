@@ -8,6 +8,8 @@
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/38197149-6163-4fdd-a9f1-349e696f5c55/generate.mp4)**
 
+![Seoul Subway Revenge: Woman Throws Her Tormentor into a Bin](https://cdn.lipsync.video/lipsync/cdn/feature-case/38197149-6163-4fdd-a9f1-349e696f5c55/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance 2.5**
 
 [Original post](https://x.com/AIwithSynthia/status/2108760866422415701) · 2026-10-10 11:25 (UTC+08:00)
@@ -34,6 +36,8 @@ Maintain identical faces, hairstyles, outfits, and location throughout. Include 
 ## 2. Selfie-Style Skincare UGC Ad
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/997cf543-fe76-474c-bf5f-17c6eca43431/generate.mp4)**
+
+![Selfie-Style Skincare UGC Ad](https://cdn.lipsync.video/lipsync/cdn/feature-case/997cf543-fe76-474c-bf5f-17c6eca43431/cover.jpg)
 
 **9:16 · 1080p · 16s · Seedance 2.5**
 
@@ -102,6 +106,8 @@ Natural ambient audio only: faint breeze, distant birds, the small click of the 
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/6e281bfe-9307-46b1-b986-9d0872a47b3d/generate.mp4)**
 
+![Seoul Summer Night Vlog](https://cdn.lipsync.video/lipsync/cdn/feature-case/6e281bfe-9307-46b1-b986-9d0872a47b3d/cover.jpg)
+
 **16:9 · 1080p · 30s · Seedance 2.5**
 
 [Original post](https://x.com/AIwithkhan/status/2092971211169100048) · 2026-08-27 21:43 (UTC+08:00)
@@ -120,6 +126,8 @@ Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinar
 ## 4. Seedance 2.5 Hyperreal AI Live Wallpaper: Outfit-Changing Heroine in One Take
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/f781dd1f-28c3-4474-93af-0d7b30c70818/generate.mp4)**
+
+![Seedance 2.5 Hyperreal AI Live Wallpaper: Outfit-Changing Heroine in One Take](https://cdn.lipsync.video/lipsync/cdn/feature-case/f781dd1f-28c3-4474-93af-0d7b30c70818/cover.jpg)
 
 **16:9 · 1080p · 29s · Seedance 2.5**
 
@@ -214,6 +222,8 @@ SINGLE CONTINUOUS SHOT（00:00-00:29）
 ## 5. A Pink-Haired Woman Driving Beneath Flying Traffic in 2050
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/728dbb98-3fd9-4e3c-b56a-7f49c65779e9/generate.mp4)**
+
+![A Pink-Haired Woman Driving Beneath Flying Traffic in 2050](https://cdn.lipsync.video/lipsync/cdn/feature-case/728dbb98-3fd9-4e3c-b56a-7f49c65779e9/cover.jpg)
 
 **9:16 · 1080p · 9s · Seedance 2.5**
 
@@ -343,6 +353,8 @@ Make the video feel like an authentic viral social media clip recorded in the ye
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/8a56f120-026e-4338-9238-78faace6af9d/generate.mp4)**
 
+![A Girl’s Retro Selfie Diary on Seoul’s Shopping Streets](https://cdn.lipsync.video/lipsync/cdn/feature-case/8a56f120-026e-4338-9238-78faace6af9d/cover.jpg)
+
 **9:16 · 480p · 16s · Seedance 2.5**
 
 [Original post](https://x.com/Just_sharon7/status/2109218767620444331) · 2026-10-11 17:45 (UTC+08:00)
@@ -442,6 +454,8 @@ Preserve the authentic, imperfect, nostalgic feeling of an amateur 2011 street v
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/7abec384-be40-4783-8577-078151f05ebd/generate.mp4)**
 
+![Pink-Haired Woman Walks Calmly Ahead of a Midnight Road Explosion](https://cdn.lipsync.video/lipsync/cdn/feature-case/7abec384-be40-4783-8577-078151f05ebd/cover.jpg)
+
 **9:16 · 720p · 10s · Seedance 2.5**
 
 [Original post](https://x.com/Just_sharon7/status/2110990656105807984) · 2026-10-16 15:06 (UTC+08:00)
@@ -525,6 +539,8 @@ One uninterrupted tracking shot. No cuts, no camera angle changes, no slow motio
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/c6f93da0-398b-4c29-a6f4-f6983b032460/generate.mp4)**
 
+![A Woman Changes Outfits on a Persian Rug Beneath a Ceiling Fan](https://cdn.lipsync.video/lipsync/cdn/feature-case/c6f93da0-398b-4c29-a6f4-f6983b032460/cover.jpg)
+
 **16:9 · 1080p · 17s · Seedance 2.5**
 
 [Original post](https://x.com/Zoyavelle/status/2108060187840180394) · 2026-10-08 13:01 (UTC+08:00)
@@ -547,6 +563,8 @@ Style: photorealistic cinematic fashion video, warm cozy atmosphere, seamless tr
 ## 9. Coffee and Breakfast Mishaps in a Sunlit Kitchen
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/54573bc6-83de-4d99-9688-5365cffea122/generate.mp4)**
+
+![Coffee and Breakfast Mishaps in a Sunlit Kitchen](https://cdn.lipsync.video/lipsync/cdn/feature-case/54573bc6-83de-4d99-9688-5365cffea122/cover.jpg)
 
 **16:9 · 1080p · 30s · Seedance 2.5**
 
@@ -619,6 +637,8 @@ Output: 30 seconds, 16:9 landscape, photorealistic, continuous character and out
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/fd055c16-36e8-4ff9-8485-d6822558c685/generate.mp4)**
 
+![A Seoul Girl’s Day from Morning Makeup to City Strolls](https://cdn.lipsync.video/lipsync/cdn/feature-case/fd055c16-36e8-4ff9-8485-d6822558c685/cover.jpg)
+
 **16:9 · 1080p · 30s · Seedance 2.5**
 
 [Original post](https://x.com/AIwithkhan/status/2113244959990329635) · 2026-10-22 20:23 (UTC+08:00)
@@ -668,6 +688,8 @@ SHOT 15 ECU to WS, 85mm pull-out / Final beauty close-up of her eyes, glossy lip
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/4c7673ee-8f38-4158-a0ec-e80a327301be/generate.mp4)**
 
+![A Young Korean Woman Welcomes Winter’s First Snow in Old Seoul](https://cdn.lipsync.video/lipsync/cdn/feature-case/4c7673ee-8f38-4158-a0ec-e80a327301be/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance 2.5**
 
 [Original post](https://x.com/nawalsehar/status/2106251329085874184) · 2026-10-03 13:13 (UTC+08:00)
@@ -698,6 +720,8 @@ Negative prompt: inconsistent face, changing clothes, morphing, distorted hands,
 ## 12. A Woman’s Nighttime Helicopter Tour of Tokyo Bay and Landmarks
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/1e7c5183-cedd-4896-b2a8-33a2f14d9f94/generate.mp4)**
+
+![A Woman’s Nighttime Helicopter Tour of Tokyo Bay and Landmarks](https://cdn.lipsync.video/lipsync/cdn/feature-case/1e7c5183-cedd-4896-b2a8-33a2f14d9f94/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance 2.5**
 
@@ -831,6 +855,8 @@ Strict constraints: No character changes, no outfit changes, no face morphing, n
 ## 13. Girl Uses Telekinesis to Reclaim Her Necklace and Defy a Rooftop Bully
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/de3bbb9c-2fa8-4449-9d8d-ba24b78485e3/generate.mp4)**
+
+![Girl Uses Telekinesis to Reclaim Her Necklace and Defy a Rooftop Bully](https://cdn.lipsync.video/lipsync/cdn/feature-case/de3bbb9c-2fa8-4449-9d8d-ba24b78485e3/cover.jpg)
 
 **16:9 · 1080p · 30s · Seedance 2.5**
 
@@ -1125,6 +1151,8 @@ Maintain escalating tension, emotional intensity, supernatural dominance, and a 
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/d669a605-05df-4383-b7b4-060cadf43008/generate.mp4)**
 
+![Two Superfast Women Meet in a City Frozen in Time](https://cdn.lipsync.video/lipsync/cdn/feature-case/d669a605-05df-4383-b7b4-060cadf43008/cover.jpg)
+
 **16:9 · 720p · 77s · Seedance 2.5**
 
 [Original post](https://x.com/ai_anelia/status/2112960745168392440) · 2026-10-22 01:34 (UTC+08:00)
@@ -1163,6 +1191,8 @@ Style: Realistic grounded sci-fi action-drama, smooth physics, natural human mov
 ## 15. A Woman Sips Coffee and Stretches on a Sunlit Balcony
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/ac2313d9-4d81-4bb3-82b6-f9a62dfac625/generate.mp4)**
+
+![A Woman Sips Coffee and Stretches on a Sunlit Balcony](https://cdn.lipsync.video/lipsync/cdn/feature-case/ac2313d9-4d81-4bb3-82b6-f9a62dfac625/cover.jpg)
 
 **4:3 · 480p · 30s · Seedance 2.5**
 
@@ -1259,6 +1289,8 @@ Keep every movement anatomically accurate and physically natural. Dialogue must 
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/15815aa1-1fe7-4e93-bccc-a103dfa71eb6/generate.mp4)**
 
+![A Korean Woman’s Afternoon at Home: Plants, Laundry and Nails](https://cdn.lipsync.video/lipsync/cdn/feature-case/15815aa1-1fe7-4e93-bccc-a103dfa71eb6/cover.jpg)
+
 **16:9 · 1080p · 30s · Seedance 2.5**
 
 [Original post](https://x.com/doctorwasif/status/2107824210899055039) · 2026-10-07 21:23 (UTC+08:00)
@@ -1292,6 +1324,8 @@ Natural movements and ambient sounds only: spray bottle, distant TV, fabric, nai
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/e96225cb-53d9-45e3-a8ff-526c198d7e23/generate.mp4)**
 
+![A Korean Woman’s Coffee Stroll Through a Coastal City](https://cdn.lipsync.video/lipsync/cdn/feature-case/e96225cb-53d9-45e3-a8ff-526c198d7e23/cover.jpg)
+
 **16:9 · 720p · 25s · Seedance 2.5**
 
 [Original post](https://x.com/aiwithaayat/status/2110600258871013510) · 2026-10-15 13:14 (UTC+08:00)
@@ -1311,6 +1345,8 @@ Created a 25 second video, beautiful Korean girls, cinematic lifestyle film set 
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/b786f6ad-0160-45c9-90c5-e7e5e4316ad9/generate.mp4)**
 
+![A Korean Girl’s Rainy Walk Through City Streets to a Cozy Eatery](https://cdn.lipsync.video/lipsync/cdn/feature-case/b786f6ad-0160-45c9-90c5-e7e5e4316ad9/cover.jpg)
+
 **9:16 · 1080p · 26s · Seedance 2.5**
 
 [Original post](https://x.com/Lianaalane/status/2106951270380802264) · 2026-10-05 11:35 (UTC+08:00)
@@ -1329,6 +1365,8 @@ A beautiful Korean girl in a realistic cinematic lifestyle vlog, starting inside
 ## 19. A Young Korean Woman’s Afternoon Walk Through Old Seoul Streets
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/4d088cba-6887-4b4c-8091-c07f2bd3fdb7/generate.mp4)**
+
+![A Young Korean Woman’s Afternoon Walk Through Old Seoul Streets](https://cdn.lipsync.video/lipsync/cdn/feature-case/4d088cba-6887-4b4c-8091-c07f2bd3fdb7/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance 2.5**
 
@@ -1359,6 +1397,8 @@ Negative prompt: inconsistent face, changing outfit, morphing, distorted hands, 
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/7daa779c-0b04-4ae9-acf6-de61ada4aab7/generate.mp4)**
 
+![A Woman with Changing Hair Color Amid Giant Wasteland Hourglasses](https://cdn.lipsync.video/lipsync/cdn/feature-case/7daa779c-0b04-4ae9-acf6-de61ada4aab7/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance 2.5**
 
 [Original post](https://x.com/itsSaira_1/status/2106989829108207864) · 2026-10-05 14:08 (UTC+08:00)
@@ -1379,6 +1419,8 @@ Cinematic wide shot of a cracked, dry wasteland under a flat grey overcast sky. 
 ## 21. Three Best Friends’ Playful Safari Park Adventure
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/5581d452-d404-4286-9e19-f53bc732458e/generate.mp4)**
+
+![Three Best Friends’ Playful Safari Park Adventure](https://cdn.lipsync.video/lipsync/cdn/feature-case/5581d452-d404-4286-9e19-f53bc732458e/cover.jpg)
 
 **16:9 · 480p · 20s · Seedance 2.5**
 
@@ -1473,6 +1515,8 @@ No CGI look, no 3D rendering, no cartoon animals, no fantasy environment, no art
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/0337fdef-88f7-4864-9ba9-840d51093a29/generate.mp4)**
 
+![An East Asian Woman Explores Istanbul: Mosques and Bosphorus Sunset](https://cdn.lipsync.video/lipsync/cdn/feature-case/0337fdef-88f7-4864-9ba9-840d51093a29/cover.jpg)
+
 **4:3 · 1080p · 30s · Seedance 2.5**
 
 [Original post](https://x.com/CaliraVal/status/2112051825830662430) · 2026-10-19 13:22 (UTC+08:00)
@@ -1491,6 +1535,8 @@ Cinematic AI Video Prompt (with English Lipsync):A beautiful young East Asian wo
 ## 23. A Korean Woman’s Nervous Preparations for Her First Blind Date in 2003
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/45b033ba-4cd0-46c9-ace7-88b5c9328f62/generate.mp4)**
+
+![A Korean Woman’s Nervous Preparations for Her First Blind Date in 2003](https://cdn.lipsync.video/lipsync/cdn/feature-case/45b033ba-4cd0-46c9-ace7-88b5c9328f62/cover.jpg)
 
 **16:9 · 1080p · 30s · Seedance 2.5**
 
@@ -1532,6 +1578,8 @@ Mood: Charming, intimate, slightly clumsy, and genuinely human—like a real mem
 ## 24. A Red-Haired Woman’s Soft Glam Transformation in a Cozy Bedroom
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/822ff3f7-ca6d-4c81-92e9-29cf0133ec37/generate.mp4)**
+
+![A Red-Haired Woman’s Soft Glam Transformation in a Cozy Bedroom](https://cdn.lipsync.video/lipsync/cdn/feature-case/822ff3f7-ca6d-4c81-92e9-29cf0133ec37/cover.jpg)
 
 **16:9 · 1080p · 13s · Seedance 2.5**
 
@@ -1597,6 +1645,8 @@ No audio, no music, no subtitles, no text overlays, no watermark, no extra hands
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/6ab53cca-b8d9-4c51-b47a-dbc16a5faadc/generate.mp4)**
 
+![A Seoul Woman’s Morning of Shopping and Watering Plants in 2003](https://cdn.lipsync.video/lipsync/cdn/feature-case/6ab53cca-b8d9-4c51-b47a-dbc16a5faadc/cover.jpg)
+
 **4:3 · 720p · 30s · Seedance 2.5**
 
 [Original post](https://x.com/AIwithkhan/status/2110223635667439793) · 2026-10-14 12:18 (UTC+08:00)
@@ -1633,6 +1683,8 @@ NEGATIVE: No cinematic commercial look, professional lighting, gimbal shots, mod
 ## 26. Dance Duo Across a Sunset Studio, Neon Alley and Tokyo Rooftop
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/40eecd42-50e8-4f2f-885c-e7e4c42bf353/generate.mp4)**
+
+![Dance Duo Across a Sunset Studio, Neon Alley and Tokyo Rooftop](https://cdn.lipsync.video/lipsync/cdn/feature-case/40eecd42-50e8-4f2f-885c-e7e4c42bf353/cover.jpg)
 
 **16:9 · 1080p · 15s · Seedance 2.5**
 
@@ -1714,6 +1766,8 @@ No plastic skin, no CGI, no anime, no 3D render, no beauty filter, no stiff or r
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/547feed0-345b-418d-952c-dedb60664e89/generate.mp4)**
 
+![Blonde Model Showcases Colorful Ball Gowns in a Palace Ballroom](https://cdn.lipsync.video/lipsync/cdn/feature-case/547feed0-345b-418d-952c-dedb60664e89/cover.jpg)
+
 **9:16 · 720p · 12s · Seedance 2.5, Runway**
 
 [Original post](https://x.com/Zoyavelle/status/2108783755460853994) · 2026-10-10 12:56 (UTC+08:00)
@@ -1732,6 +1786,8 @@ A stunning blonde fashion model gracefully walks and poses in a luxurious palace
 ## 28. A Woman in a Blue Yukata Wanders a Mountain Village by Lantern Light
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/cb48c786-9243-4e51-a202-2e730ad91a8c/generate.mp4)**
+
+![A Woman in a Blue Yukata Wanders a Mountain Village by Lantern Light](https://cdn.lipsync.video/lipsync/cdn/feature-case/cb48c786-9243-4e51-a202-2e730ad91a8c/cover.jpg)
 
 **16:9 · 1080p · 30s · Seedance 2.5**
 
@@ -1753,6 +1809,8 @@ Cinematic 8k photorealistic video of a young East Asian woman with short black h
 ## 29. Woman in a White Fur Jacket Walking Through Snowy Mountains
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/15f0ec78-4ffa-4bf4-95bd-dc4f2abab8ed/generate.mp4)**
+
+![Woman in a White Fur Jacket Walking Through Snowy Mountains](https://cdn.lipsync.video/lipsync/cdn/feature-case/15f0ec78-4ffa-4bf4-95bd-dc4f2abab8ed/cover.jpg)
 
 **16:9 · 1080p · 15s · Seedance 2.5**
 
@@ -1787,6 +1845,8 @@ Negative: distorted face, changing identity, changing outfit, unnatural hands, e
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/026a2173-1842-4ff2-834d-cb952ea13545/generate.mp4)**
 
+![A Countryside Drive and a Tense Interrogation Room Conversation](https://cdn.lipsync.video/lipsync/cdn/feature-case/026a2173-1842-4ff2-834d-cb952ea13545/cover.jpg)
+
 **16:9 · 1080p · 46s · Seedance 2.5**
 
 [Original post](https://x.com/aiwithaayat/status/2106971134449320256) · 2026-10-05 12:53 (UTC+08:00)
@@ -1805,6 +1865,8 @@ A beautiful Korean girl with long, naturally wavy black hair, soft realistic fac
 ## 31. A Hill Beneath a Woman Becomes a Giant Dinosaur in the Mist
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/0a922135-8984-4e8f-9cab-d34c859a3387/generate.mp4)**
+
+![A Hill Beneath a Woman Becomes a Giant Dinosaur in the Mist](https://cdn.lipsync.video/lipsync/cdn/feature-case/0a922135-8984-4e8f-9cab-d34c859a3387/cover.jpg)
 
 **16:9 · 608p · 27s · Seedance 2.5**
 
@@ -1841,6 +1903,8 @@ Setting: A silent pine forest at dawn that opens into a wide foggy meadow with d
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/8082e895-ead6-4e0e-828d-e5ac7e0f08f5/generate.mp4)**
 
+![A Perfume Moment in a Manhattan Penthouse at Golden Hour](https://cdn.lipsync.video/lipsync/cdn/feature-case/8082e895-ead6-4e0e-828d-e5ac7e0f08f5/cover.jpg)
+
 **9:16 · 720p · 15s · Seedance 2.5**
 
 [Original post](https://x.com/AIwithZeeshi/status/2110579418271818208) · 2026-10-15 11:52 (UTC+08:00)
@@ -1863,6 +1927,8 @@ Luxury fashion aesthetics, realistic skin texture, natural human movement, physi
 ## 33. A Bare-Faced Woman Swipes into a Glamorous Makeover
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/d64de00a-965d-42ae-8639-ae74dc5ec09a/generate.mp4)**
+
+![A Bare-Faced Woman Swipes into a Glamorous Makeover](https://cdn.lipsync.video/lipsync/cdn/feature-case/d64de00a-965d-42ae-8639-ae74dc5ec09a/cover.jpg)
 
 **16:9 · 480p · 10s · Seedance 2.5**
 
@@ -1890,6 +1956,8 @@ Creare 10-second ultra-realistic Douyin-style makeup transformation of the same 
 ## 34. Tunnel Chase and Beach Memories: She Embraces Her Monstrous Lover
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/64d38a96-7ac2-46c0-8d9d-704c67f24326/generate.mp4)**
+
+![Tunnel Chase and Beach Memories: She Embraces Her Monstrous Lover](https://cdn.lipsync.video/lipsync/cdn/feature-case/64d38a96-7ac2-46c0-8d9d-704c67f24326/cover.jpg)
 
 **21:9 · 1080p · 25s · Seedance 2.5**
 
@@ -2052,6 +2120,8 @@ Realistic skin pores, natural facial asymmetry, individual hair strands, genuine
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/aad4b42a-b77f-4ca0-ad5e-8c0b261a4c14/generate.mp4)**
 
+![A Korean Woman’s Coffee Moments and City Strolls](https://cdn.lipsync.video/lipsync/cdn/feature-case/aad4b42a-b77f-4ca0-ad5e-8c0b261a4c14/cover.jpg)
+
 **16:9 · 1080p · 60s · Seedance 2.5**
 
 [Original post](https://x.com/ZorviaLux/status/2106230270282313997) · 2026-10-03 11:50 (UTC+08:00)
@@ -2091,6 +2161,8 @@ Maintain perfect character consistency, identical facial features, hairstyle, cl
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/2bfb2936-5684-4ef3-b0c1-26359cd1c9bb/generate.mp4)**
 
+![A Young Woman’s Day at Home and Sunset on the Balcony](https://cdn.lipsync.video/lipsync/cdn/feature-case/2bfb2936-5684-4ef3-b0c1-26359cd1c9bb/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance 2.5**
 
 [Original post](https://x.com/Zyrellix/status/2105899978396987489) · 2026-10-02 13:57 (UTC+08:00)
@@ -2109,6 +2181,8 @@ A young woman with long dark brown hair and a beauty mark on her cheek wakes in 
 ## 37. Japanese Woman Camping Solo in a Pine Forest Hears a Noise at Night
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/7c07ef2d-bec7-499c-a220-2d53e20db3e3/generate.mp4)**
+
+![Japanese Woman Camping Solo in a Pine Forest Hears a Noise at Night](https://cdn.lipsync.video/lipsync/cdn/feature-case/7c07ef2d-bec7-499c-a220-2d53e20db3e3/cover.jpg)
 
 **16:9 · 1080p · 20s · Seedance 2.5**
 
@@ -2144,6 +2218,8 @@ Consistency: Maintain exactly the same woman, hairstyle, outfit, facial features
 ## 38. Seedance 2.5 Realistic Cycling Vlog: 30-Second Action Cam + Front Camera + Tracking Shot Edit
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/6a08f053-b812-4e3d-b91a-2bba46ba514d/generate.mp4)**
+
+![Seedance 2.5 Realistic Cycling Vlog: 30-Second Action Cam + Front Camera + Tracking Shot Edit](https://cdn.lipsync.video/lipsync/cdn/feature-case/6a08f053-b812-4e3d-b91a-2bba46ba514d/cover.jpg)
 
 **9:16 · 1080p · 30s · Seedance 2.5**
 
@@ -2248,6 +2324,8 @@ Seedance 2.5 prompt 👇
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/15d8fdec-f31a-42d0-b042-a263d11abd3d/generate.mp4)**
 
+![Seedance 2.5 Cliff Wingsuit Jump Over the Sea in One Take](https://cdn.lipsync.video/lipsync/cdn/feature-case/15d8fdec-f31a-42d0-b042-a263d11abd3d/cover.jpg)
+
 **16:9 · 1080p · 30s · Seedance 2.5**
 
 [Original post](https://x.com/mrdejie/status/2085996752809927146) · 2026-08-08 15:49 (UTC+08:00)
@@ -2277,6 +2355,8 @@ Seedance 2.5 prompt 👇
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/ce04e319-f951-4993-ab4a-1b27b02111db/generate.mp4)**
 
+![Live-Action Collage-Magazine-Style K-pop Girl Group MV](https://cdn.lipsync.video/lipsync/cdn/feature-case/ce04e319-f951-4993-ab4a-1b27b02111db/cover.jpg)
+
 **16:9 · 1080p · 15s · Seedance 2.5**
 
 [Original post](https://x.com/aiwarts?gc=doc3-kpop-mv-real-person)
@@ -2296,6 +2376,8 @@ Seedance 2.5 prompt 👇
 ## 41. Beach Day Memories Shot on a Smartphone
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/bf7626b4-93fd-48bc-a105-d79a8b6937f4/generate.mp4)**
+
+![Beach Day Memories Shot on a Smartphone](https://cdn.lipsync.video/lipsync/cdn/feature-case/bf7626b4-93fd-48bc-a105-d79a8b6937f4/cover.jpg)
 
 **16:9 · 720p · 15s · Seedance 2.0**
 
@@ -2364,6 +2446,8 @@ IMPORTANT GENERATION REQUIREMENTS:
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/929b6517-395e-457d-aeb3-4e74b94c761f/generate.mp4)**
 
+![Cinematic Paris Fashion Campaign, Five Shots](https://cdn.lipsync.video/lipsync/cdn/feature-case/929b6517-395e-457d-aeb3-4e74b94c761f/cover.jpg)
+
 **16:9 · 720p · 15s · Seedance 2.0**
 
 [Original post](https://x.com/Just_sharon7/status/2083793251132186998) · 2026-08-02 13:53 (UTC+08:00)
@@ -2401,6 +2485,8 @@ AVOID: cartoon, CGI, plastic skin, robotic movement, stiff poses, blurry face, o
 ## 43. Amalfi Coast Luxury Jewelry Ad
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/158c8e4b-28e9-4c92-b8cc-ec0874769ffa/generate.mp4)**
+
+![Amalfi Coast Luxury Jewelry Ad](https://cdn.lipsync.video/lipsync/cdn/feature-case/158c8e4b-28e9-4c92-b8cc-ec0874769ffa/cover.jpg)
 
 **16:9 · 1080p · 15s · Seedance 2.0**
 
@@ -2452,6 +2538,8 @@ Premium luxury logo animation. Fade to black.
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/0ebfba91-b683-44f1-b572-16d6a4633507/generate.mp4)**
 
+![A Mysterious Encounter of Women in Black and White in a Dim Hallway](https://cdn.lipsync.video/lipsync/cdn/feature-case/0ebfba91-b683-44f1-b572-16d6a4633507/cover.jpg)
+
 **21:9 · 480p · 27s · Seedance 2.0**
 
 [Original post](https://x.com/Aiwithmaha/status/2112012480860000276) · 2026-10-19 10:46 (UTC+08:00)
@@ -2471,6 +2559,8 @@ Create a 28-second ultra-realistic cinematic Korean drama featuring two beautifu
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/1c0631dd-5647-4c7c-8ad8-6b877b4780b2/generate.mp4)**
 
+![An Exhausting Day in a Korean Office Woman’s Life](https://cdn.lipsync.video/lipsync/cdn/feature-case/1c0631dd-5647-4c7c-8ad8-6b877b4780b2/cover.jpg)
+
 **16:9 · 720p · 24s · Seedance 2.0**
 
 [Original post](https://x.com/Aiwithmaha/status/2110206983999726004) · 2026-10-14 11:12 (UTC+08:00)
@@ -2489,6 +2579,8 @@ Create a 24-second ultra-realistic cinematic video of a young Korean office woma
 ## 46. Woman Gets Ready, Puts On Pink Sunglasses and Looks Back
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/0413b109-d2a7-4ac1-af96-741e2dd36c88/generate.mp4)**
+
+![Woman Gets Ready, Puts On Pink Sunglasses and Looks Back](https://cdn.lipsync.video/lipsync/cdn/feature-case/0413b109-d2a7-4ac1-af96-741e2dd36c88/cover.jpg)
 
 **16:9 · 720p · 15s · Seedance 2.0**
 
@@ -2534,6 +2626,8 @@ Visual style: late-90s/early-2000s fashion editorial, vintage Hollywood glamour,
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/45de733c-e367-4a47-b1bc-6ba3b2225994/generate.mp4)**
 
+![1980s Yacht Slasher: Octopus Attack](https://cdn.lipsync.video/lipsync/cdn/feature-case/45de733c-e367-4a47-b1bc-6ba3b2225994/cover.jpg)
+
 **1:1 · 1080p · 30s · Seedance 2.0**
 
 [Original post](https://x.com/mrdejie/status/2083433982356836382) · 2026-08-01 14:05 (UTC+08:00)
@@ -2560,6 +2654,8 @@ Visual style: late-90s/early-2000s fashion editorial, vintage Hollywood glamour,
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/523d5de1-44fa-41d9-8331-5ffecabea322/generate.mp4)**
 
+![Creamy Chicken Pasta Cooking Vlog](https://cdn.lipsync.video/lipsync/cdn/feature-case/523d5de1-44fa-41d9-8331-5ffecabea322/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance 2.0**
 
 [Original post](https://x.com/ElsaSofia__AI/status/2091483398972080172) · 2026-08-23 19:11 (UTC+08:00)
@@ -2579,6 +2675,8 @@ DURATION: 30 seconds ASPECT RATIO: Use the video's available landscape/cinematic
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/01e5c51e-6f12-49d3-a9e4-cae83d26f8cc/generate.mp4)**
 
+![A Woman Bathes and Blow-Dries a Giant Ragdoll Cat](https://cdn.lipsync.video/lipsync/cdn/feature-case/01e5c51e-6f12-49d3-a9e4-cae83d26f8cc/cover.jpg)
+
 **16:9 · 540p · 30s · Seedance 2.0**
 
 [Original post](https://x.com/Aiwithmaha/status/2110921969420177453) · 2026-10-16 10:33 (UTC+08:00)
@@ -2597,6 +2695,8 @@ DURATION: 30 seconds ASPECT RATIO: Use the video's available landscape/cinematic
 ## 50. Woman Grows Bodybuilder Arms After Picking Up a Can in a Supermarket
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/95ab6096-da1f-44aa-944e-b868d7f74f8d/generate.mp4)**
+
+![Woman Grows Bodybuilder Arms After Picking Up a Can in a Supermarket](https://cdn.lipsync.video/lipsync/cdn/feature-case/95ab6096-da1f-44aa-944e-b868d7f74f8d/cover.jpg)
 
 **16:9 · 720p · 10s · Seedance 2.0**
 
@@ -2624,6 +2724,8 @@ Create a 10-second video featuring a hilarious, ultra-realistic transformation s
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/8d858e8a-0bd5-41f8-87df-84527a81a128/generate.mp4)**
 
+![White-Clad Acrobat Leaps Across Tall Poles Above a Mountain Lake](https://cdn.lipsync.video/lipsync/cdn/feature-case/8d858e8a-0bd5-41f8-87df-84527a81a128/cover.jpg)
+
 **9:16 · 720p · 30s · Seedance 2.0**
 
 [Original post](https://x.com/ayzalnooor24521/status/2113128549930729895) · 2026-10-22 12:41 (UTC+08:00)
@@ -2642,6 +2744,8 @@ Create it 30-second video featuring a breathtaking cinematic acrobatic performan
 ## 52. Three Korean Friends Share Late-Night Ramen at a Convenience Store
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/84e61970-ad68-4fe2-9dcf-0f5ddbc0d9dc/generate.mp4)**
+
+![Three Korean Friends Share Late-Night Ramen at a Convenience Store](https://cdn.lipsync.video/lipsync/cdn/feature-case/84e61970-ad68-4fe2-9dcf-0f5ddbc0d9dc/cover.jpg)
 
 **9:16 · 4K · 30s · Seedance 2.0**
 
@@ -2662,6 +2766,8 @@ Created a video 30 seconds, Beautiful Korean girls enjoying a late-night ramen b
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/8e3b9068-2788-4e47-9914-ba6919759952/generate.mp4)**
 
+![A Korean Woman Wanders Tokyo from Sunset to Neon Nights](https://cdn.lipsync.video/lipsync/cdn/feature-case/8e3b9068-2788-4e47-9914-ba6919759952/cover.jpg)
+
 **16:9 · 720p · 26s · Seedance 2.0**
 
 [Original post](https://x.com/Aiwithmaha/status/2110597035502272787) · 2026-10-15 13:02 (UTC+08:00)
@@ -2680,6 +2786,8 @@ Create a 26-second ultra-realistic cinematic travel video featuring a beautiful 
 ## 54. A Young Woman Enjoys a Facial at a Luxury Skincare Clinic
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/c328a2e3-481a-4ae1-9384-1b148d5d2cf2/generate.mp4)**
+
+![A Young Woman Enjoys a Facial at a Luxury Skincare Clinic](https://cdn.lipsync.video/lipsync/cdn/feature-case/c328a2e3-481a-4ae1-9384-1b148d5d2cf2/cover.jpg)
 
 **9:16 · 4K · 27s · Seedance 2.0**
 
@@ -2711,6 +2819,8 @@ Maintain consistent facial identity, hairstyle, body proportions, and clothing t
 ## 55. Cinematic Skincare and Beauty Vlog
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/8a0cab1b-90c5-49e5-8e6d-ab1d0f3cc9e1/generate.mp4)**
+
+![Cinematic Skincare and Beauty Vlog](https://cdn.lipsync.video/lipsync/cdn/feature-case/8a0cab1b-90c5-49e5-8e6d-ab1d0f3cc9e1/cover.jpg)
 
 **9:16 · 4K · 15s · Seedance 2.0**
 
@@ -2753,6 +2863,8 @@ Cinematic vertical 9:16 beauty vlog style, 4k resolution, ultra-realistic textur
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/cd6760cc-24db-43ae-b38c-4afbf8a81394/generate.mp4)**
 
+![A Young Korean Woman’s Peaceful Day in Seoul](https://cdn.lipsync.video/lipsync/cdn/feature-case/cd6760cc-24db-43ae-b38c-4afbf8a81394/cover.jpg)
+
 **9:16 · 720p · 27s · Seedance 2.0**
 
 [Original post](https://x.com/Lianaalane/status/2113502626016825590) · 2026-10-23 13:27 (UTC+08:00)
@@ -2771,6 +2883,8 @@ Create a 27-second photorealistic cinematic lifestyle film featuring a young Kor
 ## 57. Cinematic Korean Market Shopping Trip
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/076e849b-b3f3-4329-8c2d-97d2c435ed09/generate.mp4)**
+
+![Cinematic Korean Market Shopping Trip](https://cdn.lipsync.video/lipsync/cdn/feature-case/076e849b-b3f3-4329-8c2d-97d2c435ed09/cover.jpg)
 
 **1:1 · 4K · 15s · Seedance 2.0**
 
@@ -2820,6 +2934,8 @@ Important: Keep the same girl's identity and appearance consistent in every shot
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/f7cf1701-f6be-4a85-89ec-ed5ec9089faa/generate.mp4)**
 
+![Korean Idol Backstage Fitting Vlog](https://cdn.lipsync.video/lipsync/cdn/feature-case/f7cf1701-f6be-4a85-89ec-ed5ec9089faa/cover.jpg)
+
 **16:9 · 720p · 15s · Seedance 2.0**
 
 [Original post](https://x.com/doctorwasif/status/2081353850779550056) · 2026-07-26 20:20 (UTC+08:00)
@@ -2838,6 +2954,8 @@ DV 16mm handheld camcorder POV, CHASE filming herself, occasionally propped agai
 ## 59. 2000s MiniDV Han River Bike Ride
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/b6f874c3-2e66-448e-b9df-0e92ec2a0117/generate.mp4)**
+
+![2000s MiniDV Han River Bike Ride](https://cdn.lipsync.video/lipsync/cdn/feature-case/b6f874c3-2e66-448e-b9df-0e92ec2a0117/cover.jpg)
 
 **16:9 · 720p · 15s · Seedance 2.0**
 
@@ -2885,6 +3003,8 @@ Goal: A forgotten MiniDV home video from 2004 capturing a peaceful afternoon bic
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/82acf13a-b120-4986-be0c-a264c7f6ea93/generate.mp4)**
 
+![High-End Lipstick Beauty Ad](https://cdn.lipsync.video/lipsync/cdn/feature-case/82acf13a-b120-4986-be0c-a264c7f6ea93/cover.jpg)
+
 **3:4 · 4K · 13s · Seedance 2.0**
 
 [Original post](https://x.com/AIwithSynthia/status/2077621815598592445) · 2026-07-16 13:10 (UTC+08:00)
@@ -2925,6 +3045,8 @@ Negative Prompt: No text, no subtitles, no logos, no watermarks, no kissing, no 
 ## 61. Fashion UGC Ad
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/12d035bc-737f-4ac1-8c37-9fdbfb2e1926/generate.mp4)**
+
+![Fashion UGC Ad](https://cdn.lipsync.video/lipsync/cdn/feature-case/12d035bc-737f-4ac1-8c37-9fdbfb2e1926/cover.jpg)
 
 **9:16 · 720p · 15s · Seedance 2.0**
 
@@ -2972,6 +3094,8 @@ The video should have realistic smartphone camera quality, natural handheld move
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/ec54c747-9d15-49cf-b540-8e174b880461/generate.mp4)**
 
+![Luxury Rooftop Helicopter Party](https://cdn.lipsync.video/lipsync/cdn/feature-case/ec54c747-9d15-49cf-b540-8e174b880461/cover.jpg)
+
 **16:9 · 8K · 15s · Seedance 2.0**
 
 [Original post](https://x.com/LufzzLiz/status/2081365529101815987) · 2026-07-26 21:06 (UTC+08:00)
@@ -3001,6 +3125,8 @@ The video should have realistic smartphone camera quality, natural handheld move
 ## 63. Coca-Cola Fashion Transition Ad
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/6dae6923-34e0-4e42-b4cc-7f02d81a3a9a/generate.mp4)**
+
+![Coca-Cola Fashion Transition Ad](https://cdn.lipsync.video/lipsync/cdn/feature-case/6dae6923-34e0-4e42-b4cc-7f02d81a3a9a/cover.jpg)
 
 **9:16 · 8K · 15s · Seedance 2.0**
 
@@ -3055,6 +3181,8 @@ The video should have realistic smartphone camera quality, natural handheld move
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/1f43479b-3e3d-4b1b-9e24-c53f41355ad3/generate.mp4)**
 
+![Influencer Luxury Villa Tour](https://cdn.lipsync.video/lipsync/cdn/feature-case/1f43479b-3e3d-4b1b-9e24-c53f41355ad3/cover.jpg)
+
 **16:9 · 720p · 15s · Seedance 2.0**
 
 [Original post](https://x.com/techhalla/status/2077516915195736088) · 2026-07-16 06:13 (UTC+08:00)
@@ -3094,6 +3222,8 @@ Real iPhone 16 Pro footage look, natural bright daylight, authentic mobile camer
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/f68695bc-eeea-4545-9fba-906bb1aebd98/generate.mp4)**
 
+![Handheld Skincare Vlog Camera Aesthetic](https://cdn.lipsync.video/lipsync/cdn/feature-case/f68695bc-eeea-4545-9fba-906bb1aebd98/cover.jpg)
+
 **16:9 · 720p · 15s · Seedance 2.0**
 
 [Original post](https://x.com/Strength04_X/status/2077333945687925044) · 2026-07-15 18:06 (UTC+08:00)
@@ -3128,6 +3258,8 @@ REALISM NOTES: Authentic body language, natural blinking, genuine soft smiles, o
 ## 66. K-Pop Idol Backstage Vlog
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/fec59ebf-5b58-4cb3-bd64-0daa52c1beb3/generate.mp4)**
+
+![K-Pop Idol Backstage Vlog](https://cdn.lipsync.video/lipsync/cdn/feature-case/fec59ebf-5b58-4cb3-bd64-0daa52c1beb3/cover.jpg)
 
 **16:9 · 720p · 15s · Seedance 2.0**
 
@@ -3181,6 +3313,8 @@ Korean: "완성! 다음에 또 만나요. 안녕!"
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/00c1f2f5-6b2e-4bc3-8e2b-7bcdb1052341/generate.mp4)**
 
+![Realistic Male Influencer Storyboard](https://cdn.lipsync.video/lipsync/cdn/feature-case/00c1f2f5-6b2e-4bc3-8e2b-7bcdb1052341/cover.jpg)
+
 **9:16 · 1080p · 15s · Seedance 2.0**
 
 [Original post](https://x.com/Shorelyn_/status/2079066277650600170) · 2026-07-20 12:50 (UTC+08:00)
@@ -3226,6 +3360,8 @@ M-01. Hongdae Busking Street & Tattoo Shop Tour
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/51cfd263-f3be-4f37-ac39-0bb0aea973b3/generate.mp4)**
 
+![Cinematic Sourdough Bread Baking Timelapse](https://cdn.lipsync.video/lipsync/cdn/feature-case/51cfd263-f3be-4f37-ac39-0bb0aea973b3/cover.jpg)
+
 **3:4 · 1080p · 10s · Seedance 2.0**
 
 [Original post](https://x.com/Caden_Flux/status/2070862852735594771) · 2026-06-27 21:32 (UTC+08:00)
@@ -3268,6 +3404,8 @@ soft window light from left, 9:16 widescreen.
 ## 69. 1990s Retro VHS Fitness Vlog
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/f51b61c3-e9f8-4a3e-b2f0-8f06b91219f6/generate.mp4)**
+
+![1990s Retro VHS Fitness Vlog](https://cdn.lipsync.video/lipsync/cdn/feature-case/f51b61c3-e9f8-4a3e-b2f0-8f06b91219f6/cover.jpg)
 
 **4:3 · 720p · 15s · Seedance 2.0**
 
@@ -3325,6 +3463,8 @@ POV 第一人称视角，由 CHASE 自己拍摄。她偶尔手持拍摄，偶尔
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/998af624-65f3-406c-a1a7-1a5830f9b3eb/generate.mp4)**
 
+![High-Quality Anime Swimsuit Video](https://cdn.lipsync.video/lipsync/cdn/feature-case/998af624-65f3-406c-a1a7-1a5830f9b3eb/cover.jpg)
+
 **4:3 · 560p · 6s · Seedance 2.0**
 
 [Original post](https://x.com/haruuraeadss/status/2080867332889399547) · 2026-07-25 12:06 (UTC+08:00)
@@ -3366,6 +3506,8 @@ POV 第一人称视角，由 CHASE 自己拍摄。她偶尔手持拍摄，偶尔
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/cb1b8c39-3ced-4e75-9836-dbeabe598979/generate.mp4)**
 
+![Luxury Salon Beauty Transformation](https://cdn.lipsync.video/lipsync/cdn/feature-case/cb1b8c39-3ced-4e75-9836-dbeabe598979/cover.jpg)
+
 **16:9 · 4K · 15s · Seedance 2.0**
 
 [Original post](https://x.com/KrevixAi/status/2080960631180570913) · 2026-07-25 18:17 (UTC+08:00)
@@ -3384,6 +3526,8 @@ Ultra-realistic cinematic beauty transformation, 15s, luxury salon commercial, h
 ## 72. Luxury Beauty and Skincare ASMR
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/028392ba-bec7-4afe-ae25-ccec50ce3dbe/generate.mp4)**
+
+![Luxury Beauty and Skincare ASMR](https://cdn.lipsync.video/lipsync/cdn/feature-case/028392ba-bec7-4afe-ae25-ccec50ce3dbe/cover.jpg)
 
 **16:9 · 720p · 15s · Seedance 2.0**
 
@@ -3406,6 +3550,8 @@ CAMERA / LOOK: Propped iPhone/Mini DV camcorder footage on a sleek vanity mirror
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/2fb550ca-4dee-421d-8fae-f0ebcee0001e/generate.mp4)**
 
+![Japanese Summer Festival Selfie Vlog](https://cdn.lipsync.video/lipsync/cdn/feature-case/2fb550ca-4dee-421d-8fae-f0ebcee0001e/cover.jpg)
+
 **9:16 · 720p · 15s · Seedance 2.0**
 
 [Original post](https://x.com/NorthImage/status/2078070232137297951) · 2026-07-17 18:52 (UTC+08:00)
@@ -3424,6 +3570,8 @@ STYLE: Handheld selfie vlog — arm's-length front camera, eyes locked to lens, 
 ## 74. Woman in Black Stands Still Amid a Synchronized Crowd
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/2d2e2a1a-7c15-4ff9-a80a-0eb96d5749de/generate.mp4)**
+
+![Woman in Black Stands Still Amid a Synchronized Crowd](https://cdn.lipsync.video/lipsync/cdn/feature-case/2d2e2a1a-7c15-4ff9-a80a-0eb96d5749de/cover.jpg)
 
 **4:3 · 720p · 30s · Seedance**
 
@@ -3463,6 +3611,8 @@ Photorealistic live-action quality, cinematic composition, natural human movemen
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/4785b65d-6232-454a-b003-c8f7e5b6ebcf/generate.mp4)**
 
+![An Afternoon in a Hammock and Washing a Motorcycle](https://cdn.lipsync.video/lipsync/cdn/feature-case/4785b65d-6232-454a-b003-c8f7e5b6ebcf/cover.jpg)
+
 **16:9 · 1080p · 23s · Seedance**
 
 [Original post](https://x.com/doctorwasif/status/2099836703729172540) · 2026-09-15 20:24 (UTC+08:00)
@@ -3501,6 +3651,8 @@ Format: 16:9.
 ## 76. A Korean Woman’s Morning Workout at a Neighborhood Gym
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/d0fbab93-66f0-449c-b471-d96133734b68/generate.mp4)**
+
+![A Korean Woman’s Morning Workout at a Neighborhood Gym](https://cdn.lipsync.video/lipsync/cdn/feature-case/d0fbab93-66f0-449c-b471-d96133734b68/cover.jpg)
 
 **21:9 · 480p · 45s · Seedance**
 
@@ -3637,6 +3789,8 @@ She laughs, loses her rhythm for a second, then continues.
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/7d3f99a0-c0e3-480f-b4cc-8d84e56ba7ef/generate.mp4)**
 
+![A Day Buying Bread and Cotton Candy in Old Seoul](https://cdn.lipsync.video/lipsync/cdn/feature-case/7d3f99a0-c0e3-480f-b4cc-8d84e56ba7ef/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/AIwithkhan/status/2104057858765791389) · 2026-09-27 11:57 (UTC+08:00)
@@ -3670,6 +3824,8 @@ Natural neighborhood ambience only — footsteps, shop sounds, bicycle wheels, v
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/535f4d24-73bb-4353-a724-d5f436de5d3b/generate.mp4)**
 
+![Friday Morning Walk in Seoul](https://cdn.lipsync.video/lipsync/cdn/feature-case/535f4d24-73bb-4353-a724-d5f436de5d3b/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/AIwithkhan/status/2103329257149898940) · 2026-09-25 11:42 (UTC+08:00)
@@ -3700,6 +3856,8 @@ Use raw early-2000s consumer DV-camera footage: handheld shake, imperfect framin
 ## 79. Thirty-Second Emotional Live-Action Discovery Scene
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/2b23f9e8-d765-473c-852d-60850284d667/generate.mp4)**
+
+![Thirty-Second Emotional Live-Action Discovery Scene](https://cdn.lipsync.video/lipsync/cdn/feature-case/2b23f9e8-d765-473c-852d-60850284d667/cover.jpg)
 
 **16:9 · 1080p · 30s · Seedance**
 
@@ -3773,6 +3931,8 @@ NEGATIVE: plastic skin, fake tears, exaggerated crying, cartoon expressions, mel
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/6127ae4e-8f3c-4e11-90d4-a8c50c2e8030/generate.mp4)**
 
+![Jeweled Scorpion Transforms into a High Heel](https://cdn.lipsync.video/lipsync/cdn/feature-case/6127ae4e-8f3c-4e11-90d4-a8c50c2e8030/cover.jpg)
+
 **9:16 · 4K · 15s · Seedance**
 
 [Original post](https://x.com/juliaevee/status/2092783528887083290) · 2026-08-27 09:17 (UTC+08:00)
@@ -3791,6 +3951,8 @@ A close-up vertical shot in 4K resolution depicting a magical transformation. A 
 ## 81. A Korean Girl’s Early-2000s Birthday Celebration
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/a4e8614c-9f1b-4fca-8a6f-768f97df4993/generate.mp4)**
+
+![A Korean Girl’s Early-2000s Birthday Celebration](https://cdn.lipsync.video/lipsync/cdn/feature-case/a4e8614c-9f1b-4fca-8a6f-768f97df4993/cover.jpg)
 
 **16:9 · 4K · 30s · Seedance**
 
@@ -3840,6 +4002,8 @@ FINAL FEEL: A genuine Korean birthday memory from the early 2000s, with every sc
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/51f48e77-f17c-49aa-821e-429d3c7aec62/generate.mp4)**
 
+![Woman Pulls Laughing Man Out Through a Shattered Subway Window](https://cdn.lipsync.video/lipsync/cdn/feature-case/51f48e77-f17c-49aa-821e-429d3c7aec62/cover.jpg)
+
 **16:9 · 1080p · 30s · Seedance**
 
 [Original post](https://x.com/AIwithkhan/status/2097168171367338428) · 2026-09-08 11:40 (UTC+08:00)
@@ -3870,6 +4034,8 @@ No gore, blood, serious injuries, identity drift, outfit changes, duplicated peo
 ## 83. POV: Korean Baddie Meets Her Boyfriend in the US
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/9675c4df-c44b-4753-be27-5285c2326792/generate.mp4)**
+
+![POV: Korean Baddie Meets Her Boyfriend in the US](https://cdn.lipsync.video/lipsync/cdn/feature-case/9675c4df-c44b-4753-be27-5285c2326792/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance**
 
@@ -3903,6 +4069,8 @@ Negative prompt: No subtitles, text, logos, watermarks, identity changes, outfit
 ## 84. The 5 PM Office Escape
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/22879a42-aeae-4d97-bf12-e2326f9d68fe/generate.mp4)**
+
+![The 5 PM Office Escape](https://cdn.lipsync.video/lipsync/cdn/feature-case/22879a42-aeae-4d97-bf12-e2326f9d68fe/cover.jpg)
 
 **16:9 · 1080p · 30s · Seedance**
 
@@ -4210,6 +4378,8 @@ Final notification: 【AFTER-HOURS TASK EVADED】.
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/6357836d-13cd-4a32-965d-d4731206bab1/generate.mp4)**
 
+![Girlfriend Praises Boyfriend for Resisting Temptation](https://cdn.lipsync.video/lipsync/cdn/feature-case/6357836d-13cd-4a32-965d-d4731206bab1/cover.jpg)
+
 **16:9 · 1080p · 29s · Seedance, Runway**
 
 [Original post](https://x.com/YourAlphaMom/status/2098541423062548561) · 2026-09-12 06:37 (UTC+08:00)
@@ -4477,6 +4647,8 @@ CONTINUITY / HARD RULES
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/aeb2f605-1133-488c-a6f6-2e1985eb8380/generate.mp4)**
 
+![Early-2000s Seoul Couple's Afternoon Drive](https://cdn.lipsync.video/lipsync/cdn/feature-case/aeb2f605-1133-488c-a6f6-2e1985eb8380/cover.jpg)
+
 **16:9 · 1080p · 30s · Seedance**
 
 [Original post](https://x.com/AIwithkhan/status/2104776214066188611) · 2026-09-29 11:32 (UTC+08:00)
@@ -4534,6 +4706,8 @@ No cinematic commercial look, no gimbal shots, no drone shots, no dramatic light
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/0567249a-8909-4f53-9324-4894da70bf4d/generate.mp4)**
 
+![Summer-Night Fashion Girl by a Speeding Metro](https://cdn.lipsync.video/lipsync/cdn/feature-case/0567249a-8909-4f53-9324-4894da70bf4d/cover.jpg)
+
 **16:9 · 4K · 10s · Seedance**
 
 [Original post](https://x.com/Just_sharon7/status/2103032789910401038) · 2026-09-24 16:04 (UTC+08:00)
@@ -4558,6 +4732,8 @@ Photoreal cinematic ~9 seconds, high-end fashion-film look. A young woman with l
 ## 88. Crowd Turns in Unison to Stare at the Woman in Black
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/c2c70601-4144-411e-9ece-c93eccba5708/generate.mp4)**
+
+![Crowd Turns in Unison to Stare at the Woman in Black](https://cdn.lipsync.video/lipsync/cdn/feature-case/c2c70601-4144-411e-9ece-c93eccba5708/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance**
 
@@ -4596,6 +4772,8 @@ No animation, anime, cartoon, CGI look, duplicate woman, distorted faces, morphi
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/c45808b4-6146-4a0b-bf10-c1e7a55de6ec/generate.mp4)**
 
+![Courtyard Fighter Interrupted on Her Smoke Break](https://cdn.lipsync.video/lipsync/cdn/feature-case/c45808b4-6146-4a0b-bf10-c1e7a55de6ec/cover.jpg)
+
 **16:9 · 480p · 30s · Seedance**
 
 [Original post](https://x.com/Just_sharon7/status/2105196278217150537) · 2026-09-30 15:21 (UTC+08:00)
@@ -4628,6 +4806,8 @@ Mood: stylish, effortless, slightly surreal, high-fashion action, “she doesn�
 ## 90. A Playful Splash After a Beach Rescue
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/95036d54-1de3-4278-a4f5-a85566f92e74/generate.mp4)**
+
+![A Playful Splash After a Beach Rescue](https://cdn.lipsync.video/lipsync/cdn/feature-case/95036d54-1de3-4278-a4f5-a85566f92e74/cover.jpg)
 
 **16:9 · 480p · 15s · Seedance**
 
@@ -4668,6 +4848,8 @@ NEGATIVE: no blood, no gore, no distortion, no extra fingers, no face morphing, 
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/7063729a-a3c8-46f7-a248-f3c76a03930c/generate.mp4)**
 
+![Monday Morning’s Upside-Down Water Ritual](https://cdn.lipsync.video/lipsync/cdn/feature-case/7063729a-a3c8-46f7-a248-f3c76a03930c/cover.jpg)
+
 **4:3 · 720p · 28s · Seedance**
 
 [Original post](https://x.com/Just_sharon7/status/2104544058471502330) · 2026-09-28 20:09 (UTC+08:00)
@@ -4699,6 +4881,8 @@ Natural window light, muted filmic color palette, shallow depth of field, slight
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/b756c01b-0417-4351-bad6-a14ba3896ed4/generate.mp4)**
 
+![A Hilarious Payback After the Subway Doors Close](https://cdn.lipsync.video/lipsync/cdn/feature-case/b756c01b-0417-4351-bad6-a14ba3896ed4/cover.jpg)
+
 **16:9 · 1080p · 30s · Seedance**
 
 [Original post](https://x.com/AIwithSynthia/status/2098988104418050349) · 2026-09-13 12:12 (UTC+08:00)
@@ -4729,6 +4913,8 @@ No gore, blood, serious injuries, identity drift, outfit changes, duplicated peo
 ## 93. Pink-Haired Student Backflips and Catches Her Lunch Tray
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/4d31ab3e-829f-45b5-8697-a62a55cdbc16/generate.mp4)**
+
+![Pink-Haired Student Backflips and Catches Her Lunch Tray](https://cdn.lipsync.video/lipsync/cdn/feature-case/4d31ab3e-829f-45b5-8697-a62a55cdbc16/cover.jpg)
 
 **16:9 · 1080p · 22s · Seedance**
 
@@ -4769,6 +4955,8 @@ Negative: messy spills, broken tray, Western cafeteria, adult office clothes, ex
 ## 94. Seedance Film It or Run: A First-Person Disaster Short
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/79665022-800b-4bb4-b9b8-d8d5146e8ab8/generate.mp4)**
+
+![Seedance Film It or Run: A First-Person Disaster Short](https://cdn.lipsync.video/lipsync/cdn/feature-case/79665022-800b-4bb4-b9b8-d8d5146e8ab8/cover.jpg)
 
 **1:1 · 4K · 20s · Seedance, Runway**
 
@@ -4831,6 +5019,8 @@ OUTPUT:
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/40f42a87-366c-4d30-9ef4-a657cfecec4c/generate.mp4)**
 
+![A Korean Woman's Workout at Her Local Gym](https://cdn.lipsync.video/lipsync/cdn/feature-case/40f42a87-366c-4d30-9ef4-a657cfecec4c/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/AIwithkhan/status/2104408252670939438) · 2026-09-28 11:10 (UTC+08:00)
@@ -4869,6 +5059,8 @@ Negative: CGI look, plastic skin, beauty filters, exaggerated muscles, impossibl
 ## 96. A Korean Woman’s Summer Day on a Traditional Farm
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/38db92aa-559f-48cd-a51e-8ff69ea05c73/generate.mp4)**
+
+![A Korean Woman’s Summer Day on a Traditional Farm](https://cdn.lipsync.video/lipsync/cdn/feature-case/38db92aa-559f-48cd-a51e-8ff69ea05c73/cover.jpg)
 
 **16:9 · 1080p · 30s · Seedance**
 
@@ -4942,6 +5134,8 @@ Completely believable real-life home-video footage. Slightly imperfect, spontane
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/e9023785-9cd6-4d89-8f76-38b4a60c2f8b/generate.mp4)**
 
+![Realism That Makes Ordinary Life Feel Special](https://cdn.lipsync.video/lipsync/cdn/feature-case/e9023785-9cd6-4d89-8f76-38b4a60c2f8b/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/Just_sharon7/status/2096109540924141746) · 2026-09-05 13:33 (UTC+08:00)
@@ -4989,6 +5183,8 @@ Absolutely no subtitles, captions, on-screen text, logos, watermarks, or UI.
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/76850644-e13c-4b67-aa80-bdf63e0b40b2/generate.mp4)**
 
+![A Girl Cycling Through a Korean Alley in Summer](https://cdn.lipsync.video/lipsync/cdn/feature-case/76850644-e13c-4b67-aa80-bdf63e0b40b2/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/AIwithkhan/status/2091175465037746522) · 2026-08-22 22:47 (UTC+08:00)
@@ -5016,6 +5212,8 @@ Audio: Summer insects, birds, bicycle chain, distant children, wind through leav
 ## 99. Seedance Sixty-Second Gym Day-in-the-Life Vlog
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/66f106ca-39d7-4ea5-86b0-4f8d383cab4a/generate.mp4)**
+
+![Seedance Sixty-Second Gym Day-in-the-Life Vlog](https://cdn.lipsync.video/lipsync/cdn/feature-case/66f106ca-39d7-4ea5-86b0-4f8d383cab4a/cover.jpg)
 
 **16:9 · 720p · 60s · Seedance**
 
@@ -5125,6 +5323,8 @@ All dialogue must be naturally spoken with visible lip movement. Use only dieget
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/b0dc8607-3941-4725-b90e-b42c2cdff70a/generate.mp4)**
 
+![Locked Character Sheet for a Korean Woman of 20](https://cdn.lipsync.video/lipsync/cdn/feature-case/b0dc8607-3941-4725-b90e-b42c2cdff70a/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/AIwithkhan/status/2095485437821464808) · 2026-09-03 20:13 (UTC+08:00)
@@ -5154,6 +5354,8 @@ Candid domestic humor, realistic fabric movement, nostalgic DV imperfections and
 ## 101. Seamless Outfit Changes Through a Pixel Field
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/0672bb08-547f-41ab-ab65-d2f0329a8ae9/generate.mp4)**
+
+![Seamless Outfit Changes Through a Pixel Field](https://cdn.lipsync.video/lipsync/cdn/feature-case/0672bb08-547f-41ab-ab65-d2f0329a8ae9/cover.jpg)
 
 **16:9 · 720p · 9s · Seedance, GPT Image**
 
@@ -5768,6 +5970,8 @@ THE PERSON NEVER CHANGES.
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/f395d446-4d5e-478b-96e9-fe07f83c8fa9/generate.mp4)**
 
+![A Morning Kimchi Stew Stop at a Seoul Neighborhood Eatery](https://cdn.lipsync.video/lipsync/cdn/feature-case/f395d446-4d5e-478b-96e9-fe07f83c8fa9/cover.jpg)
+
 **16:9 · 720p · 15s · Seedance**
 
 [Original post](https://x.com/Just_sharon7/status/2104819017655648545) · 2026-09-29 14:22 (UTC+08:00)
@@ -6010,6 +6214,8 @@ The vintage appearance must come from realistic MiniDV camera behavior, autofocu
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/fdbc2627-e358-4d09-8ca3-a28076b34a0d/generate.mp4)**
 
+![Late-Night Oden Tasting in a Hotel Room](https://cdn.lipsync.video/lipsync/cdn/feature-case/fdbc2627-e358-4d09-8ca3-a28076b34a0d/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance, Nano Banana**
 
 [Original post](https://x.com/Just_sharon7/status/2089919950161113353) · 2026-08-19 11:38 (UTC+08:00)
@@ -6069,6 +6275,8 @@ Maintain consistent facial features, hairstyle, outfit, body proportions, and en
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/d24cfa8e-0739-4707-ad40-9b4a2b146f2f/generate.mp4)**
 
+![POV: A Lazy Summer Morning With Him in Seoul](https://cdn.lipsync.video/lipsync/cdn/feature-case/d24cfa8e-0739-4707-ad40-9b4a2b146f2f/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/AIwithJessica/status/2096779054720639258) · 2026-09-07 09:54 (UTC+08:00)
@@ -6114,6 +6322,8 @@ Continuity/realism: Same woman and boyfriend throughout; consistent wardrobe and
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/2a035aac-1f04-4c01-8a9c-ee909d506fb9/generate.mp4)**
 
+![The Zombie Express, Cut to the Tenth of a Second](https://cdn.lipsync.video/lipsync/cdn/feature-case/2a035aac-1f04-4c01-8a9c-ee909d506fb9/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/doctorwasif/status/2095373753983369666) · 2026-09-03 12:50 (UTC+08:00)
@@ -6158,6 +6368,8 @@ Shot 26 (28.5–30.0s): Exterior wide shot of the train speeding through the nig
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/52fec4df-8183-4af6-a26b-de598ee5ac12/generate.mp4)**
 
+![A Pink-Haired Girl’s Lazy Playground Wander](https://cdn.lipsync.video/lipsync/cdn/feature-case/52fec4df-8183-4af6-a26b-de598ee5ac12/cover.jpg)
+
 **16:9 · 4K · 30s · Seedance**
 
 [Original post](https://x.com/Just_sharon7/status/2100983315381829840) · 2026-09-19 00:20 (UTC+08:00)
@@ -6201,6 +6413,8 @@ Photorealistic, 4K, cinematic lighting, consistent character, natural skin textu
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/66f75b94-4554-44d3-b2aa-89cf00312193/generate.mp4)**
 
+![Nano Banana 2 + Seedance Pulled Through the Mirror](https://cdn.lipsync.video/lipsync/cdn/feature-case/66f75b94-4554-44d3-b2aa-89cf00312193/cover.jpg)
+
 **1:1 · 4K · 27s · Seedance, Nano Banana**
 
 [Original post](https://x.com/Just_sharon7/status/2088970274075246774) · 2026-08-16 20:44 (UTC+08:00)
@@ -6226,6 +6440,8 @@ SCENE CONTEXT A girl Image flees something unseen through a glowing forest, trip
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/5cee4940-0bfa-4d3f-8c67-5db5a1334464/generate.mp4)**
 
+![Red Dress Transformation on the Streets of Paris](https://cdn.lipsync.video/lipsync/cdn/feature-case/5cee4940-0bfa-4d3f-8c67-5db5a1334464/cover.jpg)
+
 **16:9 · 720p · 15s · Seedance**
 
 [Original post](https://x.com/ayzalnooor24521/status/2100456445900710158) · 2026-09-17 13:26 (UTC+08:00)
@@ -6245,6 +6461,8 @@ Created a cinematic fashion transformation video featuring a beautiful young wom
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/dcda5ac1-2ca3-43b8-8616-32879c2156a8/generate.mp4)**
 
+![Golden Hour Mountain Fashion Film, Low Angle](https://cdn.lipsync.video/lipsync/cdn/feature-case/dcda5ac1-2ca3-43b8-8616-32879c2156a8/cover.jpg)
+
 **16:9 · 8K · 20s · Seedance, Kling**
 
 [Original post](https://x.com/noorlewisx/status/2096826123330138410) · 2026-09-07 13:01 (UTC+08:00)
@@ -6263,6 +6481,8 @@ Cinematic fashion film still, low-angle shot of a beautiful young woman with wav
 ## 110. Her Autumn Day in the City
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/1af07651-de6a-40bf-ab24-c2fdffc4b61a/generate.mp4)**
+
+![Her Autumn Day in the City](https://cdn.lipsync.video/lipsync/cdn/feature-case/1af07651-de6a-40bf-ab24-c2fdffc4b61a/cover.jpg)
 
 **16:9 · 4K · 30s · Seedance**
 
@@ -6346,6 +6566,8 @@ Same woman's face and build in every shot, matching @image1 exactly. Wine-burgun
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/384d5fc1-c754-4e8f-806d-ebee3b6fe8c9/generate.mp4)**
 
+![California Sunset Seaside Perfume Commercial](https://cdn.lipsync.video/lipsync/cdn/feature-case/384d5fc1-c754-4e8f-806d-ebee3b6fe8c9/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance, Kling, Runway**
 
 [Original post](https://x.com/ShamiWeb3/status/2093133619883913232) · 2026-08-28 08:28 (UTC+08:00)
@@ -6412,6 +6634,8 @@ Style: Continuous fluid camera glides, seamless cross-blur transitions, cinemati
 ## 112. Seedance Thirty-Second Gym Day Vlog
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/ddfad83f-3e6c-4394-842d-b80f774fd512/generate.mp4)**
+
+![Seedance Thirty-Second Gym Day Vlog](https://cdn.lipsync.video/lipsync/cdn/feature-case/ddfad83f-3e6c-4394-842d-b80f774fd512/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance**
 
@@ -6482,6 +6706,8 @@ Keep the entire sequence fast, casual, spontaneous, and realistic, with natural 
 ## 113. Fashion Suspect Wanted for Beauty
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/05969de1-412e-4bca-b432-72939a7713c9/generate.mp4)**
+
+![Fashion Suspect Wanted for Beauty](https://cdn.lipsync.video/lipsync/cdn/feature-case/05969de1-412e-4bca-b432-72939a7713c9/cover.jpg)
 
 **16:9 · 720p · 15s · Seedance**
 
@@ -6587,6 +6813,8 @@ Overall feeling: playful troublemaker + luxury fashion campaign + cinematic mugs
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/93041186-8267-4790-8aec-d9a0789556d2/generate.mp4)**
 
+![Schoolgirl Destroys a Tank Assault with Supernatural Power](https://cdn.lipsync.video/lipsync/cdn/feature-case/93041186-8267-4790-8aec-d9a0789556d2/cover.jpg)
+
 **16:9 · 720p · 27s · Seedance**
 
 [Original post](https://x.com/itsSaira_1/status/2101205826895827053) · 2026-09-19 15:04 (UTC+08:00)
@@ -6646,6 +6874,8 @@ NEGATIVE: No character change, face change, hairstyle change, outfit change, age
 ## 115. Alexa Walks Through Five Fashion Worlds
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/ff2698f1-7a4a-4d6d-b8d9-8ba4372ab20c/generate.mp4)**
+
+![Alexa Walks Through Five Fashion Worlds](https://cdn.lipsync.video/lipsync/cdn/feature-case/ff2698f1-7a4a-4d6d-b8d9-8ba4372ab20c/cover.jpg)
 
 **1:1 · 1080p · 35s · Seedance, Runway**
 
@@ -6826,6 +7056,8 @@ FIVE WORLDSrt AI.
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/b505648b-46e4-4898-8a74-56037d6306eb/generate.mp4)**
 
+![Pink Handbag Fashion Editorial on Tokyo Streets](https://cdn.lipsync.video/lipsync/cdn/feature-case/b505648b-46e4-4898-8a74-56037d6306eb/cover.jpg)
+
 **9:16 · 720p · 30s · Seedance, Kling, Runway**
 
 [Original post](https://x.com/AIwithNatalia/status/2094277759547875413) · 2026-08-31 12:15 (UTC+08:00)
@@ -6925,6 +7157,8 @@ Visual direction: glossy luxury lighting, deep contrast, realistic Tokyo atmosph
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/45002e95-1f39-4e68-ba81-61ace65542ee/generate.mp4)**
 
+![Motorcycle Racing Through a Mountain Road](https://cdn.lipsync.video/lipsync/cdn/feature-case/45002e95-1f39-4e68-ba81-61ace65542ee/cover.jpg)
+
 **16:9 · 4K · 17s · Seedance, GPT Image**
 
 [Original post](https://x.com/Just_sharon7/status/2091546827212636576) · 2026-08-23 23:23 (UTC+08:00)
@@ -7011,6 +7245,8 @@ Premium AAA quality, photorealistic cinematic rendering, pure speed and freedom 
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/8c153c13-581e-470f-85c7-d473e51528a8/generate.mp4)**
 
+![A Korean Girl's Morning Beauty and Café Routine](https://cdn.lipsync.video/lipsync/cdn/feature-case/8c153c13-581e-470f-85c7-d473e51528a8/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/aiwithaayat/status/2100070781174907387) · 2026-09-16 11:54 (UTC+08:00)
@@ -7029,6 +7265,8 @@ Created a video of a Korean girl enjoying a calm, realistic morning beauty and c
 ## 119. Early Morning Visit to a Fishing Village in Sokcho
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/ee92d89b-b7cb-4fe9-b0aa-1010b11276bb/generate.mp4)**
+
+![Early Morning Visit to a Fishing Village in Sokcho](https://cdn.lipsync.video/lipsync/cdn/feature-case/ee92d89b-b7cb-4fe9-b0aa-1010b11276bb/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance**
 
@@ -7111,6 +7349,8 @@ Natural location sound only:
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/f1af77b6-4a40-4e5f-a7da-1b1fcca876fa/generate.mp4)**
 
+![Seedance Pinstripe Suit Power Presence at Work](https://cdn.lipsync.video/lipsync/cdn/feature-case/f1af77b6-4a40-4e5f-a7da-1b1fcca876fa/cover.jpg)
+
 **16:9 · 720p · 16s · Seedance**
 
 [Original post](https://x.com/noorlewisx/status/2089217062040453196) · 2026-08-17 13:05 (UTC+08:00)
@@ -7131,6 +7371,8 @@ Moody cinematic lighting, wet reflections, sharp fashion photography style, high
 ## 121. The Mysterious Door Through Five Surreal Worlds
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/0b1ca1cf-6fd4-4760-b7c2-bd0a5fbed3e4/generate.mp4)**
+
+![The Mysterious Door Through Five Surreal Worlds](https://cdn.lipsync.video/lipsync/cdn/feature-case/0b1ca1cf-6fd4-4760-b7c2-bd0a5fbed3e4/cover.jpg)
 
 **1:1 · 720p · 27s · Seedance**
 
@@ -7266,6 +7508,8 @@ Reveal an extraordinary mirrored.
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/080277f4-7544-439e-844b-f308fc72c61f/generate.mp4)**
 
+![The Awakened Vampire and His Fated Young Woman](https://cdn.lipsync.video/lipsync/cdn/feature-case/080277f4-7544-439e-844b-f308fc72c61f/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/ZaraIrahh/status/2094363532636590322) · 2026-08-31 17:55 (UTC+08:00)
@@ -7358,6 +7602,8 @@ Editing should feel premium and fast-paced with cinematic hard cuts, dramatic pu
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/79fec95a-8662-4313-b0f5-84fb1c4b6361/generate.mp4)**
 
+![A Sweetheart Falls from the Plum Tree](https://cdn.lipsync.video/lipsync/cdn/feature-case/79fec95a-8662-4313-b0f5-84fb1c4b6361/cover.jpg)
+
 **16:9 · 1080p · 15s · Seedance**
 
 [Original post](https://x.com/Chaemate_/status/2105611129867395458) · 2026-10-01 18:49 (UTC+08:00)
@@ -7417,6 +7663,8 @@ cartoon, anime, CGI look, low quality, blurry face, extra fingers, warped hands,
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/36cc53d1-d0d4-462b-804b-5c39fa4e7301/generate.mp4)**
 
+![Sunday Chores Outside an Old Seoul Home](https://cdn.lipsync.video/lipsync/cdn/feature-case/36cc53d1-d0d4-462b-804b-5c39fa4e7301/cover.jpg)
+
 **16:9 · 1080p · 30s · Seedance**
 
 [Original post](https://x.com/Ciri_ai/status/2099379932082348417) · 2026-09-14 14:09 (UTC+08:00)
@@ -7456,6 +7704,8 @@ CGI look, plastic skin, identity drift, outfit changes, distorted hands, extra f
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/8046616d-a933-46da-b6f7-48ebdaa6418d/generate.mp4)**
 
+![Pink-Haired Girl Falls and Awakens with Golden Eyes](https://cdn.lipsync.video/lipsync/cdn/feature-case/8046616d-a933-46da-b6f7-48ebdaa6418d/cover.jpg)
+
 **16:9 · 720p · 53s · Seedance**
 
 [Original post](https://x.com/Aiwithmaha/status/2102572922674225517) · 2026-09-23 09:37 (UTC+08:00)
@@ -7475,6 +7725,8 @@ Created a dramatic top-down shot of a pink-haired anime-style girl falling throu
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/eb532868-9615-4daa-8229-7ad342c586bb/generate.mp4)**
 
+![Autumn Outfit Changes Beneath a Spinning Ceiling Fan](https://cdn.lipsync.video/lipsync/cdn/feature-case/eb532868-9615-4daa-8229-7ad342c586bb/cover.jpg)
+
 **9:16 · 720p · 16s · Seedance**
 
 [Original post](https://x.com/AIwithkhan/status/2102221702667309467) · 2026-09-22 10:21 (UTC+08:00)
@@ -7493,6 +7745,8 @@ Create a 15-second ultra-realistic vertical 9: 16 fashion film shot entirely fro
 ## 127. Kitten Steals a Hair Tie and Pounces at the Camera
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/b10cd2bc-532d-4b36-b5ac-c2e3dace2945/generate.mp4)**
+
+![Kitten Steals a Hair Tie and Pounces at the Camera](https://cdn.lipsync.video/lipsync/cdn/feature-case/b10cd2bc-532d-4b36-b5ac-c2e3dace2945/cover.jpg)
 
 **9:16 · 1080p · 30s · Seedance**
 
@@ -7518,6 +7772,8 @@ Prompt - REFERENCE & SUBJECT Use "@<image1" as the exact visual reference for th
 ## 128. Neon Noir Rooftop Vault Heist
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/e1075b1c-94b4-4995-a07e-4449ff7125a4/generate.mp4)**
+
+![Neon Noir Rooftop Vault Heist](https://cdn.lipsync.video/lipsync/cdn/feature-case/e1075b1c-94b4-4995-a07e-4449ff7125a4/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance**
 
@@ -7575,6 +7831,8 @@ Style: high-end cinematic action thriller, realistic tactical movement, neon noi
 ## 129. Aiko’s Glamorous Makeover Ends with Ankle Boots
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/7b8f80f0-ca11-4bb6-9815-11f7b9e15cbf/generate.mp4)**
+
+![Aiko’s Glamorous Makeover Ends with Ankle Boots](https://cdn.lipsync.video/lipsync/cdn/feature-case/7b8f80f0-ca11-4bb6-9815-11f7b9e15cbf/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance**
 
@@ -7671,6 +7929,8 @@ GENERATE FIRST: Shot 5 (eyebrow cracks the mask — the tone-setter), Shot 12 (e
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/317c0f21-57f6-4999-aa7b-d59fb6bf61b0/generate.mp4)**
 
+![Seedance Fifteen-Second Influencer Lifestyle Short](https://cdn.lipsync.video/lipsync/cdn/feature-case/317c0f21-57f6-4999-aa7b-d59fb6bf61b0/cover.jpg)
+
 **16:9 · 4K · 15s · Seedance**
 
 [Original post](https://x.com/sophiaparkerr_/status/2088966649659764899) · 2026-08-16 20:30 (UTC+08:00)
@@ -7720,6 +7980,8 @@ STYLE: Natural influencer delivery, conversational tone, subtle facial expressio
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/3f24d528-c12e-4afd-8502-25afabac4213/generate.mp4)**
 
+![A Girl Chases the Ice Cream Cart on a Summer Afternoon](https://cdn.lipsync.video/lipsync/cdn/feature-case/3f24d528-c12e-4afd-8502-25afabac4213/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/aiwithaly/status/2104428091476988236) · 2026-09-28 12:28 (UTC+08:00)
@@ -7748,6 +8010,8 @@ Negative prompt: No anime, CGI, plastic skin, beauty filters, robotic movement, 
 ## 132. Seedance Fifteen-Second Gym Vlog With Continuous Dialogue
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/e0fd266d-d914-41d3-850c-21bcc78edfcd/generate.mp4)**
+
+![Seedance Fifteen-Second Gym Vlog With Continuous Dialogue](https://cdn.lipsync.video/lipsync/cdn/feature-case/e0fd266d-d914-41d3-850c-21bcc78edfcd/cover.jpg)
 
 **16:9 · 4K · 15s · Seedance**
 
@@ -7791,6 +8055,8 @@ Important: Continuous talking from start to finish, natural lip-sync matching ev
 ## 133. A Gentle Late-Summer Afternoon by the Sea in Kamakura
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/72c75618-51eb-489a-948e-9cc067f231b4/generate.mp4)**
+
+![A Gentle Late-Summer Afternoon by the Sea in Kamakura](https://cdn.lipsync.video/lipsync/cdn/feature-case/72c75618-51eb-489a-948e-9cc067f231b4/cover.jpg)
 
 **16:9 · 1080p · 30s · Seedance**
 
@@ -7925,6 +8191,8 @@ Raw handheld early-2000s Japanese DV camcorder footage. Authentic consumer camco
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/486d910c-3fb4-42f3-8b0a-8a2a16dc694c/generate.mp4)**
 
+![GPT Image 2 + Seedance Mouth-Watering Mukbang Short](https://cdn.lipsync.video/lipsync/cdn/feature-case/486d910c-3fb4-42f3-8b0a-8a2a16dc694c/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance, GPT Image**
 
 [Original post](https://x.com/Just_sharon7/status/2089737554061148465) · 2026-08-18 23:33 (UTC+08:00)
@@ -8037,6 +8305,8 @@ Goal: A forgotten MiniDV recording from 2004, capturing an ordinary autumn morni
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/e30b47f0-007e-43a2-9335-1ba3f59094c7/generate.mp4)**
 
+![Candlelit Exorcism Ritual in a Traditional Korean House](https://cdn.lipsync.video/lipsync/cdn/feature-case/e30b47f0-007e-43a2-9335-1ba3f59094c7/cover.jpg)
+
 **16:9 · 1080p · 30s · Seedance**
 
 [Original post](https://x.com/doctorwasif/status/2097533759944090052) · 2026-09-09 11:53 (UTC+08:00)
@@ -8067,6 +8337,8 @@ Style: cinematic Korean folk horror, dark wooden interior, warm candlelight, dee
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/4d13c7c9-49eb-47d9-96ae-e1ce992db4b7/generate.mp4)**
 
+![Twenty-Second Luxury Fantasy in a Gold and Crimson Palace](https://cdn.lipsync.video/lipsync/cdn/feature-case/4d13c7c9-49eb-47d9-96ae-e1ce992db4b7/cover.jpg)
+
 **16:9 · 720p · 20s · Seedance, Kling**
 
 [Original post](https://x.com/noorlewisx/status/2095741799402758204) · 2026-09-04 13:12 (UTC+08:00)
@@ -8090,6 +8362,8 @@ A tall, handsome man with sharp features and dark hair, wearing an elaborate dar
 ## 137. Idol Stage Show Under the Spotlight
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/d856cea7-03de-43d9-bc12-ec79f6b69621/generate.mp4)**
+
+![Idol Stage Show Under the Spotlight](https://cdn.lipsync.video/lipsync/cdn/feature-case/d856cea7-03de-43d9-bc12-ec79f6b69621/cover.jpg)
 
 **16:9 · 1080p · 97s · Seedance, Nano Banana**
 
@@ -8206,6 +8480,8 @@ Output a complete, polished J-pop/K-pop idol MV that feels expensive, magnetic, 
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/3a42d07c-d763-4399-a913-b37c8186190c/generate.mp4)**
 
+![A Korean Girl’s Classroom and Coastal Village Stroll](https://cdn.lipsync.video/lipsync/cdn/feature-case/3a42d07c-d763-4399-a913-b37c8186190c/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/aiwithaayat/status/2099802672966820235) · 2026-09-15 18:09 (UTC+08:00)
@@ -8224,6 +8500,8 @@ A Korean girl with straight dark hair, natural makeup, and a warm youthful appea
 ## 139. Woman in White Before a Synchronized Crowd in Black
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/48869904-7f32-4a3f-ae1b-6e3fbbc8470a/generate.mp4)**
+
+![Woman in White Before a Synchronized Crowd in Black](https://cdn.lipsync.video/lipsync/cdn/feature-case/48869904-7f32-4a3f-ae1b-6e3fbbc8470a/cover.jpg)
 
 **16:9 · 720p · 22s · Seedance**
 
@@ -8302,6 +8580,8 @@ No extra characters appearing or disappearing.
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/fc01a0b0-8b97-4290-8a9d-aff19575c907/generate.mp4)**
 
+![Seedance 2.5 Photoreal Portrait Short of a Korean Girl](https://cdn.lipsync.video/lipsync/cdn/feature-case/fc01a0b0-8b97-4290-8a9d-aff19575c907/cover.jpg)
+
 **16:9 · 720p · 15s · Seedance**
 
 [Original post](https://x.com/iamahmedfaraz66/status/2089198029496889755) · 2026-08-17 11:50 (UTC+08:00)
@@ -8337,6 +8617,8 @@ Goal: Cute, spontaneous and intimate, like a tiny everyday moment accidentally c
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/c3c0ba24-38a3-4136-af7d-8fe4b9d9fcc6/generate.mp4)**
 
+![Morning Makeover in a Retro Pink Bedroom](https://cdn.lipsync.video/lipsync/cdn/feature-case/c3c0ba24-38a3-4136-af7d-8fe4b9d9fcc6/cover.jpg)
+
 **16:9 · 4K · 26s · Seedance**
 
 [Original post](https://x.com/noorlewisx/status/2097545178013950280) · 2026-09-09 12:38 (UTC+08:00)
@@ -8371,6 +8653,8 @@ Visual style: ultra-realistic cinematic photography, pastel pink tones, warm nat
 ## 142. Seedance 2.5 Multi-Reference Character Lock Short
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/9c4a8eeb-43b8-45e2-a95b-5ce9d138effa/generate.mp4)**
+
+![Seedance 2.5 Multi-Reference Character Lock Short](https://cdn.lipsync.video/lipsync/cdn/feature-case/9c4a8eeb-43b8-45e2-a95b-5ce9d138effa/cover.jpg)
 
 **16:9 · 8K · 20s · Seedance**
 
@@ -8423,6 +8707,8 @@ RED Monstro 8K, anamorphic, 165cm 47kg controlled athletic body throughout, phys
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/18c51be5-d3be-423e-9db4-bdf6cb6f1352/generate.mp4)**
 
+![Korean Woman’s Sunlit Skincare Ritual](https://cdn.lipsync.video/lipsync/cdn/feature-case/18c51be5-d3be-423e-9db4-bdf6cb6f1352/cover.jpg)
+
 **3:4 · 720p · 15s · Seedance**
 
 [Original post](https://x.com/Aiwithmaha/status/2101138386132386252) · 2026-09-19 10:36 (UTC+08:00)
@@ -8441,6 +8727,8 @@ Create a 15-second photorealistic skincare video featuring a young Korean woman 
 ## 144. Evening Gym Workout Through a Retro DV Camera
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/a03f52da-e853-4ebf-b5cb-3064af5632f7/generate.mp4)**
+
+![Evening Gym Workout Through a Retro DV Camera](https://cdn.lipsync.video/lipsync/cdn/feature-case/a03f52da-e853-4ebf-b5cb-3064af5632f7/cover.jpg)
 
 **16:9 · 478p · 30s · Seedance**
 
@@ -8514,6 +8802,8 @@ Keep every movement realistic and clearly recognizable as gym training. No repet
 ## 145. POV: Your Kitten Vlog, but the Kitten Chooses Violence
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/d2bad114-ce88-4624-9309-f51a476bc2d1/generate.mp4)**
+
+![POV: Your Kitten Vlog, but the Kitten Chooses Violence](https://cdn.lipsync.video/lipsync/cdn/feature-case/d2bad114-ce88-4624-9309-f51a476bc2d1/cover.jpg)
 
 **9:16 · 720p · 30s · Seedance**
 
@@ -8854,6 +9144,8 @@ Maintain one continuous uninterrupted 30-second handheld selfie recording from b
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/8f38de2b-98c3-478e-9a0d-b3b9a0bdf20a/generate.mp4)**
 
+![A Korean Schoolgirl’s Journey Through a Snowy Mountain Village](https://cdn.lipsync.video/lipsync/cdn/feature-case/8f38de2b-98c3-478e-9a0d-b3b9a0bdf20a/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/ayzalnooor24521/status/2104443916695347682) · 2026-09-28 13:31 (UTC+08:00)
@@ -8872,6 +9164,8 @@ Create a 30-second video, featuring a beautiful Korean schoolgirl in a neat navy
 ## 147. A Young Woman's Peaceful Afternoon at a Greenery-Filled Café
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/43eddba9-fff1-43d4-af7e-6df504473314/generate.mp4)**
+
+![A Young Woman's Peaceful Afternoon at a Greenery-Filled Café](https://cdn.lipsync.video/lipsync/cdn/feature-case/43eddba9-fff1-43d4-af7e-6df504473314/cover.jpg)
 
 **9:16 · 1440p · 15s · Seedance**
 
@@ -8913,6 +9207,8 @@ Important: Maintain one identical character throughout. Do not change her facial
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/9d284faf-6847-4661-b080-6d3d87895387/generate.mp4)**
 
+![Warm Coffee Moments in a Modern Café](https://cdn.lipsync.video/lipsync/cdn/feature-case/9d284faf-6847-4661-b080-6d3d87895387/cover.jpg)
+
 **16:9 · 720p · 27s · Seedance**
 
 [Original post](https://x.com/Lianaalane/status/2102330407404572896) · 2026-09-22 17:33 (UTC+08:00)
@@ -8931,6 +9227,8 @@ Created this cozy cinematic coffee video, featuring the beautiful atmosphere of 
 ## 149. Korean Rapper Performing Across Cinematic Stages
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/8ae98893-40da-4156-9e41-2717c1b45557/generate.mp4)**
+
+![Korean Rapper Performing Across Cinematic Stages](https://cdn.lipsync.video/lipsync/cdn/feature-case/8ae98893-40da-4156-9e41-2717c1b45557/cover.jpg)
 
 **4:3 · 720p · 30s · Seedance, Runway**
 
@@ -8964,6 +9262,8 @@ Made on Higgsfield
 ## 150. Explosive Motion-Graphics Character Reveal Trailer
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/ec44cf24-9082-4320-8bfa-2e9581fc63c9/generate.mp4)**
+
+![Explosive Motion-Graphics Character Reveal Trailer](https://cdn.lipsync.video/lipsync/cdn/feature-case/ec44cf24-9082-4320-8bfa-2e9581fc63c9/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance**
 
@@ -9020,6 +9320,8 @@ Premium AAA quality, anime-inspired cinematic rendering, stylish and explosive, 
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/a75b0f4c-8300-4af7-a8d1-a5eecb4fd37f/generate.mp4)**
 
+![A Korean Woman Tours London, Paris, and Moscow](https://cdn.lipsync.video/lipsync/cdn/feature-case/a75b0f4c-8300-4af7-a8d1-a5eecb4fd37f/cover.jpg)
+
 **16:9 · 720p · 15s · Seedance**
 
 [Original post](https://x.com/HustleXR/status/2092492677384437909) · 2026-08-26 14:01 (UTC+08:00)
@@ -9075,6 +9377,8 @@ AUDIO: authentic rain, footsteps, traffic, café ambience, food-stall sounds, wi
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/2da89bfe-cfc4-4a42-8a24-28082403d908/generate.mp4)**
 
+![A Korean Village Girl’s Daily Life at the Vegetable Stall](https://cdn.lipsync.video/lipsync/cdn/feature-case/2da89bfe-cfc4-4a42-8a24-28082403d908/cover.jpg)
+
 **16:9 · 720p · 33s · Seedance**
 
 [Original post](https://x.com/ayzalnooor24521/status/2103702041365557449) · 2026-09-26 12:23 (UTC+08:00)
@@ -9114,6 +9418,8 @@ The overall feeling should be wholesome, peaceful, authentic and intimate — li
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/dfc85cec-7cc5-4fe5-8e5e-573444373877/generate.mp4)**
 
+![Seoul Couple’s Shopping Date and Sweet Elevator Kiss](https://cdn.lipsync.video/lipsync/cdn/feature-case/dfc85cec-7cc5-4fe5-8e5e-573444373877/cover.jpg)
+
 **16:9 · 1080p · 30s · Seedance**
 
 [Original post](https://x.com/AIwithkhan/status/2105135568078381416) · 2026-09-30 11:20 (UTC+08:00)
@@ -9137,6 +9443,8 @@ Keep the same faces, outfits, hairstyles and appearance throughout. Raw handheld
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/7023488a-9308-43f2-81a9-7081d80c2493/generate.mp4)**
 
+![Hanbok Girl Running Through an Ancient Korean Market](https://cdn.lipsync.video/lipsync/cdn/feature-case/7023488a-9308-43f2-81a9-7081d80c2493/cover.jpg)
+
 **16:9 · 540p · 49s · Seedance**
 
 [Original post](https://x.com/Aiwithmaha/status/2102260032348078455) · 2026-09-22 12:53 (UTC+08:00)
@@ -9155,6 +9463,8 @@ Created a beautiful Korean girl walking confidently through a traditional Korean
 ## 155. A Young Woman’s Quiet Afternoon in Kyoto
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/243140e0-9716-4d52-804d-31f143c17c87/generate.mp4)**
+
+![A Young Woman’s Quiet Afternoon in Kyoto](https://cdn.lipsync.video/lipsync/cdn/feature-case/243140e0-9716-4d52-804d-31f143c17c87/cover.jpg)
 
 **16:9 · 480p · 30s · Seedance**
 
@@ -9277,6 +9587,8 @@ Accurate human biomechanics, grounded feet, continuous objects, realistic walkin
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/153f1b2b-e041-4549-9176-906de7bae876/generate.mp4)**
 
+![Pink-Dress Summer Night Girl by a Rushing Subway](https://cdn.lipsync.video/lipsync/cdn/feature-case/153f1b2b-e041-4549-9176-906de7bae876/cover.jpg)
+
 **16:9 · 4K · 10s · Seedance**
 
 [Original post](https://x.com/Harry_thingss/status/2103494748132770038) · 2026-09-25 22:40 (UTC+08:00)
@@ -9309,6 +9621,8 @@ Photoreal cinematic ~9 seconds, high-end fashion-film look. A young German woman
 ## 157. Hawaiian Island Travel Diary
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/1c22c8a0-adba-4f60-9575-8954f782834b/generate.mp4)**
+
+![Hawaiian Island Travel Diary](https://cdn.lipsync.video/lipsync/cdn/feature-case/1c22c8a0-adba-4f60-9575-8954f782834b/cover.jpg)
 
 **16:9 · 4K · 30s · Seedance, Kling**
 
@@ -9389,6 +9703,8 @@ Character consistency and photorealism are the highest priorities. The uploaded 
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/cac32218-937f-48c4-bf27-771255e92dff/generate.mp4)**
 
+![Young Woman Dancing on a Subway Platform](https://cdn.lipsync.video/lipsync/cdn/feature-case/cac32218-937f-48c4-bf27-771255e92dff/cover.jpg)
+
 **9:16 · 4K · 28s · Seedance**
 
 [Original post](https://x.com/Zoyavelle/status/2099372756102164923) · 2026-09-14 13:40 (UTC+08:00)
@@ -9407,6 +9723,8 @@ A cinematic photorealistic video of a beautiful young Asian woman with long stra
 ## 159. Mysterious Energy Sweeps Through a High School Hallway
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/f32707d0-4ca3-4afd-9b1d-7878459d5adc/generate.mp4)**
+
+![Mysterious Energy Sweeps Through a High School Hallway](https://cdn.lipsync.video/lipsync/cdn/feature-case/f32707d0-4ca3-4afd-9b1d-7878459d5adc/cover.jpg)
 
 **16:9 · 4K · 30s · Seedance**
 
@@ -9441,6 +9759,8 @@ No subtitles, no captions, no text, no logos, no watermark, no background music.
 ## 160. Red-Haired Girl's Lip Oil Claw Machine Challenge
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/a16dd986-f8ea-4c25-bd1f-a3124ca3ba80/generate.mp4)**
+
+![Red-Haired Girl's Lip Oil Claw Machine Challenge](https://cdn.lipsync.video/lipsync/cdn/feature-case/a16dd986-f8ea-4c25-bd1f-a3124ca3ba80/cover.jpg)
 
 **9:16 · 720p · 15s · Seedance, Kling**
 
@@ -9545,6 +9865,8 @@ Use fast cuts, whip pans, snap zooms, speed ramps, match cuts and rhythmic trans
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/f4ff4c9f-7dc6-488a-bcb3-f562d93bbee7/generate.mp4)**
 
+![Burgundy-Haired Fashion Muse Among Newspapers](https://cdn.lipsync.video/lipsync/cdn/feature-case/f4ff4c9f-7dc6-488a-bcb3-f562d93bbee7/cover.jpg)
+
 **16:9 · 1080p · 15s · Seedance**
 
 [Original post](https://x.com/AIwithNatalia/status/2103481825096278257) · 2026-09-25 21:48 (UTC+08:00)
@@ -9583,6 +9905,8 @@ Visual style: high-fashion magazine campaign, cinematic overhead photography, dr
 ## 162. White-Suited Gentleman’s Neon Beat Swagger
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/7f1d4f9f-cb33-45ea-8474-7018e4aadb16/generate.mp4)**
+
+![White-Suited Gentleman’s Neon Beat Swagger](https://cdn.lipsync.video/lipsync/cdn/feature-case/7f1d4f9f-cb33-45ea-8474-7018e4aadb16/cover.jpg)
 
 **9:16 · 1080p · 53s · Seedance**
 
@@ -9799,6 +10123,8 @@ audio1 为本片的配乐，时长 28 秒。全片的剪辑切点与人物的身
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/acfd088c-3737-48a6-a6ed-a0f686163548/generate.mp4)**
 
+![Seven Futuristic Streetwear Looks in Motion](https://cdn.lipsync.video/lipsync/cdn/feature-case/acfd088c-3737-48a6-a6ed-a0f686163548/cover.jpg)
+
 **16:9 · 720p · 15s · Seedance, Runway**
 
 [Original post](https://x.com/itxabdullaa/status/2105517564277436767) · 2026-10-01 12:38 (UTC+08:00)
@@ -9943,6 +10269,8 @@ Final result should feel like a luxury streetwear campaign, futuristic fashion e
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/1bb636b1-94ea-4504-b381-c4e2a26986c8/generate.mp4)**
 
+![Girl Eating an Apple Beneath a Rainy Porch](https://cdn.lipsync.video/lipsync/cdn/feature-case/1bb636b1-94ea-4504-b381-c4e2a26986c8/cover.jpg)
+
 **16:9 · 720p · 15s · Seedance**
 
 [Original post](https://x.com/AiwithElisia/status/2102269278489903244) · 2026-09-22 13:30 (UTC+08:00)
@@ -9975,6 +10303,8 @@ Ultra-realistic, 35mm film look, natural skin texture with rain droplets on face
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/bf0c1f49-3b3a-41aa-9e56-dfe75a70105d/generate.mp4)**
 
+![Curly-Haired Woman's Autumn Walk Through New York](https://cdn.lipsync.video/lipsync/cdn/feature-case/bf0c1f49-3b3a-41aa-9e56-dfe75a70105d/cover.jpg)
+
 **9:16 · 1440p · 15s · Seedance, Veo, Kling, Runway, Sora**
 
 [Original post](https://x.com/CaliraVal/status/2100476402940215610) · 2026-09-17 14:46 (UTC+08:00)
@@ -9995,6 +10325,8 @@ Want me to tailor it for a specific model (Sora, Veo, Runway, Kling)? They each 
 ## 166. A Radiant Morning Skincare Routine in a Modern Bathroom
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/77762eb4-b2b4-4560-a1a7-407c8c60ed5d/generate.mp4)**
+
+![A Radiant Morning Skincare Routine in a Modern Bathroom](https://cdn.lipsync.video/lipsync/cdn/feature-case/77762eb4-b2b4-4560-a1a7-407c8c60ed5d/cover.jpg)
 
 **9:16 · 720p · 10s · Seedance**
 
@@ -10017,6 +10349,8 @@ Cinematic beauty commercial style, shallow depth of field, soft highlights on sk
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/567dec2f-12d3-4dc3-81d0-6e84a9c4e99c/generate.mp4)**
 
+![Elegant Woman Savoring Bleu de Chanel Perfume](https://cdn.lipsync.video/lipsync/cdn/feature-case/567dec2f-12d3-4dc3-81d0-6e84a9c4e99c/cover.jpg)
+
 **16:9 · 720p · 10s · Seedance**
 
 [Original post](https://x.com/AiwithElisia/status/2100818214754128101) · 2026-09-18 13:24 (UTC+08:00)
@@ -10036,6 +10370,8 @@ Voiceover: “Getting ready, one final touch. Bleu de Chanel, make it yours.”
 ## 168. Bedroom Beauty Routine and Red Dress Transformation
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/a5a431c7-a934-4b18-aab1-518c63dd2bf4/generate.mp4)**
+
+![Bedroom Beauty Routine and Red Dress Transformation](https://cdn.lipsync.video/lipsync/cdn/feature-case/a5a431c7-a934-4b18-aab1-518c63dd2bf4/cover.jpg)
 
 **3:4 · 1080p · 15s · Seedance**
 
@@ -10097,6 +10433,8 @@ Technical tags:
 ## 169. Volcanic Eruption Turns Into a Sea of Popcorn
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/f8b2f315-b12e-4b67-91a7-ae545329c366/generate.mp4)**
+
+![Volcanic Eruption Turns Into a Sea of Popcorn](https://cdn.lipsync.video/lipsync/cdn/feature-case/f8b2f315-b12e-4b67-91a7-ae545329c366/cover.jpg)
 
 **9:16 · 720p · 17s · Seedance**
 
@@ -10288,6 +10626,8 @@ Only the character identity is changed. Everything else from the storyboard rema
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/b8bc2ba3-c236-4812-b2b3-8a97adb0a68c/generate.mp4)**
 
+![Hanbok and Tea Diary in Jeonju Hanok Village](https://cdn.lipsync.video/lipsync/cdn/feature-case/b8bc2ba3-c236-4812-b2b3-8a97adb0a68c/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/oggii_0/status/2091820691100496381) · 2026-08-24 17:31 (UTC+08:00)
@@ -10373,6 +10713,8 @@ No intentional background music track — only naturally occurring ambient sound
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/b3980de9-a855-49e4-99ec-a708d2b04d87/generate.mp4)**
 
+![Seedance: Seedance 2.5 Phone-Controlled Outfit Changes 👚📱](https://cdn.lipsync.video/lipsync/cdn/feature-case/b3980de9-a855-49e4-99ec-a708d2b04d87/cover.jpg)
+
 **9:16 · 1080p · 20s · Seedance**
 
 [Original post](https://x.com/johnAGI168/status/2097320255139795072) · 2026-09-08 21:44 (UTC+08:00)
@@ -10449,6 +10791,8 @@ Negative: 叠化换装，黑闪，白闪，烟雾，旋转遮挡，人物瞬移�
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/497469f7-41f5-4062-a339-70180f680e40/generate.mp4)**
 
+![A Summer Date Memory in Old Seoul](https://cdn.lipsync.video/lipsync/cdn/feature-case/497469f7-41f5-4062-a339-70180f680e40/cover.jpg)
+
 **16:9 · 1080p · 30s · Seedance**
 
 [Original post](https://x.com/AIwithSynthia/status/2104060877540610239) · 2026-09-27 12:09 (UTC+08:00)
@@ -10483,6 +10827,8 @@ Keep both faces, hairstyles, outfits, accessories, bags and bottled drink identi
 ## 173. Absurd Everyday Life in a Pastel Dreamworld
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/b7d4b909-11ef-4102-963f-e9a57cf6bdc5/generate.mp4)**
+
+![Absurd Everyday Life in a Pastel Dreamworld](https://cdn.lipsync.video/lipsync/cdn/feature-case/b7d4b909-11ef-4102-963f-e9a57cf6bdc5/cover.jpg)
 
 **9:16 · 720p · 56s · Seedance**
 
@@ -10527,6 +10873,8 @@ Vertical 9:16, cinematic, high detail, smooth motion, surreal glitch aesthetic.
 ## 174. Female Singer Walking from Neon Rain into Dawn
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/162ca42b-55c0-4c6d-ab9a-7996bf47a1ec/generate.mp4)**
+
+![Female Singer Walking from Neon Rain into Dawn](https://cdn.lipsync.video/lipsync/cdn/feature-case/162ca42b-55c0-4c6d-ab9a-7996bf47a1ec/cover.jpg)
 
 **9:16 · 1080p · 15s · Seedance**
 
@@ -10668,6 +11016,8 @@ Designed for X/Twitter and short-form social media.
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/6196470f-976d-4e1d-91ca-8d9c2996c96e/generate.mp4)**
 
+![Lavender Radiance Mask Beauty Commercial](https://cdn.lipsync.video/lipsync/cdn/feature-case/6196470f-976d-4e1d-91ca-8d9c2996c96e/cover.jpg)
+
 **16:9 · 608p · 10s · Seedance**
 
 [Original post](https://x.com/AvelyrahnAI/status/2097908289619284300) · 2026-09-10 12:41 (UTC+08:00)
@@ -10696,6 +11046,8 @@ Scene 4: The jar resting on a stone block against a pastel purple background wit
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/0a171f23-f985-4742-bb20-e5f232fb20d4/generate.mp4)**
 
+![Hydrating Moisturizer Skincare Commercial](https://cdn.lipsync.video/lipsync/cdn/feature-case/0a171f23-f985-4742-bb20-e5f232fb20d4/cover.jpg)
+
 **9:16 · 1080p · 15s · Seedance**
 
 [Original post](https://x.com/laviniavelle/status/2097171135033143553) · 2026-09-08 11:52 (UTC+08:00)
@@ -10716,6 +11068,8 @@ Cinematic skincare commercial, vertical 9:16 aspect ratio. Starts with a sleek w
 ## 177. A Diet Plan With an Unexpected Ending
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/69f157a3-9364-43f9-99ab-239ab0933f5f/generate.mp4)**
+
+![A Diet Plan With an Unexpected Ending](https://cdn.lipsync.video/lipsync/cdn/feature-case/69f157a3-9364-43f9-99ab-239ab0933f5f/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance**
 
@@ -10741,6 +11095,8 @@ Create a premium photorealistic live-action cinematic disaster comedy featuring 
 ## 178. Seedance Bedroom Selfie Short From a Reference Character
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/da2939f4-4bbe-4114-911c-c5a6c2fc88a4/generate.mp4)**
+
+![Seedance Bedroom Selfie Short From a Reference Character](https://cdn.lipsync.video/lipsync/cdn/feature-case/da2939f4-4bbe-4114-911c-c5a6c2fc88a4/cover.jpg)
 
 **3:2 · 4K · 29s · Seedance**
 
@@ -10790,6 +11146,8 @@ Negative Prompt: No subtitles, captions, logos, watermarks, text overlays, facia
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/03168f6d-c19b-440b-b9b7-08b2eba6ad7a/generate.mp4)**
 
+![A Delayed Sneeze on a Seoul Morning](https://cdn.lipsync.video/lipsync/cdn/feature-case/03168f6d-c19b-440b-b9b7-08b2eba6ad7a/cover.jpg)
+
 **16:9 · 720p · 15s · Seedance**
 
 [Original post](https://x.com/iamahmedfaraz66/status/2104055932485251394) · 2026-09-27 11:50 (UTC+08:00)
@@ -10835,6 +11193,8 @@ Important: The sneeze must be small and believable, not comedic or exaggerated. 
 ## 180. An Unexpected Little Adventure on a Rainy Day
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/0b5c4525-c9a6-478b-9a8c-35d8232169fa/generate.mp4)**
+
+![An Unexpected Little Adventure on a Rainy Day](https://cdn.lipsync.video/lipsync/cdn/feature-case/0b5c4525-c9a6-478b-9a8c-35d8232169fa/cover.jpg)
 
 **4:3 · 1440p · 30s · Seedance**
 
@@ -11136,6 +11496,8 @@ Prioritize natural human behavior, realistic movement, continuity, imperfect han
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/7a2b6466-bded-4188-8d5b-dacba36f6d85/generate.mp4)**
 
+![Calm Girl Walks Through a School Hallway of Masked Figures](https://cdn.lipsync.video/lipsync/cdn/feature-case/7a2b6466-bded-4188-8d5b-dacba36f6d85/cover.jpg)
+
 **16:9 · 720p · 15s · Seedance**
 
 [Original post](https://x.com/aiwithaayat/status/2103422559417217260) · 2026-09-25 17:53 (UTC+08:00)
@@ -11154,6 +11516,8 @@ A beautiful Korean girl walking calmly through a realistic modern school hallway
 ## 182. Female Explorer Battles Through Island Ruins
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/0af0dd4e-3ada-4f64-96c2-b6a63564ed6b/generate.mp4)**
+
+![Female Explorer Battles Through Island Ruins](https://cdn.lipsync.video/lipsync/cdn/feature-case/0af0dd4e-3ada-4f64-96c2-b6a63564ed6b/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance**
 
@@ -11209,6 +11573,8 @@ Same woman, outfit, face, hairstyle, equipment, environment, and visual quality 
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/f39b93aa-3bdf-4969-bbef-88b37a8b30f7/generate.mp4)**
 
+![First-Person Midair Assembly of a Black Lamborghini](https://cdn.lipsync.video/lipsync/cdn/feature-case/f39b93aa-3bdf-4969-bbef-88b37a8b30f7/cover.jpg)
+
 **16:9 · 480p · 15s · Seedance, Runway**
 
 [Original post](https://x.com/MissDelulu9/status/2091423578197737772) · 2026-08-23 15:13 (UTC+08:00)
@@ -11255,6 +11621,8 @@ The Aventador launches violently forward directly toward the POV camera. The rea
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/eaf03e55-1012-48f1-90eb-468819ed6050/generate.mp4)**
 
+![Stranger Stops a Falling Car with One Hand to Save a Woman](https://cdn.lipsync.video/lipsync/cdn/feature-case/eaf03e55-1012-48f1-90eb-468819ed6050/cover.jpg)
+
 **16:9 · 1080p · 30s · Seedance**
 
 [Original post](https://x.com/AIwithWania/status/2102042146392129849) · 2026-09-21 22:27 (UTC+08:00)
@@ -11299,6 +11667,8 @@ STRICT LOCK: No AI-looking faces, face changes, body morphing, duplicated people
 ## 185. Infected Attack Beyond the Train’s Glass Door
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/94677017-409e-4df1-90df-5eb7a4341d18/generate.mp4)**
+
+![Infected Attack Beyond the Train’s Glass Door](https://cdn.lipsync.video/lipsync/cdn/feature-case/94677017-409e-4df1-90df-5eb7a4341d18/cover.jpg)
 
 **16:9 · 1080p · 30s · Seedance**
 
@@ -11367,6 +11737,8 @@ Shot 25 (28.0–30.0s): She stands at the front, pole in hand, staring through t
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/716ea910-152b-479c-8c04-04641c5cb0dd/generate.mp4)**
 
+![Seedance 2.5 Fifteen-Second Five-Shot Character Short](https://cdn.lipsync.video/lipsync/cdn/feature-case/716ea910-152b-479c-8c04-04641c5cb0dd/cover.jpg)
+
 **4:3 · 720p · 15s · Seedance**
 
 [Original post](https://x.com/iamahmedfaraz66/status/2089683226696577531) · 2026-08-18 19:58 (UTC+08:00)
@@ -11404,6 +11776,8 @@ CUT TO BLACK at 15 seconds. Keep the laughter spontaneous and natural, with cons
 ## 187. A Fierce Tennis Rally Under the Midday Sun
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/97c7e446-6690-42a7-8b0a-f3c385409372/generate.mp4)**
+
+![A Fierce Tennis Rally Under the Midday Sun](https://cdn.lipsync.video/lipsync/cdn/feature-case/97c7e446-6690-42a7-8b0a-f3c385409372/cover.jpg)
 
 **16:9 · 480p · 20s · Seedance**
 
@@ -11463,6 +11837,8 @@ AUDIO: No dialogue. Diegetic sound only — ball impact, sneaker squeak, breathi
 ## 188. Autumn Forest-Girl Makeover in a Pixel Closet
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/c306a9e0-fc0f-4e5c-a549-f817e125b0dc/generate.mp4)**
+
+![Autumn Forest-Girl Makeover in a Pixel Closet](https://cdn.lipsync.video/lipsync/cdn/feature-case/c306a9e0-fc0f-4e5c-a549-f817e125b0dc/cover.jpg)
 
 **16:9 · 4K · 15s · Seedance**
 
@@ -11551,6 +11927,8 @@ NEGATIVE: No face/identity/age/skin/body changes, no camera movement, no anatomy
 ## 189. Morning Coffee Stroll Through a European Old Town
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/2d26e29a-e296-4e76-a6ed-9ba221512938/generate.mp4)**
+
+![Morning Coffee Stroll Through a European Old Town](https://cdn.lipsync.video/lipsync/cdn/feature-case/2d26e29a-e296-4e76-a6ed-9ba221512938/cover.jpg)
 
 **16:9 · 1080p · 30s · Seedance, GPT Image**
 
@@ -11780,6 +12158,8 @@ Final target: The finished 30-second video must be indistinguishable from a genu
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/3a21d8d7-50a2-4d76-960c-536a81c8b233/generate.mp4)**
 
+![A Romantic Day Out with a Japanese Woman](https://cdn.lipsync.video/lipsync/cdn/feature-case/3a21d8d7-50a2-4d76-960c-536a81c8b233/cover.jpg)
+
 **16:9 · 4K · 30s · Seedance**
 
 [Original post](https://x.com/noorlewisx/status/2093198693717647820) · 2026-08-28 12:47 (UTC+08:00)
@@ -11809,6 +12189,8 @@ Style: realistic cinematic footage, handheld first-person camera, natural lighti
 ## 191. Korean Woman Learns Kung Fu in a Chinese Courtyard
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/532582d8-00f2-420d-86e9-faf4433bba4c/generate.mp4)**
+
+![Korean Woman Learns Kung Fu in a Chinese Courtyard](https://cdn.lipsync.video/lipsync/cdn/feature-case/532582d8-00f2-420d-86e9-faf4433bba4c/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance**
 
@@ -11857,6 +12239,8 @@ Throughout the entire video, prioritize authentic smartphone realism: imperfect 
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/05da6cf5-189b-416e-83c4-b9126bd459e3/generate.mp4)**
 
+![Golden Hour on the Streets of New York](https://cdn.lipsync.video/lipsync/cdn/feature-case/05da6cf5-189b-416e-83c4-b9126bd459e3/cover.jpg)
+
 **9:16 · 4K · 30s · Seedance, Kling, Runway, Sora**
 
 [Original post](https://x.com/Zyrellix/status/2100435436128882760) · 2026-09-17 12:03 (UTC+08:00)
@@ -11876,6 +12260,8 @@ You can drop that into Sora, Runway, Kling, Luma, or similar tools. Add duration
 ## 193. The Drama Continues and the Tension Keeps Rising
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/a51d43a7-5a97-4bdc-a168-8a2621faea8b/generate.mp4)**
+
+![The Drama Continues and the Tension Keeps Rising](https://cdn.lipsync.video/lipsync/cdn/feature-case/a51d43a7-5a97-4bdc-a168-8a2621faea8b/cover.jpg)
 
 **16:9 · 1080p · 30s · Seedance**
 
@@ -11975,6 +12361,8 @@ NEGATIVE: plastic skin, fake tears, exaggerated acting, cartoon expressions, mel
 ## 194. Kansai MiniDV Travel Memories Through Her Boyfriend’s Eyes
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/a99f51ce-e796-4247-a164-c952d883f0da/generate.mp4)**
+
+![Kansai MiniDV Travel Memories Through Her Boyfriend’s Eyes](https://cdn.lipsync.video/lipsync/cdn/feature-case/a99f51ce-e796-4247-a164-c952d883f0da/cover.jpg)
 
 **21:9 · 1080p · 30s · Seedance**
 
@@ -12078,6 +12466,8 @@ Exactly one stable adult heroine, full modest coverage, consistent hijab and gla
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/5be0c22a-8cd9-4d6b-97a2-41333708a464/generate.mp4)**
 
+![Pre-Workout Routine in a Gym Locker Room](https://cdn.lipsync.video/lipsync/cdn/feature-case/5be0c22a-8cd9-4d6b-97a2-41333708a464/cover.jpg)
+
 **16:9 · 720p · 15s · Seedance**
 
 [Original post](https://x.com/QAiStudio/status/2093565477192917480) · 2026-08-29 13:04 (UTC+08:00)
@@ -12111,6 +12501,8 @@ Sound: No BGM. Locker-room echo, distant locker clanks, shoelace tightening, ear
 ## 196. A Korean Woman's First Zoo Visit
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/f1ff9ddb-ac54-4524-b2cb-7838faa3972c/generate.mp4)**
+
+![A Korean Woman's First Zoo Visit](https://cdn.lipsync.video/lipsync/cdn/feature-case/f1ff9ddb-ac54-4524-b2cb-7838faa3972c/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance**
 
@@ -12162,6 +12554,8 @@ She stops outside near the zoo exit in late-afternoon light. In selfie mode, she
 ## 197. Woman's Evening Workout in a Rooftop Studio
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/5e31aefc-b1d5-44eb-9f03-bfbdf932342d/generate.mp4)**
+
+![Woman's Evening Workout in a Rooftop Studio](https://cdn.lipsync.video/lipsync/cdn/feature-case/5e31aefc-b1d5-44eb-9f03-bfbdf932342d/cover.jpg)
 
 **16:9 · 720p · 29s · Seedance**
 
@@ -12232,6 +12626,8 @@ She slows down, sits on the edge of the mat, drinks water and catches her breath
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/4896ac4b-31c6-48a5-8fd6-7320263f49ad/generate.mp4)**
 
+![A Girl by the Railway at Dawn in Seoul](https://cdn.lipsync.video/lipsync/cdn/feature-case/4896ac4b-31c6-48a5-8fd6-7320263f49ad/cover.jpg)
+
 **16:9 · 1080p · 15s · Seedance**
 
 [Original post](https://x.com/Ciri_ai/status/2091403033817272690) · 2026-08-23 13:51 (UTC+08:00)
@@ -12268,6 +12664,8 @@ Goal: Make it feel like a forgotten MiniDV recording from an ordinary morning in
 ## 199. Gyaru's Chaotic Flying Commute with Toast
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/5cdabc51-cfc8-403f-86ce-48ea338698fa/generate.mp4)**
+
+![Gyaru's Chaotic Flying Commute with Toast](https://cdn.lipsync.video/lipsync/cdn/feature-case/5cdabc51-cfc8-403f-86ce-48ea338698fa/cover.jpg)
 
 **16:9 · 480p · 30s · Seedance**
 
@@ -12309,6 +12707,8 @@ On the front step she crouches deep, then launches vertically like a rocket, toa
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/15212e69-078d-4239-ba95-2dbb7f8a2e87/generate.mp4)**
 
+![Lia’s Morning Walk from the Terrace to a Village Road](https://cdn.lipsync.video/lipsync/cdn/feature-case/15212e69-078d-4239-ba95-2dbb7f8a2e87/cover.jpg)
+
 **16:9 · 8K · 30s · Seedance, Kling**
 
 [Original post](https://x.com/Cupang1997/status/2091438364545446209) · 2026-08-23 16:12 (UTC+08:00)
@@ -12330,6 +12730,8 @@ Use karakter sheet - location 1 - location 2 (image)
 ## 201. Seedance 2.5 12-Second Continuous Outfit-Change Fashion Blogger Video
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/225f645a-0def-468b-b9fe-c4cfcb1d43bf/generate.mp4)**
+
+![Seedance 2.5 12-Second Continuous Outfit-Change Fashion Blogger Video](https://cdn.lipsync.video/lipsync/cdn/feature-case/225f645a-0def-468b-b9fe-c4cfcb1d43bf/cover.jpg)
 
 **9:16 · 4K · 12s · Seedance**
 

@@ -8,6 +8,8 @@
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/355e158e-a615-43c7-886e-ed2cc82e06ae/generate.mp4)**
 
+![Neighbors Fight Back Against an Infected Attack at Dusk](https://cdn.lipsync.video/lipsync/cdn/feature-case/355e158e-a615-43c7-886e-ed2cc82e06ae/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance 2.5**
 
 [Original post](https://x.com/auqibhabib/status/2107346452494381298) · 2026-10-06 13:45 (UTC+08:00)
@@ -83,6 +85,8 @@ Made with seedance 2.5 on @SocialSight
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/92ac403f-f214-4cd2-964e-44025a1e47a3/generate.mp4)**
 
+![Seedance 2.5 GoPro Fishing to Campfire Cook in One Run](https://cdn.lipsync.video/lipsync/cdn/feature-case/92ac403f-f214-4cd2-964e-44025a1e47a3/cover.jpg)
+
 **16:9 · 1080p · 28s · Seedance 2.5**
 
 [Original post](https://x.com/abxxai/status/2087189194720657649) · 2026-08-11 22:47 (UTC+08:00)
@@ -157,6 +161,8 @@ Same hands, sleeve and wrist cord across all four segments. Same rod, knife, boa
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/9e58c383-ca18-49bf-9ae7-6879ed3802c2/generate.mp4)**
 
+![A Woman Transforms into a Black Panther in a Misty Rainforest](https://cdn.lipsync.video/lipsync/cdn/feature-case/9e58c383-ca18-49bf-9ae7-6879ed3802c2/cover.jpg)
+
 **16:9 · 1080p · 15s · Seedance 2.5**
 
 [Original post](https://x.com/itsSaira_1/status/2106596983565898079) · 2026-10-04 12:07 (UTC+08:00)
@@ -178,6 +184,8 @@ Cinematic realistic jungle scene, misty rainforest, soft natural light. A tall w
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/7792ec5b-825e-472d-bf3d-0ac1fad8d9f1/generate.mp4)**
 
+![Black Liquid Metal Becomes a BMW Sports Car in an Underground Garage](https://cdn.lipsync.video/lipsync/cdn/feature-case/7792ec5b-825e-472d-bf3d-0ac1fad8d9f1/cover.jpg)
+
 **16:9 · 1080p · 16s · Seedance 2.5**
 
 [Original post](https://x.com/itsSaira_1/status/2109495654607446267) · 2026-10-12 12:05 (UTC+08:00)
@@ -198,6 +206,8 @@ Cinematic realistic jungle scene, misty rainforest, soft natural light. A tall w
 ## 5. School Prank Backfires: Phones Stranded Atop the Goalpost
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/444777dd-e99c-4a20-8f7a-330b770eac3b/generate.mp4)**
+
+![School Prank Backfires: Phones Stranded Atop the Goalpost](https://cdn.lipsync.video/lipsync/cdn/feature-case/444777dd-e99c-4a20-8f7a-330b770eac3b/cover.jpg)
 
 **16:9 · 608p · 23s · Seedance 2.5**
 
@@ -234,6 +244,8 @@ A cinematic teen drama short film, shot in warm golden-hour autumn light on the 
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/5561806d-975a-4fa2-882f-c399f76c8aa5/generate.mp4)**
 
+![Amusement Park Time Freeze: Denture Prank](https://cdn.lipsync.video/lipsync/cdn/feature-case/5561806d-975a-4fa2-882f-c399f76c8aa5/cover.jpg)
+
 **3:4 · 1080p · 9s · Seedance 2.5**
 
 [Original post](https://x.com/aiwarts?gc=doc2-time-freeze-park)
@@ -260,6 +272,8 @@ A cinematic teen drama short film, shot in warm golden-hour autumn light on the 
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/65c74f65-d8e2-4855-a742-a3b0e8daf40b/generate.mp4)**
 
+![Modern Action Comedy Video Prompt](https://cdn.lipsync.video/lipsync/cdn/feature-case/65c74f65-d8e2-4855-a742-a3b0e8daf40b/cover.jpg)
+
 **16:9 · 4K · 30s · Seedance 2.0**
 
 [Original post](https://x.com/pyona_ai/status/2088605198973583799) · 2026-08-15 20:34 (UTC+08:00)
@@ -278,6 +292,8 @@ Use exactly 2 uploaded image assets.\nimage1 = 成年女主唯一且最高优先
 ## 8. Mermaid Rescue Cinematic Story
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/9a117eb7-4f3f-444a-9b24-24a6d66ee356/generate.mp4)**
+
+![Mermaid Rescue Cinematic Story](https://cdn.lipsync.video/lipsync/cdn/feature-case/9a117eb7-4f3f-444a-9b24-24a6d66ee356/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance 2.0**
 
@@ -298,6 +314,8 @@ A massive wooden sailing ship struggles violently against towering ocean waves d
 ## 9. The Surprise Visit: A Dialogue-Driven Romance Trailer
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/9c477566-5fcc-4fb1-b2af-32549c08f1fc/generate.mp4)**
+
+![The Surprise Visit: A Dialogue-Driven Romance Trailer](https://cdn.lipsync.video/lipsync/cdn/feature-case/9c477566-5fcc-4fb1-b2af-32549c08f1fc/cover.jpg)
 
 **16:9 · 4K · 63s · Seedance 2.0**
 
@@ -419,6 +437,8 @@ Some people make them unforgettable."
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/bec1147e-46f8-4088-b81b-a979792678b3/generate.mp4)**
 
+![Tom Sawyer Whitewashing the Fence Scene](https://cdn.lipsync.video/lipsync/cdn/feature-case/bec1147e-46f8-4088-b81b-a979792678b3/cover.jpg)
+
 **9:16 · 720p · 15s · Seedance 2.0**
 
 [Original post](https://x.com/airina_xyz/status/2081078057386021026) · 2026-07-26 02:04 (UTC+08:00)
@@ -444,6 +464,8 @@ Scene: Sunny morning outside a wooden house in a small Missouri town. Tom slowly
 ## 11. Cinematic Anime Martial Arts Training Ground
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/dfb4407e-6749-4ceb-831e-6b7fb033a386/generate.mp4)**
+
+![Cinematic Anime Martial Arts Training Ground](https://cdn.lipsync.video/lipsync/cdn/feature-case/dfb4407e-6749-4ceb-831e-6b7fb033a386/cover.jpg)
 
 **3:4 · 1080p · 14s · Seedance 2.0**
 
@@ -501,6 +523,8 @@ Cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, Unreal
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/13f06956-2f5a-4a59-89e1-14c451538a90/generate.mp4)**
 
+![Showa-Era Retro Living Room Scene](https://cdn.lipsync.video/lipsync/cdn/feature-case/13f06956-2f5a-4a59-89e1-14c451538a90/cover.jpg)
+
 **16:9 · 720p · 6s · Seedance 2.0**
 
 [Original post](https://x.com/SanShiroH_X/status/2081189582553657528) · 2026-07-26 09:27 (UTC+08:00)
@@ -519,6 +543,8 @@ Cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, Unreal
 ## 13. Parasite Infection Outbreak in a Research Lab
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/50f4cbef-33e9-45ae-948c-07a36411f14c/generate.mp4)**
+
+![Parasite Infection Outbreak in a Research Lab](https://cdn.lipsync.video/lipsync/cdn/feature-case/50f4cbef-33e9-45ae-948c-07a36411f14c/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance**
 
@@ -593,6 +619,8 @@ Cinematic sci-fi horror-action short film set in a research laboratory, opens wi
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/f410e76e-887d-4505-91d8-eb3f0e9b28b0/generate.mp4)**
 
+![Seedance Native UGC Vertical Phone Follow-Cam Short](https://cdn.lipsync.video/lipsync/cdn/feature-case/f410e76e-887d-4505-91d8-eb3f0e9b28b0/cover.jpg)
+
 **9:16 · 1080p · 30s · Seedance**
 
 [Original post](https://x.com/mightyking/status/2089299068514148655) · 2026-08-17 18:31 (UTC+08:00)
@@ -639,6 +667,8 @@ Style: Raw amateur vertical phone footage, natural night lighting, warm street l
 ## 15. Infected Attack on a Japanese Highway Bus
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/73b6685f-677c-47f5-975f-855721e4bdfb/generate.mp4)**
+
+![Infected Attack on a Japanese Highway Bus](https://cdn.lipsync.video/lipsync/cdn/feature-case/73b6685f-677c-47f5-975f-855721e4bdfb/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance**
 
@@ -715,6 +745,8 @@ Made with seedance 2.5 on @SocialSight
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/b8afa431-11f7-4558-99d3-bcaf2bd4942d/generate.mp4)**
 
+![Seedance 2.5 Fake-DJ Night Party Short With Three Girls](https://cdn.lipsync.video/lipsync/cdn/feature-case/b8afa431-11f7-4558-99d3-bcaf2bd4942d/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/AIwithJessica/status/2088855031864832096) · 2026-08-16 13:07 (UTC+08:00)
@@ -747,6 +779,8 @@ https://thankyouai.com/i/70WOYR
 ## 17. Seedance Golden Hour Close Quarters Combat in Shibuya
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/c79fb40d-2813-47f6-b4f1-b7810df39c86/generate.mp4)**
+
+![Seedance Golden Hour Close Quarters Combat in Shibuya](https://cdn.lipsync.video/lipsync/cdn/feature-case/c79fb40d-2813-47f6-b4f1-b7810df39c86/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance, GPT Image**
 
@@ -812,6 +846,8 @@ Flow: rapid circular redirects (Tai Chi) into lightning-fast hard strikes (Muay 
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/1eaea0e1-0725-4bac-abe3-d0b2ecfb4d4e/generate.mp4)**
 
+![Seedance Urban Executive Keeping Her Nerve](https://cdn.lipsync.video/lipsync/cdn/feature-case/1eaea0e1-0725-4bac-abe3-d0b2ecfb4d4e/cover.jpg)
+
 **16:9 · 720p · 15s · Seedance**
 
 [Original post](https://x.com/nawalsehar/status/2089583619484639598) · 2026-08-18 13:22 (UTC+08:00)
@@ -831,6 +867,8 @@ A Western female executive in her early 30s exits a modern office building carry
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/b42f06ae-a49d-48a4-82fa-7fcf16d2431a/generate.mp4)**
 
+![Seedance Smooth Snowboard Run Through a Terrain Park](https://cdn.lipsync.video/lipsync/cdn/feature-case/b42f06ae-a49d-48a4-82fa-7fcf16d2431a/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/nawalsehar/status/2088854230626865490) · 2026-08-16 13:03 (UTC+08:00)
@@ -849,6 +887,8 @@ A young snowboarder drops into an alpine terrain park, carves smoothly down the 
 ## 20. GPT Image 2 + Seedance 2.5 Thirty-Second Cinematic Short
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/87f47ab6-853e-42cf-94a5-4c34b9f7a742/generate.mp4)**
+
+![GPT Image 2 + Seedance 2.5 Thirty-Second Cinematic Short](https://cdn.lipsync.video/lipsync/cdn/feature-case/87f47ab6-853e-42cf-94a5-4c34b9f7a742/cover.jpg)
 
 **16:9 · 4K · 30s · Seedance, GPT Image**
 
@@ -955,6 +995,8 @@ Photorealistic 4K • tactile materials • feature-film cinematography • soph
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/a20713c0-444f-4033-b132-6e11cef2f5c7/generate.mp4)**
 
+![Brown Bear Cub Drives a Vintage Blue Car Through a Farm](https://cdn.lipsync.video/lipsync/cdn/feature-case/a20713c0-444f-4033-b132-6e11cef2f5c7/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/Lianaalane/status/2099404551199809774) · 2026-09-14 15:47 (UTC+08:00)
@@ -973,6 +1015,8 @@ Created a video in a cinematic, ultra-realistic storytelling style: a cute brown
 ## 22. First Glance in a Seaside Town
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/4d760210-84af-49cf-84bc-44b79c8072c5/generate.mp4)**
+
+![First Glance in a Seaside Town](https://cdn.lipsync.video/lipsync/cdn/feature-case/4d760210-84af-49cf-84bc-44b79c8072c5/cover.jpg)
 
 **16:9 · 478p · 15s · Seedance**
 
@@ -999,6 +1043,8 @@ A beautiful Korean girl with long, straight black hair walks through a peaceful 
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/90204ea3-a1fd-4280-a2c6-3b1d9bcf3e2c/generate.mp4)**
 
+![Tiger-Hat Cat Steals Fried Chicken at a Riverside Picnic](https://cdn.lipsync.video/lipsync/cdn/feature-case/90204ea3-a1fd-4280-a2c6-3b1d9bcf3e2c/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/Zyrellix/status/2100081464469787115) · 2026-09-16 12:36 (UTC+08:00)
@@ -1018,6 +1064,8 @@ Shot 4 (10–16s): Cat grabs a drumstick from the box with both paws, sits uprig
 ## 24. A Korean Girl's Dreamy Day at the Playground
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/adfab7d9-ebf6-4e7a-9deb-12e19c632a3c/generate.mp4)**
+
+![A Korean Girl's Dreamy Day at the Playground](https://cdn.lipsync.video/lipsync/cdn/feature-case/adfab7d9-ebf6-4e7a-9deb-12e19c632a3c/cover.jpg)
 
 **16:9 · 720p · 20s · Seedance**
 
@@ -1046,6 +1094,8 @@ Keep the Korean girl’s identity and appearance consistent throughout the entir
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/881f6d87-5355-4679-b2d5-d02a453d6bee/generate.mp4)**
 
+![Kittens Share a Rose and Cuddle on a Sunset Beach](https://cdn.lipsync.video/lipsync/cdn/feature-case/881f6d87-5355-4679-b2d5-d02a453d6bee/cover.jpg)
+
 **9:16 · 4K · 9s · Seedance**
 
 [Original post](https://x.com/Zarnab_with_Ai/status/2101633366311219260) · 2026-09-20 19:23 (UTC+08:00)
@@ -1071,6 +1121,8 @@ No text, no subtitles, no watermark.
 ## 26. A Rushed and Exhausting Day in a Young Commuter's Life
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/a0aed028-e19d-4d11-965f-40e1c9fa432a/generate.mp4)**
+
+![A Rushed and Exhausting Day in a Young Commuter's Life](https://cdn.lipsync.video/lipsync/cdn/feature-case/a0aed028-e19d-4d11-965f-40e1c9fa432a/cover.jpg)
 
 **16:9 · 720p · 20s · Seedance**
 
@@ -1114,6 +1166,8 @@ Style: grounded documentary feel, natural skin texture, lived-in spaces, 16:9, 2
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/879cbe58-6397-490a-ad62-596b689391ac/generate.mp4)**
 
+![Seedance Chinese Character-Narrative Prompt: Lavender in the Dungeon](https://cdn.lipsync.video/lipsync/cdn/feature-case/879cbe58-6397-490a-ad62-596b689391ac/cover.jpg)
+
 **16:9 · 720p · 19s · Seedance**
 
 [Original post](https://x.com/migrok293703/status/2089765662193316149) · 2026-08-19 01:25 (UTC+08:00)
@@ -1132,6 +1186,8 @@ Style: grounded documentary feel, natural skin texture, lived-in spaces, 16:9, 2
 ## 28. POV: Your Favorite Song Starts Playing in Public
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/451085a4-b1f9-4488-9a79-49c6acee9075/generate.mp4)**
+
+![POV: Your Favorite Song Starts Playing in Public](https://cdn.lipsync.video/lipsync/cdn/feature-case/451085a4-b1f9-4488-9a79-49c6acee9075/cover.jpg)
 
 **16:9 · 4K · 15s · Seedance**
 
@@ -1162,6 +1218,8 @@ Would you be able to resist vibing to your favorite song in public?
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/522342db-a1a5-4a6b-b4b4-d7e29baddd0a/generate.mp4)**
 
+![A Pet Owner's Day with Their Dog](https://cdn.lipsync.video/lipsync/cdn/feature-case/522342db-a1a5-4a6b-b4b4-d7e29baddd0a/cover.jpg)
+
 **16:9 · 4K · 15s · Seedance**
 
 [Original post](https://x.com/AIwithZeeshi/status/2094663938491187561) · 2026-09-01 13:49 (UTC+08:00)
@@ -1191,6 +1249,8 @@ Could you keep up with this daily routine? 🐾
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/0894eb1e-c1e9-4c28-8ec0-524ee5a9f307/generate.mp4)**
 
+![Seedance Girl at the Window, in Character on Cue](https://cdn.lipsync.video/lipsync/cdn/feature-case/0894eb1e-c1e9-4c28-8ec0-524ee5a9f307/cover.jpg)
+
 **16:9 · 478p · 10s · Seedance**
 
 [Original post](https://x.com/MayaAiCreator/status/2089326041105915906) · 2026-08-17 20:18 (UTC+08:00)
@@ -1211,6 +1271,8 @@ She lands on a rooftop, stands with arms outstretched in triumph, hair blowing, 
 ## 31. A Paper Airplane Flies Through Four Seasons in the Old City
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/b605460d-9703-4e7f-a52b-a3638f6da14d/generate.mp4)**
+
+![A Paper Airplane Flies Through Four Seasons in the Old City](https://cdn.lipsync.video/lipsync/cdn/feature-case/b605460d-9703-4e7f-a52b-a3638f6da14d/cover.jpg)
 
 **16:9 · 720p · 15s · Seedance**
 
@@ -1240,6 +1302,8 @@ She lands on a rooftop, stands with arms outstretched in triumph, hair blowing, 
 ## 32. Street Court Crossover Breakaway and Dunk
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/df2e498d-0ba8-4fb4-90f8-b04aa4a0eec9/generate.mp4)**
+
+![Street Court Crossover Breakaway and Dunk](https://cdn.lipsync.video/lipsync/cdn/feature-case/df2e498d-0ba8-4fb4-90f8-b04aa4a0eec9/cover.jpg)
 
 **16:9 · 360p · 15s · Seedance, GPT Image**
 
@@ -1284,6 +1348,8 @@ Quick cut to a locked low-angle shot — the basketball drops onto the cracked a
 ## 33. Seedance 2.5 Douyin-Style Motorcycle Video with Stylish Transitions
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/812e1c59-5c4b-4499-9c9e-e04d543bf4bd/generate.mp4)**
+
+![Seedance 2.5 Douyin-Style Motorcycle Video with Stylish Transitions](https://cdn.lipsync.video/lipsync/cdn/feature-case/812e1c59-5c4b-4499-9c9e-e04d543bf4bd/cover.jpg)
 
 **9:16 · 4K · 10s · Seedance**
 
@@ -1468,6 +1534,8 @@ Constraints:
 ## 34. Seedance 2.5 Sci-Fi Epic Short Film That Makes You Fly from a Single Photo
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/2aa9d121-5421-45e3-ae5f-ac4ea70090b9/generate.mp4)**
+
+![Seedance 2.5 Sci-Fi Epic Short Film That Makes You Fly from a Single Photo](https://cdn.lipsync.video/lipsync/cdn/feature-case/2aa9d121-5421-45e3-ae5f-ac4ea70090b9/cover.jpg)
 
 **16:9 · 8K · 30s · Seedance**
 

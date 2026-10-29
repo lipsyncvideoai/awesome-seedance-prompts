@@ -8,6 +8,8 @@
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/03fe7095-72b3-4bad-87a3-b70c42ad1f84/generate.mp4)**
 
+![University Lab Infection Turns Students into Zombies](https://cdn.lipsync.video/lipsync/cdn/feature-case/03fe7095-72b3-4bad-87a3-b70c42ad1f84/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance 2.5**
 
 [Original post](https://x.com/AIwithSynthia/status/2106955772395659431) · 2026-10-05 11:52 (UTC+08:00)
@@ -55,6 +57,8 @@ NEGATIVE: Excessive gore, graphic dismemberment, graphic eye gore, anime, cartoo
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/5ca559ec-216e-40d5-82c3-3b6fc2401ae2/generate.mp4)**
 
+![Handheld Travel Vlog From Apartment to Beach](https://cdn.lipsync.video/lipsync/cdn/feature-case/5ca559ec-216e-40d5-82c3-3b6fc2401ae2/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance 2.5**
 
 [Original post](https://x.com/BubbleBrain/status/2083659648108990925) · 2026-08-02 05:02 (UTC+08:00)
@@ -73,6 +77,8 @@ A realistic handheld travel vlog filmed by a friend following the main character
 ## 3. Daily Rural Life of a Young Woman in 19th-Century Tuscany
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/eebf2f1a-3463-4be4-a232-4513a6e4626f/generate.mp4)**
+
+![Daily Rural Life of a Young Woman in 19th-Century Tuscany](https://cdn.lipsync.video/lipsync/cdn/feature-case/eebf2f1a-3463-4be4-a232-4513a6e4626f/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance 2.5**
 
@@ -111,6 +117,8 @@ AUDIO: natural ambience only -wind through wheat, birds, chickens, footsteps on 
 ## 4. A Journey Through The Last Supper in Three Dimensions
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/25d23679-1b35-4719-b268-cad8affd4a3e/generate.mp4)**
+
+![A Journey Through The Last Supper in Three Dimensions](https://cdn.lipsync.video/lipsync/cdn/feature-case/25d23679-1b35-4719-b268-cad8affd4a3e/cover.jpg)
 
 **9:16 · 720p · 20s · Seedance 2.5**
 
@@ -217,6 +225,8 @@ No cuts, crash zooms, dissolves, flat canvas flyovers, wall-relief effects, scen
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/45405a6c-65fc-4630-b978-06f480c68363/generate.mp4)**
 
+![Two Friends Share Convenience Store Snacks on a Korean Night Street](https://cdn.lipsync.video/lipsync/cdn/feature-case/45405a6c-65fc-4630-b978-06f480c68363/cover.jpg)
+
 **9:16 · 720p · 30s · Seedance 2.5**
 
 [Original post](https://x.com/ayzalnooor24521/status/2109850322286076180) · 2026-10-13 11:34 (UTC+08:00)
@@ -235,6 +245,8 @@ Created a 30-second ultra-realistic cinematic Korean street vlog, vertical 9:16 
 ## 6. Smartphone Travel Vlog: A Japanese Dojo Session
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/3d7c1f80-b60d-41b9-9605-8283d533f926/generate.mp4)**
+
+![Smartphone Travel Vlog: A Japanese Dojo Session](https://cdn.lipsync.video/lipsync/cdn/feature-case/3d7c1f80-b60d-41b9-9605-8283d533f926/cover.jpg)
 
 **16:9 · 720p · 20s · Seedance 2.5**
 
@@ -283,6 +295,8 @@ FINAL RULES: Photorealistic, authentic smartphone vlog, believable physics and b
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/1a83267a-153a-488e-bc77-da8781a1702f/generate.mp4)**
 
+![A University Student Walks to Class After Unexpected Morning Snow](https://cdn.lipsync.video/lipsync/cdn/feature-case/1a83267a-153a-488e-bc77-da8781a1702f/cover.jpg)
+
 **16:9 · 1080p · 30s · Seedance 2.5**
 
 [Original post](https://x.com/nawalsehar/status/2107345257495138416) · 2026-10-06 13:40 (UTC+08:00)
@@ -318,6 +332,8 @@ Negative prompt: CGI appearance, animation, fantasy snow, glowing snow, impossib
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/16795529-f6f6-4ae6-be4a-69ef9f3d2f59/generate.mp4)**
 
+![Seedance 2.5 Old European Town Morning Travel Vlog](https://cdn.lipsync.video/lipsync/cdn/feature-case/16795529-f6f6-4ae6-be4a-69ef9f3d2f59/cover.jpg)
+
 **16:9 · 720p · 15s · Seedance 2.5**
 
 [Original post](https://x.com/SyntheSarah/status/2087737206459044262) · 2026-08-13 11:05 (UTC+08:00)
@@ -351,6 +367,8 @@ The final result should feel like an actual 15-second travel vlog filmed spontan
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/8b0e41e7-d3d6-4671-8758-bcfa02889b01/generate.mp4)**
 
+![A Woman Drops Her Selfie Phone, Going from Beach to Swiss Alps](https://cdn.lipsync.video/lipsync/cdn/feature-case/8b0e41e7-d3d6-4671-8758-bcfa02889b01/cover.jpg)
+
 **9:16 · 1080p · 10s · Seedance 2.5**
 
 [Original post](https://x.com/ZaraIrahh/status/2111047780722688154) · 2026-10-16 18:53 (UTC+08:00)
@@ -379,6 +397,8 @@ CRITICAL TRANSITION RULES: The phone drop must be the ONLY transition mechanism.
 ## 10. A Tokyo Girl’s Gym Day in the Early 2000s
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/708299fa-41cc-46eb-b80f-e16fb429b4ad/generate.mp4)**
+
+![A Tokyo Girl’s Gym Day in the Early 2000s](https://cdn.lipsync.video/lipsync/cdn/feature-case/708299fa-41cc-46eb-b80f-e16fb429b4ad/cover.jpg)
 
 **16:9 · 1080p · 30s · Seedance 2.5**
 
@@ -428,6 +448,8 @@ FINAL STYLE: A spontaneous, intimate early-2000s Japanese everyday memory captur
 ## 11. 16mm Analog Morning Vlog
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/ed95817d-7130-44ae-9741-643de9e5100e/generate.mp4)**
+
+![16mm Analog Morning Vlog](https://cdn.lipsync.video/lipsync/cdn/feature-case/ed95817d-7130-44ae-9741-643de9e5100e/cover.jpg)
 
 **16:9 · 720p · 15s · Seedance 2.5**
 
@@ -487,6 +509,8 @@ She gives a small wave and ends the recording.
 ## 12. Japanese Influencer Holiday Vlog
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/8af35184-14c3-42e5-8095-2f5df00d82da/generate.mp4)**
+
+![Japanese Influencer Holiday Vlog](https://cdn.lipsync.video/lipsync/cdn/feature-case/8af35184-14c3-42e5-8095-2f5df00d82da/cover.jpg)
 
 **9:16 · 1080p · 30s · Seedance 2.5**
 
@@ -566,6 +590,8 @@ Image2の姿勢から。カメラへ伸ばしていた右手を引き戻し、�
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/367c77af-7609-494d-a6fc-966b5e792e56/generate.mp4)**
 
+![Seedance 2.5 Japanese Summer Festival Yukata Selfie Vlog](https://cdn.lipsync.video/lipsync/cdn/feature-case/367c77af-7609-494d-a6fc-966b5e792e56/cover.jpg)
+
 **21:9 · 720p · 30s · Seedance 2.5**
 
 [Original post](https://x.com/im_shahid7/status/2087407192031068528) · 2026-08-12 13:13 (UTC+08:00)
@@ -584,6 +610,8 @@ A 30-second photorealistic smartphone travel vlog. A young Japanese woman wearin
 ## 14. Celestial Palace MiniDV Tour
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/25c5e793-bd97-4ace-ab21-d43e47a28fea/generate.mp4)**
+
+![Celestial Palace MiniDV Tour](https://cdn.lipsync.video/lipsync/cdn/feature-case/25c5e793-bd97-4ace-ab21-d43e47a28fea/cover.jpg)
 
 **16:9 · 720p · 115s · Seedance 2.0**
 
@@ -607,6 +635,8 @@ xin1_CG_realistic_style_high-angle_overhead_composition_epic__9a2eb3ce-7708-4506
 ## 15. Analog Fitness Vlog Gym Diary
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/76c1374c-41ac-477a-aadb-d4443eebc59f/generate.mp4)**
+
+![Analog Fitness Vlog Gym Diary](https://cdn.lipsync.video/lipsync/cdn/feature-case/76c1374c-41ac-477a-aadb-d4443eebc59f/cover.jpg)
 
 **16:9 · 720p · 15s · Seedance 2.0**
 
@@ -657,6 +687,8 @@ She stands, throws the bag over her shoulder, and gives the camera a small wave.
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/76901650-e2bc-477d-862c-061a3002f81e/generate.mp4)**
 
+![A Young Woman Strolls Through a Korean Coastal Village at Sunset](https://cdn.lipsync.video/lipsync/cdn/feature-case/76901650-e2bc-477d-862c-061a3002f81e/cover.jpg)
+
 **16:9 · 4K · 30s · Seedance 2.0**
 
 [Original post](https://x.com/ayzalnooor24521/status/2109121097803374790) · 2026-10-11 11:17 (UTC+08:00)
@@ -690,6 +722,8 @@ Audio: Natural ocean waves, soft sea breeze, footsteps on the stone path, and su
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/2bee7ff3-6cf2-4ffd-b7af-cfbd17fee032/generate.mp4)**
 
+![Nostalgic High School Vlog](https://cdn.lipsync.video/lipsync/cdn/feature-case/2bee7ff3-6cf2-4ffd-b7af-cfbd17fee032/cover.jpg)
+
 **16:9 · 480p · 24s · Seedance 2.0**
 
 [Original post](https://x.com/aiehon_aya/status/2092733830801109291) · 2026-08-27 06:00 (UTC+08:00)
@@ -708,6 +742,8 @@ Audio: Natural ocean waves, soft sea breeze, footsteps on the stone path, and su
 ## 18. Cinematic Morning Fitness Routine
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/77604849-a316-463a-9c8b-8c614cba1c6a/generate.mp4)**
+
+![Cinematic Morning Fitness Routine](https://cdn.lipsync.video/lipsync/cdn/feature-case/77604849-a316-463a-9c8b-8c614cba1c6a/cover.jpg)
 
 **16:9 · 4K · 14s · Seedance 2.0**
 
@@ -736,6 +772,8 @@ Use smooth cinematic transitions, seamless match cuts, gentle handheld and gimba
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/5563d966-bc11-4691-b8f5-c17fef9bf55c/generate.mp4)**
 
+![Retro 16mm Aerobics Fitness Vlog](https://cdn.lipsync.video/lipsync/cdn/feature-case/5563d966-bc11-4691-b8f5-c17fef9bf55c/cover.jpg)
+
 **16:9 · 720p · 15s · Seedance 2.0**
 
 [Original post](https://x.com/saniaspeaks_/status/2080999754859991152) · 2026-07-25 20:52 (UTC+08:00)
@@ -754,6 +792,8 @@ DV 16mm handheld tape camcorder POV by CHASE, who occasionally props the camera 
 ## 20. Ultra-Realistic Korean Riverside Documentary Prompt
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/d28b9741-9f1a-42fa-aa58-dd5b666923bd/generate.mp4)**
+
+![Ultra-Realistic Korean Riverside Documentary Prompt](https://cdn.lipsync.video/lipsync/cdn/feature-case/d28b9741-9f1a-42fa-aa58-dd5b666923bd/cover.jpg)
 
 **16:9 · 720p · 15s · Seedance 2.0**
 
@@ -805,6 +845,8 @@ Goal: A forgotten MiniDV home video from the mid-2000s capturing an ordinary aft
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/decaf3a5-7250-4a6a-8e29-1b030e93ba56/generate.mp4)**
 
+![Cinematic Paragliding Travel Vlog](https://cdn.lipsync.video/lipsync/cdn/feature-case/decaf3a5-7250-4a6a-8e29-1b030e93ba56/cover.jpg)
+
 **16:9 · 720p · 15s · Seedance 2.0**
 
 [Original post](https://x.com/Goodmanprotocol/status/2081028788771815678) · 2026-07-25 22:48 (UTC+08:00)
@@ -823,6 +865,8 @@ Ultra-realistic live-action cinematic travel vlog, absolutely NO CGI, NO animati
 ## 22. Dissolving Rope Suspension Bridge Canyon
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/fd366d5d-3d95-4a43-900a-ef1b67282da8/generate.mp4)**
+
+![Dissolving Rope Suspension Bridge Canyon](https://cdn.lipsync.video/lipsync/cdn/feature-case/fd366d5d-3d95-4a43-900a-ef1b67282da8/cover.jpg)
 
 **16:9 · 720p · 15s · Seedance 2.0**
 
@@ -858,6 +902,8 @@ Sound: Wood creak, plank snap, rope fray, running footsteps, landing thud, silen
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/96978ac7-92b3-4ea4-bacf-fb59986abefb/generate.mp4)**
 
+![Emotional Kyoto Travel Vlog Animation](https://cdn.lipsync.video/lipsync/cdn/feature-case/96978ac7-92b3-4ea4-bacf-fb59986abefb/cover.jpg)
+
 **16:9 · 720p · 15s · Seedance 2.0**
 
 [Original post](https://x.com/MrDasOnX/status/2080908954079760476) · 2026-07-25 14:52 (UTC+08:00)
@@ -876,6 +922,8 @@ Sound: Wood creak, plank snap, rope fray, running footsteps, landing thud, silen
 ## 24. Rainy Morning Coffee and a Walk to University
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/3804f993-2bfd-4fbc-98f9-bff229ee2055/generate.mp4)**
+
+![Rainy Morning Coffee and a Walk to University](https://cdn.lipsync.video/lipsync/cdn/feature-case/3804f993-2bfd-4fbc-98f9-bff229ee2055/cover.jpg)
 
 **16:9 · 4K · 30s · Seedance**
 
@@ -903,6 +951,8 @@ Natural diegetic audio only. No music, narration, CGI look, artificial rain, fac
 ## 25. Seedance 2.5 Photoreal Everyday Short of an Indonesian Girl
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/b96dfd77-277e-49a3-a123-5f267343fcd0/generate.mp4)**
+
+![Seedance 2.5 Photoreal Everyday Short of an Indonesian Girl](https://cdn.lipsync.video/lipsync/cdn/feature-case/b96dfd77-277e-49a3-a123-5f267343fcd0/cover.jpg)
 
 **16:9 · 720p · 10s · Seedance**
 
@@ -945,6 +995,8 @@ Goal: Authentic Indonesian neighborhood life captured like a forgotten home vide
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/2cf47d66-e7ae-436a-a01b-b1921dc4d6da/generate.mp4)**
 
+![Fox’s Self-Filmed Walk Along a Forest Stream](https://cdn.lipsync.video/lipsync/cdn/feature-case/2cf47d66-e7ae-436a-a01b-b1921dc4d6da/cover.jpg)
+
 **16:9 · 4K · 30s · Seedance**
 
 [Original post](https://x.com/MrDasOnX/status/2089969922617266257) · 2026-08-19 14:57 (UTC+08:00)
@@ -983,6 +1035,8 @@ The camera naturally lowers a little as he walks further along the path beside t
 ## 27. An Idol's Wobbly Post–Leg Day Gym Diary
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/961ed072-ef87-402c-860a-b9c384a62064/generate.mp4)**
+
+![An Idol's Wobbly Post–Leg Day Gym Diary](https://cdn.lipsync.video/lipsync/cdn/feature-case/961ed072-ef87-402c-860a-b9c384a62064/cover.jpg)
 
 **16:9 · 720p · 15s · Seedance**
 
@@ -1035,6 +1089,8 @@ A gym in the evening — squat rack, leg press machine, a water fountain across 
 ## 28. A Cat's Cozy Day Filmed as a Selfie Vlog
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/cc0a6ca1-4520-40dc-b2d4-e8971233418b/generate.mp4)**
+
+![A Cat's Cozy Day Filmed as a Selfie Vlog](https://cdn.lipsync.video/lipsync/cdn/feature-case/cc0a6ca1-4520-40dc-b2d4-e8971233418b/cover.jpg)
 
 **16:9 · 720p · 60s · Seedance**
 
@@ -1170,6 +1226,8 @@ The finished video should feel like a realistic, cozy smartphone vlog from a cat
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/9a744c4c-9e57-47f5-bd84-a75a0177d287/generate.mp4)**
 
+![Thirty-Second Tropical Travel Vlog Montage in Bali](https://cdn.lipsync.video/lipsync/cdn/feature-case/9a744c4c-9e57-47f5-bd84-a75a0177d287/cover.jpg)
+
 **16:9 · 4K · 30s · Seedance, Kling**
 
 [Original post](https://x.com/eshal__ai/status/2096840505355370629) · 2026-09-07 13:58 (UTC+08:00)
@@ -1211,6 +1269,8 @@ Avoid: cartoon style, CGI look, plastic skin, unrealistic face, inconsistent cha
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/e2a7abc3-d93e-4f29-ac3b-275e5496f4a5/generate.mp4)**
 
+![A Summer Walk by Young Lovers in Rural West Java](https://cdn.lipsync.video/lipsync/cdn/feature-case/e2a7abc3-d93e-4f29-ac3b-275e5496f4a5/cover.jpg)
+
 **16:9 · 1080p · 30s · Seedance**
 
 [Original post](https://x.com/bozzxyz/status/2104217955521482833) · 2026-09-27 22:33 (UTC+08:00)
@@ -1249,6 +1309,8 @@ Ultra-realistic skin, hair, hands, clothing and movement; tropical light, shadow
 ## 31. Flying Kick Transition to a Midnight Motorcycle
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/1659ad84-c564-4abe-a68b-24e664b6ec41/generate.mp4)**
+
+![Flying Kick Transition to a Midnight Motorcycle](https://cdn.lipsync.video/lipsync/cdn/feature-case/1659ad84-c564-4abe-a68b-24e664b6ec41/cover.jpg)
 
 **16:9 · 1440p · 10s · Seedance**
 
@@ -1348,6 +1410,8 @@ Cut exactly on impact. Preserve across the cut: leg extension, torso rotation, b
 ## 32. Kitchen Cabinet Creak Turns Out to Be a Man Bending Over
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/aaa30db9-6adc-4e7e-9527-2e5d4fe59029/generate.mp4)**
+
+![Kitchen Cabinet Creak Turns Out to Be a Man Bending Over](https://cdn.lipsync.video/lipsync/cdn/feature-case/aaa30db9-6adc-4e7e-9527-2e5d4fe59029/cover.jpg)
 
 **9:16 · 720p · 15s · Seedance**
 
@@ -1534,6 +1598,8 @@ Cut exactly on impact. Preserve across the cut: leg extension, torso rotation, b
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/a6efacf4-dcad-43a1-9393-2f18e8c2ed9c/generate.mp4)**
 
+![A Slow Autumn Travel Vlog in Kyoto](https://cdn.lipsync.video/lipsync/cdn/feature-case/a6efacf4-dcad-43a1-9393-2f18e8c2ed9c/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/Chaemate_/status/2099439262106083704) · 2026-09-14 18:05 (UTC+08:00)
@@ -1565,6 +1631,8 @@ The goal is simple: make it feel like an actual travel vlog someone happened to 
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/398b7e4d-2092-4412-9eb9-d241a95f9cdd/generate.mp4)**
 
+![A Woman's Morning Farm Routine in the Korean Countryside](https://cdn.lipsync.video/lipsync/cdn/feature-case/398b7e4d-2092-4412-9eb9-d241a95f9cdd/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/aiwithaly/status/2097556131623432569) · 2026-09-09 13:22 (UTC+08:00)
@@ -1585,6 +1653,8 @@ Authentic 2026 Korean rural life, natural human movement, realistic chicken beha
 ## 35. Seaside Walk Turned Wholesome Korean Vlog
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/d00d5348-1c16-439e-84da-45509389a5f3/generate.mp4)**
+
+![Seaside Walk Turned Wholesome Korean Vlog](https://cdn.lipsync.video/lipsync/cdn/feature-case/d00d5348-1c16-439e-84da-45509389a5f3/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance**
 
@@ -1623,6 +1693,8 @@ Natural ambience only: ocean waves, seagulls, fishing boats, harbor conversation
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/1a1cca03-ae7f-4b56-afa5-637268bd8f48/generate.mp4)**
 
+![A Korean Woman's Winter Journey Through England](https://cdn.lipsync.video/lipsync/cdn/feature-case/1a1cca03-ae7f-4b56-afa5-637268bd8f48/cover.jpg)
+
 **16:9 · 4K · 30s · Seedance**
 
 [Original post](https://x.com/Harry_thingss/status/2102993120942346594) · 2026-09-24 13:26 (UTC+08:00)
@@ -1654,6 +1726,8 @@ Style: Photorealistic, authentic English winter mood (overcast, misty, not heavy
 ## 37. A Korean Woman’s 30-Second Taiwan Travel Vlog
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/c2205392-4f27-434f-8970-31331bd818d9/generate.mp4)**
+
+![A Korean Woman’s 30-Second Taiwan Travel Vlog](https://cdn.lipsync.video/lipsync/cdn/feature-case/c2205392-4f27-434f-8970-31331bd818d9/cover.jpg)
 
 **16:9 · 480p · 30s · Seedance**
 
@@ -1718,6 +1792,8 @@ FINALLY: skin and movement should look like real travel footage, not AI-generate
 ## 38. A Night at the Riverside Shrine Summer Festival
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/bf9c77bf-f18f-4aa6-a2ef-a13ba0643b92/generate.mp4)**
+
+![A Night at the Riverside Shrine Summer Festival](https://cdn.lipsync.video/lipsync/cdn/feature-case/bf9c77bf-f18f-4aa6-a2ef-a13ba0643b92/cover.jpg)
 
 **16:9 · 4K · 30s · Seedance**
 
@@ -1796,6 +1872,8 @@ Her face and identity stay consistent with the reference in every cut. Lighting 
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/bea876a8-4f69-41d9-b592-a642b532de75/generate.mp4)**
 
+![Morning Tea on a Seaside Balcony](https://cdn.lipsync.video/lipsync/cdn/feature-case/bea876a8-4f69-41d9-b592-a642b532de75/cover.jpg)
+
 **1:1 · 720p · 15s · Seedance, Kling**
 
 [Original post](https://x.com/ayzalnooor24521/status/2091385950295519456) · 2026-08-23 12:44 (UTC+08:00)
@@ -1822,6 +1900,8 @@ Keep perfect character consistency (same face, skin tone, eyes, hairstyle, jewel
 ## 40. From Waking Up to a Morning Walk with His Dog
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/add54c4e-aeab-4d11-bc41-4c0152c90620/generate.mp4)**
+
+![From Waking Up to a Morning Walk with His Dog](https://cdn.lipsync.video/lipsync/cdn/feature-case/add54c4e-aeab-4d11-bc41-4c0152c90620/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance**
 
@@ -1863,6 +1943,8 @@ NEGATIVE PROMPT: identity changes, outfit changes, inconsistent dog, different d
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/7d907765-9e37-42b2-a2f6-9ef926bc9d9b/generate.mp4)**
 
+![Thirty-Second American University Romance Vlog in the Rain](https://cdn.lipsync.video/lipsync/cdn/feature-case/7d907765-9e37-42b2-a2f6-9ef926bc9d9b/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/nawalsehar/status/2096832969453543579) · 2026-09-07 13:28 (UTC+08:00)
@@ -1885,6 +1967,8 @@ Modern 2026 cinematic coming-of-age style, natural American English dialogue, re
 ## 42. Girl Running Through a Rainy Japanese Neighborhood
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/bcbe1faa-38fc-4563-91bd-c87ec1bf45ec/generate.mp4)**
+
+![Girl Running Through a Rainy Japanese Neighborhood](https://cdn.lipsync.video/lipsync/cdn/feature-case/bcbe1faa-38fc-4563-91bd-c87ec1bf45ec/cover.jpg)
 
 **9:16 · 4K · 25s · Seedance**
 
@@ -1917,6 +2001,8 @@ Important: Maintain the same woman's face, hairstyle, outfit, and body proportio
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/b6781134-626f-438b-acdf-92dded40ad6c/generate.mp4)**
 
+![Seedance 2.5 Cinematic Follow-Cam Mountain Forest Hike](https://cdn.lipsync.video/lipsync/cdn/feature-case/b6781134-626f-438b-acdf-92dded40ad6c/cover.jpg)
+
 **16:9 · 720p · 15s · Seedance**
 
 [Original post](https://x.com/nawalsehar/status/2089219802598658291) · 2026-08-17 13:16 (UTC+08:00)
@@ -1935,6 +2021,8 @@ A young traveler hikes through a lush mountain forest, crosses a wooden bridge o
 ## 44. Urban Morning Routine in Golden Sunlight
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/381b38ba-a10f-473a-a026-03ea0aab5cef/generate.mp4)**
+
+![Urban Morning Routine in Golden Sunlight](https://cdn.lipsync.video/lipsync/cdn/feature-case/381b38ba-a10f-473a-a026-03ea0aab5cef/cover.jpg)
 
 **16:9 · 4K · 30s · Seedance**
 
@@ -1987,6 +2075,8 @@ The character's face, facial features, hairstyle, hair color, skin tone, outfit,
 ## 45. A Maglev Train Traveling Through History
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/29812fd1-114f-43af-84e5-6adc069c0c7c/generate.mp4)**
+
+![A Maglev Train Traveling Through History](https://cdn.lipsync.video/lipsync/cdn/feature-case/29812fd1-114f-43af-84e5-6adc069c0c7c/cover.jpg)
 
 **9:16 · 720p · 42s · Seedance**
 
@@ -2063,6 +2153,8 @@ All historical environments must be photorealistic and period-appropriate. Do no
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/23eb15ec-8637-4764-bb40-bffefc048560/generate.mp4)**
 
+![A Day in the Life of a Korean University Student](https://cdn.lipsync.video/lipsync/cdn/feature-case/23eb15ec-8637-4764-bb40-bffefc048560/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/aiwithaly/status/2096818423846334683) · 2026-09-07 12:30 (UTC+08:00)
@@ -2086,6 +2178,8 @@ English dialogue only, with natural location sounds such as bus noise, classroom
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/99cd8b0b-9bb3-444e-86b3-bf407ab5d56b/generate.mp4)**
 
+![Winter Morning Life in a Snowy Japanese Village](https://cdn.lipsync.video/lipsync/cdn/feature-case/99cd8b0b-9bb3-444e-86b3-bf407ab5d56b/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/nawalsehar/status/2097540713781371051) · 2026-09-09 12:20 (UTC+08:00)
@@ -2108,6 +2202,8 @@ Natural environmental audio only: wind, birds, footsteps, snow, broom, tea pouri
 ## 48. One-Take Vlog of Bizarre Encounters on a New York Street
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/eccb390b-b43a-44fb-86dc-25113ef1ce0d/generate.mp4)**
+
+![One-Take Vlog of Bizarre Encounters on a New York Street](https://cdn.lipsync.video/lipsync/cdn/feature-case/eccb390b-b43a-44fb-86dc-25113ef1ce0d/cover.jpg)
 
 **9:16 · 1080p · 30s · Seedance**
 
@@ -2141,6 +2237,8 @@ Vertical 9:16 smartphone vlog, shot on iPhone 17 Pro. ONE SINGLE UNINTERRUPTED H
 ## 49. Colored-Pencil Samurai Wreck the Desk and Return to the Page
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/b4dda276-62f7-454d-bd44-32337fd2bdb0/generate.mp4)**
+
+![Colored-Pencil Samurai Wreck the Desk and Return to the Page](https://cdn.lipsync.video/lipsync/cdn/feature-case/b4dda276-62f7-454d-bd44-32337fd2bdb0/cover.jpg)
 
 **16:9 · 1080p · 30s · Seedance**
 
@@ -2389,6 +2487,8 @@ masterpiece, highest quality。混合渲染：纯彩铅线条的角色 + 照片�
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/737f66bf-c791-4fd5-8059-d07f43c42dd2/generate.mp4)**
 
+![A Young Woman’s Journey Through London](https://cdn.lipsync.video/lipsync/cdn/feature-case/737f66bf-c791-4fd5-8059-d07f43c42dd2/cover.jpg)
+
 **16:9 · 4K · 30s · Seedance**
 
 [Original post](https://x.com/noorlewisx/status/2105529187494928887) · 2026-10-01 13:24 (UTC+08:00)
@@ -2423,6 +2523,8 @@ Overall: photorealistic, cinematic 4K, natural movement, realistic London enviro
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/63b6dab7-f952-4fba-a6a6-52921eada41e/generate.mp4)**
 
+![A City Woman’s Day from Morning to Bedtime](https://cdn.lipsync.video/lipsync/cdn/feature-case/63b6dab7-f952-4fba-a6a6-52921eada41e/cover.jpg)
+
 **16:9 · 4K · 30s · Seedance**
 
 [Original post](https://x.com/ZorviaLux/status/2101900075647778976) · 2026-09-21 13:03 (UTC+08:00)
@@ -2453,6 +2555,8 @@ Style: Cinematic film style, depth of field, subtle motion, cozy lifestyle vlog,
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/5924f016-e3ec-4f35-a34f-be14ce9aef75/generate.mp4)**
 
+![A Summer Bicycle Grocery Run in Korea](https://cdn.lipsync.video/lipsync/cdn/feature-case/5924f016-e3ec-4f35-a34f-be14ce9aef75/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/nawalsehar/status/2093215704946467157) · 2026-08-28 13:54 (UTC+08:00)
@@ -2482,6 +2586,8 @@ No teleportation, instant acceleration, floating objects, distorted anatomy, cha
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/5310ce82-393b-430a-94e0-6b3adebbbfdb/generate.mp4)**
 
+![Korean Girl Scrolling Her Phone in a Warm Bedroom](https://cdn.lipsync.video/lipsync/cdn/feature-case/5310ce82-393b-430a-94e0-6b3adebbbfdb/cover.jpg)
+
 **9:16 · 562p · 15s · Seedance**
 
 [Original post](https://x.com/aiwithaayat/status/2101159687677005989) · 2026-09-19 12:01 (UTC+08:00)
@@ -2500,6 +2606,8 @@ A Korean girl created a video, showing a cozy and natural lifestyle moment in a 
 ## 54. Sixty-Second Korean Summer Beach Travel Vlog
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/01088dfa-b898-4704-a539-29de475a1cec/generate.mp4)**
+
+![Sixty-Second Korean Summer Beach Travel Vlog](https://cdn.lipsync.video/lipsync/cdn/feature-case/01088dfa-b898-4704-a539-29de475a1cec/cover.jpg)
 
 **16:9 · 720p · 60s · Seedance**
 
@@ -2527,6 +2635,8 @@ Authentic 2026 smartphone vlog style, handheld camera, natural expressions, real
 ## 55. Sunset Old Town Stroll and a Coffee Break
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/7fae1440-ece3-402f-bdf3-f259f83b6fc6/generate.mp4)**
+
+![Sunset Old Town Stroll and a Coffee Break](https://cdn.lipsync.video/lipsync/cdn/feature-case/7fae1440-ece3-402f-bdf3-f259f83b6fc6/cover.jpg)
 
 **4:3 · 4K · 15s · Seedance**
 
@@ -2563,6 +2673,8 @@ Natural facial expressions, accurate lip-sync, realistic female English voice, s
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/da643f0d-0d8b-4bf2-927e-acdc7023a5da/generate.mp4)**
 
+![A Korean Woman's Summer Watermelon Routine](https://cdn.lipsync.video/lipsync/cdn/feature-case/da643f0d-0d8b-4bf2-927e-acdc7023a5da/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/aiwithaly/status/2092464281404965030) · 2026-08-26 12:08 (UTC+08:00)
@@ -2589,6 +2701,8 @@ Negative Prompt: No CGI appearance, weightless watermelon, floating objects, tel
 ## 57. Photoreal Japanese Summer Festival Travel Vlog
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/8601d7d4-ea7c-4030-bdea-2ea3768bcdec/generate.mp4)**
+
+![Photoreal Japanese Summer Festival Travel Vlog](https://cdn.lipsync.video/lipsync/cdn/feature-case/8601d7d4-ea7c-4030-bdea-2ea3768bcdec/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance**
 
@@ -2621,6 +2735,8 @@ No CGI appearance, artificial faces, beauty filters, robotic acting, staged posi
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/cb8df1a4-16da-4ee7-89a9-961fb4ccfd75/generate.mp4)**
 
+![A Korean Mother and Children Cycling on a Summer Evening](https://cdn.lipsync.video/lipsync/cdn/feature-case/cb8df1a4-16da-4ee7-89a9-961fb4ccfd75/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/ayzalnooor24521/status/2100817795214954593) · 2026-09-18 13:22 (UTC+08:00)
@@ -2640,6 +2756,8 @@ Created a video, featuring beautiful Korean words and a warm, nostalgic Korean c
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/61b09605-046e-4eee-aafb-8ea15364b78c/generate.mp4)**
 
+![Summer Picnic by the Stream](https://cdn.lipsync.video/lipsync/cdn/feature-case/61b09605-046e-4eee-aafb-8ea15364b78c/cover.jpg)
+
 **16:9 · 4K · 21s · Seedance**
 
 [Original post](https://x.com/aiwithaayat/status/2100423982898115050) · 2026-09-17 11:17 (UTC+08:00)
@@ -2658,6 +2776,8 @@ A Beautiful Korean Girl wearing a soft white summer dress and a natural straw su
 ## 60. A Cozy Winter Getaway in a Snowy Alpine Village
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/e117bf7a-a7e2-4f06-a781-b91e4a15ff13/generate.mp4)**
+
+![A Cozy Winter Getaway in a Snowy Alpine Village](https://cdn.lipsync.video/lipsync/cdn/feature-case/e117bf7a-a7e2-4f06-a781-b91e4a15ff13/cover.jpg)
 
 **16:9 · 4K · 30s · Seedance**
 
@@ -2700,6 +2820,8 @@ Avoid: cartoon style, CGI look, plastic skin, unrealistic face, inconsistent cha
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/544de58a-3980-47a3-ab9b-e3d0cc2a4195/generate.mp4)**
 
+![A City Woman's Day from Waking to Sleep](https://cdn.lipsync.video/lipsync/cdn/feature-case/544de58a-3980-47a3-ab9b-e3d0cc2a4195/cover.jpg)
+
 **9:16 · 4K · 30s · Seedance**
 
 [Original post](https://x.com/noorlewisx/status/2102628377463275651) · 2026-09-23 13:17 (UTC+08:00)
@@ -2731,6 +2853,8 @@ NEGATIVE: character identity drift, different woman, generic face, 3D, CGI, anim
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/7f586133-8c07-4654-bfe4-a048d477e16f/generate.mp4)**
 
+![A Young Woman’s Elegant Everyday Life in Seoul](https://cdn.lipsync.video/lipsync/cdn/feature-case/7f586133-8c07-4654-bfe4-a048d477e16f/cover.jpg)
+
 **16:9 · 4K · 30s · Seedance**
 
 [Original post](https://x.com/Zoyavelle/status/2101893707897381209) · 2026-09-21 12:38 (UTC+08:00)
@@ -2750,6 +2874,8 @@ Cinematic photorealistic lifestyle video of a beautiful young Korean woman with 
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/ccafe255-3857-450d-8142-ea89aaad5210/generate.mp4)**
 
+![Friends’ Golden-Hour Road Trip to the Mountains](https://cdn.lipsync.video/lipsync/cdn/feature-case/ccafe255-3857-450d-8142-ea89aaad5210/cover.jpg)
+
 **3:2 · 550p · 32s · Seedance**
 
 [Original post](https://x.com/aiwithaayat/status/2103701422252683461) · 2026-09-26 12:21 (UTC+08:00)
@@ -2768,6 +2894,8 @@ Creative 30-second video, cinematic lifestyle road-trip short film with a warm, 
 ## 64. Young Woman Boards a Plane and Looks Out the Window
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/4146fb2f-ea95-40c5-a581-070ea0f3b191/generate.mp4)**
+
+![Young Woman Boards a Plane and Looks Out the Window](https://cdn.lipsync.video/lipsync/cdn/feature-case/4146fb2f-ea95-40c5-a581-070ea0f3b191/cover.jpg)
 
 **16:9 · 4K · 30s · Seedance**
 
@@ -2820,6 +2948,8 @@ Make the entire 30-second sequence feel like authentic footage captured inside a
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/48adc487-6ab2-486f-a6c2-c52d24a9c715/generate.mp4)**
 
+![Young Woman Films a Spring Mountain View in Japan](https://cdn.lipsync.video/lipsync/cdn/feature-case/48adc487-6ab2-486f-a6c2-c52d24a9c715/cover.jpg)
+
 **3:2 · 720p · 14s · Seedance**
 
 [Original post](https://x.com/ayzalnooor24521/status/2093192618599755890) · 2026-08-28 12:23 (UTC+08:00)
@@ -2838,6 +2968,8 @@ Create a credited 14-second cinematic video on Japanese mountain view, featuring
 ## 66. A Rainy-Day Discovery of a Cozy Bookshop
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/6bbc122f-e344-491a-8384-d9651aa371e9/generate.mp4)**
+
+![A Rainy-Day Discovery of a Cozy Bookshop](https://cdn.lipsync.video/lipsync/cdn/feature-case/6bbc122f-e344-491a-8384-d9651aa371e9/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance**
 
@@ -2872,6 +3004,8 @@ Soft natural lighting, wet reflections, cozy cinematic color grade, handheld but
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/c5414ceb-a57e-4986-92b8-f02bd0226d26/generate.mp4)**
 
+![Korean Countryside Bike Race and Streamside Snacks](https://cdn.lipsync.video/lipsync/cdn/feature-case/c5414ceb-a57e-4986-92b8-f02bd0226d26/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/nawalsehar/status/2099368044287947194) · 2026-09-14 13:22 (UTC+08:00)
@@ -2902,6 +3036,8 @@ No CGI, animation, artificial movement, impossible physics, distorted faces or h
 ## 68. A Day in the Life of a Female Teacher
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/172a34ad-d63c-4614-b7f3-d0f8fbbe1423/generate.mp4)**
+
+![A Day in the Life of a Female Teacher](https://cdn.lipsync.video/lipsync/cdn/feature-case/172a34ad-d63c-4614-b7f3-d0f8fbbe1423/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance, GPT Image**
 
@@ -3196,6 +3332,8 @@ HOME → SCHOOL → CLASSROOM PREPARATION → TEACHING → NOTEBOOK CHECKING →
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/f89a3aa7-1aab-4496-bae2-10423396f0b1/generate.mp4)**
 
+![An Idol's End-of-Week Gym Recap](https://cdn.lipsync.video/lipsync/cdn/feature-case/f89a3aa7-1aab-4496-bae2-10423396f0b1/cover.jpg)
+
 **16:9 · 1080p · 44s · Seedance**
 
 [Original post](https://x.com/doctorwasif/status/2104187027935973745) · 2026-09-27 20:30 (UTC+08:00)
@@ -3239,6 +3377,8 @@ SETTING: Quiet gym mat area after evening session; mirror wall, water bottle, du
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/c5bc46d6-4057-468b-b171-99e35bf83540/generate.mp4)**
 
+![A Korean Village Student's Daily Commute](https://cdn.lipsync.video/lipsync/cdn/feature-case/c5bc46d6-4057-468b-b171-99e35bf83540/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/nawalsehar/status/2101906866921955737) · 2026-09-21 13:30 (UTC+08:00)
@@ -3267,6 +3407,8 @@ No CGI look, animation, distorted hands, extra fingers, duplicated people, chang
 ## 71. A Seoul Woman’s Playful Day from Morning to Night
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/d5456221-3591-407d-96fc-cdc6e1f9a5ab/generate.mp4)**
+
+![A Seoul Woman’s Playful Day from Morning to Night](https://cdn.lipsync.video/lipsync/cdn/feature-case/d5456221-3591-407d-96fc-cdc6e1f9a5ab/cover.jpg)
 
 **16:9 · 480p · 30s · Seedance**
 
@@ -3305,6 +3447,8 @@ Style: Premium Korean lifestyle commercial × cinematic vlog, cute, playful, ene
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/470efdfd-15ca-4555-8bf6-047a8336777d/generate.mp4)**
 
+![An Afternoon Grocery Walk in the Korean Countryside](https://cdn.lipsync.video/lipsync/cdn/feature-case/470efdfd-15ca-4555-8bf6-047a8336777d/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/aiwithaly/status/2099357930927845736) · 2026-09-14 12:41 (UTC+08:00)
@@ -3332,6 +3476,8 @@ End with the woman walking home in warm golden-hour light, waving back at the ch
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/25aaac7b-0898-46a5-bfd3-44c711d6384c/generate.mp4)**
 
+![Young Woman Arrives at the Airport and Boards Her Flight](https://cdn.lipsync.video/lipsync/cdn/feature-case/25aaac7b-0898-46a5-bfd3-44c711d6384c/cover.jpg)
+
 **4:3 · 4K · 15s · Seedance**
 
 [Original post](https://x.com/CaliraVal/status/2097601187734561047) · 2026-09-09 16:21 (UTC+08:00)
@@ -3350,6 +3496,8 @@ Create a cinematic photorealistic travel video of a stylish young woman arriving
 ## 74. High-Rise Hotel Balcony Pursuit
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/b58d80da-3326-4661-b1e9-02a7806dda9e/generate.mp4)**
+
+![High-Rise Hotel Balcony Pursuit](https://cdn.lipsync.video/lipsync/cdn/feature-case/b58d80da-3326-4661-b1e9-02a7806dda9e/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance**
 
@@ -3388,6 +3536,8 @@ End with a hard cut to black at the peak of the cliffhanger.
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/85484c42-54c9-4cbf-b97f-c9f0d1f78564/generate.mp4)**
 
+![Seedance 2.5 Seven-Shot Handheld Phone Vlog Montage](https://cdn.lipsync.video/lipsync/cdn/feature-case/85484c42-54c9-4cbf-b97f-c9f0d1f78564/cover.jpg)
+
 **16:9 · 1080p · 15s · Seedance**
 
 [Original post](https://x.com/doctorwasif/status/2089214508233638187) · 2026-08-17 12:55 (UTC+08:00)
@@ -3417,6 +3567,8 @@ Only her throughout; authentic fumbling, laughter, breathing, footsteps, rope im
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/1a21c407-9424-4d42-a2b1-606dd6b0aa6d/generate.mp4)**
 
+![Traveler Encounters a Golden-Horned White Unicorn](https://cdn.lipsync.video/lipsync/cdn/feature-case/1a21c407-9424-4d42-a2b1-606dd6b0aa6d/cover.jpg)
+
 **9:16 · 4K · 20s · Seedance**
 
 [Original post](https://x.com/juliaevee/status/2105150663047135672) · 2026-09-30 12:20 (UTC+08:00)
@@ -3435,6 +3587,8 @@ A young East Asian female traveler wearing an earth-toned, brown wrap tunic robe
 ## 77. Street Food Vacation Vlog at a Korean Night Market
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/acdf51e8-a2c3-4266-8e96-192dff8a6023/generate.mp4)**
+
+![Street Food Vacation Vlog at a Korean Night Market](https://cdn.lipsync.video/lipsync/cdn/feature-case/acdf51e8-a2c3-4266-8e96-192dff8a6023/cover.jpg)
 
 **16:9 · 1080p · 30s · Seedance**
 
@@ -3546,6 +3700,8 @@ The final result should look like a real, slightly imperfect Korean vacation vlo
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/05f5e684-1ae2-438f-a91e-afa86a3e1c9d/generate.mp4)**
 
+![Magic Pen Beach Boardwalk Vlog, Pixel-Art Composited](https://cdn.lipsync.video/lipsync/cdn/feature-case/05f5e684-1ae2-438f-a91e-afa86a3e1c9d/cover.jpg)
+
 **9:16 · 8K · 15s · Seedance**
 
 [Original post](https://x.com/Ciri_ai/status/2096441071534559403) · 2026-09-06 11:31 (UTC+08:00)
@@ -3605,6 +3761,8 @@ SFX: Rising 8-bit arpeggio + pixel-shatter burst + classic arcade "level complet
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/e6a6dd3a-7823-465b-a9fa-4a69fd768449/generate.mp4)**
 
+![Three Girls Explore a Traditional Japanese Market](https://cdn.lipsync.video/lipsync/cdn/feature-case/e6a6dd3a-7823-465b-a9fa-4a69fd768449/cover.jpg)
+
 **16:9 · 4K · 15s · Seedance**
 
 [Original post](https://x.com/Lianaalane/status/2093213626664706410) · 2026-08-28 13:46 (UTC+08:00)
@@ -3642,6 +3800,8 @@ NEGATIVE PROMPT: No text overlays, no subtitles, no watermark, no distorted face
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/3420b89c-1a16-4d16-b5a4-7603bc46561b/generate.mp4)**
 
+![A Ranch Woman's Working Day from Sunrise to Sunset](https://cdn.lipsync.video/lipsync/cdn/feature-case/3420b89c-1a16-4d16-b5a4-7603bc46561b/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/aiwithaly/status/2097917075176178101) · 2026-09-10 13:16 (UTC+08:00)
@@ -3666,6 +3826,8 @@ Natural diegetic audio only: horses, birds, wind, barn sounds, hoofbeats, tools,
 ## 81. An Evening in a Traditional Korean Village
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/9411385f-ad34-4db6-9f86-473243c849c5/generate.mp4)**
+
+![An Evening in a Traditional Korean Village](https://cdn.lipsync.video/lipsync/cdn/feature-case/9411385f-ad34-4db6-9f86-473243c849c5/cover.jpg)
 
 **4:3 · 720p · 30s · Seedance**
 
@@ -3694,6 +3856,8 @@ No CGI, animation, beauty filters, plastic skin, modern smartphone aesthetic, ci
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/f00c8acc-cc50-4f23-b8aa-83552dfe56dd/generate.mp4)**
 
+![Girl Skateboarding Through a Coastal Hillside Town](https://cdn.lipsync.video/lipsync/cdn/feature-case/f00c8acc-cc50-4f23-b8aa-83552dfe56dd/cover.jpg)
+
 **9:16 · 1440p · 15s · Seedance**
 
 [Original post](https://x.com/CaliraVal/status/2099357883133726827) · 2026-09-14 12:41 (UTC+08:00)
@@ -3712,6 +3876,8 @@ A cinematic anime-style scene of a young female traveler skateboarding downhill 
 ## 83. Winter Journey Through Russia's Snowy Cities
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/90b1b556-4b53-417a-980d-88e15cf280ce/generate.mp4)**
+
+![Winter Journey Through Russia's Snowy Cities](https://cdn.lipsync.video/lipsync/cdn/feature-case/90b1b556-4b53-417a-980d-88e15cf280ce/cover.jpg)
 
 **16:9 · 4K · 30s · Seedance**
 
@@ -3759,6 +3925,8 @@ Photorealistic, cinematic lighting, realistic snow, natural motion, accurate han
 ## 84. Commuter Train Descends into the Depths of Hell
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/c4a76db1-24c6-444e-9370-500af9f85ae5/generate.mp4)**
+
+![Commuter Train Descends into the Depths of Hell](https://cdn.lipsync.video/lipsync/cdn/feature-case/c4a76db1-24c6-444e-9370-500af9f85ae5/cover.jpg)
 
 **9:16 · 1080p · 25s · Seedance**
 
@@ -3813,6 +3981,8 @@ ONE SINGLE CONTINUOUS TAKE. No cuts, no jump cuts, no dissolves, no crossfades, 
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/5b119a6d-2c58-41c6-8d33-345f40a1f85a/generate.mp4)**
 
+![A Pirate's Runaway Barrel Chase Downhill](https://cdn.lipsync.video/lipsync/cdn/feature-case/5b119a6d-2c58-41c6-8d33-345f40a1f85a/cover.jpg)
+
 **16:9 · 4K · 14s · Seedance, Midjourney**
 
 [Original post](https://x.com/NVTDanh/status/2089675418878329009) · 2026-08-18 19:26 (UTC+08:00)
@@ -3831,6 +4001,8 @@ ONE SINGLE CONTINUOUS TAKE. No cuts, no jump cuts, no dissolves, no crossfades, 
 ## 86. A Wrong Country Road Leads to a Peaceful Village
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/6003c080-0cf3-43a1-9b60-893f098b4c00/generate.mp4)**
+
+![A Wrong Country Road Leads to a Peaceful Village](https://cdn.lipsync.video/lipsync/cdn/feature-case/6003c080-0cf3-43a1-9b60-893f098b4c00/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance**
 
@@ -3856,6 +4028,8 @@ No CGI, animation, fantasy, artificial faces, impossible physics, floating objec
 ## 87. Idol Girl's High-Intensity Interval Training Vlog
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/d315e8fd-a5c3-4244-9015-cb5b71faf972/generate.mp4)**
+
+![Idol Girl's High-Intensity Interval Training Vlog](https://cdn.lipsync.video/lipsync/cdn/feature-case/d315e8fd-a5c3-4244-9015-cb5b71faf972/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance**
 
@@ -3896,6 +4070,8 @@ SETTING: Evening gym open floor, mats, mirrors, small speaker/phone, water bottl
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/4d006d95-9025-44a8-bffc-5f3dea9ac85d/generate.mp4)**
 
+![Young Korean Woman’s First Train Journey Vlog](https://cdn.lipsync.video/lipsync/cdn/feature-case/4d006d95-9025-44a8-bffc-5f3dea9ac85d/cover.jpg)
+
 **16:9 · 720p · 30s · Seedance**
 
 [Original post](https://x.com/saniaspeaks_/status/2094635608849166589) · 2026-09-01 11:57 (UTC+08:00)
@@ -3914,6 +4090,8 @@ Ultra-realistic casual smartphone travel vlog of one consistent young Korean wom
 ## 89. Seedance 2.5 Boyfriend-POV Couple Short with an Authentic Handheld Phone Look
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/6e458fed-cc23-428a-8d73-3542e588dd8b/generate.mp4)**
+
+![Seedance 2.5 Boyfriend-POV Couple Short with an Authentic Handheld Phone Look](https://cdn.lipsync.video/lipsync/cdn/feature-case/6e458fed-cc23-428a-8d73-3542e588dd8b/cover.jpg)
 
 **9:16 · 1080p · 20s · Seedance**
 
@@ -4393,6 +4571,8 @@ Ultra-realistic casual smartphone travel vlog of one consistent young Korean wom
 ## 90. Taoist Warrior and Giant on a Mountain Road Chase
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/88d47863-7d22-408b-b68f-9f3f318b9f5a/generate.mp4)**
+
+![Taoist Warrior and Giant on a Mountain Road Chase](https://cdn.lipsync.video/lipsync/cdn/feature-case/88d47863-7d22-408b-b68f-9f3f318b9f5a/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance, Veo**
 

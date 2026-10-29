@@ -8,6 +8,8 @@
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/8aeab163-c47c-4200-a5f0-123e12cd39e4/generate.mp4)**
 
+![Two-Idol K-pop MV, Shot by Shot](https://cdn.lipsync.video/lipsync/cdn/feature-case/8aeab163-c47c-4200-a5f0-123e12cd39e4/cover.jpg)
+
 **16:9 · 1080p · 30s · Seedance 2.5**
 
 [Original post](https://x.com/Just_sharon7/status/2083422886686031982) · 2026-08-01 13:21 (UTC+08:00)
@@ -26,6 +28,8 @@
 ## 2. Solo K-POP MV · Second-by-Second Y2K Candy World Storyboard
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/a3bb5a41-f5d2-49d2-8367-95ef0ee6e1a7/generate.mp4)**
+
+![Solo K-POP MV · Second-by-Second Y2K Candy World Storyboard](https://cdn.lipsync.video/lipsync/cdn/feature-case/a3bb5a41-f5d2-49d2-8367-95ef0ee6e1a7/cover.jpg)
 
 **16:9 · 480p · 30s · Seedance 2.5**
 
@@ -280,6 +284,8 @@ CD表面产生真实彩虹衍射，像素星空和镀铬行星随节奏闪动。
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/e46fdbf1-54a7-49b6-9873-0025bda45c61/generate.mp4)**
 
+![Copper-Haired Woman Dancing K-Pop in a Sunlit Glass Greenhouse](https://cdn.lipsync.video/lipsync/cdn/feature-case/e46fdbf1-54a7-49b6-9873-0025bda45c61/cover.jpg)
+
 **16:9 · 1080p · 30s · Seedance 2.5**
 
 [Original post](https://x.com/Chaemate_/status/2110278863691325907) · 2026-10-14 15:57 (UTC+08:00)
@@ -333,6 +339,8 @@ AUDIO: Original bright pop K-pop dance track, about 125 BPM, with a punchy kick,
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/ce3be79f-0dc6-4668-8e75-63de9a2ec916/generate.mp4)**
 
+![Vibrant K-pop Stage Performance](https://cdn.lipsync.video/lipsync/cdn/feature-case/ce3be79f-0dc6-4668-8e75-63de9a2ec916/cover.jpg)
+
 **16:9 · 720p · 20s · Seedance 2.0**
 
 [Original post](https://x.com/Just_sharon7/status/2087744765341159503) · 2026-08-13 11:35 (UTC+08:00)
@@ -376,6 +384,8 @@ Important motion requirements: The idols must dance first before putting their h
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/fe906f80-2366-4c30-b0f8-406469152de7/generate.mp4)**
 
+![An Injured Female Dancer Rests Alone in a Dance Studio Corner](https://cdn.lipsync.video/lipsync/cdn/feature-case/fe906f80-2366-4c30-b0f8-406469152de7/cover.jpg)
+
 **16:9 · 1080p · 30s · Seedance 2.0**
 
 [Original post](https://x.com/Lianaalane/status/2109876446089134244) · 2026-10-13 13:18 (UTC+08:00)
@@ -394,6 +404,8 @@ Create a 30-second, ultra-realistic cinematic video featuring a beautiful young 
 ## 6. iPhone-shot Street Dance Music Video
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/5f973619-b220-4ce9-9e68-0b5fd52810a8/generate.mp4)**
+
+![iPhone-shot Street Dance Music Video](https://cdn.lipsync.video/lipsync/cdn/feature-case/5f973619-b220-4ce9-9e68-0b5fd52810a8/cover.jpg)
 
 **16:9 · 480p · 15s · Seedance 2.0**
 
@@ -476,6 +488,8 @@ The main dan
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/ce705521-e18b-4641-aa0e-3af5fbf9c286/generate.mp4)**
 
+![Music Video Choreography and Identity Setup](https://cdn.lipsync.video/lipsync/cdn/feature-case/ce705521-e18b-4641-aa0e-3af5fbf9c286/cover.jpg)
+
 **16:9 · 720p · 15s · Seedance 2.0**
 
 [Original post](https://x.com/aimikoda/status/2079968108303818827) · 2026-07-23 00:33 (UTC+08:00)
@@ -521,6 +535,8 @@ P12: Front 3/4 WS, pull: exactly the same four turn clockwise and dance screen r
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/08a20da1-2756-453c-98b1-a4146e9f4f2a/generate.mp4)**
 
+![Dynamic Image-to-Video Music Visualizer](https://cdn.lipsync.video/lipsync/cdn/feature-case/08a20da1-2756-453c-98b1-a4146e9f4f2a/cover.jpg)
+
 **16:9 · 720p · 15s · Seedance 2.0**
 
 [Original post](https://x.com/EchoraContinuum/status/2079917613149503813) · 2026-07-22 21:12 (UTC+08:00)
@@ -539,6 +555,8 @@ generate an interesting music video using this image as first frame,be professio
 ## 9. Modern Dance Studio Music Video
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/733bb20a-2557-440b-83cb-dfc105c3912b/generate.mp4)**
+
+![Modern Dance Studio Music Video](https://cdn.lipsync.video/lipsync/cdn/feature-case/733bb20a-2557-440b-83cb-dfc105c3912b/cover.jpg)
 
 **16:9 · 720p · 15s · Seedance 2.0**
 
@@ -577,6 +595,8 @@ generate an interesting music video using this image as first frame,be professio
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/0d10f40e-5b3e-4a32-b147-aee00e51a05c/generate.mp4)**
 
+![Cinematic K-Pop Performance on a Futuristic Dark Stage](https://cdn.lipsync.video/lipsync/cdn/feature-case/0d10f40e-5b3e-4a32-b147-aee00e51a05c/cover.jpg)
+
 **9:16 · 4K · 14s · Seedance**
 
 [Original post](https://x.com/CaliraVal/status/2095734903883342292) · 2026-09-04 12:45 (UTC+08:00)
@@ -599,6 +619,8 @@ Smooth cinematic camera movement, realistic human motion, detailed skin and fabr
 ## 11. Front-Row Girl Captures a Feverish Stadium Concert
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/a06b5229-dfdd-4626-a4bf-f964a599b16c/generate.mp4)**
+
+![Front-Row Girl Captures a Feverish Stadium Concert](https://cdn.lipsync.video/lipsync/cdn/feature-case/a06b5229-dfdd-4626-a4bf-f964a599b16c/cover.jpg)
 
 **9:16 · 720p · 30s · Seedance**
 
@@ -847,6 +869,8 @@ NO AI-SLOP.
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/69fa7c18-6917-4baf-a19d-287c442c4536/generate.mp4)**
 
+![Dance Performance in a Korean Schoolyard](https://cdn.lipsync.video/lipsync/cdn/feature-case/69fa7c18-6917-4baf-a19d-287c442c4536/cover.jpg)
+
 **16:9 · 480p · 30s · Seedance**
 
 [Original post](https://x.com/sipteaandcoffee/status/2100615995127959764) · 2026-09-18 00:00 (UTC+08:00)
@@ -871,6 +895,8 @@ ENVIRONMENT / DAYLIGHT CORE: Typical details baked in: multi-story school buildi
 ## 13. A Young Woman’s Musical Journey Through Japan
 
 ▶ **[Watch video](https://cdn.lipsync.video/lipsync/cdn/feature-case/d9de9150-1a94-4c78-9a73-79f5a1e4153b/generate.mp4)**
+
+![A Young Woman’s Musical Journey Through Japan](https://cdn.lipsync.video/lipsync/cdn/feature-case/d9de9150-1a94-4c78-9a73-79f5a1e4153b/cover.jpg)
 
 **16:9 · 720p · 30s · Seedance**
 
